@@ -4,13 +4,27 @@ import pandas as pd
 import re
 from urllib.parse import unquote
 
-# Configuração de Pastas
-PASTAS = {
-    "ATAS": "temp_atas_arp",
-    "ITENS": "temp_itens_atas_id",
-    "SALDOS": "temp_saldos_atas_id",
-    "UNIDADES": "temp_unidades_atas_id"
-}
+# --- CONFIGURAÇÃO DINÂMICA (REGEX) ---
+
+
+def localizar_pastas():
+    diretorio = os.getcwd()
+    pastas = {"ATAS": "", "ITENS": "", "SALDOS": "", "UNIDADES": ""}
+    for d in os.listdir(diretorio):
+        if not os.path.isdir(d):
+            continue
+        if "atas_arp" in d:
+            pastas["ATAS"] = d
+        elif "itens_atas_id" in d:
+            pastas["ITENS"] = d
+        elif "saldos_atas_id" in d:
+            pastas["SALDOS"] = d
+        elif "unidades_atas_id" in d:
+            pastas["UNIDADES"] = d
+    return pastas
+
+
+PASTAS = localizar_pastas()
 
 
 def limpar(t):
@@ -29,28 +43,31 @@ def extrair_da_url(url):
     return None
 
 
+def salvar_bases(df, nome_base):
+    if df.empty:
+        return
+    # CSV para conferência (Padrão antigo preservado)
+    df.to_csv(f"{nome_base}.csv", index=False, sep=';', encoding='utf-8-sig')
+    # Parquet para Power BI
+    df_parquet = df.copy()
+    for col in df_parquet.columns:
+        if df_parquet[col].dtype == 'object':
+            df_parquet[col] = df_parquet[col].astype(str)
+    df_parquet.to_parquet(f"{nome_base}.parquet",
+                          index=False, engine='pyarrow')
+    print(f"   ✅ Base Restaurada: {nome_base}")
+
+
 def build():
-    print("🚀 Iniciando Consolidação Robusta (Unificação Total)...")
+    print("🚀 Iniciando Consolidação Robusta (Restaurando Colunas)...")
 
-    erros_detectados = 0
-    total_arquivos = 0
-
-    # --- 0. NOVO: BASE DE ATAS (CABEÇALHO) ---
+    # --- 1. BASE DE ATAS ---
     atas_header = []
-    if os.path.exists(PASTAS["ATAS"]):
-        arquivos_atas = [f for f in os.listdir(
-            PASTAS["ATAS"]) if f.endswith(".json")]
-        total_arquivos += len(arquivos_atas)
-        for arq in arquivos_atas:
+    if PASTAS["ATAS"] and os.path.exists(PASTAS["ATAS"]):
+        for arq in [f for f in os.listdir(PASTAS["ATAS"]) if f.endswith(".json")]:
             with open(os.path.join(PASTAS["ATAS"], arq), 'r', encoding='utf-8') as f:
-                envelope = json.load(f)
-                if envelope.get("metadata", {}).get("status") != "SUCESSO":
-                    erros_detectados += 1
-
-                res = envelope.get("respostas", {})
-                dados = res.get("resultado", []) if isinstance(
-                    res, dict) else []
-                for a in dados:
+                res = json.load(f).get("respostas", {})
+                for a in res.get("resultado", []) if isinstance(res, dict) else []:
                     atas_header.append({
                         "id_compra": a.get("idCompra"),
                         "numero_ata": a.get("numeroAtaRegistroPreco"),
@@ -65,27 +82,15 @@ def build():
                         "link_pncp": a.get("linkAtaPNCP"),
                         "numero_controle_pncp": a.get("numeroControlePncpAta")
                     })
+    salvar_bases(pd.DataFrame(atas_header).drop_duplicates(), "banco_atas")
 
-    if atas_header:
-        pd.DataFrame(atas_header).drop_duplicates().to_csv(
-            "banco_atas.csv", index=False, sep=';', encoding='utf-8-sig')
-
-    # 1. BASE DE ITENS
+    # --- 2. BASE DE ITENS ---
     itens = []
-    if os.path.exists(PASTAS["ITENS"]):
-        arquivos = [f for f in os.listdir(
-            PASTAS["ITENS"]) if f.endswith(".json")]
-        total_arquivos += len(arquivos)
-        for arq in arquivos:
+    if PASTAS["ITENS"] and os.path.exists(PASTAS["ITENS"]):
+        for arq in [f for f in os.listdir(PASTAS["ITENS"]) if f.endswith(".json")]:
             with open(os.path.join(PASTAS["ITENS"], arq), 'r', encoding='utf-8') as f:
-                envelope = json.load(f)
-                if envelope.get("metadata", {}).get("status") != "SUCESSO":
-                    erros_detectados += 1
-
-                res = envelope.get("respostas", {})
-                dados = res.get("resultado", []) if isinstance(
-                    res, dict) else []
-                for i in dados:
+                res = json.load(f).get("respostas", {})
+                for i in res.get("resultado", []) if isinstance(res, dict) else []:
                     itens.append({
                         "id_licitacao_pncp": i.get("numeroControlePncpCompra"),
                         "id_ata_pncp": i.get("numeroControlePncpAta"),
@@ -99,25 +104,15 @@ def build():
                         "qtd_homologada": i.get("quantidadeHomologadaItem"),
                         "valor_total_item": i.get("valorTotal")
                     })
-    pd.DataFrame(itens).drop_duplicates().to_csv(
-        "banco_atas_itens.csv", index=False, sep=';', encoding='utf-8-sig')
+    salvar_bases(pd.DataFrame(itens).drop_duplicates(), "banco_atas_itens")
 
-    # 2. BASE DE UNIDADES (Participação + Saldos)
+    # --- 3. BASE DE UNIDADES (CONSOLIDAÇÃO SALDO + PARTICIPAÇÃO) ---
     reservas = []
-    if os.path.exists(PASTAS["UNIDADES"]):
-        arquivos = [f for f in os.listdir(
-            PASTAS["UNIDADES"]) if f.endswith(".json")]
-        total_arquivos += len(arquivos)
-        for arq in arquivos:
+    if PASTAS["UNIDADES"] and os.path.exists(PASTAS["UNIDADES"]):
+        for arq in [f for f in os.listdir(PASTAS["UNIDADES"]) if f.endswith(".json")]:
             with open(os.path.join(PASTAS["UNIDADES"], arq), 'r', encoding='utf-8') as f:
-                envelope = json.load(f)
-                if envelope.get("metadata", {}).get("status") != "SUCESSO":
-                    erros_detectados += 1
-
-                res = envelope.get("respostas", {})
-                dados = res.get("resultado", []) if isinstance(
-                    res, dict) else []
-                for u in dados:
+                res = json.load(f).get("respostas", {})
+                for u in res.get("resultado", []) if isinstance(res, dict) else []:
                     reservas.append({
                         "numero_ata": u.get("numeroAta"),
                         "numero_item": u.get("numeroItem"),
@@ -130,34 +125,20 @@ def build():
     df_res = pd.DataFrame(reservas).drop_duplicates()
 
     empenhos = []
-    if os.path.exists(PASTAS["SALDOS"]):
-        arquivos = [f for f in os.listdir(
-            PASTAS["SALDOS"]) if f.endswith(".json")]
-        total_arquivos += len(arquivos)
-        for arq in arquivos:
+    if PASTAS["SALDOS"] and os.path.exists(PASTAS["SALDOS"]):
+        for arq in [f for f in os.listdir(PASTAS["SALDOS"]) if f.endswith(".json")]:
             with open(os.path.join(PASTAS["SALDOS"], arq), 'r', encoding='utf-8') as f:
-                envelope = json.load(f)
-                if envelope.get("metadata", {}).get("status") != "SUCESSO":
-                    erros_detectados += 1
-
-                data = envelope
+                env = json.load(f)
                 num_ata_url = extrair_da_url(
-                    data.get("metadata", {}).get("url_consultada", ""))
-                res = data.get("respostas", {})
-                dados = res.get("resultado", []) if isinstance(
-                    res, dict) else []
-                for s in dados:
-                    uni_bruta = s.get("unidade", "")
-                    partes = uni_bruta.split(" - ", 1)
-                    cod_uni = partes[0].strip() if len(
-                        partes) > 0 else uni_bruta
-                    nome_uni = partes[1].strip() if len(partes) > 1 else ""
-
+                    env.get("metadata", {}).get("url_consultada", ""))
+                res = env.get("respostas", {})
+                for s in res.get("resultado", []) if isinstance(res, dict) else []:
+                    partes = s.get("unidade", "").split(" - ", 1)
                     empenhos.append({
                         "numero_ata": num_ata_url,
                         "numero_item": s.get("numeroItem"),
-                        "codigo_unidade": str(cod_uni).strip(),
-                        "nome_unidade_alt": nome_uni,
+                        "codigo_unidade": str(partes[0]).strip(),
+                        "nome_unidade_alt": partes[1].strip() if len(partes) > 1 else "",
                         "tipo_alt": s.get("tipo"),
                         "qtd_reservada_alt": s.get("quantidadeRegistrada"),
                         "qtd_empenhada": s.get("quantidadeEmpenhada"),
@@ -166,35 +147,26 @@ def build():
                     })
     df_emp = pd.DataFrame(empenhos).drop_duplicates()
 
-    # --- FUSÃO INTELIGENTE ---
     if not df_res.empty or not df_emp.empty:
+        # Merge Full para não perder ninguém (quem tem saldo mas não está na lista de participantes e vice-versa)
         df_merge = pd.merge(df_res, df_emp, on=[
                             "numero_ata", "numero_item", "codigo_unidade"], how="outer")
 
-        # Preenchimento automático (Coalesce)
+        # Coalesce: Preenche os dados mestre usando a melhor fonte disponível
         df_merge["nome_unidade"] = df_merge["nome_unidade"].fillna(
-            df_merge["nome_unidade_alt"])
+            df_merge.get("nome_unidade_alt", ""))
         df_merge["tipo_participacao"] = df_merge["tipo_participacao"].fillna(
-            df_merge["tipo_alt"])
+            df_merge.get("tipo_alt", "NÃO INFORMADO"))
         df_merge["qtd_reservada"] = df_merge["qtd_reservada"].fillna(
-            df_merge["qtd_reservada_alt"])
+            df_merge.get("qtd_reservada_alt", 0))
 
-        cols_drop = ["nome_unidade_alt", "tipo_alt", "qtd_reservada_alt"]
-        df_merge = df_merge.drop(
-            columns=[c for c in cols_drop if c in df_merge.columns])
+        # Limpa colunas de auxílio e ordena para bater com seu padrão
+        cols_final = ["numero_ata", "numero_item", "codigo_unidade", "nome_unidade", "tipo_participacao",
+                      "qtd_reservada", "saldo_remanejamento", "qtd_empenhada", "saldo_empenho", "data_atualizacao_saldo"]
+        df_final = df_merge[[c for c in cols_final if c in df_merge.columns]]
+        salvar_bases(df_final, "banco_atas_unidades_consolidado")
 
-        df_merge.to_csv("banco_atas_unidades_consolidado.csv",
-                        index=False, sep=';', encoding='utf-8-sig')
-
-    print("-" * 50)
-    print(f"📊 RESUMO DA CONSOLIDAÇÃO:")
-    print(f"   - Total de arquivos processados: {total_arquivos}")
-    print(f"   - Erros/Falhas de API encontrados: {erros_detectados}")
-    print(f"   - Atas registradas: {len(atas_header)}")
-    print(
-        f"   - Linhas no consolidado de unidades: {len(df_merge) if 'df_merge' in locals() else 0}")
-    print(f"✅ Processo concluído.")
-    print("-" * 50)
+    print(f"\n✨ Bases sincronizadas com o padrão original. Tudo pronto para o GitHub!")
 
 
 if __name__ == "__main__":

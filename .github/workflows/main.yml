@@ -1,0 +1,38 @@
+name: Atualizacao Diaria IFMS
+on:
+  schedule:
+    - cron: '0 3 * * *' # Roda às 03:00 da manhã (horário UTC)
+  workflow_dispatch:   # Botão para rodar manualmente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do codigo
+        uses: actions/checkout@v3
+
+      - name: Configurar Python 3.11
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Instalar Dependencias
+        run: pip install requests pandas pyarrow fastparquet
+
+      - name: 🚀 Executar Esteira de Dados
+        run: |
+          python extrator_atas.py
+          python extrator_atas_itens.py
+          python extrator_compras.py
+          python extrator_compras_itens.py
+          python gerar_bancos.py
+          python gerar_banco_compras.py
+          python gerar_banco_itens.py
+
+      - name: 💾 Salvar Bases e Cache no GitHub
+        run: |
+          git config --global user.name 'Michell-Bot'
+          git config --global user.email 'michell@ifms.edu.br'
+          git add *.parquet *.csv temp_*/
+          git commit -m "Auto-update: $(date +'%Y-%m-%d %H:%M')" || exit 0
+          git push
