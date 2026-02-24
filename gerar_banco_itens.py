@@ -106,8 +106,8 @@ def consolidar_itens():
             "marca": limpar_texto(e6.get("noMarcaMaterial") or e4.get("noMarcaMaterial") or ""),
             "valor_estimado": pncp.get("valorUnitarioEstimado") or e4.get("valorEstimadoItem") or e6.get("vrEstimadoItem") or e2.get("valorEstimado") or 0,
             "valor_homologado": pncp.get("valorUnitarioResultado") or e4.get("valorHomologadoItem") or 0,
-            "fornecedor_nome": limpar_texto(pncp.get("nomeFornecedor") or e6.get("noFornecedorVencedor") or e4.get("fornecedorVencedor") or e2.get("nomeVencedorPf") or e2.get("nomeFornecedor") or ""),
             "fornecedor_cnpj": pncp.get("codFornecedor") or e6.get("nuCnpjVencedor") or e2.get("cnpjFornecedor") or "",
+            "fornecedor_nome": limpar_texto(pncp.get("nomeFornecedor") or e6.get("noFornecedorVencedor") or e4.get("fornecedorVencedor") or e2.get("nomeVencedorPf") or e2.get("nomeFornecedor") or ""),
             "origem_fusao": ",".join(fontes.keys())
         }
         lista_final.append(reg)

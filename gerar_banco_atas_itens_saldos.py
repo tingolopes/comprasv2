@@ -91,12 +91,12 @@ def build():
                         "numero_ata": i.get("numeroAtaRegistroPreco"),
                         "numero_item": i.get("numeroItem"),
                         "material_cod": i.get("codigoItem"),
-                        "material_nome": limpar(i.get("descricaoItem")),
                         "fornecedor_cnpj": i.get("niFornecedor"),
                         "fornecedor_nome": limpar(i.get("nomeRazaoSocialFornecedor")),
                         "valor_unitario": i.get("valorUnitario"),
                         "qtd_homologada": i.get("quantidadeHomologadaItem"),
-                        "valor_total_item": i.get("valorTotal")
+                        "valor_total_item": i.get("valorTotal"),
+                        "material_nome": limpar(i.get("descricaoItem"))
                     })
     salvar_bases(pd.DataFrame(itens).drop_duplicates(), "banco_atas_itens")
 
