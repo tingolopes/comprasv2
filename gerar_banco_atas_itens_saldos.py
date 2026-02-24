@@ -48,13 +48,7 @@ def salvar_bases(df, nome_base):
         return
     # CSV para conferência (Padrão antigo preservado)
     df.to_csv(f"{nome_base}.csv", index=False, sep=';', encoding='utf-8-sig')
-    # Parquet para Power BI
-    df_parquet = df.copy()
-    for col in df_parquet.columns:
-        if df_parquet[col].dtype == 'object':
-            df_parquet[col] = df_parquet[col].astype(str)
-    df_parquet.to_parquet(f"{nome_base}.parquet",
-                          index=False, engine='pyarrow')
+
     print(f"   ✅ Base Restaurada: {nome_base}")
 
 

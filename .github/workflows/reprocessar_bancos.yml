@@ -15,9 +15,9 @@ jobs:
           python-version: '3.11'
 
       - name: Instalar Dependencias
-        run: pip install pandas pyarrow fastparquet
+        run: pip install pandas pyarrow
 
-      - name: 🛠️ Gerar Bancos Parquet
+      - name: 🛠️ Gerar Bancos CSV
         run: |
           # Rodamos apenas os scripts de consolidação
           python gerar_banco_atas_itens_saldos.py
@@ -28,6 +28,6 @@ jobs:
         run: |
           git config --global user.name 'Michell-Bot'
           git config --global user.email 'tingolopes@gmail.com'
-          git add *.parquet *.csv
+          git add *.csv
           git commit -m "Reprocessamento manual: $(date +'%Y-%m-%d %H:%M')" || exit 0
           git push

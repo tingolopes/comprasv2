@@ -6,7 +6,6 @@ from collections import defaultdict
 
 # --- CONFIGURAÇÃO ---
 PASTAS_ITENS = ["temp_itens_legado_id", "temp_itens_14133_id"]
-ARQUIVO_SAIDA_ITENS_PARQUET = "banco_compras_itens.parquet"
 ARQUIVO_SAIDA_ITENS_CSV = "banco_compras_itens.csv"
 
 
@@ -124,8 +123,6 @@ def consolidar_itens():
     if 'co_uasg' in df.columns:
         df['co_uasg'] = df['co_uasg'].astype(str)
 
-    df.to_parquet(ARQUIVO_SAIDA_ITENS_PARQUET, index=False,
-                  encoding='utf-8-sig', sep=';')
     df.to_csv(ARQUIVO_SAIDA_ITENS_CSV, index=False,
               encoding='utf-8-sig', sep=';')
     print(f"✅ Sucesso! {len(df)} compras unificadas.")

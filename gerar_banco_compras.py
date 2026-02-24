@@ -6,7 +6,6 @@ import re
 # --- CONFIGURAÇÃO ---
 PASTAS_COMPRAS = ["temp_compras_legado", "temp_compras_14133"]
 PASTAS_ITENS = ["temp_itens_legado_id", "temp_itens_14133_id"]
-ARQUIVO_SAIDA_PARQUET = "banco_compras.parquet"
 ARQUIVO_SAIDA_CSV = "banco_compras.csv"
 
 # Mapa de códigos para resgate quando o texto falhar
@@ -160,8 +159,6 @@ def unificar():
     if 'co_uasg' in df.columns:
         df['co_uasg'] = df['co_uasg'].astype(str)
 
-    df.to_parquet(ARQUIVO_SAIDA_PARQUET, index=False,
-                  encoding='utf-8-sig', sep=';')
     print(f"✅ Sucesso! {len(df)} compras unificadas.")
 
 
