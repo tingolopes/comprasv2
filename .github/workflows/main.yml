@@ -21,18 +21,18 @@ jobs:
 
       - name: 🚀 Executar Esteira de Dados
         run: |
-          python extrator_atas.py
-          python extrator_atas_itens.py
-          python extrator_compras.py
-          python extrator_compras_itens.py
-          python gerar_bancos.py
-          python gerar_banco_compras.py
-          python gerar_banco_itens.py
+          python extrator_atas.py || true
+          python extrator_atas_itens.py || true
+          python extrator_compras.py || true
+          python extrator_compras_itens.py || true
+          python gerar_bancos.py || true
+          python gerar_banco_compras.py || true
+          python gerar_banco_itens.py || true
 
       - name: 💾 Salvar Bases e Cache no GitHub
         run: |
           git config --global user.name 'Michell-Bot'
-          git config --global user.email 'michell@ifms.edu.br'
+          git config --global user.email 'tingolopes@gmail.com'
           git add *.parquet *.csv temp_*/
           git commit -m "Auto-update: $(date +'%Y-%m-%d %H:%M')" || exit 0
           git push
