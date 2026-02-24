@@ -6,7 +6,8 @@ import re
 # --- CONFIGURAÇÃO ---
 PASTAS_COMPRAS = ["temp_compras_legado", "temp_compras_14133"]
 PASTAS_ITENS = ["temp_itens_legado_id", "temp_itens_14133_id"]
-ARQUIVO_SAIDA = "banco_compras.parquet"
+ARQUIVO_SAIDA_PARQUET = "banco_compras.parquet"
+ARQUIVO_SAIDA_CSV = "banco_compras.csv"
 
 # Mapa de códigos para resgate quando o texto falhar
 MAPA_CODIGOS = {
@@ -151,7 +152,9 @@ def unificar():
         lista_final.append(registro)
 
     df = pd.DataFrame(lista_final)
-    df.to_parquet(ARQUIVO_SAIDA, index=False, encoding='utf-8-sig', sep=';')
+    df.to_csv(ARQUIVO_SAIDA_CSV, index=False, encoding='utf-8-sig', sep=';')
+    df.to_parquet(ARQUIVO_SAIDA_PARQUET, index=False,
+                  encoding='utf-8-sig', sep=';')
     print(f"✅ Sucesso! {len(df)} compras unificadas.")
 
 

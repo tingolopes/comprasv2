@@ -6,7 +6,8 @@ from collections import defaultdict
 
 # --- CONFIGURAÇÃO ---
 PASTAS_ITENS = ["temp_itens_legado_id", "temp_itens_14133_id"]
-ARQUIVO_SAIDA_ITENS = "banco_compras_itens.parquet"
+ARQUIVO_SAIDA_ITENS_PARQUET = "banco_compras_itens.parquet"
+ARQUIVO_SAIDA_ITENS_CSV = "banco_compras_itens.csv"
 
 
 def limpar_texto(texto):
@@ -117,9 +118,11 @@ def consolidar_itens():
     for col in ["quantidade", "valor_estimado", "valor_homologado"]:
         df[col] = pd.to_numeric(df[col], errors='coerce').fillna(0)
 
-    df.to_parquet(ARQUIVO_SAIDA_ITENS, index=False,
+    df.to_parquet(ARQUIVO_SAIDA_ITENS_PARQUET, index=False,
                   encoding='utf-8-sig', sep=';')
-    print(f"✅ Sucesso! {len(df)} itens unificados em '{ARQUIVO_SAIDA_ITENS}'.")
+    df.to_csv(ARQUIVO_SAIDA_ITENS_CSV, index=False,
+              encoding='utf-8-sig', sep=';')
+    print(f"✅ Sucesso! {len(df)} compras unificadas.")
 
 
 if __name__ == "__main__":
