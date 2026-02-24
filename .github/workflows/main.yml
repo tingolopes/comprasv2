@@ -25,7 +25,7 @@ jobs:
           python extrator_atas_itens.py || true
           python extrator_compras.py || true
           python extrator_compras_itens.py || true
-          python gerar_bancos.py || true
+          python gerar_banco_atas_itens_saldos.py || true
           python gerar_banco_compras.py || true
           python gerar_banco_itens.py || true
 

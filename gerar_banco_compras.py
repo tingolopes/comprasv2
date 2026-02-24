@@ -153,6 +153,13 @@ def unificar():
 
     df = pd.DataFrame(lista_final)
     df.to_csv(ARQUIVO_SAIDA_CSV, index=False, encoding='utf-8-sig', sep=';')
+
+    # Força UASG a ser string para não dar erro no PyArrow
+    if 'uasg' in df.columns:
+        df['uasg'] = df['uasg'].astype(str)
+    if 'co_uasg' in df.columns:
+        df['co_uasg'] = df['co_uasg'].astype(str)
+
     df.to_parquet(ARQUIVO_SAIDA_PARQUET, index=False,
                   encoding='utf-8-sig', sep=';')
     print(f"✅ Sucesso! {len(df)} compras unificadas.")

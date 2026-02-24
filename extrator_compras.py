@@ -5,8 +5,9 @@ import json
 import sys
 from datetime import datetime
 from urllib.parse import urlencode
+from concurrent.futures import ThreadPoolExecutor  # Para o Nível Superior
 
-# --- CONFIGURAÇÕES ---
+# --- CONFIGURAÇÕES MANTIDAS ---
 UASGS = [
     {"sigla": "RT", "codigo": "158132"}, {"sigla": "AQ", "codigo": "158448"},
     {"sigla": "CG", "codigo": "158449"}, {"sigla": "CB", "codigo": "158450"},
@@ -40,6 +41,8 @@ CONFIG_APIS = {
         "path": "/modulo-contratacoes/1_consultarContratacoes_PNCP_14133"
     }
 }
+
+# --- FUNÇÕES DE APOIO MANTIDAS ---
 
 
 def verificar_sucesso_anterior(caminho):
@@ -83,147 +86,151 @@ def salvar_dados(caminho, url_base, params, conteudo, status="SUCESSO"):
     with open(caminho, 'w', encoding='utf-8') as f:
         json.dump(envelope, f, ensure_ascii=False, indent=4)
 
+# --- MELHORIA: CONSULTA ROBUSTA COM BACKOFF EXPONENCIAL ---
+
 
 def consultar_api_robusto(url, params):
+    atraso = 4  # Começa com 4 segundos
     for tentativa in range(1, 4):
         try:
-            response = requests.get(url, params=params, timeout=60)
+            response = requests.get(url, params=params, timeout=30)
             if response.status_code == 200:
-                return response.json(), "SUCESSO"
+                dados = response.json()
+                if isinstance(dados, dict) and "resultado" in dados:
+                    return dados, "SUCESSO"
         except:
             pass
-        time.sleep(2)
+        time.sleep(atraso)
+        atraso *= 2  # Backoff: 4s -> 12s
     return None, "FALHA"
+
+# --- PROCESSADORES PARA THREADS ---
+
+
+def processar_tarefa_legado(unidade, ano, enc, cfg):
+    pagina = 1
+    while True:
+        arquivo = f"{cfg['pasta']}/{enc['label']}_{unidade['sigla']}_{ano}_p{pagina}.json"
+        ja_existe, dados_cache = verificar_sucesso_anterior(arquivo)
+        tstamp = datetime.now().strftime('%H:%M:%S')
+
+        if ja_existe:
+            respostas = dados_cache.get("respostas", {})
+            if not respostas.get("resultado", []):
+                break
+            print(
+                f"[{tstamp}] ⏭️ SKIP | {unidade['sigla']} | {enc['label'].upper():<15} | {ano}")
+            if respostas.get('paginasRestantes', 0) > 0:
+                pagina += 1
+                continue
+            else:
+                break
+
+        params = {"pagina": pagina, "tamanhoPagina": 500,
+                  enc['p_uasg']: unidade['codigo']}
+        if enc['label'] == "dispensa":
+            params["dt_ano_aviso"] = ano
+        else:
+            params[f"{enc['p_data']}_inicial"] = f"{ano}-01-01"
+            params[f"{enc['p_data']}_final"] = f"{ano}-12-31"
+
+        dados, status = consultar_api_robusto(
+            f"{cfg['base_url']}{enc['path']}", params)
+        salvar_dados(
+            arquivo, f"{cfg['base_url']}{enc['path']}", params, dados, status)
+
+        if status == "SUCESSO":
+            print(
+                f"[{tstamp}] ✅ DONE | {unidade['sigla']} | {enc['label'].upper():<15} | {ano}")
+            if dados.get('paginasRestantes', 0) > 0:
+                pagina += 1
+                continue
+            else:
+                break
+        else:
+            print(
+                f"[{tstamp}] ❌ FAIL | {unidade['sigla']} | {enc['label'].upper():<15} | {ano}")
+            return False
+    return True
+
+
+def processar_tarefa_14133(unidade, ano, cod_mod, nome_mod, cfg):
+    pagina = 1
+    while True:
+        arquivo = f"{cfg['pasta']}/pncp_{unidade['sigla']}_{nome_mod}_{ano}_p{pagina}.json"
+        ja_existe, dados_cache = verificar_sucesso_anterior(arquivo)
+        tstamp = datetime.now().strftime('%H:%M:%S')
+
+        if ja_existe:
+            respostas = dados_cache.get("respostas", {})
+            if not respostas.get("resultado", []) or not deve_reverificar_pncp(dados_cache):
+                print(
+                    f"[{tstamp}] ⏭️ SKIP | {unidade['sigla']} | PNCP-{nome_mod.upper():<10} | {ano}")
+                if respostas.get('paginasRestantes', 0) > 0 and respostas.get("resultado", []):
+                    pagina += 1
+                    continue
+                else:
+                    break
+
+        params = {"pagina": pagina, "tamanhoPagina": 500, "unidadeOrgaoCodigoUnidade": unidade['codigo'],
+                  "dataPublicacaoPncpInicial": f"{ano}-01-01", "dataPublicacaoPncpFinal": f"{ano}-12-31", "codigoModalidade": cod_mod}
+
+        dados, status = consultar_api_robusto(
+            f"{cfg['base_url']}{cfg['path']}", params)
+        salvar_dados(
+            arquivo, f"{cfg['base_url']}{cfg['path']}", params, dados, status)
+
+        if status == "SUCESSO":
+            print(
+                f"[{tstamp}] ✅ DONE | {unidade['sigla']} | PNCP-{nome_mod.upper():<10} | {ano}")
+            if dados.get('paginasRestantes', 0) > 0:
+                pagina += 1
+                continue
+            else:
+                break
+        else:
+            print(
+                f"[{tstamp}] ❌ FAIL | {unidade['sigla']} | PNCP-{nome_mod.upper():<10} | {ano}")
+            return False
+    return True
+
+# --- MOTOR PRINCIPAL ---
 
 
 def executar_extracao_completa():
-    total_tarefas = (len(CONFIG_APIS["LEGADO"]["uasgs"]) * len(CONFIG_APIS["LEGADO"]["anos"]) * 3) + \
-                    (len(CONFIG_APIS["LEI14133"]["uasgs"]) *
-                     len(CONFIG_APIS["LEI14133"]["anos"]) * 4)
-    concluidas = 0
-    falhas_no_ciclo = 0
-    print(f"🚀 INICIANDO EXTRAÇÃO DE COMPRAS | TAREFAS: {total_tarefas}\n")
+    print(f"🚀 INICIANDO EXTRAÇÃO DE COMPRAS (MULTI-THREADING)... \n")
+    falhas_totais = 0
 
-    # --- MOTOR 1: LEGADO ---
-    cfg = CONFIG_APIS["LEGADO"]
-    os.makedirs(cfg["pasta"], exist_ok=True)
-    for unidade in cfg["uasgs"]:
-        for ano in cfg["anos"]:
-            for enc in cfg["endpoints"]:
-                concluidas += 1
-                pagina = 1
-                while True:
-                    arquivo = f"{cfg['pasta']}/{enc['label']}_{unidade['sigla']}_{ano}_p{pagina}.json"
-                    ja_existe, dados_cache = verificar_sucesso_anterior(
-                        arquivo)
-                    tstamp = datetime.now().strftime('%H:%M:%S')
-                    percent = (concluidas / total_tarefas) * 100
+    # MOTOR 1: LEGADO
+    cfg_l = CONFIG_APIS["LEGADO"]
+    os.makedirs(cfg_l["pasta"], exist_ok=True)
+    # 3 UASGs por vez para evitar bloqueio
+    with ThreadPoolExecutor(max_workers=3) as executor:
+        futuros = []
+        for unidade in cfg_l["uasgs"]:
+            for ano in cfg_l["anos"]:
+                for enc in cfg_l["endpoints"]:
+                    futuros.append(executor.submit(
+                        processar_tarefa_legado, unidade, ano, enc, cfg_l))
+        for f in futuros:
+            if not f.result():
+                falhas_totais += 1
 
-                    if ja_existe:
-                        respostas = dados_cache.get("respostas", {})
-                        res_list = respostas.get("resultado", [])
-                        # Se o cache está vazio, paramos a paginação aqui
-                        if not res_list:
-                            break
-                        print(
-                            f"[{tstamp}] ⏭️ SKIP | {unidade['sigla']} | {enc['label'].upper():<15} | {ano} | {concluidas}/{total_tarefas} ({percent:.1f}%)")
-                        if respostas.get('paginasRestantes', 0) > 0:
-                            pagina += 1
-                            continue
-                        else:
-                            break
+    # MOTOR 2: LEI 14133
+    cfg_n = CONFIG_APIS["LEI14133"]
+    os.makedirs(cfg_n["pasta"], exist_ok=True)
+    with ThreadPoolExecutor(max_workers=2) as executor:
+        futuros = []
+        for unidade in cfg_n["uasgs"]:
+            for ano in cfg_n["anos"]:
+                for cod_mod, nome_mod in cfg_n["modalidades"].items():
+                    futuros.append(executor.submit(
+                        processar_tarefa_14133, unidade, ano, cod_mod, nome_mod, cfg_n))
+        for f in futuros:
+            if not f.result():
+                falhas_totais += 1
 
-                    params = {"pagina": pagina, "tamanhoPagina": 500,
-                              enc['p_uasg']: unidade['codigo']}
-                    if enc['label'] == "dispensa":
-                        params["dt_ano_aviso"] = ano
-                    else:
-                        params[f"{enc['p_data']}_inicial"] = f"{ano}-01-01"
-                        params[f"{enc['p_data']}_final"] = f"{ano}-12-31"
-
-                    dados, status = consultar_api_robusto(
-                        f"{cfg['base_url']}{enc['path']}", params)
-
-                    # TRAVA DE SEGURANÇA: Se resultado for vazio, para tudo
-                    resultados = dados.get("resultado", []) if dados else []
-                    if status == "SUCESSO" and not resultados:
-                        salvar_dados(
-                            arquivo, f"{cfg['base_url']}{enc['path']}", params, dados, "SUCESSO")
-                        print(
-                            f"[{tstamp}] ✅ DONE | {unidade['sigla']} | {enc['label'].upper():<15} | {ano} | {concluidas}/{total_tarefas} ({percent:.1f}%)")
-                        break
-
-                    salvar_dados(
-                        arquivo, f"{cfg['base_url']}{enc['path']}", params, dados, status)
-                    if status == "SUCESSO":
-                        if dados.get('paginasRestantes', 0) > 0:
-                            pagina += 1
-                            continue
-                    else:
-                        print(
-                            f"[{tstamp}] ❌ FAIL | {unidade['sigla']} | {enc['label'].upper():<15} | {ano}")
-                        falhas_no_ciclo += 1
-                    break
-
-    # --- MOTOR 2: LEI 14133 ---
-    cfg = CONFIG_APIS["LEI14133"]
-    os.makedirs(cfg["pasta"], exist_ok=True)
-    total_itens = []
-    for unidade in cfg["uasgs"]:
-        for ano in cfg["anos"]:
-            for cod_mod, nome_mod in cfg["modalidades"].items():
-                concluidas += 1
-                pagina = 1
-                while True:
-                    arquivo = f"{cfg['pasta']}/pncp_{unidade['sigla']}_{nome_mod}_{ano}_p{pagina}.json"
-                    ja_existe, dados_cache = verificar_sucesso_anterior(
-                        arquivo)
-                    tstamp = datetime.now().strftime('%H:%M:%S')
-                    percent = (concluidas / total_itens) if 'total_itens' in locals() else (
-                        concluidas / total_tarefas) * 100
-
-                    if ja_existe:
-                        respostas = dados_cache.get("respostas", {})
-                        if not respostas.get("resultado", []) or not deve_reverificar_pncp(dados_cache):
-                            print(
-                                f"[{tstamp}] ⏭️ SKIP | {unidade['sigla']} | PNCP-{nome_mod.upper():<10} | {ano} | {concluidas}/{total_tarefas} ({percent:.1f}%)")
-                            if respostas.get('paginasRestantes', 0) > 0 and respostas.get("resultado", []):
-                                pagina += 1
-                                continue
-                            else:
-                                break
-
-                    params = {"pagina": pagina, "tamanhoPagina": 500, "unidadeOrgaoCodigoUnidade": unidade['codigo'],
-                              "dataPublicacaoPncpInicial": f"{ano}-01-01", "dataPublicacaoPncpFinal": f"{ano}-12-31", "codigoModalidade": cod_mod}
-
-                    dados, status = consultar_api_robusto(
-                        f"{cfg['base_url']}{cfg['path']}", params)
-
-                    # TRAVA DE SEGURANÇA: Se resultado for vazio, para tudo
-                    resultados = dados.get("resultado", []) if dados else []
-                    if status == "SUCESSO" and not resultados:
-                        salvar_dados(
-                            arquivo, f"{cfg['base_url']}{cfg['path']}", params, dados, "SUCESSO")
-                        print(
-                            f"[{tstamp}] ✅ DONE | {unidade['sigla']} | PNCP-{nome_mod.upper():<10} | {ano} | {concluidas}/{total_tarefas} ({percent:.1f}%)")
-                        break
-
-                    salvar_dados(
-                        arquivo, f"{cfg['base_url']}{cfg['path']}", params, dados, status)
-                    if status == "SUCESSO":
-                        if dados.get('paginasRestantes', 0) > 0:
-                            pagina += 1
-                            continue
-                    else:
-                        print(
-                            f"[{tstamp}] ❌ FAIL | {unidade['sigla']} | PNCP-{nome_mod.upper():<10} | {ano}")
-                        falhas_no_ciclo += 1
-                    break
-
-    if falhas_no_ciclo > 0:
-        sys.exit(1)
-    else:
-        sys.exit(0)
+    sys.exit(1 if falhas_totais > 0 else 0)
 
 
 if __name__ == "__main__":

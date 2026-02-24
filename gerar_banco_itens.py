@@ -118,6 +118,12 @@ def consolidar_itens():
     for col in ["quantidade", "valor_estimado", "valor_homologado"]:
         df[col] = pd.to_numeric(df[col], errors='coerce').fillna(0)
 
+    # Força UASG a ser string para não dar erro no PyArrow
+    if 'uasg' in df.columns:
+        df['uasg'] = df['uasg'].astype(str)
+    if 'co_uasg' in df.columns:
+        df['co_uasg'] = df['co_uasg'].astype(str)
+
     df.to_parquet(ARQUIVO_SAIDA_ITENS_PARQUET, index=False,
                   encoding='utf-8-sig', sep=';')
     df.to_csv(ARQUIVO_SAIDA_ITENS_CSV, index=False,

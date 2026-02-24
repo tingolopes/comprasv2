@@ -1,0 +1,33 @@
+name: Reprocessar Bancos (Sem Extração)
+on:
+  workflow_dispatch: # Permite que você clique no botão "Run workflow" no site
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do código
+        uses: actions/checkout@v3
+
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Instalar Dependencias
+        run: pip install pandas pyarrow fastparquet
+
+      - name: 🛠️ Gerar Bancos Parquet
+        run: |
+          # Rodamos apenas os scripts de consolidação
+          python gerar_bancos.py
+          python gerar_banco_compras.py
+          python gerar_banco_itens.py
+
+      - name: 💾 Salvar Arquivos Gerados
+        run: |
+          git config --global user.name 'Michell-Bot'
+          git config --global user.email 'tingolopes@gmail.com'
+          git add *.parquet *.csv
+          git commit -m "Reprocessamento manual: $(date +'%Y-%m-%d %H:%M')" || exit 0
+          git push
