@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813206000292017",
+        "data_extracao": "2026-02-13 11:19:32",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000292017",
+                "idCompraItem": "1581320600029201700001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 29,
+                "dtAnoAvisoLicitacao": 2017,
+                "nuInciso": "02",
+                "nuProcesso": "01037550036201744",
+                "vrEstimado": 1262.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Aquisição de produtos e/ou serviços com valor inferior a R$ 8.000,00",
+                "nuCpfRespDeclDisp": "00374744130",
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "DELMIR DA COSTA FELIPE",
+                "noCargoRespDeclDisp": "Ordenador de Despesas em Exercício",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 150281,
+                "noConjuntoMateriais": null,
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "Câmera IP HD 1.0MP   Plug &amp;amp; Play  Compressão de Vídeo H.264   Monitorament o Dia/Noite, LEDs IR com Ativação Automática  Alerta de Detecção de Movimento por E-Mail e FTP  Protocolo ONVIF  Serviço DDNS Foscam Gratuito  Compatível co m o Software Gratuito de Gerenciamento Foscam  Compatível com o APP Foscam Gra tuito para iOS e Android  Suporta Áudio Bidirecional  Modelo FI9821P, Linha In terna, Sensor de Imagem 1/4&amp;quot; CMOS  Filtro IR-Cut, Resolução do display 12 80 x 720p (1.0 Megapixel), Iluminação mínima 0 LUX (Com IR Ligado), Lente f: 2 .8mm, F:2.4, Ângulo de Visão 70, Ângulo Pan/Tilt Horizontal: 300° e Vertical: 120°Entrada para cartão SD Card Wireless  Entrada de Microfone embutido  Saída  de áudio Alto falantes, com um conector de áudio  Compressão de áudio PCM/G.7 26, Compressão de imagem H.264, Taxa de FPS (frames per second) 30 fps (60Hz),  25 fps (50Hz), Frequência da Luz 50Hz, 60Hz  Espelhamento da imagem Vertical / Horizontal.  Padrão Wireless IEEE 802.11 b/g/n  Rede de Área Local (LAN)  11  LEDs Infravermelhos (5mm), Visibilidade noturna de até 8 metros.  Sistema Ope racional Suportado Windows, Macintosh, Android, iOS, Consumo de energia 4.2 Wa tts, Certificação CE, FCC.",
+                "qtMaterialAlt": 2,
+                "noUnidadeMedida": "unidade",
+                "vrEstimadoItem": 1262.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "dvs",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "21308808000100",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "A.F.H. COMERCIO E SERVICOS TECNICOS LTDA - ME",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

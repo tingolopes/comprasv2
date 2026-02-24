@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15844806000042019",
+        "data_extracao": "2026-02-13 09:40:09",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 44757675,
+                "numeroLicitacao": "15844806420191",
+                "uasg": 158448,
+                "nomeUasg": "INST.FED.DE ED.,CIENT.E TEC.DE MS/C.AQUIDAUAN",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 42019,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 396266,
+                "nomeMaterial": "PORTA, TIPO DE CORRER  LARGURA 2,79 M ESPESSURA 10 MM CARACTERÍSTICAS ADICIONAIS BANDEIRA FIXA/TUBO/TRILHO ALUMÍNIO  MATERIAL VIDRO TEMPERADO  COR INCOLOR  ALTURA 2,86 M",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "08968774000112",
+                "nomeFornecedor": "INACIO P.RAMOS",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 2600.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-02-17T08:19:00",
+                "idCompra": "15844806000042019",
+                "idCompraItem": "1584480600004201900001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

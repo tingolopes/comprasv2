@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000272022",
+        "data_extracao": "2026-02-13 11:27:33",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 52932320,
+                "numeroLicitacao": "158132062720221",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 272022,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 376220,
+                "nomeMaterial": "BATERIA RECARREGÁVEL, MODELO GEB77  APLICAÇÃO EQUIPAMENTO TOPOGRÁFICO ESTAÇÃO TOTAL LICA TC 805L  SISTEMA ELETROQUÍMICO NÍQUEL-CÁDMIO  CAPACIDADE NOMINAL 600 MAH TENSÃO NOMINAL 12 V",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "36804979000106",
+                "nomeFornecedor": "MARCONDES SERVICOS DE ESCRITORIO ADMINISTRATIVO E NEGOCIOS EMPRESARIAL EIRELI",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1854.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-05-14T12:18:00",
+                "idCompra": "15813206000272022",
+                "idCompraItem": "1581320600027202200001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

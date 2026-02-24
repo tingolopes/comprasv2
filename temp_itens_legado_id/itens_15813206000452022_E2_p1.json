@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000452022",
+        "data_extracao": "2026-02-13 11:27:58",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 52751029,
+                "numeroLicitacao": "158132064520221",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 452022,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 21660,
+                "nomeServico": "MONITORAMENTO DE IMAGENS DE CAMERAS E CIRCUITO FECHADO TV",
+                "cnpjFornecedor": "15233928000193",
+                "nomeFornecedor": "INVIOLAVEL CAMPO GRANDE LTDA",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "Contratação de empresa especializada em implantação da infraestrutura de video monitoramento (Circuito Fechado de Televisão-CFTV) com fornecimento de câmeras , equipamentos e demais materiais necessários e incluso todos os serviços. A solução a ser contratada deve conter, no mínimo, as seguintes característic as (rol exemplificativo):  Fornecimento e instalação de solução em CFTV c om imagens Full HD tecnologia IP; Fornecimento e instalação de 19 câmeras IP FULL HD; Fornecimento e instalação de NVD IP de no mínimo 32 canais c om HD de no mínimo 4 Tera Byte; Fornecimento e instalação de cabeamento d e rede para CFTV IP; Fornecimento e instalação de Switches POE; Forn ecimento e instalação de infraestrutura em aço; Instalação de software de monitoramento; Configuração de acesso remoto em PC e smartphone; Em issão de ART (CREA/MS);  Treinamento de uso do sistema; Assistência técnica em até 48 horas uteis depois do acionamento, por no mínimo 06 meses Garantia de troca ou reposição de peças (cujo defeito não tenha o IFMS dado causa) por mínimo 06 meses ou pelo prazo do fabricante (este último se mais f avorável ao IFMS).",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 36000.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-10T15:59:47",
+                "idCompra": "15813206000452022",
+                "idCompraItem": "1581320600045202200001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

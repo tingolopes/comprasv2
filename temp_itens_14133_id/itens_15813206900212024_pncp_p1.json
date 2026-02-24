@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-contratacoes/2.1_consultarItensContratacoes_PNCP_14133_Id?tipo=idCompra&codigo=15813206900212024&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-13 10:50:24",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206900212024",
+                "idCompraItem": "1581320690021202400001",
+                "idContratacaoPNCP": "10673078000120-1-000068/2024",
+                "unidadeOrgaoCodigoUnidade": "158132",
+                "orgaoEntidadeCnpj": "10673078000120",
+                "numeroItemPncp": 1,
+                "numeroItemCompra": 1,
+                "numeroGrupo": 0,
+                "descricaoResumida": "Licenciamento de Direitos  Permanentes de Uso de Outros Softwares / Programas de Computador",
+                "materialOuServico": "S",
+                "materialOuServicoNome": "Serviço",
+                "codigoClasse": null,
+                "codigoGrupo": 182,
+                "codItemCatalogo": 27472,
+                "descricaodetalhada": "Licenciamento de Direitos  Permanentes de Uso de Outros Softwares / Programasde Computador",
+                "unidadeMedida": "  UN",
+                "orcamentoSigiloso": false,
+                "itemCategoriaIdPncp": 3,
+                "itemCategoriaNome": "Informática (TIC)",
+                "criterioJulgamentoIdPncp": 1,
+                "criterioJulgamentoNome": "Menor preço",
+                "situacaoCompraItem": "2",
+                "situacaoCompraItemNome": "Homologado",
+                "tipoBeneficio": "1",
+                "tipoBeneficioNome": "Participação exclusiva para ME/EPP",
+                "incentivoProdutivoBasico": false,
+                "quantidade": 6.0,
+                "valorUnitarioEstimado": 4318.0,
+                "valorTotal": 25908.0,
+                "temResultado": true,
+                "codFornecedor": "24781967000116",
+                "nomeFornecedor": "GENESIS COMERCIO E TECNOLOGIA LTDA",
+                "quantidadeResultado": 6.0,
+                "valorUnitarioResultado": 3174.0,
+                "valorTotalResultado": 19044.0,
+                "dataInclusaoPncp": "2024-09-26T14:59:48",
+                "dataAtualizacaoPncp": "2024-10-18T16:47:04",
+                "dataResultado": "2024-10-18 00:00:00.0000000",
+                "margemPreferenciaNormal": false,
+                "percentualMargemPreferenciaNormal": null,
+                "margemPreferenciaAdicional": false,
+                "percentualMargemPreferenciaAdicional": null,
+                "codigoNCM": null,
+                "descricaoNCM": null,
+                "numeroControlePNCPCompra": "10673078000120-1-000068/2024"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

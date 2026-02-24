@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000182016",
+        "data_extracao": "2026-02-13 11:17:38",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 38022633,
+                "numeroLicitacao": "158132061820161",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 182016,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 20192,
+                "nomeMaterial": "PLASTIFICADORA, PLASTIFICADOR NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "11094173000132",
+                "nomeFornecedor": "OFFICE DO BRASIL IMPORTACAO E EXPORTACAO EIRELI - EPP",
+                "quantidade": null,
+                "unidade": "unidade",
+                "descricaoItem": "Plastificadora para crachá A4 e Ofício Controle de temperatura e botão auto reverse, bivolt. Tamanho Ofício (faz plastificações pequenas como crachá até o s tamanhos A4 e Ofício), rolos de borracha de silicone, controle de temperatur a frontal, pintura epox ideal para polaseal 0.03 0.05 0.07 0.10",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 3591.4,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-05-28T08:53:00",
+                "idCompra": "15813206000182016",
+                "idCompraItem": "1581320600018201600001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

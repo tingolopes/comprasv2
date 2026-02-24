@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00105%2F2025&unidadeGerenciadora=158132&numeroItem=00030&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:44:44",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00105/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00030",
+                "codigoPdm": "00099",
+                "descricaoItem": "CANETA ESFEROGRÁFICA, MATERIAL ALUMÍNIO, QUANTIDADE CARGAS 1 UN, MATERIAL PONTA METAL, COR TINTA AZUL, CARACTERÍSTICAS ADICIONAIS PERSONALIZADA CONFORME MODELO",
+                "fornecedor": "44280593000162 - RM COMERCIO DE ARTIGOS PERSONALIZADOS LTDA",
+                "quantidadeRegistrada": 1000.0,
+                "saldoAdesoes": 2000.0,
+                "saldoRemanejamentoEmpenho": 1000.0,
+                "qtdLimiteAdesao": 2000.0,
+                "qtdLimiteInformadoCompra": 2000.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2025-08-19T15:42:55",
+                "dataHoraAtualizacao": "2025-08-20T09:47:54",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

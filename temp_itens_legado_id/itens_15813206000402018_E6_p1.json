@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813206000402018",
+        "data_extracao": "2026-02-13 11:21:26",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000402018",
+                "idCompraItem": "1581320600040201800001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 40,
+                "dtAnoAvisoLicitacao": 2018,
+                "nuInciso": "02",
+                "nuProcesso": "23347013660201872",
+                "vrEstimado": 4500.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Aquisição de produtos e/ou serviços com valor inferior a R$ 17.600,00",
+                "nuCpfRespDeclDisp": "02264089148",
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "LUIZ SIMAO STASZCZAK",
+                "noCargoRespDeclDisp": "Ordenador de Despesas",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 46914,
+                "noConjuntoMateriais": "FRAGMENTADORA PAPEL",
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "Fragmentadora.Capacidade min. 35 folhas.Funcionamento Contínuo, sem necessidad e de pausa pra resfriamento do motor. Garantia mínima de 12 (doze) meses.Potên cia Mínima 600W. 110V",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "UNIDADE",
+                "vrEstimadoItem": 4500.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "TRITURARE",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "29023342000109",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "VLF MAQUINAS E SOLUCOES EMPRESARIAIS LTDA",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00005%2F2024&unidadeGerenciadora=158132&numeroItem=00124&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:11:18",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00005/2024",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00124",
+                "codigoPdm": "02281",
+                "descricaoItem": "PINÇA LABORATÓRIO, MATERIAL AÇO INOX, MODELO HISTOLÓGICA, TIPO PONTA PONTA FINA, COMPRIMENTO CERCA DE 15 CM",
+                "fornecedor": "11301724000191 - QUALY COMERCIAL LTDA",
+                "quantidadeRegistrada": 0.0,
+                "saldoAdesoes": 40.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 40.0,
+                "qtdLimiteInformadoCompra": 40.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2024-02-22T15:57:57",
+                "dataHoraAtualizacao": "2024-03-04T15:18:09",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            },
+            {
+                "numeroAta": "00005/2024",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00124",
+                "codigoPdm": "02281",
+                "descricaoItem": "PINÇA LABORATÓRIO, MATERIAL AÇO INOX, MODELO HISTOLÓGICA, TIPO PONTA PONTA FINA, COMPRIMENTO CERCA DE 15 CM",
+                "fornecedor": "11301724000191 - QUALY COMERCIAL LTDA",
+                "quantidadeRegistrada": 20.0,
+                "saldoAdesoes": 40.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 40.0,
+                "qtdLimiteInformadoCompra": 40.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2024-02-22T15:58:53",
+                "dataHoraAtualizacao": "2024-12-30T18:54:47",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158449",
+                "nomeUnidade": "INST. FED. DO MS/CAMPUS CAMPO GRANDE",
+                "tipoUnidade": "PARTICIPANTE"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/4_consultarEmpenhosSaldoItem?numeroAta=00090%2F2024&unidadeGerenciadora=158132&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-23 16:05:07",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [],
+        "totalRegistros": 0,
+        "totalPaginas": 0,
+        "paginasRestantes": 0
+    }
+}

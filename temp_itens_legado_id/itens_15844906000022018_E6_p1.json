@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15844906000022018",
+        "data_extracao": "2026-02-13 09:46:50",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15844906000022018",
+                "idCompraItem": "1584490600002201800001",
+                "coUasg": 158449,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 2,
+                "dtAnoAvisoLicitacao": 2018,
+                "nuInciso": "02",
+                "nuProcesso": "00944290356201842",
+                "vrEstimado": 267.8,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Aquisição de produtos e/ou serviços com valor inferior a R$ 8.000,00",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "JOAO OTAVIO CENEDEZI PIMENTA",
+                "noCargoRespDeclDisp": "Diretor de Administração",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 309967,
+                "noConjuntoMateriais": null,
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": null,
+                "qtMaterialAlt": 90,
+                "noUnidadeMedida": "EMBALAGEM",
+                "vrEstimadoItem": 267.8,
+                "dsFabricante": null,
+                "noMarcaMaterial": "elgin",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "28697784000178",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "MARIA CONSUELO SOARES DA MATA - ME",
+                "dtAlteracao": "2024-04-08T11:27:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

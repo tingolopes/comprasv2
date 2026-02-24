@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15584906000112018",
+        "data_extracao": "2026-02-13 11:09:18",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 42199859,
+                "numeroLicitacao": "155849061120181",
+                "uasg": 155849,
+                "nomeUasg": "INSTITUTO FEDERAL DE MS/CAMPUS NAVIRAÍ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 112018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 5495,
+                "nomeServico": "ANALISE QUIMICA BROMATOLOGICA",
+                "cnpjFornecedor": "23494252000110",
+                "nomeFornecedor": "VANDERLEY WESLEY SANTOS CRISTO",
+                "quantidade": null,
+                "unidade": "serviço",
+                "descricaoItem": "Análise de tecido vegetal completa com bromo",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 275.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:38:00",
+                "idCompra": "15584906000112018",
+                "idCompraItem": "1558490600011201800001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

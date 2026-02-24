@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813299000082022",
+        "data_extracao": "2026-02-13 11:38:49",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 53997255,
+                "numeroLicitacao": "15813299820221",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 99,
+                "nomeModalidade": "RDC",
+                "numeroAviso": 82022,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 5622,
+                "nomeServico": "OBRAS CIVIS PUBLICAS ( CONSTRUCAO )",
+                "cnpjFornecedor": "35793153000118",
+                "nomeFornecedor": "DPAULLA ENGENHARIA LTDA",
+                "quantidade": 1,
+                "unidade": "UNIDADE",
+                "descricaoItem": "Obras Civis PúblicasContratação de empresa especializada para execução de pr ojeto executivo e obra de engenharia em estrutura e cobertura metálica das Pas sarelas de interligação entre blocos do Campus Jardim com área de aproximadame nte 287,68m² e elaboração do projeto executivo, do Instituto Federal de Mato G rosso do Sul Campus Jardim, conforme condições, quantidades e exigências est abelecidas neste instrumento e seus anexos.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 183782.46,
+                "decreto7174": "false",
+                "criterioJulgamento": "Maior Desconto",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813299000082022",
+                "idCompraItem": "1581329900008202200001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

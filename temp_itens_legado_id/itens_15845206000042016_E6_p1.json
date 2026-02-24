@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845206000042016",
+        "data_extracao": "2026-02-13 11:03:24",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845206000042016",
+                "idCompraItem": "1584520600004201600001",
+                "coUasg": 158452,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 4,
+                "dtAnoAvisoLicitacao": 2016,
+                "nuInciso": "02",
+                "nuProcesso": "23347011373201666",
+                "vrEstimado": 420.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Tendo em vista que não atingiu o valor limite previsto em lei.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "SERGIO PAULO DE SOUZA",
+                "noCargoRespDeclDisp": "Diretor de Administração",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 3506,
+                "noServico": "MANUTENCAO DE GELADEIRAS E BEBEDOUROS",
+                "dsDetalhada": "Contratação de serviço, incluindo material, de substituição de placa eletrônic o modulo potencia geladeira Brastemp, 360 litros, 127v.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "SERV",
+                "vrEstimadoItem": 420.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "07919263000148",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "CRISTIANO DOS SANTOS PEREIRA - ME",
+                "dtAlteracao": "2024-04-08T11:40:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

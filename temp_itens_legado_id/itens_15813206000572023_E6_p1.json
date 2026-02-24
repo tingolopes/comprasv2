@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813206000572023",
+        "data_extracao": "2026-02-13 11:30:27",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000572023",
+                "idCompraItem": "1581320600057202300001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 57,
+                "dtAnoAvisoLicitacao": 2023,
+                "nuInciso": "01",
+                "nuProcesso": " 2334701121220230",
+                "vrEstimado": 5590.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": "Objeto: Contratação de empresa especializada em                              confecção de projeto elétrico, para ligação do                             s aparelhos de ar condicionado do bloco de sala                             s de aula do IFMS Campus Nova Andradina.",
+                "dsFundamentoLegal": "Fundamento Legal: Art. 75º, Inciso I da Lei nº 14.133 de 1º/04/2021.",
+                "dsJustificativa": "Justificativa: Em razão do valor.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "CLAUDIO ZARATE SANAVRIA",
+                "noCargoRespDeclDisp": "Ordenador de Despesas",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 24937,
+                "noServico": "ESTUDOS E PROJETOS - FONTES ALTERNATIVAS DE ENERGIA ELETRICA",
+                "dsDetalhada": "Contratação de empresa especializada em confecção de projeto elétrico, para li gação dos  aparelhos de ar condicionado do bloco de salas de aula do IFMS Camp us Nova  Andradina.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "UNIDADE",
+                "vrEstimadoItem": 5590.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "15696877000136",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "GOBRAZ COMERCIO E SERVICO LTDA",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813206000482023",
+        "data_extracao": "2026-02-13 11:30:23",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000482023",
+                "idCompraItem": "1581320600048202300001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 48,
+                "dtAnoAvisoLicitacao": 2023,
+                "nuInciso": "01",
+                "nuProcesso": "23347005409202300",
+                "vrEstimado": 12000.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": "Objeto: Contratação de Perícia Técnica, estrutu                             ra metálica e cobertura do Bloco H da construçã                             o no Campus Naviraí",
+                "dsFundamentoLegal": "Fundamento Legal: Art. 75º, Inciso I da Lei nº 14.133 de 1º/04/2021.",
+                "dsJustificativa": "Justificativa: Em função do valor que se enquadra nos ditames da Lei 14.133/2021, bem como agilidade e baixo custo  processual.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "",
+                "noCargoRespDeclDisp": "",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 175,
+                "noServico": "ESTUDOS E PROJETOS DE ESTRUTURAS -  CONCRETO ARMADO",
+                "dsDetalhada": "Estudos e Projetos de Estruturas - Concreto Armado",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "UNIDADE",
+                "vrEstimadoItem": 12000.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "18361229000117",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "PROMETAL ENGENHARIA & CONSTRUCOES LTDA",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

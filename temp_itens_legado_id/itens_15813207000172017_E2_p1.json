@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813207000172017",
+        "data_extracao": "2026-02-13 11:20:28",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 40356952,
+                "numeroLicitacao": "158132071720171",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 7,
+                "nomeModalidade": "INEXIGIBILIDADE DE LICITAÇÃO",
+                "numeroAviso": 172017,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 18821,
+                "nomeServico": "TREINAMENTO / CAPACITACAO - SEGURANCA INDUSTRIAL",
+                "cnpjFornecedor": "35963479000146",
+                "nomeFornecedor": "ESAFI - ESCOLA DE ADMINISTRACAO E TREINAMENTO LTDA - EPP",
+                "quantidade": null,
+                "unidade": "Serviço",
+                "descricaoItem": "Inscrição dos servidores Emerson Augusto Miotto Corazza e Gislaine Aparecida d e Oliveira no 13º Encontro Nacional de Secretariado da Administração Pública.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 4760.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813207000172017",
+                "idCompraItem": "1581320700017201700001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

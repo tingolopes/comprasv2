@@ -1,0 +1,24 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/4_consultarEmpenhosSaldoItem?numeroAta=00094%2F2024&unidadeGerenciadora=158132&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-23 16:05:08",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroItem": "00005",
+                "unidade": "158454 - INST. FED. DO MS/CAMPUS TRES LAGOAS",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 9.0,
+                "quantidadeEmpenhada": 5.0,
+                "saldoEmpenho": 4.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-06-20T18:23:41"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

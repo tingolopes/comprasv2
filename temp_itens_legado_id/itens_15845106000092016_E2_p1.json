@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845106000092016",
+        "data_extracao": "2026-02-13 10:03:47",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 37467324,
+                "numeroLicitacao": "15845106920161",
+                "uasg": 158451,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.COXIM",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 92016,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 108898,
+                "nomeMaterial": "CAIXA PLÁSTICA, CAIXA DE PLASTICO NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "07699107000119",
+                "nomeFornecedor": "M M ALVES BERNART & CIA LTDA - ME",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Caixa plástica organizadora do tipo baú multiuso, capacidade 30 litros e tampa com trava, para criação de insetos. Altura 27 x largura 35 x comprimento 44 c m. Cor preta e cinza. Material plástico.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 104.94,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-05-30T07:47:00",
+                "idCompra": "15845106000092016",
+                "idCompraItem": "1584510600009201600001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845406000342018",
+        "data_extracao": "2026-02-13 11:33:22",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 43487329,
+                "numeroLicitacao": "158454063420182",
+                "uasg": 158454,
+                "nomeUasg": "INST.F.ED.,CIENC.E TEC DE MS/C.TRÊS LAGOAS",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 342018,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": 29718,
+                "nomeMaterial": "TELEVISOR, TELEVISOR / TELEVISAO / TV NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "15050089000178",
+                "nomeFornecedor": "3 GIGAFOX NETWORK E INFORMATICA EIRELI",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "TV Smart TV Led 50 polegadas Tipo de TV Smart TV Tecnologia da Tela LED Polega das 50\" Resolução Ultra HD 4k Taxa de Atualização 60Hz Taxa de atualização com Tecnologia 60HzRecursos de Vídeo Midiacast , Ginga, DNR, Receptor DTV Recurso s de Áudio SAP/MTS, DNR, Equalizadores de som predefinidos Potência do Áudio ( RMS) 20 Wrms Quantidade de entradas USB 2 Local das entradas USB 1 entrada lat eral Quantidade de entradas HDMI 3 Local das entradas HDMI 2 entradas traseira s Outras Conexões 3 entradas HDMI; Saída de áudio digital óptico; Saída fone d e ouvido (P2); Entrada vídeo componente (P2); Entrada de áudio e vídeo (P2); E ntrada RF para TV aberta (Digital e Analógica); Entrada RF para TV a Cabo; 2 e ntradas USB: reproduz filmes, músicas e fotos; Entrada de Rede RJ45¹; Entrada VGA (15 pinos); Dispositivo wireless integrado Wi-Fi Wi-Fi integrado",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 4735.36,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:45:00",
+                "idCompra": "15845406000342018",
+                "idCompraItem": "1584540600034201800002"
+            },
+            {
+                "isnSidecResultadoCompra": 43487328,
+                "numeroLicitacao": "158454063420181",
+                "uasg": 158454,
+                "nomeUasg": "INST.F.ED.,CIENC.E TEC DE MS/C.TRÊS LAGOAS",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 342018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 10596,
+                "nomeMaterial": "APARELHO COMUNICAÇÃO PARA TREINAMENTO, APARELHO DE COMUNICACAO PARA TREINAMENTO NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "15050089000178",
+                "nomeFornecedor": "3 GIGAFOX NETWORK E INFORMATICA EIRELI",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "TABLET, COM SISTEMA OPERACIONAL ANDROID. Tela touchscreen com tamanho entre 10 e 11 polegadas e resolução WUXGA. Processador Octa-Core 1.2 Ghz ou superior. Memória RAM: 3GB ou superior. Memória interna de 16GB ou superior e entrada pa ra cartão de memória. Câmera traseira de 8 MP e câmera frontal.  Conexões disp oníveis: Wi-Fi 802.11 b/g/n, bluetooth, 4G, GPS, USB 2.0, fone de ouvido. Bate ria interna com 5400 mAh ou superior; Deve acompanhar carregador bivolt, cabo de dados e manual do usuário em português.Marca/Modelo Referência: Samsung Gal axy Tab A Note ou similar com mesmo padrão de qualidade.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 2043.9,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:45:00",
+                "idCompra": "15845406000342018",
+                "idCompraItem": "1584540600034201800001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

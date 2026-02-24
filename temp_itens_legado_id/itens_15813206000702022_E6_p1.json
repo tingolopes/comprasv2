@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813206000702022",
+        "data_extracao": "2026-02-13 11:28:32",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000702022",
+                "idCompraItem": "1581320600070202200001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 70,
+                "dtAnoAvisoLicitacao": 2022,
+                "nuInciso": "02",
+                "nuProcesso": "23347010835202276",
+                "vrEstimado": 15000.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": "Objeto: Contratação de sistema eletrônico de se                             gurança e monitoramento, para atendimento da se                             gurança do prédio definitivo da Reitoria do IFM                             S",
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21º/06/1993.",
+                "dsJustificativa": "Justificativa: O prédio da Reitoria está desocupado e necessita de vigilância constante enquanto não retornamos.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "HEBERTON LUIZ DUARTE RODRIGUES",
+                "noCargoRespDeclDisp": "Gestor Financeiro",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 19151,
+                "noServico": "LOCACAO DE EQUIPAMENTO - CIRCUITO INTERNO / FECHADO TV",
+                "dsDetalhada": "Locação de equipamento, instalação de serviços eletrônico de segurança e monit oramento",
+                "qtMaterialAlt": 12,
+                "noUnidadeMedida": "UNIDADE",
+                "vrEstimadoItem": 15000.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "17772398000187",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "MS SEGURANCA ELETRONICA LTDA",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

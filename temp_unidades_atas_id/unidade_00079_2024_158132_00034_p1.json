@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00079%2F2024&unidadeGerenciadora=158132&numeroItem=00034&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 12:00:41",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00079/2024",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00034",
+                "codigoPdm": null,
+                "descricaoItem": "Prestação de Serviço de Limpeza e Conservação -  Áreas Internas - Banheiros - Navirai",
+                "fornecedor": "04829555000100 - MULTI BRILHO BRASIL LIMPEZA E CONSERVACAO LTDA",
+                "quantidadeRegistrada": 4860.0,
+                "saldoAdesoes": 9720.0,
+                "saldoRemanejamentoEmpenho": 4860.0,
+                "qtdLimiteAdesao": 9720.0,
+                "qtdLimiteInformadoCompra": 9720.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2024-10-14T15:22:53",
+                "dataHoraAtualizacao": "2024-11-11T11:46:53",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "155849",
+                "nomeUnidade": "INST.FED.DO MS/CAMPUS NAVIRAI",
+                "tipoUnidade": "PARTICIPANTE"
+            },
+            {
+                "numeroAta": "00079/2024",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00034",
+                "codigoPdm": null,
+                "descricaoItem": "Prestação de Serviço de Limpeza e Conservação -  Áreas Internas - Banheiros - Navirai",
+                "fornecedor": "04829555000100 - MULTI BRILHO BRASIL LIMPEZA E CONSERVACAO LTDA",
+                "quantidadeRegistrada": 0.0,
+                "saldoAdesoes": 9720.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 9720.0,
+                "qtdLimiteInformadoCompra": 9720.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2024-10-14T15:22:42",
+                "dataHoraAtualizacao": "2024-11-11T11:46:36",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

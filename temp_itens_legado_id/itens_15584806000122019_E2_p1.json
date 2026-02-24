@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15584806000122019",
+        "data_extracao": "2026-02-13 10:30:54",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 44839095,
+                "numeroLicitacao": "155848061220192",
+                "uasg": 155848,
+                "nomeUasg": "IF - MS/ CAMPUS DOURADOS",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 122019,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 5835,
+                "nomeServico": "MANUTENCAO EM PROJETOR DE IMAGEM",
+                "cnpjFornecedor": "12870403000170",
+                "nomeFornecedor": "EDIPO EVANS DOS SANTOS 60855797134",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Manutenção de projetor marca BENQ, modelo MX532, com reparo na fonte e substit uição de reguladores",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 350.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:35:00",
+                "idCompra": "15584806000122019",
+                "idCompraItem": "1558480600012201900002"
+            },
+            {
+                "isnSidecResultadoCompra": 44839094,
+                "numeroLicitacao": "155848061220191",
+                "uasg": 155848,
+                "nomeUasg": "IF - MS/ CAMPUS DOURADOS",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 122019,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 5835,
+                "nomeServico": "MANUTENCAO EM PROJETOR DE IMAGEM",
+                "cnpjFornecedor": "12870403000170",
+                "nomeFornecedor": "EDIPO EVANS DOS SANTOS 60855797134",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Manutenção de projetor marca BENQ, modelo MX532, com reparo no bloco ótico e r ealocação da lente do prisma",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 350.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:35:00",
+                "idCompra": "15584806000122019",
+                "idCompraItem": "1558480600012201900001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

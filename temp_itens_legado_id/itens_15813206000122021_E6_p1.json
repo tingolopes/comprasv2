@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813206000122021",
+        "data_extracao": "2026-02-13 11:24:58",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000122021",
+                "idCompraItem": "1581320600012202100001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 12,
+                "dtAnoAvisoLicitacao": 2021,
+                "nuInciso": "02",
+                "nuProcesso": "23347004832202112",
+                "vrEstimado": 6600.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Contratação de Pequeno vulto para melhoria do acesso a internet no campus Nova Andradina",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "HEBERTON LUIZ DUARTE RODRIGUES",
+                "noCargoRespDeclDisp": "Gestor Financeiro",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 26476,
+                "noServico": "TRAFEGO DE DADOS VIA CABO",
+                "dsDetalhada": "Tráfego de dados via cabo: Aquisição/Contratação de serviço continuado de loca ção de um enlace de 7km de Fibra Óptica do ponto A (UFMS) até o ponto B (FINOV A), para transporte de um link de internet com largura de banda de 100 Mbps, a fim de qualificar/agilizar o acesso das atividades da DIRAD/NA do IFMS   Campu s Nova Andradina",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "Mega bits/segundo",
+                "vrEstimadoItem": 6600.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "00746407000162",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "MARCIO EIJI YASUE LTDA",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

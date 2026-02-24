@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845206000032020",
+        "data_extracao": "2026-02-13 11:07:53",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845206000032020",
+                "idCompraItem": "1584520600003202000001",
+                "coUasg": 158452,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 3,
+                "dtAnoAvisoLicitacao": 2020,
+                "nuInciso": "05",
+                "nuProcesso": "23347000496202058",
+                "vrEstimado": 62.3,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso V da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Pregão Eletrônico nº 02/2019 fracassado. Dispensa de licitação nos termos do artigo 24, inciso V da Lei 8.666/93.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "SERGIO PAULO DE SOUZA",
+                "noCargoRespDeclDisp": "Diretor de Administração",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 19356,
+                "noServico": "CONCESSAO USO - AREA / IMOVEL PUBLICO",
+                "dsDetalhada": "Concessão onerosa para serviços de cantina escolar, com fornecimento de materi ais e mão de obra para atendimento da comunidade acadêmica do IFMS Campus Nova  Andradina.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 62.3,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "15283528000192",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "SILAS PEDROSO DE SOUZA 02423476140",
+                "dtAlteracao": "2024-04-08T11:40:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

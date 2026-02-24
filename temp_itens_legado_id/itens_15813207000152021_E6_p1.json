@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813207000152021",
+        "data_extracao": "2026-02-13 11:26:40",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813207000152021",
+                "idCompraItem": "1581320700015202100001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 15,
+                "dtAnoAvisoLicitacao": 2021,
+                "nuInciso": "02",
+                "nuProcesso": "23347005229202158",
+                "vrEstimado": 6800.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 25º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Contratação de serviços de natureza singular, com profissional de notória especialização",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "ELAINE BORGES MONTEIRO CASSIANO",
+                "noCargoRespDeclDisp": "Ordenadora de Despesas",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 20656,
+                "noServico": "SEMINARIO / PALESTRA",
+                "dsDetalhada": "Contratação de palestrante para ministrar a \"Palestra: O trabalho escolar em t empo de Pandemia\" por meio da empresa BARZINI ART &amp; FILM PRODUCOES - EIRELI",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 6800.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "28677267000137",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "BARZINI ART & FILM PRODUCOES - EIRELI",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

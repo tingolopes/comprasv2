@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15844906000122016",
+        "data_extracao": "2026-02-13 09:45:47",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 38402356,
+                "numeroLicitacao": "158449061220161",
+                "uasg": 158449,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.C.GRANDE",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 122016,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 34703,
+                "nomeMaterial": "FORNO MICROONDAS, FORNO DE MICROONDAS PARA COZINHA NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "21102746000186",
+                "nomeFornecedor": "LEONEL COMERCIO DE ELETRODOMESTICOS E REFRIGERACAO EIRE",
+                "quantidade": null,
+                "unidade": "unidade",
+                "descricaoItem": "FORNO DE MICROONDAS PARA COZINHA Forno de micro-ondas, capacidade mínima de 30 litros. Painel digital, visor em LCD, relógio digital, timer sonoro, função descongelar e aquecer, trava de segurança, prato giratório, acabamento em aço inox com vidro espelhado. Alimentação: 110/220 (bivolt). Obs.: se não dispor de forno bivolt, o fornecedor deverá ter modelo de ambas as voltagens, devendo fazer consulta prévia à contratante. Garantia mínima: 01 ano. Assistência téc nica local autorizada.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1077.99,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-01-23T13:47:00",
+                "idCompra": "15844906000122016",
+                "idCompraItem": "1584490600012201600001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

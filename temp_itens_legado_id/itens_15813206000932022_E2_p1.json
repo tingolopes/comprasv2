@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000932022",
+        "data_extracao": "2026-02-13 11:28:41",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 54148330,
+                "numeroLicitacao": "158132069320221",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 932022,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 27090,
+                "nomeServico": "OUTROS SERVICOS PARA A INFRAESTRUTURA DE TECNOLOGIA DA INFORMACAO E COMUNICACAO (TIC)",
+                "cnpjFornecedor": "32617502000152",
+                "nomeFornecedor": "TECNO.I SOLUCOES EM INFORMATICA LTDA",
+                "quantidade": null,
+                "unidade": "UND SERVIÇO TÉCNICO",
+                "descricaoItem": "Serviço de desinstalação de ativos de rede nas torres de comunicação do IFMS e UFMS CPNA.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 10701.16,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000932022",
+                "idCompraItem": "1581320600093202200001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

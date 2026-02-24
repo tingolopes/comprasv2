@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15584806000212017",
+        "data_extracao": "2026-02-13 10:20:24",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15584806000212017",
+                "idCompraItem": "1558480600021201700001",
+                "coUasg": 155848,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 21,
+                "dtAnoAvisoLicitacao": 2017,
+                "nuInciso": "02",
+                "nuProcesso": "02145590146201724",
+                "vrEstimado": 2476.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "DANILO SANCHES DANTAS",
+                "noCargoRespDeclDisp": "Gestor Financeiro",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 21997,
+                "noServico": "INSTALACAO - FORRO PVC",
+                "dsDetalhada": "Contratação de empresa especializada em substituição/instalação de forro de PV C para manutenção do forro da guarita.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "Serviço",
+                "vrEstimadoItem": 2476.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "01958719000100",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "COMPENSADOS DOURADOS LTDA - EPP",
+                "dtAlteracao": "2024-04-08T11:35:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

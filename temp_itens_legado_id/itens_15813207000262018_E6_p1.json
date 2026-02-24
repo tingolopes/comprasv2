@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813207000262018",
+        "data_extracao": "2026-02-13 11:22:42",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813207000262018",
+                "idCompraItem": "1581320700026201800001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 26,
+                "dtAnoAvisoLicitacao": 2018,
+                "nuInciso": "00",
+                "nuProcesso": "23347017787201861",
+                "vrEstimado": 585.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 25º, Caput da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Auxilio para capacitação",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "LUIZ SIMAO STASZCZAK",
+                "noCargoRespDeclDisp": "Ordenador de Despesa",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 14729,
+                "noServico": "TREINAMENTO NA AREA DE ADMINISTRACAO PUBLICA",
+                "dsDetalhada": "Curso - \"Como recortar ideias, sintetizar e organizar informações (Visual Thin king)\"",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 585.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PF",
+                "nuCnpjVencedor": null,
+                "nuCpfVencedor": "***564471**",
+                "noFornecedorVencedor": "ERIKA SILVA SANTANA RIOS",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

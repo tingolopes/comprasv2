@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845406000412018",
+        "data_extracao": "2026-02-13 11:33:26",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 43550618,
+                "numeroLicitacao": "158454064120181",
+                "uasg": 158454,
+                "nomeUasg": "INST.F.ED.,CIENC.E TEC DE MS/C.TRÊS LAGOAS",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 412018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 150841,
+                "nomeMaterial": "TELESCÓPIO, TELESCÓPIO NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": null,
+                "nomeFornecedor": null,
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "TELESCÓPIO REFLETOR 200MM 8\" RF BKP2001EQ5, TIPO NEWTONIANO PARABÓLICO, OBJETI VA 203MM, MONTAGEM EQUATORIAL EQ5 COM MOTORIZAÇÃO E PORTA ST4 PARA GUIAGEM EM ASTROFOTOGRAFIA, DISTÂNCIA FOCAL 1000MM, LUMINOSIDADE F/5, AUMENTO EFETIVO 406 X. ACESSÓRIOS: CD ROM COM SOFTWARE DE ASTRONOMIA, OCULARES S UPER 25MM E 10MM, DIÂMETRO DAS OCULARES 31,7MM, LUNETA BUSCADORA E PRATELEIRA DE ACESSÓRIOS.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 0.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-03-20T09:04:00",
+                "idCompra": "15845406000412018",
+                "idCompraItem": "1584540600041201800001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15844906000132016",
+        "data_extracao": "2026-02-13 09:45:48",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 38418739,
+                "numeroLicitacao": "158449061320161",
+                "uasg": 158449,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.C.GRANDE",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 132016,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 3662,
+                "nomeServico": "MANUTENCAO EXTINTORES / MANGUEIRAS - COMBATE INCENDIO",
+                "cnpjFornecedor": "18275274000159",
+                "nomeFornecedor": "M.S. EXTINTORES E EQUIPAMENTOS DE SEGURANCA LTDA - ME",
+                "quantidade": null,
+                "unidade": "serviço",
+                "descricaoItem": "SERVIÇO DE RECARGA E MANUTENÇÃO DE EXTINTOR DE INCÊNDIO, COM TESTE HIDROSTÁTIC O, CARGA ÁGUA PRESSURIZADA ? AP, 10 L (DEZ LITROS), TIPO: 02 A, com retirada e devolução dos cilindros na Unidade Requisitante. O serviço deve contemplar de smontagem completa do extintor, verificação e substituição de carga, limpeza, remoção e teste de componentes, verificação das partes internas e externas, qu anto à existência de danos ou corrosão e pintura. Durante o serviço de recarga e manutenção, o fornecedor deverá disponibilizar extintores reservas para uso da Unidade Requisitante ou realizar o serviço de forma parcelada.  O material deverá apresentar validade mínima de 12 (doze) meses a partir da data de entr ega.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 90.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:27:00",
+                "idCompra": "15844906000132016",
+                "idCompraItem": "1584490600013201600001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

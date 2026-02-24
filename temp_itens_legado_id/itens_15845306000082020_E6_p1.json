@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845306000082020",
+        "data_extracao": "2026-02-13 11:15:55",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845306000082020",
+                "idCompraItem": "1584530600008202000001",
+                "coUasg": 158453,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 8,
+                "dtAnoAvisoLicitacao": 2020,
+                "nuInciso": "02",
+                "nuProcesso": "23347007474201802",
+                "vrEstimado": 1650.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Art. 24 inciso II da lei 8666.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "EDISON SILVA SOSA",
+                "noCargoRespDeclDisp": "Assistente em Administração",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": null,
+                "noConjuntoMateriais": null,
+                "coServico": 2771,
+                "noServico": "AR CONDICIONADO - MANUTENCAO DE SISTEMAS / LIMPEZA",
+                "dsDetalhada": "Contratação de profissional ou empresa especializada em sistemas de ar-condici onado e refrigeração, para elaboração do Plano de Manutenção, Operação e Contr ole (PMOC) e outras orientações técnicas referentes aos sistemas de climatizaç ão dos prédios vinculados ao Instituto Federal de Educação, Ciência e Tecnolog ia de Mato Grosso do Sul  Campus Ponta Porã/MS",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 1650.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "12282201000108",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "J S AR CONDICIONADO EIRELI",
+                "dtAlteracao": "2024-04-08T11:41:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

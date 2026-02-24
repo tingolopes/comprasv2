@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15844906000202016",
+        "data_extracao": "2026-02-13 09:46:01",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15844906000202016",
+                "idCompraItem": "1584490600020201600001",
+                "coUasg": 158449,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 20,
+                "dtAnoAvisoLicitacao": 2016,
+                "nuInciso": "02",
+                "nuProcesso": "23347023717201680",
+                "vrEstimado": 5910.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Valor dentro do limite estabelecido em lei.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "ROSANE DE BRITO FERNANDEZ GARCIA",
+                "noCargoRespDeclDisp": "Ordenadora de Despesas",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 14958,
+                "noServico": "INFORMATICA - INTERNET",
+                "dsDetalhada": "Serviço de fornecimento mensal de link de dados para acesso à intranet com cap acidade de 10Mbps, incluindo todos os materiais e equipamentos necessários.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "Serviço",
+                "vrEstimadoItem": 5910.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "21800607000126",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "NETMAXXI TELECOMUNICACOES E INFORMATICA LTDA - EPP",
+                "dtAlteracao": "2024-04-08T11:27:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

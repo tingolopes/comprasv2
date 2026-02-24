@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813207000172022",
+        "data_extracao": "2026-02-13 11:29:06",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 53082034,
+                "numeroLicitacao": "158132071720221",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 7,
+                "nomeModalidade": "INEXIGIBILIDADE DE LICITAÇÃO",
+                "numeroAviso": 172022,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 21172,
+                "nomeServico": "TREINAMENTO QUALIFICACAO PROFISSIONAL",
+                "cnpjFornecedor": "14087594000124",
+                "nomeFornecedor": "MMP CURSOS  CAPACITACAO E TREINAMENTO LTDA",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "Treinamento Qualificação Profissional no curso: \"Tesouro Gerencial Teoria e Prática  que ocorrerá ao vivo e on-line dias 19/09/2022 a 23/09/2022.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 3800.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813207000172022",
+                "idCompraItem": "1581320700017202200001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

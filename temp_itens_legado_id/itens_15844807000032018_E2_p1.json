@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15844807000032018",
+        "data_extracao": "2026-02-13 09:39:52",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 43307958,
+                "numeroLicitacao": "15844807320181",
+                "uasg": 158448,
+                "nomeUasg": "INST.FED.DE ED.,CIENT.E TEC.DE MS/C.AQUIDAUAN",
+                "modalidade": 7,
+                "nomeModalidade": "INEXIGIBILIDADE DE LICITAÇÃO",
+                "numeroAviso": 32018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 3832,
+                "nomeServico": "TREINAMENTO NA AREA DE ENGENHARIA",
+                "cnpjFornecedor": "57102071000112",
+                "nomeFornecedor": "EQUILAM INDUSTRIA E COMERCIO EIRELI",
+                "quantidade": null,
+                "unidade": "serviço",
+                "descricaoItem": "Treinamento operacional do software dos equipamentos a baixo mencionados:  M aquina Universal EQTP 200;  Maquina de Compressão EQCOMP 1500D;  O treinamen to tem como finalidade capacitar técnicos e docentes a operar os equipamentos e extrair dados referentes  aos ensaios executados. Além do treinamento, o téc nico durante a visita deverá fazer uma análise avaliativa dos equipamentos com o intuito de verificar/constatar a necessidade de possíveis reparos nos equip amentos a fim de garantir sua durabilidade.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 9471.97,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:20:00",
+                "idCompra": "15844807000032018",
+                "idCompraItem": "1584480700003201800001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

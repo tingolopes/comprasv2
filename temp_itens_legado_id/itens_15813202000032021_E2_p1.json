@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813202000032021",
+        "data_extracao": "2026-02-13 11:38:18",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 50926118,
+                "numeroLicitacao": "15813202320211",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 2,
+                "nomeModalidade": "TOMADA DE PREÇOS",
+                "numeroAviso": 32021,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 5622,
+                "nomeServico": "OBRAS CIVIS PUBLICAS ( CONSTRUCAO )",
+                "cnpjFornecedor": "02401411000114",
+                "nomeFornecedor": "L.F. PRESTADORA DE SERVICOS EIRELI",
+                "quantidade": 1,
+                "unidade": "UNIDADE",
+                "descricaoItem": "Contratação de empresa para construção do Bloco de Laboratórios de Edificações no Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul (IFMS)Campus Jardim, situado na BR 060 S/N Saída P, CEP 79240-000, na cidad e de Jardim, no estado de Mato Grosso do Sul, conforme condições, quantidades e exigências estabelecidas em Edital e seus anexos.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 489491.73,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813202000032021",
+                "idCompraItem": "1581320200003202100001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

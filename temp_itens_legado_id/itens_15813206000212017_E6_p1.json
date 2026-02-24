@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813206000212017",
+        "data_extracao": "2026-02-13 11:19:16",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000212017",
+                "idCompraItem": "1581320600021201700001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 21,
+                "dtAnoAvisoLicitacao": 2017,
+                "nuInciso": "02",
+                "nuProcesso": "23347020614201749",
+                "vrEstimado": 2040.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Contratação de valor abaixo de R$8.000,00",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "LUIZ SIMAO STASZCZAK",
+                "noCargoRespDeclDisp": "Ordenador de Despesa",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 14052,
+                "noServico": "REMOCAO DE ENFERMO / UTI MOVEL",
+                "dsDetalhada": "Posto de atendimento montado com ambulância, tipo A com 2 profissionais no per íodo de 07 a 10/09 de 2017 conforme orçamento apresentado pela empresa vencedo ra.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "unidade",
+                "vrEstimadoItem": 2040.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "08647318000170",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "PAX PRO VIDA LTDA - ME",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

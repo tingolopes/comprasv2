@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-contratacoes/2.1_consultarItensContratacoes_PNCP_14133_Id?tipo=idCompra&codigo=15813207002472024&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-13 11:43:31",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813207002472024",
+                "idCompraItem": "1581320700247202400001",
+                "idContratacaoPNCP": "10673078000120-1-000047/2024",
+                "unidadeOrgaoCodigoUnidade": "158132",
+                "orgaoEntidadeCnpj": "10673078000120",
+                "numeroItemPncp": 1,
+                "numeroItemCompra": 1,
+                "numeroGrupo": 0,
+                "descricaoResumida": "Pagamento inscrição eventos Pagamento inscrição eventos",
+                "materialOuServico": "S",
+                "materialOuServicoNome": "Serviço",
+                "codigoClasse": null,
+                "codigoGrupo": null,
+                "codItemCatalogo": null,
+                "descricaodetalhada": null,
+                "unidadeMedida": "UNIDADE",
+                "orcamentoSigiloso": false,
+                "itemCategoriaIdPncp": 3,
+                "itemCategoriaNome": "Informática (TIC)",
+                "criterioJulgamentoIdPncp": 7,
+                "criterioJulgamentoNome": "Não se aplica",
+                "situacaoCompraItem": "2",
+                "situacaoCompraItemNome": "Homologado",
+                "tipoBeneficio": "5",
+                "tipoBeneficioNome": "Não se aplica",
+                "incentivoProdutivoBasico": false,
+                "quantidade": 27.0,
+                "valorUnitarioEstimado": 807.3,
+                "valorTotal": 21797.1,
+                "temResultado": true,
+                "codFornecedor": "03978517000148",
+                "nomeFornecedor": "ASSOCIACAO DOS MAGISTRADOS DE MATO GROSSO DO SUL",
+                "quantidadeResultado": 27.0,
+                "valorUnitarioResultado": 807.3,
+                "valorTotalResultado": 21797.1,
+                "dataInclusaoPncp": "2024-08-02T08:20:17",
+                "dataAtualizacaoPncp": "2024-08-02T08:20:17",
+                "dataResultado": "2024-08-02 00:00:00.0000000",
+                "margemPreferenciaNormal": false,
+                "percentualMargemPreferenciaNormal": null,
+                "margemPreferenciaAdicional": false,
+                "percentualMargemPreferenciaAdicional": null,
+                "codigoNCM": null,
+                "descricaoNCM": null,
+                "numeroControlePNCPCompra": "10673078000120-1-000047/2024"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

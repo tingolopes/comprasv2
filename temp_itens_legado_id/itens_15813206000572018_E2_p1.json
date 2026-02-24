@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000572018",
+        "data_extracao": "2026-02-13 11:21:48",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 43490200,
+                "numeroLicitacao": "158132065720182",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 572018,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": 7285,
+                "nomeMaterial": "VELA DE FILTRO, VELA DE FILTRO NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "04143203000198",
+                "nomeFornecedor": "FONTE PURA COMERCIO DE PURIFICADORES DE AGUA LTDA",
+                "quantidade": null,
+                "unidade": "Filtro",
+                "descricaoItem": "Aparelho purificar de água refrigerado plus em aço inoxidável.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 648.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000572018",
+                "idCompraItem": "1581320600057201800002"
+            },
+            {
+                "isnSidecResultadoCompra": 43490199,
+                "numeroLicitacao": "158132065720181",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 572018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 7285,
+                "nomeMaterial": "VELA DE FILTRO, VELA DE FILTRO NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "04143203000198",
+                "nomeFornecedor": "FONTE PURA COMERCIO DE PURIFICADORES DE AGUA LTDA",
+                "quantidade": null,
+                "unidade": "Filtro",
+                "descricaoItem": "Filtro de água com gabinete em plástico com capacidade para armazenamento de água gelada, com duas torneiras (Gelada e natural).",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 534.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000572018",
+                "idCompraItem": "1581320600057201800001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

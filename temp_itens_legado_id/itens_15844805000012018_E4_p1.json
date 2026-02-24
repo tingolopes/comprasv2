@@ -1,0 +1,41 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/4.1_consultarItensPregoes_Id?id_compra=15844805000012018",
+        "data_extracao": "2026-02-13 11:40:07",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158448,
+                    "coItem": 21327722
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "serviços comuns de engenharia para adequação elétrica dos laboratórios de Química, Biologia e Física localizados no Bloco de Ensino do IFMS   Campus Aquidauana, conforme condições, quantidades, exigências e especificações discriminadas nos projetos e demais documentos anexos a este Edital",
+                "descricaoItem": "Serviço Engenharia",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "71111.00",
+                "quantidadeItem": "1",
+                "situacaoItem": "homologado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "serviço",
+                "valorHomologadoItem": "71111.00",
+                "valorEstimadoItem": "92428.01",
+                "valorNegociado": null,
+                "idCompra": "15844805000012018",
+                "idCompraItem": "1584480500001201800001",
+                "noAdjudic": "DIONNY ANTONIO HEREDIA",
+                "noHom": "HILDA RIBEIRO ROMERO",
+                "dtEncerramento": "2019-03-25",
+                "dtAdjudic": "2019-03-25",
+                "dtHom": "2019-03-25",
+                "dtAlteracao": "2024-04-08T11:20:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845307000032019",
+        "data_extracao": "2026-02-13 11:15:52",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845307000032019",
+                "idCompraItem": "1584530700003201900001",
+                "coUasg": 158453,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 3,
+                "dtAnoAvisoLicitacao": 2019,
+                "nuInciso": "02",
+                "nuProcesso": "23347023646201968",
+                "vrEstimado": 21925.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 25º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Processo de Inexigibilidade.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "EDISON SILVA SOSA",
+                "noCargoRespDeclDisp": "Diretor de Administração",
+                "noResponsavelRatificacao": "MARCOS PINHEIRO VILHANUEVA",
+                "noCargoRespRatificacao": "Ordenador de Despesas",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 17663,
+                "noServico": "CURSO APERFEICOAMENTO / ESPECIALIZACAO PROFISSIONAL",
+                "dsDetalhada": "Curso/aperfeiçoamento - Participação de 05 servidores no 15º Congresso Brasile iro de Pregoeiros que será realizado no período de 16 a 19 de Março de 2020.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 21925.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "10498974000109",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "INSTITUTO NEGOCIOS PUBLICOS DO BRASIL - ESTUDOS E PESQUISAS NA ADMNIISTRACAO PUB",
+                "dtAlteracao": "2024-04-08T11:41:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

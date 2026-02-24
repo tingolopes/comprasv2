@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845306000012017",
+        "data_extracao": "2026-02-13 11:13:41",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845306000012017",
+                "idCompraItem": "1584530600001201700001",
+                "coUasg": 158453,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 1,
+                "dtAnoAvisoLicitacao": 2017,
+                "nuInciso": "02",
+                "nuProcesso": "23347006981201730",
+                "vrEstimado": 767.65,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art.24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Art.24, inciso II da Lei 8.666/1993.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "EDISON SILVA SOSA",
+                "noCargoRespDeclDisp": "Licitações",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 150756,
+                "noConjuntoMateriais": null,
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "NOME CAIXA D´ÁGUA: Caixa D`Agua fabricada em material Polietileno, cor Azul, C apacidade 2000 (Dois Mil Litros COM TAMPA).",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "unidade",
+                "vrEstimadoItem": 767.65,
+                "dsFabricante": null,
+                "noMarcaMaterial": "FORT LEV",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "24653206000189",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "CASA BLANCA MATERIAIS DE CONSTRUCOES LTDA - EPP",
+                "dtAlteracao": "2024-04-08T11:41:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

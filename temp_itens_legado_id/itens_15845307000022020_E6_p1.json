@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845307000022020",
+        "data_extracao": "2026-02-13 11:17:01",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845307000022020",
+                "idCompraItem": "1584530700002202000001",
+                "coUasg": 158453,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 2,
+                "dtAnoAvisoLicitacao": 2020,
+                "nuInciso": "02",
+                "nuProcesso": "23347007992202032",
+                "vrEstimado": 13600.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 25º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Art. 25º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "EDISON SILVA SOSA",
+                "noCargoRespDeclDisp": "Assistente em Administração",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 19321,
+                "noServico": "CURSO / TREINAMENTO EDUCACAO - DISTANCIA",
+                "dsDetalhada": "Curso ao Vivo e Online de Gestão e Fiscalização de Contratos  10498974000109",
+                "qtMaterialAlt": 17,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 13600.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "10498974000109",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "INSTITUTO NEGOCIOS PUBLICOS DO BRASIL - ESTUDOS E PESQUISAS NA ADMNIISTRACAO PUB",
+                "dtAlteracao": "2024-04-08T11:41:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

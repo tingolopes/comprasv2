@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00131%2F2023&unidadeGerenciadora=158132&numeroItem=00061&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:40:02",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00131/2023",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00061",
+                "codigoPdm": "18982",
+                "descricaoItem": "BATERIA ESTACIONÁRIA ALTA CAPACIDADE, SISTEMA ELETROQUÍMICO CHUMBO-ÁCIDO SELADO, TENSÃO NOMINAL 12 V, CAPACIDADE NOMINAL 7 AH, DIMENSÕES 151 X 65 X 94 MM, APLICAÇÃO NOBREAK, GARANTIA 1 ANO PARA REPARO OU SUBSTITUIÇÃO, TIPO SELADA VRLA(REGULADAS POR VÁLVULAS)",
+                "fornecedor": "11610111000136 - CARAPINHEIRO MANUTENCAO E COMERCIO DE EQUIPAMENTOS E ACESSORIOS MEDICO HOSPITALA",
+                "quantidadeRegistrada": 10.0,
+                "saldoAdesoes": 72.0,
+                "saldoRemanejamentoEmpenho": 10.0,
+                "qtdLimiteAdesao": 72.0,
+                "qtdLimiteInformadoCompra": 72.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2024-05-08T15:25:08",
+                "dataHoraAtualizacao": "2024-05-08T15:25:08",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "152146",
+                "nomeUnidade": "IFB - CAMPUS ESTRUTURAL",
+                "tipoUnidade": "PARTICIPANTE"
+            },
+            {
+                "numeroAta": "00131/2023",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00061",
+                "codigoPdm": "18982",
+                "descricaoItem": "BATERIA ESTACIONÁRIA ALTA CAPACIDADE, SISTEMA ELETROQUÍMICO CHUMBO-ÁCIDO SELADO, TENSÃO NOMINAL 12 V, CAPACIDADE NOMINAL 7 AH, DIMENSÕES 151 X 65 X 94 MM, APLICAÇÃO NOBREAK, GARANTIA 1 ANO PARA REPARO OU SUBSTITUIÇÃO, TIPO SELADA VRLA(REGULADAS POR VÁLVULAS)",
+                "fornecedor": "11610111000136 - CARAPINHEIRO MANUTENCAO E COMERCIO DE EQUIPAMENTOS E ACESSORIOS MEDICO HOSPITALA",
+                "quantidadeRegistrada": 26.0,
+                "saldoAdesoes": 72.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 72.0,
+                "qtdLimiteInformadoCompra": 72.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2024-05-08T15:25:08",
+                "dataHoraAtualizacao": "2024-10-09T18:16:17",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "155850",
+                "nomeUnidade": "INST.FED.DO MS/CAMPUS JARDIM",
+                "tipoUnidade": "PARTICIPANTE"
+            },
+            {
+                "numeroAta": "00131/2023",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00061",
+                "codigoPdm": "18982",
+                "descricaoItem": "BATERIA ESTACIONÁRIA ALTA CAPACIDADE, SISTEMA ELETROQUÍMICO CHUMBO-ÁCIDO SELADO, TENSÃO NOMINAL 12 V, CAPACIDADE NOMINAL 7 AH, DIMENSÕES 151 X 65 X 94 MM, APLICAÇÃO NOBREAK, GARANTIA 1 ANO PARA REPARO OU SUBSTITUIÇÃO, TIPO SELADA VRLA(REGULADAS POR VÁLVULAS)",
+                "fornecedor": "11610111000136 - CARAPINHEIRO MANUTENCAO E COMERCIO DE EQUIPAMENTOS E ACESSORIOS MEDICO HOSPITALA",
+                "quantidadeRegistrada": 0.0,
+                "saldoAdesoes": 72.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 72.0,
+                "qtdLimiteInformadoCompra": 72.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2024-05-08T15:23:26",
+                "dataHoraAtualizacao": "2024-05-08T15:23:26",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            }
+        ],
+        "totalRegistros": 3,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

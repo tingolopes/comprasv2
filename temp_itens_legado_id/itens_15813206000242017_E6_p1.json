@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813206000242017",
+        "data_extracao": "2026-02-13 11:19:32",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000242017",
+                "idCompraItem": "1581320600024201700001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 24,
+                "dtAnoAvisoLicitacao": 2017,
+                "nuInciso": "02",
+                "nuProcesso": "23347021129201792",
+                "vrEstimado": 7950.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Valor total da contratação está dentro dos limites previstos no Art. 24, inciso II da Lei 8666/93.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "JOSE JORGE GUIMARAES GARCIA",
+                "noCargoRespDeclDisp": "Ordenador de Despesas",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 12610,
+                "noServico": "REALIZACAO DE SHOWS / CONCURSOS / ARTISTICOS / CULTURAIS",
+                "dsDetalhada": "Contratação de serviços de iluminação e som para os jogos do IFMS.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "serviço",
+                "vrEstimadoItem": 7950.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "17483156000173",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "VA MUNDI TURISMO E EVENTOS LTDA - ME",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

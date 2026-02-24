@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813206000312017",
+        "data_extracao": "2026-02-13 11:19:32",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000312017",
+                "idCompraItem": "1581320600031201700001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 31,
+                "dtAnoAvisoLicitacao": 2017,
+                "nuInciso": "02",
+                "nuProcesso": "01037850032201780",
+                "vrEstimado": 800.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Valor da contratação dentro do limite previsto em lei",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "DIEGO HENRIQUE PEREIRA DE VIVEIROS",
+                "noCargoRespDeclDisp": "Gestor Financeiro em Exercício",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 4413,
+                "noServico": "LOCACAO DE MATERIAIS PERMANENTES",
+                "dsDetalhada": "Locação do módulo de grampeamento a ser utilizado na impressora Kyocera 3051 d o Gabinete da Reitoria para atender a Comissão do Exame de seleção 2018 do IFM S.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "serviço",
+                "vrEstimadoItem": 800.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "73505349000230",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "H2L EQUIPAMENTOS E SISTEMAS LTDA",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845206000092020",
+        "data_extracao": "2026-02-13 11:07:52",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 46394366,
+                "numeroLicitacao": "15845206920201",
+                "uasg": 158452,
+                "nomeUasg": "INST.F.DE ED.,CIENC.E TEC.DO MS/C.N ANDRADINA",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 92020,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 1627,
+                "nomeServico": "MANUTENCAO / REFORMA PREDIAL",
+                "cnpjFornecedor": "33511311000174",
+                "nomeFornecedor": "JOSE AILTON FERREIRA 31251935168",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "SERVIÇO DE PINTURA DE LOGOMARCA EM MURO, LOGO MEDINDO APROXIMADAMENTE 8,00M X 2,00MLOGOMARCA IFMSINSTITUTO FEDERAL DE MATO GROSSO DO SUL, CAMPUS NOVA ANDRADINA, INCLUINDO MATERIAIS, CONFORME MODELO ANEXO",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 900.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:40:00",
+                "idCompra": "15845206000092020",
+                "idCompraItem": "1584520600009202000001"
+            },
+            {
+                "isnSidecResultadoCompra": 46394367,
+                "numeroLicitacao": "15845206920202",
+                "uasg": 158452,
+                "nomeUasg": "INST.F.DE ED.,CIENC.E TEC.DO MS/C.N ANDRADINA",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 92020,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 1627,
+                "nomeServico": "MANUTENCAO / REFORMA PREDIAL",
+                "cnpjFornecedor": "33511311000174",
+                "nomeFornecedor": "JOSE AILTON FERREIRA 31251935168",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "SERVIÇO DE PINTURA DE LOGOMARCA EM PAREDE LOGO MEDINDO APROXIMADAMENTE 1,20M X 0,8M IFMSINSTITUTO FEDERAL DE MATO GROSSO DO SUL, CAMPUS NOVA ANDRADIN A, INCLUINDO MATERIAIS, CONFORME MODELO ANEXO",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 300.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:40:00",
+                "idCompra": "15845206000092020",
+                "idCompraItem": "1584520600009202000002"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

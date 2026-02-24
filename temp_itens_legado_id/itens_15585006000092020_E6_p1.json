@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15585006000092020",
+        "data_extracao": "2026-02-13 11:02:26",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15585006000092020",
+                "idCompraItem": "1558500600009202000001",
+                "coUasg": 155850,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 9,
+                "dtAnoAvisoLicitacao": 2020,
+                "nuInciso": "02",
+                "nuProcesso": "23347007982202005",
+                "vrEstimado": 13800.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Devido ao valor e a forma tradicional pelo fato dos prestadores de serviço locais não utilizarem o comprasnet.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "WELLINGTON MARTINS LOUVEIRA",
+                "noCargoRespDeclDisp": "Diretor de Administração",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 14044,
+                "noServico": "ROÇADA / LIMPEZA DE AREA - MECANIZADA / MANUAL",
+                "dsDetalhada": "Serviço periódico de roçada mecanizada nas áreas interna e externa do IFMS Cam pus Jardim, totalizando 35.000 metros ². Sendo 3.000 metros² de área externa ( parte frontal do campus) e 32.000 metros² de área interna (Proximidade da part e edificada, quadra de esportes e estação meteorológica).",
+                "qtMaterialAlt": 4,
+                "noUnidadeMedida": "Metro quadrado",
+                "vrEstimadoItem": 13800.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "19274124000193",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "LAURA CINTHIA FRANCO MALDONADO",
+                "dtAlteracao": "2024-04-08T11:36:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

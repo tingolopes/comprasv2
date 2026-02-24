@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845307000032019",
+        "data_extracao": "2026-02-13 11:15:50",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 45762105,
+                "numeroLicitacao": "15845307320191",
+                "uasg": 158453,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MT/C.P.PORÃ",
+                "modalidade": 7,
+                "nomeModalidade": "INEXIGIBILIDADE DE LICITAÇÃO",
+                "numeroAviso": 32019,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 17663,
+                "nomeServico": "CURSO APERFEICOAMENTO / ESPECIALIZACAO PROFISSIONAL",
+                "cnpjFornecedor": "10498974000109",
+                "nomeFornecedor": "INSTITUTO NEGOCIOS PUBLICOS DO BRASIL - ESTUDOS E PESQUISAS NA ADMNIISTRACAO PUB",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Curso/aperfeiçoamento Participação de 05 servidores no 15º Congresso Brasile iro de Pregoeiros que será realizado no período de 16 a 19 de Março de 2020.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 21925.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2025-02-26T11:45:34",
+                "idCompra": "15845307000032019",
+                "idCompraItem": "1584530700003201900001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

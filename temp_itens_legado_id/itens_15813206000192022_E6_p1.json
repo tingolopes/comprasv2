@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813206000192022",
+        "data_extracao": "2026-02-13 11:27:26",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000192022",
+                "idCompraItem": "1581320600019202200001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 19,
+                "dtAnoAvisoLicitacao": 2022,
+                "nuInciso": "02",
+                "nuProcesso": "23347001168202231",
+                "vrEstimado": 3978.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": "Objeto: Contratação de prestação de serviços de                              seguro aos estudantes do IFMS em estágio obrig                             atório 2022-III",
+                "dsFundamentoLegal": "Fundamento Legal: Art. 75º, Inciso II da Lei nº 14.133 de 1º/04/2021.",
+                "dsJustificativa": "Justificativa: Contratação de pequeno valor",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "",
+                "noCargoRespDeclDisp": "",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 906,
+                "noServico": "SEGURO / GARANTIA",
+                "dsDetalhada": "Seguro / garantia",
+                "qtMaterialAlt": 7800,
+                "noUnidadeMedida": "UNIDADE",
+                "vrEstimadoItem": 3978.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "87883807000106",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "MBM SEGURADORA SA",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

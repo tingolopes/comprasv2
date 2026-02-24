@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000362016",
+        "data_extracao": "2026-02-13 11:18:22",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 38961552,
+                "numeroLicitacao": "158132063620161",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 362016,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 4413,
+                "nomeServico": "LOCACAO DE MATERIAIS PERMANENTES",
+                "cnpjFornecedor": "73505349000230",
+                "nomeFornecedor": "H2L EQUIPAMENTOS E SISTEMAS LTDA",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "Locação de Módulo finalizador de grampeamento da impressora modelo TASKALFA 35 01i.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 650.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000362016",
+                "idCompraItem": "1581320600036201600001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

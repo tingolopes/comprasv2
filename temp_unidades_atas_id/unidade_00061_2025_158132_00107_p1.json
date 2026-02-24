@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00061%2F2025&unidadeGerenciadora=158132&numeroItem=00107&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:38:39",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00061/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00107",
+                "codigoPdm": "19767",
+                "descricaoItem": "ÓLEO VEGETAL COMESTÍVEL, TIPO PURO, ESPÉCIE VEGETAL SOJA, TIPO QUALIDADE TIPO 1",
+                "fornecedor": "24602765000160 - SIMEIA A. H. M. MUSTAFA",
+                "quantidadeRegistrada": 0.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": 0.0,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2025-08-08T10:10:21",
+                "dataHoraAtualizacao": "2025-08-11T16:45:08",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            },
+            {
+                "numeroAta": "00061/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00107",
+                "codigoPdm": "19767",
+                "descricaoItem": "ÓLEO VEGETAL COMESTÍVEL, TIPO PURO, ESPÉCIE VEGETAL SOJA, TIPO QUALIDADE TIPO 1",
+                "fornecedor": "24602765000160 - SIMEIA A. H. M. MUSTAFA",
+                "quantidadeRegistrada": 300.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 100.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": 0.0,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2025-08-08T10:11:40",
+                "dataHoraAtualizacao": "2025-11-13T17:01:22",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158450",
+                "nomeUnidade": "INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipoUnidade": "PARTICIPANTE"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

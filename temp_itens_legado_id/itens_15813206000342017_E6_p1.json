@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813206000342017",
+        "data_extracao": "2026-02-13 11:19:47",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000342017",
+                "idCompraItem": "1581320600034201700001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 34,
+                "dtAnoAvisoLicitacao": 2017,
+                "nuInciso": "02",
+                "nuProcesso": "01037880075201728",
+                "vrEstimado": 3970.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Despesa dentro dos limites do art. 24, inciso II da Lei 8.666/1993.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "LUIZ SIMAO STASZCZAK",
+                "noCargoRespDeclDisp": "Ordenador de Despesas",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 2020,
+                "noServico": "AR CONDICIONADO - INSTALACAO/MONTAGEM/DESMONATAGEM/REMOÇÃO -(PAREDE / SISTEMAS)",
+                "dsDetalhada": "Manutenção da linha VRF onde estão instalados 3 ar split e 8 de teto para aten der ao Gabinete da Reitoria do IFMS.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "serviço",
+                "vrEstimadoItem": 3970.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "11815264000110",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "VINTAGE SERVICOS LTDA - EPP",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

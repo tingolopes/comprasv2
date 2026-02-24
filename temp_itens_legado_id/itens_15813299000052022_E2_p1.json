@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813299000052022",
+        "data_extracao": "2026-02-13 11:39:03",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 53918435,
+                "numeroLicitacao": "15813299520221",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 99,
+                "nomeModalidade": "RDC",
+                "numeroAviso": 52022,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 5622,
+                "nomeServico": "OBRAS CIVIS PUBLICAS ( CONSTRUCAO )",
+                "cnpjFornecedor": "31469909000117",
+                "nomeFornecedor": "LUANA GOMES MAGRI PROJETOS E CONSTRUCOES LTDA",
+                "quantidade": 1,
+                "unidade": "UNIDADE",
+                "descricaoItem": "Obras Civis PúblicasConstrução de módulos em estrutura metálica com telhamen to em aço/alumínio que servirão como passarelas cobertas entre os blocos e out ras edificações do Campus Naviraí do IFMS, com área aproximada de 327,08 m2, c om elaboração do Projeto executivo, conforme condições, quantidades e exigênci as estabelecidas neste Edital e seus anexos.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 206342.23,
+                "decreto7174": "false",
+                "criterioJulgamento": "Maior Desconto",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813299000052022",
+                "idCompraItem": "1581329900005202200001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

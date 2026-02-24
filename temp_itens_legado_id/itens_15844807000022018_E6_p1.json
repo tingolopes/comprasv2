@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15844807000022018",
+        "data_extracao": "2026-02-13 09:39:51",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15844807000022018",
+                "idCompraItem": "1584480700002201800001",
+                "coUasg": 158448,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 2,
+                "dtAnoAvisoLicitacao": 2018,
+                "nuInciso": "00",
+                "nuProcesso": "23347006286201859",
+                "vrEstimado": 50000.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 25º, Caput da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Evitar a paralisação do fornecimento do referido serviço",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "HILDA RIBEIRO ROMERO",
+                "noCargoRespDeclDisp": "Ordenadora de Despesas",
+                "noResponsavelRatificacao": "ANA LUCIA CABRAL",
+                "noCargoRespRatificacao": "Ordenadora de Despesas em Exercício",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 22845,
+                "noServico": "FORNECIMENTO DE AGUA E COLETA DE ESGOTO SANITARIO",
+                "dsDetalhada": "Fornecimento de água encanada, coleta e tratamento de esgotos.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "serviço",
+                "vrEstimadoItem": 50000.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "03982931000120",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "EMPRESA DE SANEAMENTO DE MATO GROSSO DO SUL S.A.SANESUL",
+                "dtAlteracao": "2024-04-08T11:20:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

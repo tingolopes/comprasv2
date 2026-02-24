@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845406000382018",
+        "data_extracao": "2026-02-13 11:33:26",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845406000382018",
+                "idCompraItem": "1584540600038201800001",
+                "coUasg": 158454,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 38,
+                "dtAnoAvisoLicitacao": 2018,
+                "nuInciso": "02",
+                "nuProcesso": "23347019806201893",
+                "vrEstimado": 14198.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Valor Abaixo de R$ 17.600",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "APIO CARNIELO E SILVA",
+                "noCargoRespDeclDisp": "Ordenador de Despesas",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 14095,
+                "noConjuntoMateriais": "TRANSFORMADOR DE CORRENTE ATE 1KVA",
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "Transformadores de Potencial (TP). Cada Tp deve utilizar uma fase em comum ent re eles e em outro borne, utilizar uma fase diferente do outro(seja o primeiro  TP conectado às fases A e B e o segundo TP a ser  conectado às fases B e C).  Os TPs de medição deverão ser de 1.000VA, frequência nominal de 60Hz. A classe   de tensão a ser utilizada é de 15 kV. O equipamento deve ter classe de exati dão 0,3P75, Descargas Parciais  menores que 50pC e Classe de Temperatura B. O  produto deverá atender os requisitos indicados na norma NBR 6855/09 e NBR 1002 0/87.Para maior segurança, o serviço deverá ser feito em  linha-morta , assim  deverão ser agendados data e horário adequados junto à concessionária de energ ia elétrica para que seja feita a desenergização da rede através da chave-faca  montante mais próxima. Deverá ser feito reajuste do relé de proteção Pextron  já instalado no cabine levando em consideração as informações que a contratada  deverá  solicitar junto à concessionária para estudo de curto-circuito. Dever á ser apresentada ART do serviço de substituição dos TPse da programação do re lé de proteção.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 14198.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "Não especificado",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "19540139000156",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "3 P X SERVICOS ESPECIALIZADOS LTDA",
+                "dtAlteracao": "2024-04-08T11:45:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

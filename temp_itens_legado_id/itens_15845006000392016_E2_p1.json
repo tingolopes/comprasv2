@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845006000392016",
+        "data_extracao": "2026-02-13 09:41:14",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 38679515,
+                "numeroLicitacao": "158450063920162",
+                "uasg": 158450,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.CORUMBÁ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 392016,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": 262068,
+                "nomeMaterial": "TINTA IMPRESSORA, MATERIAL PIGMENTAÇÃO COLOIDAL  COR AZUL  APLICAÇÃO IMPRESSORA  CARGA CARTUCHO  CARACTERÍSTICAS ADICIONAIS INSOLÚVEL EM ÁGUA",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "03022965000173",
+                "nomeFornecedor": "ALBARELLO E CIA LTDA. - EPP",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1500.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-12-16T12:45:00",
+                "idCompra": "15845006000392016",
+                "idCompraItem": "1584500600039201600002"
+            },
+            {
+                "isnSidecResultadoCompra": 38679514,
+                "numeroLicitacao": "158450063920161",
+                "uasg": 158450,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.CORUMBÁ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 392016,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 204987,
+                "nomeMaterial": "TINTA IMPRESSORA, MATERIAL BASE ÁLCOOL  COR PRETA  APLICAÇÃO IMPRESSORA  CARGA CARTUCHO",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "03022965000173",
+                "nomeFornecedor": "ALBARELLO E CIA LTDA. - EPP",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1200.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-12-16T12:45:00",
+                "idCompra": "15845006000392016",
+                "idCompraItem": "1584500600039201600001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

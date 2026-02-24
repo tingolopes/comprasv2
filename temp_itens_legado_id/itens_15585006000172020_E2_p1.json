@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15585006000172020",
+        "data_extracao": "2026-02-13 11:03:19",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 48215730,
+                "numeroLicitacao": "155850061720201",
+                "uasg": 155850,
+                "nomeUasg": "INSTITUTO FEDERAL DE MS/CAMPUS JARDIM",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 172020,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 20060,
+                "nomeServico": "ELABORACAO / ANALISE PROJETO - ENGENHARIA",
+                "cnpjFornecedor": "26432895000127",
+                "nomeFornecedor": "FRANCISCO SEBASTIAO DA SILVA JUNIOR",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Contratação de profissional ou empresa especializada em sistemas de ar-condici onado e refrigeração, para elaboração do Plano de Manutenção, Operação e Contr ole (PMOC) e outras orientações técnicas referentes aos sistemas de climatizaç ão dos prédios vinculados ao Instituto Federal de Educação, Ciência e Tecnolog ia de Mato Grosso do SulCampus Jardim/MS",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1500.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:36:00",
+                "idCompra": "15585006000172020",
+                "idCompraItem": "1558500600017202000001"
+            },
+            {
+                "isnSidecResultadoCompra": 48215731,
+                "numeroLicitacao": "155850061720202",
+                "uasg": 155850,
+                "nomeUasg": "INSTITUTO FEDERAL DE MS/CAMPUS JARDIM",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 172020,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 3492,
+                "nomeServico": "AR CONDICIONADO - MANUTENCAO DE APARELHOS DE PAREDE",
+                "cnpjFornecedor": "26432895000127",
+                "nomeFornecedor": "FRANCISCO SEBASTIAO DA SILVA JUNIOR",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Ar condicionado manutenção preventiva dos aparelhos de ar condicionado do ca mpus Jardim",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 12000.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:36:00",
+                "idCompra": "15585006000172020",
+                "idCompraItem": "1558500600017202000002"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

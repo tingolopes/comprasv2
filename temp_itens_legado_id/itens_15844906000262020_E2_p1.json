@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15844906000262020",
+        "data_extracao": "2026-02-13 09:58:29",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 48071769,
+                "numeroLicitacao": "158449062620201",
+                "uasg": 158449,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.C.GRANDE",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 262020,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 439348,
+                "nomeMaterial": "DISCO MAGNÉTICO, MEMÓRIA 240 GB APLICAÇÃO INFORMÁTICA  MODELO SSD  INTERFACE SATA III  TIPO RÍGIDO",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "37886707000157",
+                "nomeFornecedor": "RENATO VILELA FERNANDES 02192920199",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 698.22,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-05-26T06:12:00",
+                "idCompra": "15844906000262020",
+                "idCompraItem": "1584490600026202000001"
+            },
+            {
+                "isnSidecResultadoCompra": 48071770,
+                "numeroLicitacao": "158449062620202",
+                "uasg": 158449,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.C.GRANDE",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 262020,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": 347838,
+                "nomeMaterial": "GAVETA DISCO RÍGIDO, TIPO EXTERNA  TIPO PORTA USB  APLICAÇÃO PARA HD DE 2,5 POLEGADAS  MATERIAL GABINETE ALUMÍNIO",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "30814518000120",
+                "nomeFornecedor": "MANHUACU CONSTRUCAO, TERCEIRIZACAO E COMERCIALIZACAO DE",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 195.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-03-10T14:15:00",
+                "idCompra": "15844906000262020",
+                "idCompraItem": "1584490600026202000002"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

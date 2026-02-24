@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813207000092021",
+        "data_extracao": "2026-02-13 11:26:51",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 49328301,
+                "numeroLicitacao": "15813207920211",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 7,
+                "nomeModalidade": "INEXIGIBILIDADE DE LICITAÇÃO",
+                "numeroAviso": 92021,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 19321,
+                "nomeServico": "CURSO / TREINAMENTO EDUCACAO - DISTANCIA",
+                "cnpjFornecedor": "10825077000154",
+                "nomeFornecedor": "HCA EDUCACAO E PESQUISA LTDA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Contratação do Curso \"Reconhecimento e Renovação do Reconhecimento dos Cursos de Graduação: Presencial e EaD\" com carga horária de 16 horas, e que será real izado na modalidade à distância a ser ofertado para cinco servidores.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1380.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813207000092021",
+                "idCompraItem": "1581320700009202100001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

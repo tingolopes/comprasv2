@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000162022",
+        "data_extracao": "2026-02-13 11:27:17",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 52062268,
+                "numeroLicitacao": "158132061620222",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 162022,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 14907,
+                "nomeServico": "ALMOXARIFE / CONTROLE DE ESTOQUE",
+                "cnpjFornecedor": "43602746000188",
+                "nomeFornecedor": "PRIME SOLUCOES EM SERVICOS LTDA",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "Auxiliar de almoxarife 1 posto",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 19677.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000162022",
+                "idCompraItem": "1581320600016202200002"
+            },
+            {
+                "isnSidecResultadoCompra": 52062267,
+                "numeroLicitacao": "158132061620221",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 162022,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 8729,
+                "nomeServico": "PRESTACAO DE SERVICOS DE PORTARIA / RECEPCAO",
+                "cnpjFornecedor": "43602746000188",
+                "nomeFornecedor": "PRIME SOLUCOES EM SERVICOS LTDA",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "Recepcionistaposto de serviço com 44 h semanais 1 posto",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 20133.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2025-01-30T12:52:29",
+                "idCompra": "15813206000162022",
+                "idCompraItem": "1581320600016202200001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813206000052017",
+        "data_extracao": "2026-02-13 11:18:58",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000052017",
+                "idCompraItem": "1581320600005201700001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 5,
+                "dtAnoAvisoLicitacao": 2017,
+                "nuInciso": "02",
+                "nuProcesso": "23347003102201718",
+                "vrEstimado": 1000.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Aquisição de produtos e/ou serviços com valor inferior a R$ 8.000,00",
+                "nuCpfRespDeclDisp": "01003897169",
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "LUIZ SIMAO STASZCZAK",
+                "noCargoRespDeclDisp": "Ordenador de Despesas",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 150420,
+                "noConjuntoMateriais": null,
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "Botom fundido com a logo do IF, 10 X 13 mm, com pino auxiliar, cor dourada.",
+                "qtMaterialAlt": 1000,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 1000.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "DGB",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "04743532000170",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "MARCIO SANDRO MALLET PEZARIM - ME",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

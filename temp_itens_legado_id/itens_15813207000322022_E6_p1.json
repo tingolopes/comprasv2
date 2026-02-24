@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813207000322022",
+        "data_extracao": "2026-02-13 11:29:21",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813207000322022",
+                "idCompraItem": "1581320700032202200001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 32,
+                "dtAnoAvisoLicitacao": 2022,
+                "nuInciso": "00",
+                "nuProcesso": "23347013710202206",
+                "vrEstimado": 12364.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": "Objeto: Contratação de serviço para o fornecime                             nto de água, coleta e tratamento de esgoto para                              a Reitoria (prédio definitivo) - Rua Ceará, 97                             2, Santa Fé em Campo Grande - MS",
+                "dsFundamentoLegal": "Fundamento Legal: Art. 25º, Caput da Lei nº 8.666 de 21º/06/1993.",
+                "dsJustificativa": "Justificativa: Inviabilidade de competição.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "ELAINE BORGES MONTEIRO CASSIANO",
+                "noCargoRespDeclDisp": "Ordenadora de Despesas",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 22845,
+                "noServico": "FORNECIMENTO DE AGUA E COLETA DE ESGOTO SANITARIO",
+                "dsDetalhada": "Fornecimento de Água e Coleta de Esgoto Sanitário para atender o prédio da rei toria definitiva, na Rua Ceará, 972 - Santa Fé em Campo Grande - MS.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "UNIDADE",
+                "vrEstimadoItem": 12364.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "04089570000150",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "AGUAS GUARIROBA SA",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

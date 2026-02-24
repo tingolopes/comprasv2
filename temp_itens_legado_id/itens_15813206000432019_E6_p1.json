@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813206000432019",
+        "data_extracao": "2026-02-13 11:23:31",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000432019",
+                "idCompraItem": "1581320600043201900001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 43,
+                "dtAnoAvisoLicitacao": 2019,
+                "nuInciso": "02",
+                "nuProcesso": "23347024304201965",
+                "vrEstimado": 4225.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Compra de Baixo vulto",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "DIEGO HENRIQUE PEREIRA DE VIVEIROS",
+                "noCargoRespDeclDisp": "Ordenador de Despesas por Delegação",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 457587,
+                "noConjuntoMateriais": null,
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": null,
+                "qtMaterialAlt": 250,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 4225.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "Concentro",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "01520667000420",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "CONCENTRO MARCAS LTDA.",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

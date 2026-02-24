@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813206000042016",
+        "data_extracao": "2026-02-13 11:16:52",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000042016",
+                "idCompraItem": "1581320600004201600001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 4,
+                "dtAnoAvisoLicitacao": 2016,
+                "nuInciso": "02",
+                "nuProcesso": "23347002971201644",
+                "vrEstimado": 600.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Valor dentro do limite legal.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "LUIZ SIMAO STASZCZAK",
+                "noCargoRespDeclDisp": "Ordenador de Despesas",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 5584,
+                "noServico": "INSTALACAO DE PELICULA DE PROTECAO",
+                "dsDetalhada": "Instalação de Película Adesiva tipo Insulfilme, cor verde espelhada, sendo 4 t amanhos de 1,00 X 2,33 m cada.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "INSTALAÇÃO",
+                "vrEstimadoItem": 600.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "23089577000117",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "CELSA HELENA DE ARRUDA 94980870163",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845206000262019",
+        "data_extracao": "2026-02-13 11:07:18",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 45893363,
+                "numeroLicitacao": "158452062620191",
+                "uasg": 158452,
+                "nomeUasg": "INST.F.DE ED.,CIENC.E TEC.DO MS/C.N ANDRADINA",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 262019,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 4120,
+                "nomeServico": "ENERGIA ELETRICA - FORNECIMENTO MERCADO REGULADO",
+                "cnpjFornecedor": "15413826000150",
+                "nomeFornecedor": "ENERGISA MATO GROSSO DO SUL - DISTRIBUIDORA DE ENERGIA S.A.",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Fornecimento de energia elétrica à unidade administrativa e incubadora do IFMS Campus Nova Andradina [FINOVA], conforme TC N° 002/2019PROEX/IFMS.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 8529.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:40:00",
+                "idCompra": "15845206000262019",
+                "idCompraItem": "1584520600026201900001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

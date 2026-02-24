@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813207000102017",
+        "data_extracao": "2026-02-13 11:19:59",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813207000102017",
+                "idCompraItem": "1581320700010201700001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 10,
+                "dtAnoAvisoLicitacao": 2017,
+                "nuInciso": "02",
+                "nuProcesso": "23347011337201783",
+                "vrEstimado": 4400.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 25º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Curso único relevante sobre o tema em nível avançado",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "JOSE JORGE GUIMARAES GARCIA",
+                "noCargoRespDeclDisp": "Gestor Financeiro",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 18821,
+                "noServico": "TREINAMENTO / CAPACITACAO - SEGURANCA INDUSTRIAL",
+                "dsDetalhada": "Participação dos servidores Alexandre Zanella, Fhelippe Werle, Erika Moreira, Marcos Oshiro e Antônio Leonardo Neto no curso \"Elaboração de Planilhas de Orç amento de Obras - SINAP AVANÇADO\"",
+                "qtMaterialAlt": 5,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 4400.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "22965437000100",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "CONNECT ON CURSOS E EVENTOS EIRELI - ME",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

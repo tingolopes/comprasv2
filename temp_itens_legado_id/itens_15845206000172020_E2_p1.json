@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845206000172020",
+        "data_extracao": "2026-02-13 11:08:08",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 46961368,
+                "numeroLicitacao": "158452061720201",
+                "uasg": 158452,
+                "nomeUasg": "INST.F.DE ED.,CIENC.E TEC.DO MS/C.N ANDRADINA",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 172020,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 230375,
+                "nomeMaterial": "CONJUNTO SISTEMA IRRIGAÇÃO, TIPO MICROASPERSÃO  TIPO MOTOR TRIFÁSICO  POTÊNCIA 6 CV ROTAÇÃO 2.400 RPM TENSÃO 220/380 V VAZÃO 9 M3/H ÁREA OCUPADA 1 HA COMPONENTES MOTO BOMBA/TUBOS/REGISTRO GLOBO FECHADO/VÁLVULA DE  COMPRIMENTO TUBO 402 (PVC) / 1.000 (POLIETILENO) M DIÂMETRO TUBO 50 (PVC) / 16 (POLIETILENO) MM",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "06128260000123",
+                "nomeFornecedor": "CASA DA IRRIGACAO LTDA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 20000.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-07-23T10:57:00",
+                "idCompra": "15845206000172020",
+                "idCompraItem": "1584520600017202000001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

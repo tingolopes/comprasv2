@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813202000012019",
+        "data_extracao": "2026-02-13 11:38:17",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 45738236,
+                "numeroLicitacao": "15813202120191",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 2,
+                "nomeModalidade": "TOMADA DE PREÇOS",
+                "numeroAviso": 12019,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 5622,
+                "nomeServico": "OBRAS CIVIS PUBLICAS ( CONSTRUCAO )",
+                "cnpjFornecedor": "14416381000107",
+                "nomeFornecedor": "B & G CONSTRUCOES EIRELI         -",
+                "quantidade": 1,
+                "unidade": "Unidade",
+                "descricaoItem": "CONTRATAçãO DE EMPRESA ESPECIALIZADA PARA A EXECUçãO DA COBERTURA DA áREA DE C onvivência entre os Blocos A e B do Campus  Dourados, localizado na Rua Filint o Müller, nº 1.790, Bairro Jardim Canaã I, CEP: 79.833-520, Dourados/MS, media nte o regime empreitada por preço unitário, conforme especificações constantes no Projeto BásicoANEXO II",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 482475.8,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813202000012019",
+                "idCompraItem": "1581320200001201900001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845206000192017",
+        "data_extracao": "2026-02-13 11:05:25",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845206000192017",
+                "idCompraItem": "1584520600019201700001",
+                "coUasg": 158452,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 19,
+                "dtAnoAvisoLicitacao": 2017,
+                "nuInciso": "02",
+                "nuProcesso": "94425.000222/2017",
+                "vrEstimado": 2506.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Aquisição de produtos e/ou serviços com valor inferior a R$ 8.000,00",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "SERGIO PAULO DE SOUZA",
+                "noCargoRespDeclDisp": "Diretor de Adminsitração",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 29718,
+                "noConjuntoMateriais": "TELEVISOR / TELEVISAO / TV",
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "TELEVISOR, 46 POL, 110/220 V, FULL HD, SMART TV, DVT, WIDESCREEN, 2 ENTRADAS R F, LED, CONTROLE REMOTO.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "UN",
+                "vrEstimadoItem": 2506.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "Philco",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "24805895000108",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "SINTEK COMERCIO DE ELETRO ELETRONICOS E PRESTACAO DE SE",
+                "dtAlteracao": "2024-04-08T11:40:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

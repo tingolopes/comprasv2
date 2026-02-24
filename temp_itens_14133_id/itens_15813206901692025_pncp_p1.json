@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-contratacoes/2.1_consultarItensContratacoes_PNCP_14133_Id?tipo=idCompra&codigo=15813206901692025&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-13 10:53:50",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206901692025",
+                "idCompraItem": "1581320690169202500001",
+                "idContratacaoPNCP": "10673078000120-1-000031/2025",
+                "unidadeOrgaoCodigoUnidade": "158132",
+                "orgaoEntidadeCnpj": "10673078000120",
+                "numeroItemPncp": 1,
+                "numeroItemCompra": 1,
+                "numeroGrupo": 0,
+                "descricaoResumida": "Registro de Marca / Patente",
+                "materialOuServico": "S",
+                "materialOuServicoNome": "Serviço",
+                "codigoClasse": null,
+                "codigoGrupo": 167,
+                "codItemCatalogo": 16225,
+                "descricaodetalhada": "Registro de Marca / Patente",
+                "unidadeMedida": "UNIDADE",
+                "orcamentoSigiloso": false,
+                "itemCategoriaIdPncp": 3,
+                "itemCategoriaNome": "Informática (TIC)",
+                "criterioJulgamentoIdPncp": 1,
+                "criterioJulgamentoNome": "Menor preço",
+                "situacaoCompraItem": "2",
+                "situacaoCompraItemNome": "Homologado",
+                "tipoBeneficio": "1",
+                "tipoBeneficioNome": "Participação exclusiva para ME/EPP",
+                "incentivoProdutivoBasico": false,
+                "quantidade": 20.0,
+                "valorUnitarioEstimado": 3100.0,
+                "valorTotal": 62000.0,
+                "temResultado": true,
+                "codFornecedor": "27993532000123",
+                "nomeFornecedor": "SIMAN GESTAO E CONSULTORIA ESTRATEGICA LTDA",
+                "quantidadeResultado": 20.0,
+                "valorUnitarioResultado": 1650.0,
+                "valorTotalResultado": 33000.0,
+                "dataInclusaoPncp": "2025-04-03T15:04:34",
+                "dataAtualizacaoPncp": "2025-04-22T17:45:41",
+                "dataResultado": "2025-04-22 00:00:00.0000000",
+                "margemPreferenciaNormal": false,
+                "percentualMargemPreferenciaNormal": null,
+                "margemPreferenciaAdicional": false,
+                "percentualMargemPreferenciaAdicional": null,
+                "codigoNCM": null,
+                "descricaoNCM": null,
+                "numeroControlePNCPCompra": "10673078000120-1-000031/2025"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845106000012016",
+        "data_extracao": "2026-02-13 10:03:42",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 37169525,
+                "numeroLicitacao": "15845106120161",
+                "uasg": 158451,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.COXIM",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 12016,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 47678,
+                "nomeMaterial": "GÁS LIQUEFEITO DE PETRÓLEO - GLP, GAS ENGARRAFADO ( GLP ) NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "00864795000186",
+                "nomeFornecedor": "LAURO EBLING - EPP",
+                "quantidade": null,
+                "unidade": "Recarga de 13 kg",
+                "descricaoItem": "Recarga de gás liquefeito de petróleo ? GLP P13  13 kg de gás propano-butano",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 930.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:32:00",
+                "idCompra": "15845106000012016",
+                "idCompraItem": "1584510600001201600001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

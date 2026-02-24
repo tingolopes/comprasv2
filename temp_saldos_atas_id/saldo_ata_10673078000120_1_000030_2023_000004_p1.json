@@ -1,0 +1,24 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/4_consultarEmpenhosSaldoItem?numeroAta=00005%2F2023&unidadeGerenciadora=158132&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-23 16:04:00",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroItem": "00035",
+                "unidade": "158449 - INST. FED. DO MS/CAMPUS CAMPO GRANDE",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 19.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 19.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

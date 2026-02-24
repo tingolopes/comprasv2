@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15844906000302019",
+        "data_extracao": "2026-02-13 09:53:27",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15844906000302019",
+                "idCompraItem": "1584490600030201900001",
+                "coUasg": 158449,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 30,
+                "dtAnoAvisoLicitacao": 2019,
+                "nuInciso": "02",
+                "nuProcesso": "23347016387201919",
+                "vrEstimado": 1015.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Aquisição de produtos e/ou serviços com valor inferior a R$ 17.600,00",
+                "nuCpfRespDeclDisp": "01116291100",
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "ROSANE DE BRITO FERNANDEZ GARCIA",
+                "noCargoRespDeclDisp": "Ordenadora de Despesas",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 150971,
+                "noConjuntoMateriais": null,
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "Refil Filtro (elemento filtrante), desenvolvido para uso com água potável, com  finalidade de reter impurezas contidas na água, assim como reduzir a concentr ação de cloro, odores e gostos desagradáveis presentes na água.  Volume Intern o do aparelho: 3600 ml; Vazão: 45 l/h; Vida útil eficiência de cloro: 4.000 li tros ou 6 meses de uso; Vida útil eficiência bacteriológica e nível microbioló gico: 4.000 litros ou 6 meses de uso; Classe Redução de Cloro: (C):I =75%; Cla sse de retenção de partículas: (P) IV =15 m a =30   MEDIDAS (sem embalagem):    Altura = 185 mm; Largura = 55 mm; Profundidade = 55 mm; Peso = 0,270 kg.",
+                "qtMaterialAlt": 35,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 1015.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "Policarbon",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "23075030000162",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "MENDELI REPRESENTACAO COMERCIO E SERVICOS EIRELI ME",
+                "dtAlteracao": "2024-04-08T11:27:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

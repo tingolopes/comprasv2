@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000082021",
+        "data_extracao": "2026-02-13 11:24:58",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 49074978,
+                "numeroLicitacao": "15813206820212",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 82021,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 24015,
+                "nomeServico": "SERVICO DE VIGILANCIA ARMADA",
+                "cnpjFornecedor": "10599807000146",
+                "nomeFornecedor": "GRADI VIGILANCIA E SEGURANCA LTDA",
+                "quantidade": null,
+                "unidade": "Posto",
+                "descricaoItem": "Posto de vigilância armada de 12  horas noturnas, jornadas de 12x36  horas, de segunda a domingo",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 69011.58,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000082021",
+                "idCompraItem": "1581320600008202100002"
+            },
+            {
+                "isnSidecResultadoCompra": 49074977,
+                "numeroLicitacao": "15813206820211",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 82021,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 24015,
+                "nomeServico": "SERVICO DE VIGILANCIA ARMADA",
+                "cnpjFornecedor": "10599807000146",
+                "nomeFornecedor": "GRADI VIGILANCIA E SEGURANCA LTDA",
+                "quantidade": null,
+                "unidade": "Posto",
+                "descricaoItem": "Posto de vigilância armada de 12  horas diurnas, jornadas de 12x36  horas, de segunda a domingo",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 27903.48,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000082021",
+                "idCompraItem": "1581320600008202100001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

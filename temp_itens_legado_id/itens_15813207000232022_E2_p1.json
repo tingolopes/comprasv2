@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813207000232022",
+        "data_extracao": "2026-02-13 11:29:07",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 53292395,
+                "numeroLicitacao": "158132072320221",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 7,
+                "nomeModalidade": "INEXIGIBILIDADE DE LICITAÇÃO",
+                "numeroAviso": 232022,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 892,
+                "nomeServico": "PROPAGANDA E PUBLICIDADE",
+                "cnpjFornecedor": "13347016000117",
+                "nomeFornecedor": "FACEBOOK SERVICOS ONLINE DO BRASIL LTDA.",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "Contratação de serviço de impulsionamento de postagem para divulgação em massa do Processo Seletivo 2023 para os cursos técnicos integrados e demais seleçõe s do IFMS nas plataformas do Facebook e Instagram.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 30000.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813207000232022",
+                "idCompraItem": "1581320700023202200001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

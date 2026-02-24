@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845106000082019",
+        "data_extracao": "2026-02-13 10:11:31",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845106000082019",
+                "idCompraItem": "1584510600008201900001",
+                "coUasg": 158451,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 8,
+                "dtAnoAvisoLicitacao": 2019,
+                "nuInciso": "02",
+                "nuProcesso": "23347005958201990",
+                "vrEstimado": 870.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: A negociação de preços restou frustrada na Cotação Eletrônica nº 04/2019.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "SANDRA DA SILVA COSTA",
+                "noCargoRespDeclDisp": "Gestor Financeiro",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 150787,
+                "noConjuntoMateriais": null,
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "KIT DE ANÁLISE DE ÁGUA DOCE - para monitorar a qualidade de água em Piscicultu ra, com as seguintes aplicações: Oxigênio Dissolvido, pH, Amônia Total, Nitrit o, Alcalinidade Total, Dureza. Acompanha manual de instruções em português. Ga rantia de fabricação de no mínimo 01 (um) ano.",
+                "qtMaterialAlt": 2,
+                "noUnidadeMedida": "UNIDADE",
+                "vrEstimadoItem": 870.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "SULPESCA",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "00936903000189",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "SULPESCA INDUSTRIA E COMERCIO DE ARTEFATOS DE AQUIC LTD",
+                "dtAlteracao": "2024-04-08T11:32:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

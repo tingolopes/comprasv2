@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845106000092016",
+        "data_extracao": "2026-02-13 10:03:55",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845106000092016",
+                "idCompraItem": "1584510600009201600001",
+                "coUasg": 158451,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 9,
+                "dtAnoAvisoLicitacao": 2016,
+                "nuInciso": "02",
+                "nuProcesso": "23347005406201639",
+                "vrEstimado": 104.94,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: O valor total da compra não ultrapassa o valor máximo permitido pela legislação vigente.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "JOAO OTAVIO CENEDEZI PIMENTA",
+                "noCargoRespDeclDisp": "Gestor Financeiro",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 108898,
+                "noConjuntoMateriais": "CAIXA DE PLASTICO",
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "Caixa plástica organizadora do tipo baú multiuso, capacidade 30 litros e tampa  com trava, para criação de insetos. Altura 27 x largura 35 x comprimento 44 c m. Cor preta e cinza. Material plástico.",
+                "qtMaterialAlt": 6,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 104.94,
+                "dsFabricante": null,
+                "noMarcaMaterial": "Diversos",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "07699107000119",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "M M ALVES BERNART & CIA LTDA - ME",
+                "dtAlteracao": "2024-04-08T11:32:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

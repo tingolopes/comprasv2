@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00078%2F2024&unidadeGerenciadora=158132&numeroItem=00031&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:37:54",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00078/2024",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00031",
+                "codigoPdm": null,
+                "descricaoItem": "Prestação de Serviço de Limpeza e Conservação - Esquadrias  Faces Externas e I nternas - Jardim",
+                "fornecedor": "17893955000118 - IMPACTO PRESTADORA DE SERVICOS LTDA",
+                "quantidadeRegistrada": 1140.0,
+                "saldoAdesoes": 2280.0,
+                "saldoRemanejamentoEmpenho": 1045.0,
+                "qtdLimiteAdesao": 2280.0,
+                "qtdLimiteInformadoCompra": 2280.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2024-10-21T15:33:57",
+                "dataHoraAtualizacao": "2025-11-28T14:44:41",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "155850",
+                "nomeUnidade": "INST.FED.DO MS/CAMPUS JARDIM",
+                "tipoUnidade": "PARTICIPANTE"
+            },
+            {
+                "numeroAta": "00078/2024",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00031",
+                "codigoPdm": null,
+                "descricaoItem": "Prestação de Serviço de Limpeza e Conservação - Esquadrias  Faces Externas e I nternas - Jardim",
+                "fornecedor": "17893955000118 - IMPACTO PRESTADORA DE SERVICOS LTDA",
+                "quantidadeRegistrada": 0.0,
+                "saldoAdesoes": 2280.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 2280.0,
+                "qtdLimiteInformadoCompra": 2280.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2024-10-21T15:33:41",
+                "dataHoraAtualizacao": "2024-11-11T11:46:36",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

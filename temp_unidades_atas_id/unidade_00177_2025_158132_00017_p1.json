@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00177%2F2025&unidadeGerenciadora=158132&numeroItem=00017&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:59:46",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00177/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00017",
+                "codigoPdm": "12936",
+                "descricaoItem": "TRATOR, POTÊNCIA 110 CV, TIPO COMBUSTÍVEL DIESEL, TIPO MOTOR TURBO INTERCOOLER, 4 CILINDROS, TIPO USO AGRÍCOLA, CARACTERÍSTICAS ADICIONAIS PLATAFORMADO, COM CAPOTA E ESTRUTURA ANTICAPOTAGE M, TIPO TRATOR",
+                "fornecedor": "54728475000209 - PESO CAMINHOES E IMPLEMENTOS LTDA",
+                "quantidadeRegistrada": 0.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": 0.0,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2025-12-17T11:07:47",
+                "dataHoraAtualizacao": "2025-12-17T11:44:25",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            },
+            {
+                "numeroAta": "00177/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00017",
+                "codigoPdm": "12936",
+                "descricaoItem": "TRATOR, POTÊNCIA 110 CV, TIPO COMBUSTÍVEL DIESEL, TIPO MOTOR TURBO INTERCOOLER, 4 CILINDROS, TIPO USO AGRÍCOLA, CARACTERÍSTICAS ADICIONAIS PLATAFORMADO, COM CAPOTA E ESTRUTURA ANTICAPOTAGE M, TIPO TRATOR",
+                "fornecedor": "54728475000209 - PESO CAMINHOES E IMPLEMENTOS LTDA",
+                "quantidadeRegistrada": 1.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 1.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": 0.0,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2025-12-17T11:08:16",
+                "dataHoraAtualizacao": "2025-12-17T11:44:27",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158451",
+                "nomeUnidade": "INST. FED. DO MS/CAMPUS COXIM",
+                "tipoUnidade": "PARTICIPANTE"
+            },
+            {
+                "numeroAta": "00177/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00017",
+                "codigoPdm": "12936",
+                "descricaoItem": "TRATOR, POTÊNCIA 110 CV, TIPO COMBUSTÍVEL DIESEL, TIPO MOTOR TURBO INTERCOOLER, 4 CILINDROS, TIPO USO AGRÍCOLA, CARACTERÍSTICAS ADICIONAIS PLATAFORMADO, COM CAPOTA E ESTRUTURA ANTICAPOTAGE M, TIPO TRATOR",
+                "fornecedor": "54728475000209 - PESO CAMINHOES E IMPLEMENTOS LTDA",
+                "quantidadeRegistrada": 1.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 1.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": 0.0,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2025-12-17T11:08:16",
+                "dataHoraAtualizacao": "2025-12-17T11:44:27",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158452",
+                "nomeUnidade": "INST. FED. DO MS/CAMPUS NOVA ANDRADINA",
+                "tipoUnidade": "PARTICIPANTE"
+            }
+        ],
+        "totalRegistros": 3,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

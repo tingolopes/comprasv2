@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000162020",
+        "data_extracao": "2026-02-13 11:23:58",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 46580243,
+                "numeroLicitacao": "158132061620201",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 162020,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 18961,
+                "nomeServico": "CONFECCAO / INSTALACAO ETIQUETA PERSONALIZADA - ADESIVO",
+                "cnpjFornecedor": "27813730000168",
+                "nomeFornecedor": "LESLLEY DANDARA ACAMI GUILHERME 03478497175",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Retirada de Adesivo de fachada de Vidro",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1890.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000162020",
+                "idCompraItem": "1581320600016202000001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

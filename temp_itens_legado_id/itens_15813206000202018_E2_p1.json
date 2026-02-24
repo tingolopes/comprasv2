@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000202018",
+        "data_extracao": "2026-02-13 11:21:21",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 42463711,
+                "numeroLicitacao": "158132062020181",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 202018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 12700,
+                "nomeServico": "INSTALACAO DE FORRO / PECA DECORATIVA DE GESSO - TETO / PAREDE",
+                "cnpjFornecedor": "29994335000154",
+                "nomeFornecedor": "VALDENIR SILVA SANTANA",
+                "quantidade": null,
+                "unidade": "M²",
+                "descricaoItem": "Serviço de reparos em gesso acartonado com fornecimento de material, massa cor rida, tinta, lona plástica, andaimes, totalizando 55,42m² de área a ser repara da.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 6880.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000202018",
+                "idCompraItem": "1581320600020201800001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

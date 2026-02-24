@@ -1,0 +1,50 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/2_consultarARPItem?codigoUnidadeGerenciadora=158132&dataVigenciaInicialMin=2024-08-28&dataVigenciaInicialMax=2024-08-28&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 10:50:29",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAtaRegistroPreco": "00071/2024",
+                "codigoUnidadeGerenciadora": "158132",
+                "numeroCompra": "90003",
+                "anoCompra": "2024",
+                "codigoModalidadeCompra": "05",
+                "dataAssinatura": "2024-08-27T00:00:00",
+                "dataVigenciaInicial": "2024-08-28",
+                "dataVigenciaFinal": "2026-08-28",
+                "numeroItem": "00001",
+                "codigoItem": 482813,
+                "descricaoItem": "TRATOR, POTÊNCIA MÍNIMO 105 CV, TIPO COMBUSTÍVEL DIESEL, TIPO MOTOR 4 CILINDROS, TURBO, TRAÇÃO 4X4, TIPO USO AGRÍCOLA, CARACTERÍSTICAS ADICIONAIS CABINADO, AR CONDICIONADO QUENTE E FRIO, TIPO TRATOR",
+                "tipoItem": "Material",
+                "quantidadeHomologadaItem": 3.0,
+                "classificacaoFornecedor": "001",
+                "niFornecedor": "40551745001135",
+                "nomeRazaoSocialFornecedor": "MASON EQUIPAMENTOS AGRICOLAS LTDA",
+                "quantidadeHomologadaVencedor": 3,
+                "valorUnitario": 699000.0,
+                "valorTotal": 2097000.0,
+                "maximoAdesao": 0.0,
+                "nomeUnidadeGerenciadora": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "nomeModalidadeCompra": "Pregão",
+                "idCompra": "15813205900032024",
+                "numeroControlePncpCompra": "10673078000120-1-000043/2024",
+                "dataHoraInclusao": "2024-09-05T11:39:28",
+                "dataHoraAtualizacao": "2024-09-05T11:39:28",
+                "quantidadeEmpenhada": 0.0,
+                "percentualMaiorDesconto": 0.0,
+                "situacaoSicaf": "1",
+                "dataHoraExclusao": null,
+                "itemExcluido": false,
+                "numeroControlePncpAta": "10673078000120-1-000043/2024-000001",
+                "codigoPdm": 12936,
+                "nomePdm": "TRATOR"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

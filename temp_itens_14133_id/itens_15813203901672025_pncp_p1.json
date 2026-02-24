@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-contratacoes/2.1_consultarItensContratacoes_PNCP_14133_Id?tipo=idCompra&codigo=15813203901672025&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-13 10:44:22",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813203901672025",
+                "idCompraItem": "1581320390167202500001",
+                "idContratacaoPNCP": "10673078000120-1-000043/2025",
+                "unidadeOrgaoCodigoUnidade": "158132",
+                "orgaoEntidadeCnpj": "10673078000120",
+                "numeroItemPncp": 1,
+                "numeroItemCompra": 1,
+                "numeroGrupo": 0,
+                "descricaoResumida": "Obras Civis de Edificação Prediais",
+                "materialOuServico": "S",
+                "materialOuServicoNome": "Serviço",
+                "codigoClasse": null,
+                "codigoGrupo": 541,
+                "codItemCatalogo": 1619,
+                "descricaodetalhada": "Obras Civis de Edificação Prediais",
+                "unidadeMedida": "UNIDADE",
+                "orcamentoSigiloso": false,
+                "itemCategoriaIdPncp": 3,
+                "itemCategoriaNome": "Informática (TIC)",
+                "criterioJulgamentoIdPncp": 2,
+                "criterioJulgamentoNome": "Maior desconto",
+                "situacaoCompraItem": "2",
+                "situacaoCompraItemNome": "Homologado",
+                "tipoBeneficio": "5",
+                "tipoBeneficioNome": "Não se aplica",
+                "incentivoProdutivoBasico": false,
+                "quantidade": 1.0,
+                "valorUnitarioEstimado": 2496579.19,
+                "valorTotal": 2496579.19,
+                "temResultado": true,
+                "codFornecedor": "34807986000128",
+                "nomeFornecedor": "TCA ARQUITETURA E CONSULTORIA LTDA",
+                "quantidadeResultado": 1.0,
+                "valorUnitarioResultado": 2023477.4335,
+                "valorTotalResultado": 2023477.4335,
+                "dataInclusaoPncp": "2025-05-22T07:21:00",
+                "dataAtualizacaoPncp": "2025-09-16T20:52:18",
+                "dataResultado": "2025-07-08 00:00:00.0000000",
+                "margemPreferenciaNormal": false,
+                "percentualMargemPreferenciaNormal": null,
+                "margemPreferenciaAdicional": false,
+                "percentualMargemPreferenciaAdicional": null,
+                "codigoNCM": null,
+                "descricaoNCM": null,
+                "numeroControlePNCPCompra": "10673078000120-1-000043/2025"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

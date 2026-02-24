@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845006000362019",
+        "data_extracao": "2026-02-13 09:44:46",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845006000362019",
+                "idCompraItem": "1584500600036201900001",
+                "coUasg": 158450,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 36,
+                "dtAnoAvisoLicitacao": 2019,
+                "nuInciso": "02",
+                "nuProcesso": "23347022309201953",
+                "vrEstimado": 5000.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Devido ao valor da contratação.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "LAURA DE SOUZA FERNANDES RAMOS",
+                "noCargoRespDeclDisp": "Gestora Financeira",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 20060,
+                "noServico": "ELABORACAO / ANALISE PROJETO - ENGENHARIA",
+                "dsDetalhada": "Empresa de engenharia para elaboração e Aprovação de Projeto Preventivo de Inc êndio, incluindo atualização da prancha PSCIP 04/15 do Instituto Federal Campu s Corumbá.O serviço contempla emissão de ART (Anotação de Responsabilidade Téc nica) de projeto de combate ao incêndio epânico, protocolo e acompanhamento co mpleto do processo de atualização junto ao Corpo de Bombeiros Militar UnidadeC orumbá/MS, incluindo todas as possíveis alterações que possam ser solicitadas  pelo CBMMS.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 5000.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PF",
+                "nuCnpjVencedor": null,
+                "nuCpfVencedor": "***099541**",
+                "noFornecedorVencedor": "LEONNARD LOPES TEIXEIRA",
+                "dtAlteracao": "2024-04-08T11:30:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

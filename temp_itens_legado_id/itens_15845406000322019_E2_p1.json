@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845406000322019",
+        "data_extracao": "2026-02-13 11:34:22",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 45585931,
+                "numeroLicitacao": "158454063220191",
+                "uasg": 158454,
+                "nomeUasg": "INST.F.ED.,CIENC.E TEC DE MS/C.TRÊS LAGOAS",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 322019,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 399189,
+                "nomeMaterial": "APARELHO SOM, TIPO MICRO SYSTEM  COMPATIBILIDADE CDR, CD-RW E MP3  POTÊNCIA 300 W VOLTAGEM 110/220 V TIPO SINTONIZADOR AM/FM  QUANTIDADE CAIXAS ACÚSTICAS 3 COM 3 VIAS  QUANTIDADE CD 3  CARACTERÍSTICAS ADICIONAIS REPRODUTOR/GRAVADOR FITA,MP3,MP3 PLAYER,PEN DRIVE",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "34568257000166",
+                "nomeFornecedor": "D.S.V. AUDIO E VIDEO EIRELI",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 700.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-02-28T17:26:00",
+                "idCompra": "15845406000322019",
+                "idCompraItem": "1584540600032201900001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

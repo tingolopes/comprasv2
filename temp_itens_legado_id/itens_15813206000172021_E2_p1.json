@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000172021",
+        "data_extracao": "2026-02-13 11:25:07",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 49820493,
+                "numeroLicitacao": "158132061720211",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 172021,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 259500,
+                "nomeMaterial": "PLACA IDENTIFICAÇÃO, MATERIAL ESTRUTURA EM AÇO CARBONO  COMPRIMENTO 3200 MM ALTURA 1400 MM CARACTERÍSTICAS ADICIONAIS FECHAMENTO POR CHAPAS ESPECIAIS DE ALUMÍNIO COM  APLICAÇÃO TOTEM DE IDENTIFICAÇÃO EXTERNA - TIE",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "07063962000139",
+                "nomeFornecedor": "LOPES COMUNICACAO VISUAL LTDA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 4900.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-05-28T10:41:00",
+                "idCompra": "15813206000172021",
+                "idCompraItem": "1581320600017202100001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

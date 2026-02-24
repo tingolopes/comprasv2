@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/4.1_consultarItensPregoes_Id?id_compra=15845205000022017",
+        "data_extracao": "2026-02-13 11:41:30",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158452,
+                    "coItem": 19865148
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "PNEU NOVO TIPO  BORRACHUDO , MATERIAL BANDA RODAGEM EM BORRACHA DE ALTA RESISTÊNCIA, 14 LONAS, DIMENSÕES 900-20, APLICAÇÃO ÔNIBUS. NÃO REMANUFATURADO (REMOLDADO, RECALCHUTADO, RECAPADO), COM GARANTIA DE 05 (CINCO) ANOS CONTRA DEFEITO DE FABRICAÇÃO. COM CERTIFICAÇÃO DO INMETRO.  Local de Entrega: Campus Nova Andradina",
+                "descricaoItem": "PNEU VEÍCULO AUTOMOTIVO",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "TRUE",
+                "menorLance": "19200.00",
+                "quantidadeItem": "20",
+                "situacaoItem": "homologado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "UN",
+                "valorHomologadoItem": "960.00",
+                "valorEstimadoItem": "28106.60",
+                "valorNegociado": null,
+                "idCompra": "15845205000022017",
+                "idCompraItem": "1584520500002201700001",
+                "noAdjudic": "MARIA JOSE VASCONCELOS PEREIRA",
+                "noHom": "CLAUDIO ZARATE SANAVRIA",
+                "dtEncerramento": "2018-04-24",
+                "dtAdjudic": "2018-04-24",
+                "dtHom": "2018-04-26",
+                "dtAlteracao": "2024-04-08T11:40:00"
+            },
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158452,
+                    "coItem": 19865149
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "PNEU NOVO TIPO  LISO , MATERIAL BANDA RODAGEM EM BORRACHA DE ALTA RESISTÊNCIA, TIPO ESTRUTURA14 LONAS, DIMENSÕES 900-20 APLICAÇÃO ÔNIBUS. NÃO REMANUFATURADO (REMOLDADO, RECALCHUTADO, RECAPADO), COM GARANTIA DE 05 (CINCO) ANOS CONTRA DEFEITO DE FABRICAÇÃO. COM CERTIFICAÇÃO DO INMETRO.  Local de Entrega: Campus Nova Andradina",
+                "descricaoItem": "PNEU VEÍCULO AUTOMOTIVO",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "TRUE",
+                "menorLance": "8100.00",
+                "quantidadeItem": "10",
+                "situacaoItem": "homologado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "UN",
+                "valorHomologadoItem": "810.00",
+                "valorEstimadoItem": "12060.00",
+                "valorNegociado": null,
+                "idCompra": "15845205000022017",
+                "idCompraItem": "1584520500002201700002",
+                "noAdjudic": "MARIA JOSE VASCONCELOS PEREIRA",
+                "noHom": "CLAUDIO ZARATE SANAVRIA",
+                "dtEncerramento": "2018-04-24",
+                "dtAdjudic": "2018-04-24",
+                "dtHom": "2018-04-26",
+                "dtAlteracao": "2024-04-08T11:40:00"
+            },
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158452,
+                    "coItem": 19865150
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "PNEU NOVO - PNEU PARA VEÍCULO AUTOMOTIVO, NOVO, SEM CÂMARA (TUBELESS), DIMENSÕES 205/60R16. MATERIAL DA BANDA DE RODAGEM: BORRACHA DE ALTA RESISTÊNCIA, MODELO DA CARCAÇA RADIAL. NÃO REMANUFATURADO (REMOLDADO, RECALCHUTADO, RECAPADO), COM GARANTIA DE 05 (CINCO) ANOS CONTRA DEFEITO DE FABRICAÇÃO. COM CERTIFICAÇÃO DO INMETRO. PADRÃO DE QUALIDADE GOODYEAR, FIRESTONE, PIRELLI, SIMILAR OU SUPERIOR.  Local de Entrega: Campus Nova Andradina",
+                "descricaoItem": "PNEU VEÍCULO AUTOMOTIVO",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "TRUE",
+                "menorLance": "2599.90",
+                "quantidadeItem": "8",
+                "situacaoItem": "homologado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "UN",
+                "valorHomologadoItem": "324.99",
+                "valorEstimadoItem": "2888.16",
+                "valorNegociado": null,
+                "idCompra": "15845205000022017",
+                "idCompraItem": "1584520500002201700003",
+                "noAdjudic": "MARIA JOSE VASCONCELOS PEREIRA",
+                "noHom": "CLAUDIO ZARATE SANAVRIA",
+                "dtEncerramento": "2018-04-24",
+                "dtAdjudic": "2018-04-24",
+                "dtHom": "2018-04-26",
+                "dtAlteracao": "2024-04-08T11:40:00"
+            }
+        ],
+        "totalRegistros": 3,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

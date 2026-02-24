@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15584906000102017",
+        "data_extracao": "2026-02-13 11:08:51",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 41164795,
+                "numeroLicitacao": "155849061020172",
+                "uasg": 155849,
+                "nomeUasg": "INSTITUTO FEDERAL DE MS/CAMPUS NAVIRAÍ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 102017,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": 15946,
+                "nomeMaterial": "IMPRESSO PRONTO, IMPRESSO PRONTO NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "22627959000194",
+                "nomeFornecedor": "A F DITZEL PUBLICIDADE - ME",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "CARTAZ, TAMANHO A3, ALTURA 420 MM, LARGURA 297 MM, MATERIAL PAPEL COUCHÊ, COM BRILHO, GRAMATURA DE 120 G/M2, EM QUATRO CORES, SOMENTE FRENTE, ARTE A SER FOR NECIDA PELO IFMS CAMPUS NAVIRAÍ",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 187.5,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-05-28T09:30:00",
+                "idCompra": "15584906000102017",
+                "idCompraItem": "1558490600010201700002"
+            },
+            {
+                "isnSidecResultadoCompra": 41164794,
+                "numeroLicitacao": "155849061020171",
+                "uasg": 155849,
+                "nomeUasg": "INSTITUTO FEDERAL DE MS/CAMPUS NAVIRAÍ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 102017,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 15946,
+                "nomeMaterial": "IMPRESSO PRONTO, IMPRESSO PRONTO NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "22627959000194",
+                "nomeFornecedor": "A F DITZEL PUBLICIDADE - ME",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "FOLHETO, TAMANHO A5, ALTURA 210MM, LARGURA 148MM, MATERIAL PAPEL COUCHÊ, COM B RILHO, GRAMATURA DE 120 G/M2, EM QUATRO CORES, SOMENTE FRENTE, ARTE A SER FORN ECIDA PELO IFMS CAMPUS NAVIRAÍ",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 425.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-05-28T09:30:00",
+                "idCompra": "15584906000102017",
+                "idCompraItem": "1558490600010201700001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

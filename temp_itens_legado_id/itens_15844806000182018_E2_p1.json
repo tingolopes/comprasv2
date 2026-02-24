@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15844806000182018",
+        "data_extracao": "2026-02-13 09:39:43",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 43308337,
+                "numeroLicitacao": "158448061820181",
+                "uasg": 158448,
+                "nomeUasg": "INST.FED.DE ED.,CIENT.E TEC.DE MS/C.AQUIDAUAN",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 182018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 150225,
+                "nomeMaterial": "CAIXA SOM, CAIXA SOM NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "06235228000147",
+                "nomeFornecedor": "MUSIC FRIENDS COMERCIAL EIRELI",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "Caixa de som ativa: Tipo de sistema Autoalimentado, de duas vias; Resposta de frequência 50 Hz a 20 kHz; Amplificador projeto Classe D; Potência 1000W Pico (700W LF + HF 300W); Tensão de entrada: 100-127VAC 50/60Hz; Entrada MIC balanc eada com conectores XLR e TRS 1/4 , com controle de volume; Entrada LINE com c onectores XLR, RCA e P2, com controle de volume; Saída Conector XLR, balancead o Reprodução arquivos MP3 através de porta USB; Connector USB Type A; Sistema de arquivos FAT 16, FAT 32; Formato MP3 (CBR & VBR); Modelos similares: BEHRIN GER BB112MP3",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 6495.44,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-04-10T08:48:00",
+                "idCompra": "15844806000182018",
+                "idCompraItem": "1584480600018201800001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

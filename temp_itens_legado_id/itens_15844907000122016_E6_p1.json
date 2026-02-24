@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15844907000122016",
+        "data_extracao": "2026-02-13 09:46:16",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15844907000122016",
+                "idCompraItem": "1584490700012201600001",
+                "coUasg": 158449,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 12,
+                "dtAnoAvisoLicitacao": 2016,
+                "nuInciso": "00",
+                "nuProcesso": "23347007910201673",
+                "vrEstimado": 45500.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 25º, Caput da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Serviço ofertado por empresa estatal.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "JOAO OTAVIO CENEDEZI PIMENTA",
+                "noCargoRespDeclDisp": "Diretor de Administração",
+                "noResponsavelRatificacao": "ROSANE DE BRITO FERNANDEZ GARCIA",
+                "noCargoRespRatificacao": "Diretora-geral",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 892,
+                "noServico": "PROPAGANDA E PUBLICIDADE",
+                "dsDetalhada": "Contratação de órgão Oficial para distribuição de publicidade legal - Empresa Brasileira de Comunicação",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "serviço",
+                "vrEstimadoItem": 45500.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "09168704000142",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "EMPRESA BRASIL DE COMUNICACAO S.A. - EBC",
+                "dtAlteracao": "2024-04-08T11:27:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

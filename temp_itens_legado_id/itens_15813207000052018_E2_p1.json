@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813207000052018",
+        "data_extracao": "2026-02-13 11:22:31",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 41749967,
+                "numeroLicitacao": "15813207520181",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 7,
+                "nomeModalidade": "INEXIGIBILIDADE DE LICITAÇÃO",
+                "numeroAviso": 52018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 16195,
+                "nomeServico": "RECOLHIMENTO DE TAXA / IMPOSTO / MULTA",
+                "cnpjFornecedor": "15417520000171",
+                "nomeFornecedor": "CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DE MATO GROSSO DO SUL",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "ART para pagamento referente aos projetos elétricos/lógica das salas modulares dos campi Campo Grande, Jardim e Dourados do IFMS.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 82.94,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813207000052018",
+                "idCompraItem": "1581320700005201800001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

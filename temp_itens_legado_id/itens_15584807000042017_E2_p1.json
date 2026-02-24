@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15584807000042017",
+        "data_extracao": "2026-02-13 10:21:55",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 39890777,
+                "numeroLicitacao": "15584807420171",
+                "uasg": 155848,
+                "nomeUasg": "IF - MS/ CAMPUS DOURADOS",
+                "modalidade": 7,
+                "nomeModalidade": "INEXIGIBILIDADE DE LICITAÇÃO",
+                "numeroAviso": 42017,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 15830,
+                "nomeServico": "APRESENTACAO ARTISTICA / MUSICAL / CANTO / CORAL",
+                "cnpjFornecedor": "37537230000102",
+                "nomeFornecedor": "DS EVENTOS E PROMOCOES LTDA - ME",
+                "quantidade": null,
+                "unidade": "un",
+                "descricaoItem": "Apresentação artística de ginástica acrobática e basquetebol, a ser realizada no dia 27 de junho de 2017, com duração de aproximadamente 40 minutos.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1700.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:35:00",
+                "idCompra": "15584807000042017",
+                "idCompraItem": "1558480700004201700001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

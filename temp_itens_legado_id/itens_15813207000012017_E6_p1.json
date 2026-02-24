@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813207000012017",
+        "data_extracao": "2026-02-13 11:19:45",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813207000012017",
+                "idCompraItem": "1581320700001201700001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 1,
+                "dtAnoAvisoLicitacao": 2017,
+                "nuInciso": "00",
+                "nuProcesso": "23347023644201626",
+                "vrEstimado": 31800.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 25º, Caput da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Art. 25º, Caput da Lei nº 8.666 de 21/06/1993.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "HEBERTON LUIZ DUARTE RODRIGUES",
+                "noCargoRespDeclDisp": "Gestor Financeiro",
+                "noResponsavelRatificacao": "LUIZ SIMAO STASZCZAK",
+                "noCargoRespRatificacao": "Ordenador de Despesa",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 16535,
+                "noServico": "COMUNICACAO - ASSINATURA / VALOR ADICIONADO",
+                "dsDetalhada": "Assinatura anual do serviço ABNT Coleção que permite a visualização, atualizaç ão e gerenciamento de normas técnicas da Associação Brasileira de Normas Técni cas   ABNT, via web, com montagem de uma coleção completa das normas técnicas da ABNT (NBR) e Mercosul (AMN)",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "unidade",
+                "vrEstimadoItem": 31800.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "33402892000106",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "ASSOCIACAO BRASILEIRA DE NORMAS TECNICAS ABNT",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

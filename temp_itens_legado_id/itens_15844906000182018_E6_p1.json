@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15844906000182018",
+        "data_extracao": "2026-02-13 09:47:37",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15844906000182018",
+                "idCompraItem": "1584490600018201800001",
+                "coUasg": 158449,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 18,
+                "dtAnoAvisoLicitacao": 2018,
+                "nuInciso": "02",
+                "nuProcesso": "23347008820.2018-",
+                "vrEstimado": 3000.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Urgência da demanda e baixo vulto da contratação.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "ROSANE DE BRITO FERNANDEZ GARCIA",
+                "noCargoRespDeclDisp": "Diretora-geral",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 4049,
+                "noServico": "LOCACAO EQUIPAMENTO ELEVACAO / MOVIMENTACAO DE CARGA",
+                "dsDetalhada": "Contratação de Serviços para movimentação do Centro de Usinagem do Laboratório  de Mecânica do IFMS - Campus Campo Grande.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 3000.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "15480852000109",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "HYDRAMAQ SERVICOS HIDRAULICOS DE EQUIPAMENTOS E MAQUINAS EIRELI",
+                "dtAlteracao": "2024-04-08T11:27:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

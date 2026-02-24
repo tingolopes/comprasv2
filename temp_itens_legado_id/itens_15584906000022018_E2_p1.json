@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15584906000022018",
+        "data_extracao": "2026-02-13 11:08:52",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 41443939,
+                "numeroLicitacao": "15584906220181",
+                "uasg": 155849,
+                "nomeUasg": "INSTITUTO FEDERAL DE MS/CAMPUS NAVIRAÍ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 22018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 138282,
+                "nomeMaterial": "PASTA ARQUIVO, PASTA ARQUIVO NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "27137932000137",
+                "nomeFornecedor": "MASTER - SERVICOS E SOLUCOES EIRELI - ME",
+                "quantidade": null,
+                "unidade": "unidades",
+                "descricaoItem": "PASTA ARQUIVO SUSPENSA BEGE MARMORIZADA; cartão bristol 400g/m2, +-20g/m2; cor bege; formato 360x240mm; haste de aço para sustentação; ponteira de plástico; ferragem na parte superior para fixação de documento; etiqueta e guia proteto ra de plástico transparente para inserção de etiqueta",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 2400.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-06-10T15:13:00",
+                "idCompra": "15584906000022018",
+                "idCompraItem": "1558490600002201800001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

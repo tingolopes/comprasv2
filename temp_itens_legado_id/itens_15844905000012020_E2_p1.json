@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15844905000012020",
+        "data_extracao": "2026-02-13 11:36:08",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 46128228,
+                "numeroLicitacao": "15844905120201",
+                "uasg": 158449,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.C.GRANDE",
+                "modalidade": 5,
+                "nomeModalidade": "PREGÃO",
+                "numeroAviso": 12020,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 37494,
+                "nomeMaterial": "CONTAINER, CONTAINER NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": null,
+                "nomeFornecedor": null,
+                "quantidade": 15,
+                "unidade": "Unidade",
+                "descricaoItem": "Container de estrutura metálica em aço corten, usado, em excelente estado  de conservação, sem furos, avarias e sem problemas estruturais (Padrão Classe A). Modelo  HIGH CUBE (HC) , de  40 pés, com Laudo de Habitabilidade em conformid ade com NR-18, item 18.4.1.3.2, certificando a ausência de Riscos Físicos, Quí micos e Biológicos. Possuir portas externas, abrindo para fora e com sistema d e fechadura. Pintura Anticorrosiva externa/interna no tom bege.  O piso deverá ser de compensado naval com no mínimo 12mm de espessura. Antes do envio do ma terial, necessário envio de fotos atualizadas do item para aprovação.  Medidas aproximadas: Comprimento do container dry de 40 pés HC: 12.000 m Largura: 2.3 00 m ; Altura: 2.890 m  Incluso frete e descarga do material, por conta da contratada.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 265500.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-05-16T09:41:00",
+                "idCompra": "15844905000012020",
+                "idCompraItem": "1584490500001202000001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

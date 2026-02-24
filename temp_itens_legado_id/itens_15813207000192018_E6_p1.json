@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813207000192018",
+        "data_extracao": "2026-02-13 11:22:48",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813207000192018",
+                "idCompraItem": "1581320700019201800001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 19,
+                "dtAnoAvisoLicitacao": 2018,
+                "nuInciso": "00",
+                "nuProcesso": "23347012501201851",
+                "vrEstimado": 248.82,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 25º, Caput da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Impossibilidade de competição",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "LUIZ SIMAO STASZCZAK",
+                "noCargoRespDeclDisp": "Ordenador de Despesa",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 16195,
+                "noServico": "RECOLHIMENTO DE TAXA / IMPOSTO / MULTA",
+                "dsDetalhada": "Pagamento de ART referente aos projetos da Reforma das Casas do Campus de Nova  Andradina",
+                "qtMaterialAlt": 3,
+                "noUnidadeMedida": "Taxas",
+                "vrEstimadoItem": 248.82,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "15417520000171",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DE MATO GROSSO DO SUL",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

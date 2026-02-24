@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845206000262020",
+        "data_extracao": "2026-02-13 11:08:36",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 47472668,
+                "numeroLicitacao": "158452062620201",
+                "uasg": 158452,
+                "nomeUasg": "INST.F.DE ED.,CIENC.E TEC.DO MS/C.N ANDRADINA",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 262020,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 255573,
+                "nomeMaterial": "FORRO TETO, MATERIAL MADEIRA ANGELIM  LARGURA 100 MM ESPESSURA 10 MM APLICAÇÃO FORRO TETO",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "36918834000128",
+                "nomeFornecedor": "L. A. M. DE PAULA LTDA",
+                "quantidade": null,
+                "unidade": "Metro quadrado",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 5070.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-06-04T21:35:00",
+                "idCompra": "15845206000262020",
+                "idCompraItem": "1584520600026202000001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813206000362021",
+        "data_extracao": "2026-02-13 11:25:45",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000362021",
+                "idCompraItem": "1581320600036202100001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 36,
+                "dtAnoAvisoLicitacao": 2021,
+                "nuInciso": "02",
+                "nuProcesso": "23347000853202169",
+                "vrEstimado": 17300.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21º/06/1993.",
+                "dsJustificativa": "Justificativa: Contratação de pequeno vulto.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "ELAINE BORGES MONTEIRO CASSIANO",
+                "noCargoRespDeclDisp": "Ordenador de Despesas",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 27120,
+                "noServico": "SERVICOS DE MANUTENCAO DE  EQUIPAMENTOS DE COMUNICACAO DE DADOS E COMUTACAO TELEFONICA",
+                "dsDetalhada": "Conserto de 8 SWITCH CISCO das unidades do IFMS.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "UNIDADE",
+                "vrEstimadoItem": 17300.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "05032228000187",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "ROUTERLINK IT SOLUTIONS AND SERVICES LTDA",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

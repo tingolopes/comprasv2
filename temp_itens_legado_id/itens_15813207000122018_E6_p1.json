@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813207000122018",
+        "data_extracao": "2026-02-13 11:22:11",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813207000122018",
+                "idCompraItem": "1581320700012201800001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 12,
+                "dtAnoAvisoLicitacao": 2018,
+                "nuInciso": "00",
+                "nuProcesso": "23347006648201810",
+                "vrEstimado": 183.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 25º, Caput da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Sem possibilidade de competitividade.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "LUIZ SIMAO STASZCZAK",
+                "noCargoRespDeclDisp": "Ordenador de Despesa",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 16195,
+                "noServico": "RECOLHIMENTO DE TAXA / IMPOSTO / MULTA",
+                "dsDetalhada": "Pagamento das RRT s para construção das bases modulares dos campus de Dourados  e de Jardim",
+                "qtMaterialAlt": 2,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 183.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "14807913000129",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "CONSELHO DE ARQUITETURA E URBANISMO DE MATO GROSSO DO SUL",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

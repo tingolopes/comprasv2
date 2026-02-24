@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845406000202019",
+        "data_extracao": "2026-02-13 11:34:28",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 45474162,
+                "numeroLicitacao": "158454062020191",
+                "uasg": 158454,
+                "nomeUasg": "INST.F.ED.,CIENC.E TEC DE MS/C.TRÊS LAGOAS",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 202019,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 14273,
+                "nomeMaterial": "CADEIRA, CADEIRA COMUM NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "09070369000145",
+                "nomeFornecedor": "ELUMI COMERCIO DE EQUIPAMENTOS EIRELI",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Cadeira Plástica (sem braço) ISO P r e t o , empilhável, com design anatômico, estrutura em aço, com pintura epóxi eletrostática na cor preta, com capacidad e mínima de 120kg, altura 80 cm, largura 51 cm, com profundidade de 51 cm, com garantia mínima de 6 meses. Qualidade similar as marcas: Só chair, Kas , Ecof lex Cadeiras.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 8091.53,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-05-14T18:20:00",
+                "idCompra": "15845406000202019",
+                "idCompraItem": "1584540600020201900001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845207000012019",
+        "data_extracao": "2026-02-13 11:07:42",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 43825264,
+                "numeroLicitacao": "15845207120191",
+                "uasg": 158452,
+                "nomeUasg": "INST.F.DE ED.,CIENC.E TEC.DO MS/C.N ANDRADINA",
+                "modalidade": 7,
+                "nomeModalidade": "INEXIGIBILIDADE DE LICITAÇÃO",
+                "numeroAviso": 12019,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 22764,
+                "nomeServico": "PAGAMENTO COBERTURAS SEGURO VEÍCULO",
+                "cnpjFornecedor": "09248608000104",
+                "nomeFornecedor": "SEGURADORA LIDER DO CONSORCIO DO SEGURO DPVAT SA",
+                "quantidade": null,
+                "unidade": "serviço",
+                "descricaoItem": "Seguro Obrigatório dos veículos oficiais pertencentes à frota do IFMS Campus N ova Andradina Ref. 2019",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 225.21,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:40:00",
+                "idCompra": "15845207000012019",
+                "idCompraItem": "1584520700001201900001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

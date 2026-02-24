@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000032016",
+        "data_extracao": "2026-02-13 11:17:15",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 37257436,
+                "numeroLicitacao": "15813206320161",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 32016,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 400383,
+                "nomeMaterial": "LÂMPADA LED, TENSÃO NOMINAL BIVOLT 100/240 V POTÊNCIA NOMINAL 5 W TIPO BASE E-27  CARACTERÍSTICAS ADICIONAIS EMISSÃO ZERO DE RAIOS INFRAVERMELHOS E ULTRAVIOLET  COR BRANCA MORNA  FLUXO LUMINOSO 340 CD DIÂMETRO MÁXIMO 50 MM TEMPERATURA DE COR (+/-10%) 3000 K ABERTURA FACHO 20°  COMPRIMENTO 74,5 MM",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "33083775000127",
+                "nomeFornecedor": "APS WORK COMERCIO E SERVICOS LTDA - ME",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1380.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-06-09T08:28:00",
+                "idCompra": "15813206000032016",
+                "idCompraItem": "1581320600003201600001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

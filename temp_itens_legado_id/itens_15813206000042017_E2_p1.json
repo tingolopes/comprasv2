@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000042017",
+        "data_extracao": "2026-02-13 11:18:58",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 39750333,
+                "numeroLicitacao": "15813206420171",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 42017,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 150788,
+                "nomeMaterial": "CARTÃO IDENTIFICAÇÃO, CARTÃO IDENTIFICAÇÃO NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "71359939000195",
+                "nomeFornecedor": "ADMAQ LTDA - EPP",
+                "quantidade": null,
+                "unidade": "Pacote de 100 unid.",
+                "descricaoItem": "Plástico reprografia, material plástico polaseal \"carteira de motorista\", com 73 mm de largura, por 106 mm de altura e 0,10 mm (250 micra) de espessura, cor incolor, aplicação para plastificação, transmitância transparente.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1199.52,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-02-12T10:30:00",
+                "idCompra": "15813206000042017",
+                "idCompraItem": "1581320600004201700001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

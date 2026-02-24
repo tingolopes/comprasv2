@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15584907000022017",
+        "data_extracao": "2026-02-13 11:08:51",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15584907000022017",
+                "idCompraItem": "1558490700002201700001",
+                "coUasg": 155849,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 2,
+                "dtAnoAvisoLicitacao": 2017,
+                "nuInciso": "00",
+                "nuProcesso": "23347006228201744",
+                "vrEstimado": 5527.48,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 25º, Caput da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Obrigatoriedade de contratação de Imprensa Nacional para publicações DOU - Decreto 4520 de 16/12/2002",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "JOAO BATISTA DE MORAIS",
+                "noCargoRespDeclDisp": "Gestor Financeiro",
+                "noResponsavelRatificacao": "MATHEUS BORNELLI DE CASTRO",
+                "noCargoRespRatificacao": "Ordenador de Despesas",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 10049,
+                "noServico": "PUBLICACAO, IMPRESSAO DE JORNAL / REVISTA / LIVRO",
+                "dsDetalhada": "Publicações Oficiais de até 6,5 cm",
+                "qtMaterialAlt": 28,
+                "noUnidadeMedida": "cm",
+                "vrEstimadoItem": 5527.48,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "04196645000100",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "IMPRENSA NACIONAL",
+                "dtAlteracao": "2024-04-08T11:38:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813206000232016",
+        "data_extracao": "2026-02-13 11:17:57",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000232016",
+                "idCompraItem": "1581320600023201600001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 23,
+                "dtAnoAvisoLicitacao": 2016,
+                "nuInciso": "02",
+                "nuProcesso": "23347012825201627",
+                "vrEstimado": 650.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Valor abaixo do limite legal.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "LUIZ SIMAO STASZCZAK",
+                "noCargoRespDeclDisp": "Ordenador de Despesas",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 4413,
+                "noServico": "LOCACAO DE MATERIAIS PERMANENTES",
+                "dsDetalhada": "Locação de Módulo finalizador de grampeamento da impressora modelo TASKALFA 35 01i.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "mês",
+                "vrEstimadoItem": 650.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "73505349000230",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "H2L EQUIPAMENTOS E SISTEMAS LTDA",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

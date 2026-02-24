@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00113%2F2025&unidadeGerenciadora=158132&numeroItem=00238&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:58:21",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00113/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00238",
+                "codigoPdm": "19586",
+                "descricaoItem": "OVO, ORIGEM GALINHA, GRUPO BRANCO, CLASSE A, TIPO GRANDE",
+                "fornecedor": "54167555000151 - MS LICITACOES, COMERCIO E SERVICOS LTDA",
+                "quantidadeRegistrada": 0.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": 0.0,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2025-08-08T10:10:40",
+                "dataHoraAtualizacao": "2025-08-14T11:09:35",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            },
+            {
+                "numeroAta": "00113/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00238",
+                "codigoPdm": "19586",
+                "descricaoItem": "OVO, ORIGEM GALINHA, GRUPO BRANCO, CLASSE A, TIPO GRANDE",
+                "fornecedor": "54167555000151 - MS LICITACOES, COMERCIO E SERVICOS LTDA",
+                "quantidadeRegistrada": 400.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 399.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": 0.0,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2025-08-08T10:12:05",
+                "dataHoraAtualizacao": "2025-12-30T18:41:21",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158451",
+                "nomeUnidade": "INST. FED. DO MS/CAMPUS COXIM",
+                "tipoUnidade": "PARTICIPANTE"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

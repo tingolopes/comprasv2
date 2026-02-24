@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15584906000012017",
+        "data_extracao": "2026-02-13 11:08:49",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 39650195,
+                "numeroLicitacao": "15584906120172",
+                "uasg": 155849,
+                "nomeUasg": "INSTITUTO FEDERAL DE MS/CAMPUS NAVIRAÍ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 12017,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": 150010,
+                "nomeMaterial": "AR CONDICIONADO-APARELHO, NOME AR CONDICIONADO-APARELHO",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "00708768000114",
+                "nomeFornecedor": "START UP COMERCIO E SERVICOS LTDA  - ME",
+                "quantidade": null,
+                "unidade": "unidade",
+                "descricaoItem": "CONDICIONADOR DE AR DO TIPO SPLIT SYSTEM HI WALL DE 9.000 BTUS, ciclo frio, co mpressor rotativo, tensão: 220, controle remoto sem fio, três velocidades de i nsuflamento (mínimo), filtros de ar de fácil remoção, acionamento de emergênci a na unidade interna, no caso de perda ou dano do controle remoto. Consumo ene rgético inverter ou Classe A ou B.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 2275.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:38:00",
+                "idCompra": "15584906000012017",
+                "idCompraItem": "1558490600001201700002"
+            },
+            {
+                "isnSidecResultadoCompra": 39650194,
+                "numeroLicitacao": "15584906120171",
+                "uasg": 155849,
+                "nomeUasg": "INSTITUTO FEDERAL DE MS/CAMPUS NAVIRAÍ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 12017,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 150010,
+                "nomeMaterial": "AR CONDICIONADO-APARELHO, NOME AR CONDICIONADO-APARELHO",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "00708768000114",
+                "nomeFornecedor": "START UP COMERCIO E SERVICOS LTDA  - ME",
+                "quantidade": null,
+                "unidade": "unidade",
+                "descricaoItem": "Aparelho de ar condicionado, capacidade de refrigeração 12.000 BTUS/H, vazão d e ar 526 M3/H, tensao 220 V, frequencia 50/60 HZ, corrente eletrica refrigeraç ão 6,40 A, tipo SPLIT HI WALL, caracteristicas adicionais controle remoto digi tal sem fio. Selo de eficiência energética A ou B.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 3990.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:38:00",
+                "idCompra": "15584906000012017",
+                "idCompraItem": "1558490600001201700001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00019%2F2023&unidadeGerenciadora=158132&numeroItem=00050&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:07:52",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00019/2023",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00050",
+                "codigoPdm": "01454",
+                "descricaoItem": "QUADRO BRANCO, MATERIAL LAMINADO MELAMÍNICO, LARGURA 3,00 M, CARACTERÍSTICAS ADICIONAIS CALHA PINCEL/APAGADOR, MATERIAL MOLDURA ALUMÍNIO, ALTURA 1,20 M",
+                "fornecedor": "43838684000108 - WHITE BOARD IMPORT COMERCIO E SERVICOS LTDA",
+                "quantidadeRegistrada": 3.0,
+                "saldoAdesoes": 6.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 6.0,
+                "qtdLimiteInformadoCompra": 6.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2023-11-01T11:30:32",
+                "dataHoraAtualizacao": "2024-01-02T11:57:26",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "155850",
+                "nomeUnidade": "INST.FED.DO MS/CAMPUS JARDIM",
+                "tipoUnidade": "PARTICIPANTE"
+            },
+            {
+                "numeroAta": "00019/2023",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00050",
+                "codigoPdm": "01454",
+                "descricaoItem": "QUADRO BRANCO, MATERIAL LAMINADO MELAMÍNICO, LARGURA 3,00 M, CARACTERÍSTICAS ADICIONAIS CALHA PINCEL/APAGADOR, MATERIAL MOLDURA ALUMÍNIO, ALTURA 1,20 M",
+                "fornecedor": "43838684000108 - WHITE BOARD IMPORT COMERCIO E SERVICOS LTDA",
+                "quantidadeRegistrada": 0.0,
+                "saldoAdesoes": 6.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 6.0,
+                "qtdLimiteInformadoCompra": 6.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2023-11-01T11:30:12",
+                "dataHoraAtualizacao": "2024-01-02T11:56:33",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

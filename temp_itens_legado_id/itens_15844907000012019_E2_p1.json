@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15844907000012019",
+        "data_extracao": "2026-02-13 09:54:19",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 43756433,
+                "numeroLicitacao": "15844907120191",
+                "uasg": 158449,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.C.GRANDE",
+                "modalidade": 7,
+                "nomeModalidade": "INEXIGIBILIDADE DE LICITAÇÃO",
+                "numeroAviso": 12019,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 4227,
+                "nomeServico": "PUBLICACOES PROMOCIONAIS / EDITAIS",
+                "cnpjFornecedor": "04196645000100",
+                "nomeFornecedor": "IMPRENSA NACIONAL",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "Contratação do serviço de publicação no Diário Oficial da União de atos oficia is e demais matérias de interesse do IFMS Campus Campo Grande, por intermédio da IMPRENSA NACIONAL.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 17600.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:27:00",
+                "idCompra": "15844907000012019",
+                "idCompraItem": "1584490700001201900001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

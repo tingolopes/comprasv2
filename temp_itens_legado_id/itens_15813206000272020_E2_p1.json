@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000272020",
+        "data_extracao": "2026-02-13 11:24:45",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 46818290,
+                "numeroLicitacao": "158132062720202",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 272020,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 26484,
+                "nomeServico": "ACESSO A INTERNET VIA CABO",
+                "cnpjFornecedor": "15137229000140",
+                "nomeFornecedor": "FREE WAY TECNOLOGIA LTDA",
+                "quantidade": null,
+                "unidade": "Mega bits/segundo",
+                "descricaoItem": "Assinatura mensal de serviço de internet com capacidade de transmissão de 100M bps na cidade de Campo Grande-MS (Reitoria) com banda garantida de download e upload de 100Mbps e 08 endereços IPv4. Pelo período total de 03 (três) meses.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 12000.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000272020",
+                "idCompraItem": "1581320600027202000002"
+            },
+            {
+                "isnSidecResultadoCompra": 46818289,
+                "numeroLicitacao": "158132062720201",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 272020,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 26484,
+                "nomeServico": "ACESSO A INTERNET VIA CABO",
+                "cnpjFornecedor": "15137229000140",
+                "nomeFornecedor": "FREE WAY TECNOLOGIA LTDA",
+                "quantidade": null,
+                "unidade": "Mega bits/segundo",
+                "descricaoItem": "Instalação/habilitação de serviço de internet para atendimento na cidade de Ca mpo Grande-MS.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 500.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000272020",
+                "idCompraItem": "1581320600027202000001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

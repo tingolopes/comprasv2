@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845206000202018",
+        "data_extracao": "2026-02-13 11:06:08",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845206000202018",
+                "idCompraItem": "1584520600020201800001",
+                "coUasg": 158452,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 20,
+                "dtAnoAvisoLicitacao": 2018,
+                "nuInciso": "02",
+                "nuProcesso": " 2334701959720188",
+                "vrEstimado": 4500.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Em razão do valor.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "SERGIO PAULO DE SOUZA",
+                "noCargoRespDeclDisp": "Diretor de Administração",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 21342,
+                "noConjuntoMateriais": "CHASSI PARA EQUIPAMENTO ELETRONICO",
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "CHASSI PARA ACOPLAR BALANÇA ELETRÔNICA PARA SER INSTALADO NO TRONCO AMERICANO  FIXO.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "UN",
+                "vrEstimadoItem": 4500.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "INDEFINIDA",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "02409844000116",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "L F PASINI EIRELI",
+                "dtAlteracao": "2024-04-08T11:40:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

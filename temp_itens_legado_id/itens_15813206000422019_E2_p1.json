@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000422019",
+        "data_extracao": "2026-02-13 11:23:31",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 45764818,
+                "numeroLicitacao": "158132064220191",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 422019,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 26077,
+                "nomeServico": "SOFTWARE COMO SERVICO - SAAS",
+                "cnpjFornecedor": "04892991000115",
+                "nomeFornecedor": "TELTEC SOLUTIONS LTDA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Licença de três anos de 2 (duas) Salas virtuais de reuniões Cisco Webex. Pelo Período de 12/2019 a 12/2022",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 9750.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000422019",
+                "idCompraItem": "1581320600042201900001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

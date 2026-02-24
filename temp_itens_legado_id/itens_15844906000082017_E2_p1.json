@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15844906000082017",
+        "data_extracao": "2026-02-13 09:46:24",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 40032812,
+                "numeroLicitacao": "15844906820171",
+                "uasg": 158449,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.C.GRANDE",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 82017,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 5835,
+                "nomeServico": "MANUTENCAO EM PROJETOR DE IMAGEM",
+                "cnpjFornecedor": "02785704000142",
+                "nomeFornecedor": "FENNER & MULLER LTDA - ME",
+                "quantidade": null,
+                "unidade": "Serviço",
+                "descricaoItem": "Prestação de serviços para conserto de Caixa acústica, modelo: NEO 800, patrim ônio nº 6900. O serviço contempla: reparo fonte e canal do produto.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 180.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:27:00",
+                "idCompra": "15844906000082017",
+                "idCompraItem": "1584490600008201700001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

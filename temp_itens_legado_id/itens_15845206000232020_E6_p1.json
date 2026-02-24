@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845206000232020",
+        "data_extracao": "2026-02-13 11:08:34",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845206000232020",
+                "idCompraItem": "1584520600023202000001",
+                "coUasg": 158452,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 23,
+                "dtAnoAvisoLicitacao": 2020,
+                "nuInciso": "01",
+                "nuProcesso": "23347008489202002",
+                "vrEstimado": 5800.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso I da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Em razão do valor. Art. 24º, Inciso I da Lei nº 8.666 de 21/06/1993.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "SERGIO PAULO DE SOUZA",
+                "noCargoRespDeclDisp": "Diretor de Administração",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 20060,
+                "noServico": "ELABORACAO / ANALISE PROJETO - ENGENHARIA",
+                "dsDetalhada": "Elaboração do estudo de proteção conforme as exigência do Anexo II (Critérios  mínimos para elaboração de estudos de proteção de sobrecorrentes para entradas  de serviço com utilização de disjuntor de média tensão ou religador automátic o) da Norma Técnica da Energisa NDU-002/2019 (Fornecimento de Energia Elétrica  em Tensão Primária) e da Norma Técnica da Energisa NDU-015/2017 (Critérios pa ra Conexão de Acessantes de Geração Distribuída - Conexão em Média Tensão).",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 5800.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "03285860000107",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "SILVA & AZAMBUJA LTDA.",
+                "dtAlteracao": "2024-04-08T11:40:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

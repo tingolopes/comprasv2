@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15844806000072020",
+        "data_extracao": "2026-02-13 09:40:25",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15844806000072020",
+                "idCompraItem": "1584480600007202000001",
+                "coUasg": 158448,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 7,
+                "dtAnoAvisoLicitacao": 2020,
+                "nuInciso": "02",
+                "nuProcesso": "23347008446202019",
+                "vrEstimado": 18153.22,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Justifica-se pela necessidade de atender as necessidades nutricionais dos estudantes em período de pandemia de coronavírus.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "ANA LUCIA CABRAL",
+                "noCargoRespDeclDisp": "Ordenadora de Despesas Substituta",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 113026,
+                "noConjuntoMateriais": "CESTA BASICA - GENEROS ALIMENTICIOS",
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "Kit Cesta básica contendo: arroz longo fino (5 kg); feijão carioca (1 kg); óle o de soja refinado (900 ml); açúcar cristal (2 kg); café em pó (250 g); sardin ha (165g 2 un); achocolatado em pó (400 g); cebola (1 kg); alho (200 g).",
+                "qtMaterialAlt": 302,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 18153.22,
+                "dsFabricante": null,
+                "noMarcaMaterial": "Sem marca",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "01274396000632",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "DAMASCENO & DAMASCENO LTDA",
+                "dtAlteracao": "2024-04-08T11:20:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

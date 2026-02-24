@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15584906000152018",
+        "data_extracao": "2026-02-13 11:09:41",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15584906000152018",
+                "idCompraItem": "1558490600015201800001",
+                "coUasg": 155849,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 15,
+                "dtAnoAvisoLicitacao": 2018,
+                "nuInciso": "21",
+                "nuProcesso": "23347017115201888",
+                "vrEstimado": 17499.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso XXI da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Atendimento a programa visando inovação e desenvolvimento científico-tecnológico, via projeto aprovado pela instituição",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "PEDRO JORGE CARDOSO DA SILVA RODRIGUES",
+                "noCargoRespDeclDisp": "Coordenador de Materiais",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 193695,
+                "noConjuntoMateriais": null,
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "Máquina cortadora e gravadora para usinagem em duas e três dimensões, estrutur a em aço, movimento nos eixos X, Y e Z, a laser, área de trabalho mínima 90 x 60, potência mínima 100 W, entrada USB.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "unidade",
+                "vrEstimadoItem": 17499.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "DESCONHECIDA",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "05654373000108",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "IDEAL - INDUSTRIA DE MAQUINAS INDUSTRIAIS, IMPORTACAO E EXPORTACAO - EIRELI",
+                "dtAlteracao": "2024-04-08T11:38:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

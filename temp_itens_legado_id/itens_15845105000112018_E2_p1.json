@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845105000112018",
+        "data_extracao": "2026-02-13 11:36:24",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 43152399,
+                "numeroLicitacao": "158451051120182",
+                "uasg": 158451,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.COXIM",
+                "modalidade": 5,
+                "nomeModalidade": "PREGÃO",
+                "numeroAviso": 112018,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 13595,
+                "nomeServico": "MANUTENCAO / HIGIENIZACAO DE RESERVATORIO DE AGUA POTAVEL",
+                "cnpjFornecedor": null,
+                "nomeFornecedor": null,
+                "quantidade": 2,
+                "unidade": "SERVIÇO",
+                "descricaoItem": "Serviços continuados de limpeza de caixas d água do IFMS Campus Coxim, com for necimento de todos os materiais necessários para sua execução, podendo ser rea lizados em até duas limpezas anuais, sendo 44 m³ por limpeza, equivalente ao t otal de 88 m³ anuais.",
+                "beneficio": "Beneficio Tipo I - Participacao Exclusiva de ME/EPP/COOPERATIVA",
+                "valorEstimado": 4000.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:32:00",
+                "idCompra": "15845105000112018",
+                "idCompraItem": "1584510500011201800002"
+            },
+            {
+                "isnSidecResultadoCompra": 43152398,
+                "numeroLicitacao": "158451051120181",
+                "uasg": 158451,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.COXIM",
+                "modalidade": 5,
+                "nomeModalidade": "PREGÃO",
+                "numeroAviso": 112018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 3417,
+                "nomeServico": "DESINSETIZACAO / DESRATIZACAO / DEDETIZACAO",
+                "cnpjFornecedor": null,
+                "nomeFornecedor": null,
+                "quantidade": 3,
+                "unidade": "SERVIÇO",
+                "descricaoItem": "Serviços continuados de desinsetização, desratização e descupinização das área s interna e externa do IFMS Campus Coxim, com  fornecimento de todos os materi ais necessários para sua execução, podendo ser  realizados em até três aplicaç ões anuais, sendo 12.499 m² por aplicação, equivalente ao total de 37.497 m² a nuais.",
+                "beneficio": "Beneficio Tipo I - Participacao Exclusiva de ME/EPP/COOPERATIVA",
+                "valorEstimado": 0.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:32:00",
+                "idCompra": "15845105000112018",
+                "idCompraItem": "1584510500011201800001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

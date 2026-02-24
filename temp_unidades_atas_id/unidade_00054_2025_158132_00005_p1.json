@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00054%2F2025&unidadeGerenciadora=158132&numeroItem=00005&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:54:37",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00054/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00005",
+                "codigoPdm": "06661",
+                "descricaoItem": "MICROCOMPUTADOR, MEMÓRIA RAM 32 GB, NÚCLEOS POR PROCESSADOR SUPERIOR A 8, ARMAZENAMENTO HDD SEM DISCO HDD GB, ARMAZENAMENTO SSD ATÉ 2 TB, MONITOR SEM MONITOR POL, COMPONENTES ADICIONAIS COM TECLADO E MOUSE, SISTEMA OPERACIONAL PROPRIETÁRIO, GARANTIA ON SITE 36 MESES, GABINETE TORRE, OUTROS RECURSOS CONFORME EDITAL",
+                "fornecedor": "16628132000100 - LICITEC TECNOLOGIA LTDA",
+                "quantidadeRegistrada": 8.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 8.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": 0.0,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2025-06-06T09:10:21",
+                "dataHoraAtualizacao": "2025-06-06T10:22:07",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

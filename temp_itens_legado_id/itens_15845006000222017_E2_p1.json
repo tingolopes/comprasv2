@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845006000222017",
+        "data_extracao": "2026-02-13 09:41:40",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 40585502,
+                "numeroLicitacao": "158450062220172",
+                "uasg": 158450,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.CORUMBÁ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 222017,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": 238647,
+                "nomeMaterial": "REGULADOR BOTIJÃO GÁS, MATERIAL CORPO LIGA DE ZINCO  MATERIAL VEDAÇÃO BORRACHA NITRÍLICA  DIÂMETRO SAÍDA 3/8 POL COMPONENTES ADICIONAIS BORBOLETA",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "36788156000126",
+                "nomeFornecedor": "PANTANEIRA REVENDEDORA DE GAS E TRANSPORTE LTDA",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 31.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:30:00",
+                "idCompra": "15845006000222017",
+                "idCompraItem": "1584500600022201700002"
+            },
+            {
+                "isnSidecResultadoCompra": 40585501,
+                "numeroLicitacao": "158450062220171",
+                "uasg": 158450,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.CORUMBÁ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 222017,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 220583,
+                "nomeMaterial": "BOTIJÃO GÁS LIQUEFEITO DE PETRÓLEO - GLP, MATERIAL CHAPA AÇO  TIPO GÁS PROPANO-BUTANO  CAPACIDADE BOTIJÃO 13 KG APLICAÇÃO FOGÃO RESIDENCIAL  NORMAS TÉCNICAS ABNT 8.460",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "36788156000126",
+                "nomeFornecedor": "PANTANEIRA REVENDEDORA DE GAS E TRANSPORTE LTDA",
+                "quantidade": null,
+                "unidade": "BOTIJÃO",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 75.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:30:00",
+                "idCompra": "15845006000222017",
+                "idCompraItem": "1584500600022201700001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

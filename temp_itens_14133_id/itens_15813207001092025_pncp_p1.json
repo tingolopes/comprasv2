@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-contratacoes/2.1_consultarItensContratacoes_PNCP_14133_Id?tipo=idCompra&codigo=15813207001092025&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-13 11:43:36",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813207001092025",
+                "idCompraItem": "1581320700109202500001",
+                "idContratacaoPNCP": "10673078000120-1-000017/2025",
+                "unidadeOrgaoCodigoUnidade": "158132",
+                "orgaoEntidadeCnpj": "10673078000120",
+                "numeroItemPncp": 1,
+                "numeroItemCompra": 1,
+                "numeroGrupo": 0,
+                "descricaoResumida": "Manutenção industrial Manutenção industrial",
+                "materialOuServico": "S",
+                "materialOuServicoNome": "Serviço",
+                "codigoClasse": null,
+                "codigoGrupo": 871,
+                "codItemCatalogo": 24538,
+                "descricaodetalhada": "Manutenção industrial Manutenção industrial",
+                "unidadeMedida": "UNIDADE",
+                "orcamentoSigiloso": false,
+                "itemCategoriaIdPncp": 3,
+                "itemCategoriaNome": "Informática (TIC)",
+                "criterioJulgamentoIdPncp": 7,
+                "criterioJulgamentoNome": "Não se aplica",
+                "situacaoCompraItem": "2",
+                "situacaoCompraItemNome": "Homologado",
+                "tipoBeneficio": "5",
+                "tipoBeneficioNome": "Não se aplica",
+                "incentivoProdutivoBasico": false,
+                "quantidade": 1.0,
+                "valorUnitarioEstimado": 37400.0,
+                "valorTotal": 37400.0,
+                "temResultado": true,
+                "codFornecedor": "82749987000106",
+                "nomeFornecedor": "NETZSCH DO BRASIL INDUSTRIA E COMERCIO LTDA",
+                "quantidadeResultado": 1.0,
+                "valorUnitarioResultado": 37400.0,
+                "valorTotalResultado": 37400.0,
+                "dataInclusaoPncp": "2025-02-24T12:18:27",
+                "dataAtualizacaoPncp": "2025-02-24T12:21:30",
+                "dataResultado": "2025-02-24 00:00:00.0000000",
+                "margemPreferenciaNormal": false,
+                "percentualMargemPreferenciaNormal": null,
+                "margemPreferenciaAdicional": false,
+                "percentualMargemPreferenciaAdicional": null,
+                "codigoNCM": null,
+                "descricaoNCM": null,
+                "numeroControlePNCPCompra": "10673078000120-1-000017/2025"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

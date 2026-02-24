@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845407000042019",
+        "data_extracao": "2026-02-13 11:34:44",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 44109272,
+                "numeroLicitacao": "15845407420191",
+                "uasg": 158454,
+                "nomeUasg": "INST.F.ED.,CIENC.E TEC DE MS/C.TRÊS LAGOAS",
+                "modalidade": 7,
+                "nomeModalidade": "INEXIGIBILIDADE DE LICITAÇÃO",
+                "numeroAviso": 42019,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 14729,
+                "nomeServico": "TREINAMENTO NA AREA DE ADMINISTRACAO PUBLICA",
+                "cnpjFornecedor": "23880650000174",
+                "nomeFornecedor": "INOVE SOLUCOES EM CAPACITACAO E EVENTOS LTDA",
+                "quantidade": null,
+                "unidade": "Serviço",
+                "descricaoItem": "Curso Prático Gerenciamento, Análise de Riscos e Controles em Licitações, ofer tado pela Empresa Inove Soluções em Capacitação, no período de 22 à 24 de abri l de 2019 na cidade de Campo Grande/MS.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 10760.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:45:00",
+                "idCompra": "15845407000042019",
+                "idCompraItem": "1584540700004201900001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

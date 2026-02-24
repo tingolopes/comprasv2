@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845006000592018",
+        "data_extracao": "2026-02-13 09:44:09",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 42809741,
+                "numeroLicitacao": "158450065920181",
+                "uasg": 158450,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.CORUMBÁ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 592018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 18422,
+                "nomeServico": "GRAFICO - IMPRESSOS / PLASTIFICACAO / ACABAMENTO",
+                "cnpjFornecedor": "28237825000143",
+                "nomeFornecedor": "ART MIX COMUNICACOES VISUAIS EIRELI",
+                "quantidade": null,
+                "unidade": "UN",
+                "descricaoItem": "Impressão de banner em lona tamanho 1,20m x 0,90m, impressão colorida, com pon teira de madeira",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 315.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:30:00",
+                "idCompra": "15845006000592018",
+                "idCompraItem": "1584500600059201800001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-contratacoes/2.1_consultarItensContratacoes_PNCP_14133_Id?tipo=idCompra&codigo=15813206000612022&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-13 10:45:05",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000612022",
+                "idCompraItem": "1581320600061202200001",
+                "idContratacaoPNCP": "10673078000120-1-000031/2022",
+                "unidadeOrgaoCodigoUnidade": "158132",
+                "orgaoEntidadeCnpj": "10673078000120",
+                "numeroItemPncp": 1,
+                "numeroItemCompra": 1,
+                "numeroGrupo": 0,
+                "descricaoResumida": "Conjunto Cartucho Toner Impressora / Copiadora",
+                "materialOuServico": "M",
+                "materialOuServicoNome": "Material",
+                "codigoClasse": 7090,
+                "codigoGrupo": null,
+                "codItemCatalogo": 439725,
+                "descricaodetalhada": "",
+                "unidadeMedida": "Unidade ",
+                "orcamentoSigiloso": false,
+                "itemCategoriaIdPncp": 3,
+                "itemCategoriaNome": "Informática (TIC)",
+                "criterioJulgamentoIdPncp": 1,
+                "criterioJulgamentoNome": "Menor preço",
+                "situacaoCompraItem": "2",
+                "situacaoCompraItemNome": "Homologado",
+                "tipoBeneficio": "1",
+                "tipoBeneficioNome": "Participação exclusiva para ME/EPP",
+                "incentivoProdutivoBasico": false,
+                "quantidade": 3.0,
+                "valorUnitarioEstimado": 691.6,
+                "valorTotal": 2074.8,
+                "temResultado": true,
+                "codFornecedor": "40562254000118",
+                "nomeFornecedor": "THE PROMISSE SEGMENTOS INTEGRADOS LTDA",
+                "quantidadeResultado": 3.0,
+                "valorUnitarioResultado": 669.63,
+                "valorTotalResultado": 2008.89,
+                "dataInclusaoPncp": "2022-08-31T10:50:29",
+                "dataAtualizacaoPncp": "2022-09-14T17:42:22",
+                "dataResultado": "2022-09-14 00:00:00.0000000",
+                "margemPreferenciaNormal": false,
+                "percentualMargemPreferenciaNormal": null,
+                "margemPreferenciaAdicional": false,
+                "percentualMargemPreferenciaAdicional": null,
+                "codigoNCM": null,
+                "descricaoNCM": null,
+                "numeroControlePNCPCompra": "10673078000120-1-000031/2022"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

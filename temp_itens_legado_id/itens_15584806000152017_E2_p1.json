@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15584806000152017",
+        "data_extracao": "2026-02-13 10:18:17",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 40125438,
+                "numeroLicitacao": "155848061520171",
+                "uasg": 155848,
+                "nomeUasg": "IF - MS/ CAMPUS DOURADOS",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 152017,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 18449,
+                "nomeServico": "PROMOCAO DE ATIVIDADES DESPORTIVAS E RECREACAO",
+                "cnpjFornecedor": "21432274000120",
+                "nomeFornecedor": "ASSOCIACAO ESPORTIVA DOURADENSE DE ARBITROS - AEDA",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "Contratação de empresa prestadora de serviço de arbitragem para as modalidades de Atletismo, Basquetebol, Futsal, Handebol, Judô, Natação, Tênis de Mesa, Vo leibol, Vôlei de Praia e Xadrez, conforme dias e períodos constantes na tabela abaixo, com os equipamentos necessários para o serviço de acordo com as regra s vigentes (marcação de pista, trena, cal, uniformes, apitos, cronômetros, ban deiras, cartões, súmulas, regulamentos, caixa de som, etc).  O JIFMS ocorrerão entre os dias 27 a 30 de junho de 2017",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 7989.1,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-12-03T08:56:28",
+                "idCompra": "15584806000152017",
+                "idCompraItem": "1558480600015201700001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

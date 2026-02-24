@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845307000012017",
+        "data_extracao": "2026-02-13 11:13:59",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 39951600,
+                "numeroLicitacao": "15845307120171",
+                "uasg": 158453,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MT/C.P.PORÃ",
+                "modalidade": 7,
+                "nomeModalidade": "INEXIGIBILIDADE DE LICITAÇÃO",
+                "numeroAviso": 12017,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 3816,
+                "nomeServico": "TREINAMENTO NA AREA ECONOMICO - FINANCEIRA",
+                "cnpjFornecedor": "09094300000151",
+                "nomeFornecedor": "OPEN TREINAMENTOS EMPRESARIAIS E EDITORA LTDA - EPP",
+                "quantidade": null,
+                "unidade": "unidade",
+                "descricaoItem": "Pagamento da taxa de inscrição dos  servidores  Yan Silva Aires da paixão SIAP E  2232956 e da Servidora Vânia Ramos Ramires SIAPE  2108325, para participaçã o no Curso de capacitação em Gestão Tributária de Contratos e Convênios.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 3000.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:41:00",
+                "idCompra": "15845307000012017",
+                "idCompraItem": "1584530700001201700001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

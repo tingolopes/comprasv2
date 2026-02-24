@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813206000662022",
+        "data_extracao": "2026-02-13 11:28:23",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000662022",
+                "idCompraItem": "1581320600066202200001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 66,
+                "dtAnoAvisoLicitacao": 2022,
+                "nuInciso": "01",
+                "nuProcesso": "23347007498202230",
+                "vrEstimado": 22591.3,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": "Objeto: Contratação de empresa para execução de                              serviço comum de engenharia para adequações ne                             cessárias para instalação da sala modular que a                             tenderá o IFMaker para o Campus Ponta Porã - II",
+                "dsFundamentoLegal": "Fundamento Legal: Art. 75º, Inciso I da Lei nº 14.133 de 1º/04/2021.",
+                "dsJustificativa": "Justificativa: Serviços de baixo valor, dentro do recomendado pela lei.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "",
+                "noCargoRespDeclDisp": "",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 13455,
+                "noServico": "OBRAS CIVIS - PEQUENAS OBRAS / PINTURA EM GERAL",
+                "dsDetalhada": "Obras Civis - Pequenas Obras / Pintura em Geral",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "UNIDADE",
+                "vrEstimadoItem": 22591.3,
+                "dsFabricante": null,
+                "noMarcaMaterial": "",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "29688957000154",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "EP CONSTRUTORA E INCORPORADORA EIRELI",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

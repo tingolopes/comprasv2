@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813207000142017",
+        "data_extracao": "2026-02-13 11:20:13",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 40102625,
+                "numeroLicitacao": "158132071420171",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 7,
+                "nomeModalidade": "INEXIGIBILIDADE DE LICITAÇÃO",
+                "numeroAviso": 142017,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 18821,
+                "nomeServico": "TREINAMENTO / CAPACITACAO - SEGURANCA INDUSTRIAL",
+                "cnpjFornecedor": "13859951000162",
+                "nomeFornecedor": "CONNECT ON MARKETING DE EVENTOS LTDA - ME",
+                "quantidade": null,
+                "unidade": "Serviço",
+                "descricaoItem": "Participação dos servidores Alexandre Zanella, Fhelippe Werle, Erika Moreira, Marcos Oshiro e Antônio Leonardo Neto no curso \"Elaboração de Planilhas de Orç amento de Obras SINAP Avançado\".",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 4400.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813207000142017",
+                "idCompraItem": "1581320700014201700001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

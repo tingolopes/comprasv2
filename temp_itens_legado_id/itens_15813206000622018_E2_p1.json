@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000622018",
+        "data_extracao": "2026-02-13 11:21:52",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 43500625,
+                "numeroLicitacao": "158132066220181",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 622018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 64920,
+                "nomeMaterial": "BUFFET, BUFFET NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "14681195000197",
+                "nomeFornecedor": "BICO PITANGA CONFEITARIA LTDA",
+                "quantidade": null,
+                "unidade": "Buffet",
+                "descricaoItem": "Aquisição de Bolo  confeitado  com  recheio  de  brigadeiro  e  brigadeiro  br anco para 200 pessoas (20 Kg) a ser oferecido em pratos e talheres plásticos; Bebida guaraná antártica para 200 pessoas servida em copo plástico; Água miner al para 200 pessoas servida em copo plástico por equipe da contratada; Referên cia 320 ml/pessoa de guaraná 250 unidades de água mineral.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 2085.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000622018",
+                "idCompraItem": "1581320600062201800001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

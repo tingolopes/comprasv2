@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15844907000012017",
+        "data_extracao": "2026-02-13 09:46:37",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15844907000012017",
+                "idCompraItem": "1584490700001201700001",
+                "coUasg": 158449,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 1,
+                "dtAnoAvisoLicitacao": 2017,
+                "nuInciso": "00",
+                "nuProcesso": "23347000146201796",
+                "vrEstimado": 1530.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 25º, Caput da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Capacitação servidor.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "ROSANE DE BRITO FERNANDEZ GARCIA",
+                "noCargoRespDeclDisp": "Ordenadora de Despesas",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 21172,
+                "noServico": "TREINAMENTO QUALIFICACAO PROFISSIONAL",
+                "dsDetalhada": "Participação do servidor Diogo Pereira de Oliveira no VI Curso Sobre Conformid ade de Registro de Gestão e Contábil, e Empenho e suas particularidades.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "Serviço",
+                "vrEstimadoItem": 1530.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "00398099000121",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "ASSOCIACAO BRASILEIRA DE ORCAMENTO PUBLICO",
+                "dtAlteracao": "2024-04-08T11:27:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

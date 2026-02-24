@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000602021",
+        "data_extracao": "2026-02-13 11:26:10",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 50917409,
+                "numeroLicitacao": "158132066020212",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 602021,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 27219,
+                "nomeServico": "EMISSAO DE CERTIFICADO DIGITAL A3, SEM TOKEN PESSOA   FISICA",
+                "cnpjFornecedor": "33683111000107",
+                "nomeFornecedor": "SERVICO FEDERAL DE PROCESSAMENTO DE DADOS (SERPRO)",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "Emissão de Certificado Digital A3, sem Token PessoaFísica",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 666.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000602021",
+                "idCompraItem": "1581320600060202100002"
+            },
+            {
+                "isnSidecResultadoCompra": 50917408,
+                "numeroLicitacao": "158132066020211",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 602021,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 27200,
+                "nomeServico": "EMISSAO DE CERTIFICADO DIGITAL A3, COM TOKEN PARA  EQUIPAMENTO SERVIDOR",
+                "cnpjFornecedor": "33683111000107",
+                "nomeFornecedor": "SERVICO FEDERAL DE PROCESSAMENTO DE DADOS (SERPRO)",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "Emissão de Certificado Digital A3, com Token para  Equipamento Servidor",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1474.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000602021",
+                "idCompraItem": "1581320600060202100001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

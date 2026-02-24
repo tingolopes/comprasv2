@@ -1,0 +1,149 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/4.1_consultarItensPregoes_Id?id_compra=15845105000042019",
+        "data_extracao": "2026-02-13 11:41:14",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158451,
+                    "coItem": 21771453
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "Serviços de manutenção corretiva para substituição de COMPRESSOR 1/5 HP, MICRO MOTOR e FILTRO DE ÁGUA, incluindo o fornecimento e instalação de peças genuínas e novas (de primeiro uso), em bebedouro industrial, Marca:  Metal Rocha, Modelo: MR, classe I, Alimentação: 127 V.",
+                "descricaoItem": "Manutenção de Geladeiras e Bebedouros",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "1447.00",
+                "quantidadeItem": "1",
+                "situacaoItem": "homologado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "Serviço",
+                "valorHomologadoItem": "1447.00",
+                "valorEstimadoItem": "1455.33",
+                "valorNegociado": null,
+                "idCompra": "15845105000042019",
+                "idCompraItem": "1584510500004201900005",
+                "noAdjudic": "VERONICA VANELI PAGNAN",
+                "noHom": "FRANCISCO XAVIER DA SILVA",
+                "dtEncerramento": "2019-06-10",
+                "dtAdjudic": "2019-06-10",
+                "dtHom": "2019-06-11",
+                "dtAlteracao": "2024-04-08T11:32:00"
+            },
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158451,
+                    "coItem": 21771452
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "Serviços de manutenção corretiva para substituição de SENSOR DE DEGELO e SENSOR DE TEMPERATURA, incluindo o fornecimento e instalação de peças genuínas e novas (de primeiro uso), em condicionador de ar tipo Split, Marca: Elgin, Modelo: SUFI - 12000 - 2, Capacidade: 12000 BTU/h, Alimentação: 220 V.",
+                "descricaoItem": "Ar Condicionado - Manutenção de Aparelhos de Parede",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "480.00",
+                "quantidadeItem": "1",
+                "situacaoItem": "homologado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "Serviço",
+                "valorHomologadoItem": "480.00",
+                "valorEstimadoItem": "481.67",
+                "valorNegociado": null,
+                "idCompra": "15845105000042019",
+                "idCompraItem": "1584510500004201900004",
+                "noAdjudic": "VERONICA VANELI PAGNAN",
+                "noHom": "FRANCISCO XAVIER DA SILVA",
+                "dtEncerramento": "2019-06-10",
+                "dtAdjudic": "2019-06-10",
+                "dtHom": "2019-06-11",
+                "dtAlteracao": "2024-04-08T11:32:00"
+            },
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158451,
+                    "coItem": 21771451
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "Serviços de manutenção corretiva para configuração de CENTRAL DE CONTROLE (COMPLIANT MANAGER), Marca: Toshiba   Modelo: BMS-SM 1280ETLE, incluindo a configuração de funções, o endereçamento de 34 (trinta e quatro) condensadoras de ar VRF-Toshiba e a comunicação com a interface web.",
+                "descricaoItem": "Ar Condicionado - Manutenção Sistema Central",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "16564.00",
+                "quantidadeItem": "1",
+                "situacaoItem": "homologado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "Serviço",
+                "valorHomologadoItem": "16564.00",
+                "valorEstimadoItem": "16565.33",
+                "valorNegociado": null,
+                "idCompra": "15845105000042019",
+                "idCompraItem": "1584510500004201900003",
+                "noAdjudic": "VERONICA VANELI PAGNAN",
+                "noHom": "FRANCISCO XAVIER DA SILVA",
+                "dtEncerramento": "2019-06-10",
+                "dtAdjudic": "2019-06-10",
+                "dtHom": "2019-06-11",
+                "dtAlteracao": "2024-04-08T11:32:00"
+            },
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158451,
+                    "coItem": 21771450
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "Serviço de manutenção corretiva para substituição de PLACA ELETRÔNICA DO COMPRESSOR,  incluindo o fornecimento,  instalação e configuração de peça genuína e nova (de primeiro uso) em condensadora de ar, Marca: Toshiba, Modelo: MCC - 1595, sistema VRF.",
+                "descricaoItem": "Ar Condicionado - Manutenção de Sistemas / Limpeza",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "17415.00",
+                "quantidadeItem": "4",
+                "situacaoItem": "homologado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "Serviço",
+                "valorHomologadoItem": "4353.75",
+                "valorEstimadoItem": "17418.67",
+                "valorNegociado": null,
+                "idCompra": "15845105000042019",
+                "idCompraItem": "1584510500004201900002",
+                "noAdjudic": "VERONICA VANELI PAGNAN",
+                "noHom": "FRANCISCO XAVIER DA SILVA",
+                "dtEncerramento": "2019-06-10",
+                "dtAdjudic": "2019-06-10",
+                "dtHom": "2019-06-11",
+                "dtAlteracao": "2024-04-08T11:32:00"
+            },
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158451,
+                    "coItem": 21771449
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "Serviço de manutenção corretiva para substituição de PLACA ELETRÔNICA DO MOTOR VENTILADOR, incluindo o fornecimento,  instalação e configuração de peça genuína e nova (de primeiro uso) em condensadora de ar, Marca: Toshiba, Modelo: MMY-MAP1204HT5P, sistema VRF.",
+                "descricaoItem": "Ar Condicionado - Manutenção de Sistemas / Limpeza",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "2609.00",
+                "quantidadeItem": "1",
+                "situacaoItem": "homologado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "Serviço",
+                "valorHomologadoItem": "2609.00",
+                "valorEstimadoItem": "2610.00",
+                "valorNegociado": null,
+                "idCompra": "15845105000042019",
+                "idCompraItem": "1584510500004201900001",
+                "noAdjudic": "VERONICA VANELI PAGNAN",
+                "noHom": "FRANCISCO XAVIER DA SILVA",
+                "dtEncerramento": "2019-06-10",
+                "dtAdjudic": "2019-06-10",
+                "dtHom": "2019-06-11",
+                "dtAlteracao": "2024-04-08T11:32:00"
+            }
+        ],
+        "totalRegistros": 5,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

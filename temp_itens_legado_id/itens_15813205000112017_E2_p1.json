@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813205000112017",
+        "data_extracao": "2026-02-13 11:38:06",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 41390147,
+                "numeroLicitacao": "158132051120171",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 5,
+                "nomeModalidade": "PREGÃO",
+                "numeroAviso": 112017,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 27685,
+                "nomeMaterial": "TOLDO, TOLDO NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "09002707000101",
+                "nomeFornecedor": "ERNAINA RIBAS MATEUS - ME",
+                "quantidade": 6,
+                "unidade": "Unidades",
+                "descricaoItem": "Contratação de empresa para fornecimento de materiais e serviços de instalação de módulos de tela de sombreamento com medida aproximada de 5m x 5m, sendo o material da tela termo-plástico, resistente a incidência de sol e chuva por se r produzidos em trama de polietileno de alta densidade. Fixação no piso. Quant o as estruturas metálicas, as mesmas devem ser em aço galvanizado no formato t ubular, parafusadas por meio de chumbadores ou parafusos com bucha/ bolt em di mensões e quantidades adequadas à dimensão e carga do toldo. Nos pisos externo s onde existam materiais impermeabilizantes (mantas asfálticas) a instalação d everá ser feita por meio da construção de base independente em dimensões e qua ntidades adequadas à dimensão e carga do toldo, com o objetivo de preservar o material impermeabilizante. Todos os equipamentos auxiliares à instalação, inc lusive escadas ou andaimes serão fornecidos pela beneficiária da Ata.Garant ia de 12 (doze) meses.A instalação dos módulos será na Reitoria do IFMS. Co r a ser escolhida posteriormente.",
+                "beneficio": "Beneficio Tipo I - Participacao Exclusiva de ME/EPP/COOPERATIVA",
+                "valorEstimado": 19875.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-02-24T08:35:00",
+                "idCompra": "15813205000112017",
+                "idCompraItem": "1581320500011201700001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

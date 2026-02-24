@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000402018",
+        "data_extracao": "2026-02-13 11:21:26",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 43063731,
+                "numeroLicitacao": "158132064020181",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 402018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 46914,
+                "nomeMaterial": "FRAGMENTADORA PAPEL, FRAGMENTADORA DE PAPEL NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "29023342000109",
+                "nomeFornecedor": "VLF MAQUINAS E SOLUCOES EMPRESARIAIS LTDA",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "Fragmentadora.Capacidade min. 35 folhas.Funcionamento Contínuo, sem necessidad e de pausa pra resfriamento do motor. Garantia mínima de 12 (doze) meses.Potên cia Mínima 600W. 110V",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 4500.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-02-27T19:11:00",
+                "idCompra": "15813206000402018",
+                "idCompraItem": "1581320600040201800001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

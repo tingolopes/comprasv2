@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845306000062019",
+        "data_extracao": "2026-02-13 11:15:23",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845306000062019",
+                "idCompraItem": "1584530600006201900001",
+                "coUasg": 158453,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 6,
+                "dtAnoAvisoLicitacao": 2019,
+                "nuInciso": "02",
+                "nuProcesso": "23347011261201958",
+                "vrEstimado": 1990.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Justifica-se a necessidade da compra por Dispensa de Licitação pelo motivo de rapidez e economicidade.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "MARCOS PINHEIRO VILHANUEVA",
+                "noCargoRespDeclDisp": "Ordenador de Despesas",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 99821,
+                "noConjuntoMateriais": "BALAO INFLAVEL A AR QUENTE PARA PROPAGANDA AEREA",
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "BALAO INFLAVEL A AR QUENTE PARA PROPAGANDA AEREA. Balão Roof Top Confeccionado  em poliéster emborrachado 240, 100% fio poliamida Rhodia revestido com pelícu la de PVC transparente,  espessura 030m/m(+ou-) 2, com tratamento ultravioleta  e anti fungo, ardume tinto 240/35-24 fios, trama 240/35-22 fios, tinto e resi nado,  tingimento a base de anilina ácida, resinagem a base de resina acrílica , com banho final de silicone, com tensão de ruptura longitudinal e  transvers al de 70 Kgf/polegada, rasgamento 10 Kgf;",
+                "qtMaterialAlt": 2,
+                "noUnidadeMedida": "UNIDADE",
+                "vrEstimadoItem": 1990.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "Roof Top",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "03626194000123",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "RVB BALOES E INFLAVEIS LTDA",
+                "dtAlteracao": "2024-04-08T11:41:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

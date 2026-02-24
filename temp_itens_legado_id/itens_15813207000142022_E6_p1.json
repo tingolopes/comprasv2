@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813207000142022",
+        "data_extracao": "2026-02-13 11:29:20",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813207000142022",
+                "idCompraItem": "1581320700014202200001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 14,
+                "dtAnoAvisoLicitacao": 2022,
+                "nuInciso": "24",
+                "nuProcesso": "23347008101202227",
+                "vrEstimado": 26910.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": "Objeto: Pagamento de Inscrição para 6 (Seis) se                             rvidores para o 3º Congresso Brasileiro de Comp                             ras Públicas que ocorrerá na data de 08 a 11 de                              agosto de 2022, apenas no formato presencial e                             m Foz do Iguaçu/PR",
+                "dsFundamentoLegal": "Fundamento Legal: Art. 74º, Inciso III, f da Lei nº 14.133 de 1º/04/2021.",
+                "dsJustificativa": "Justificativa: Capacitação de Servidores de contratações",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "",
+                "noCargoRespDeclDisp": "",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 25232,
+                "noServico": "PAGAMENTO INSCRICAO EVENTOS",
+                "dsDetalhada": "Pagamento inscrição para 6 (Seis) servidores para o 3º Congresso Brasileiro de  Compras  Públicas que ocorrerá na data de 08 a 11 de agosto de 2022, apenas n o formato presencial em Foz  do Iguaçu/PR",
+                "qtMaterialAlt": 6,
+                "noUnidadeMedida": "UNIDADE",
+                "vrEstimadoItem": 26910.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "10498974000281",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "INSTITUTO NEGOCIOS PUBLICOS DO BRASIL - ESTUDOS E PESQUISAS NA ADMNIISTRACAO PUB",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

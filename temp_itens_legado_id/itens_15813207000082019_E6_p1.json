@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813207000082019",
+        "data_extracao": "2026-02-13 11:23:38",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813207000082019",
+                "idCompraItem": "1581320700008201900001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 8,
+                "dtAnoAvisoLicitacao": 2019,
+                "nuInciso": "02",
+                "nuProcesso": "23347017304201917",
+                "vrEstimado": 1400.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 25º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Capacitação de servidores.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "HEBERTON LUIZ DUARTE RODRIGUES",
+                "noCargoRespDeclDisp": "Gestor Financeiro",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 18821,
+                "noServico": "TREINAMENTO / CAPACITACAO - SEGURANCA INDUSTRIAL",
+                "dsDetalhada": "Capacitação de 4 (quatro) servidores no curso  Workshop Cerimonial e Protocolo  - cerimonial social, universitário e etiqueta . Ariela Castelani Bertoli; Jer uza dos Santos Santiago Minakawa; Lindayane dos Santos Amorim de Sá; Michele N akazato",
+                "qtMaterialAlt": 4,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 1400.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "29516033000170",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "WELLINGTON DA ROCHA OLMEDO 05216935193",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

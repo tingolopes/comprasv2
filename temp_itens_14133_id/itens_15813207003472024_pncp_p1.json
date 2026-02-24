@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-contratacoes/2.1_consultarItensContratacoes_PNCP_14133_Id?tipo=idCompra&codigo=15813207003472024&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-13 11:43:34",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813207003472024",
+                "idCompraItem": "1581320700347202400002",
+                "idContratacaoPNCP": "10673078000120-1-000135/2024",
+                "unidadeOrgaoCodigoUnidade": "158132",
+                "orgaoEntidadeCnpj": "10673078000120",
+                "numeroItemPncp": 2,
+                "numeroItemCompra": 2,
+                "numeroGrupo": 0,
+                "descricaoResumida": "Fornecimento de Água e Coleta de Esgoto Sanitário Fornecimento de Água e Coleta de Esgoto Sanitário",
+                "materialOuServico": "S",
+                "materialOuServicoNome": "Serviço",
+                "codigoClasse": null,
+                "codigoGrupo": 692,
+                "codItemCatalogo": 22845,
+                "descricaodetalhada": "Fornecimento de Água e Coleta de Esgoto Sanitário Fornecimento de Água e Coleta de Esgoto Sanitário",
+                "unidadeMedida": "UNIDADE",
+                "orcamentoSigiloso": false,
+                "itemCategoriaIdPncp": 3,
+                "itemCategoriaNome": "Informática (TIC)",
+                "criterioJulgamentoIdPncp": 7,
+                "criterioJulgamentoNome": "Não se aplica",
+                "situacaoCompraItem": "2",
+                "situacaoCompraItemNome": "Homologado",
+                "tipoBeneficio": "5",
+                "tipoBeneficioNome": "Não se aplica",
+                "incentivoProdutivoBasico": false,
+                "quantidade": 12.0,
+                "valorUnitarioEstimado": 5324.05,
+                "valorTotal": 63888.6,
+                "temResultado": true,
+                "codFornecedor": "03982931000120",
+                "nomeFornecedor": "EMPRESA DE SANEAMENTO DE MATO GROSSO DO SUL S.A.SANESUL",
+                "quantidadeResultado": 12.0,
+                "valorUnitarioResultado": 5324.05,
+                "valorTotalResultado": 63888.6,
+                "dataInclusaoPncp": "2024-12-31T11:39:23",
+                "dataAtualizacaoPncp": "2024-12-31T11:42:24",
+                "dataResultado": "2024-12-31 00:00:00.0000000",
+                "margemPreferenciaNormal": false,
+                "percentualMargemPreferenciaNormal": null,
+                "margemPreferenciaAdicional": false,
+                "percentualMargemPreferenciaAdicional": null,
+                "codigoNCM": null,
+                "descricaoNCM": null,
+                "numeroControlePNCPCompra": "10673078000120-1-000135/2024"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

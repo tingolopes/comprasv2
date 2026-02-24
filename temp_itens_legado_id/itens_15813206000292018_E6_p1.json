@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813206000292018",
+        "data_extracao": "2026-02-13 11:21:22",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000292018",
+                "idCompraItem": "1581320600029201800001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 29,
+                "dtAnoAvisoLicitacao": 2018,
+                "nuInciso": "02",
+                "nuProcesso": "23347009656201818",
+                "vrEstimado": 355.2,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Compra de baixo valor",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "HEBERTON LUIZ DUARTE RODRIGUES",
+                "noCargoRespDeclDisp": "Gestor Financeiro",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 965,
+                "noConjuntoMateriais": "PAPEL",
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "Papel - A4, material papel sulfite, gramatura 90 g/m², cor branca.",
+                "qtMaterialAlt": 12,
+                "noUnidadeMedida": "Resmas",
+                "vrEstimadoItem": 355.2,
+                "dsFabricante": null,
+                "noMarcaMaterial": "Report",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "15491434000109",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "ZILIOTTO INDUSTRIA, ATACADO, COMERCIO E REPRESENTACOES EIRELI",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

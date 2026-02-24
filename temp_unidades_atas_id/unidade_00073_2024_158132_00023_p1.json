@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00073%2F2024&unidadeGerenciadora=158132&numeroItem=00023&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:51:49",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00073/2024",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00023",
+                "codigoPdm": null,
+                "descricaoItem": "Prestação de Serviços de Portaria - Portaria 12x36 (2 empregados por posto)",
+                "fornecedor": "35604126000150 - AMERICA MIX COMERCIO DE MATERIAIS DE CONSTRUCAO E SERVICOS DE MANUTENCAO PREDIAL",
+                "quantidadeRegistrada": 1.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 0.80995,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": null,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2024-09-11T11:44:55",
+                "dataHoraAtualizacao": "2025-12-29T12:05:50",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "155850",
+                "nomeUnidade": "INST.FED.DO MS/CAMPUS JARDIM",
+                "tipoUnidade": "PARTICIPANTE"
+            },
+            {
+                "numeroAta": "00073/2024",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00023",
+                "codigoPdm": null,
+                "descricaoItem": "Prestação de Serviços de Portaria - Portaria 12x36 (2 empregados por posto)",
+                "fornecedor": "35604126000150 - AMERICA MIX COMERCIO DE MATERIAIS DE CONSTRUCAO E SERVICOS DE MANUTENCAO PREDIAL",
+                "quantidadeRegistrada": 0.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": null,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2024-09-11T11:44:45",
+                "dataHoraAtualizacao": "2024-09-12T10:42:30",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

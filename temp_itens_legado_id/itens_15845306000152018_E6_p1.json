@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845306000152018",
+        "data_extracao": "2026-02-13 11:14:54",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845306000152018",
+                "idCompraItem": "1584530600015201800001",
+                "coUasg": 158453,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 15,
+                "dtAnoAvisoLicitacao": 2018,
+                "nuInciso": "02",
+                "nuProcesso": "23347.018037.2018",
+                "vrEstimado": 1995.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Controle da população de insetos e roedores para garantir perfeitas condições de asseio",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "PATRICIA FERREIRA DUARTE",
+                "noCargoRespDeclDisp": "Tecnóloga- Formação/ Sem Função",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 3417,
+                "noServico": "DESINSETIZACAO / DESRATIZACAO / DEDETIZACAO",
+                "dsDetalhada": "Serviço de dedetização nas áreas internas e externas do Campus Ponta Porã (Blo cos 1, 2, 3 e hotel tecnológico) com um raio de 20 metros após as edificações,  desintetização das caixas de esgoto do IFMS. O Serviço deve ter garantia míni ma de 30 dias. Deverá ser fornecido o adesivo com a validade da dedetização e apresentação de laudo Técnico.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "SERVIÇO",
+                "vrEstimadoItem": 1995.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "27488752000108",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "CASSIO EIDI NASU 02083676165",
+                "dtAlteracao": "2024-04-08T11:41:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

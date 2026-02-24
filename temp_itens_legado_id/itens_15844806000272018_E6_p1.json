@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15844806000272018",
+        "data_extracao": "2026-02-13 09:39:49",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15844806000272018",
+                "idCompraItem": "1584480600027201800001",
+                "coUasg": 158448,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 27,
+                "dtAnoAvisoLicitacao": 2018,
+                "nuInciso": "02",
+                "nuProcesso": "23347018314201881",
+                "vrEstimado": 6479.05,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Serviço específico e com valor enquadrado no decreto 9412.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "HILDA RIBEIRO ROMERO",
+                "noCargoRespDeclDisp": "Ordenadora de Despesas",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 5592,
+                "noServico": "INSTALACAO / MANUTENCAO HIDROSSANITARIAS",
+                "dsDetalhada": "Contratação de Serviço hidrossanitário para o laboratório de construção civil  do IFMS - Campus Aquidauana.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "Serviço",
+                "vrEstimadoItem": 6479.05,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "21061532000109",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "CICALISE & ORSI LTDA",
+                "dtAlteracao": "2024-04-08T11:20:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813207000132022",
+        "data_extracao": "2026-02-13 11:29:07",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813207000132022",
+                "idCompraItem": "1581320700013202200001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 13,
+                "dtAnoAvisoLicitacao": 2022,
+                "nuInciso": "02",
+                "nuProcesso": "23347008298202202",
+                "vrEstimado": 3000.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": "Objeto: Capacitação de 02 servidores da DIRCC n                             o curso \"Implantando Sistema de Informações de                              Custos no Setor Público\" dias 17/10/2022 a 24/1                             0/2022 \"ao vivo e on-line\"",
+                "dsFundamentoLegal": "Fundamento Legal: Art. 25º, Inciso II da Lei nº 8.666 de 21º/06/1993.",
+                "dsJustificativa": "Justificativa: Curso ministrado por profissional com notória especialização na área.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "ELAINE BORGES MONTEIRO CASSIANO",
+                "noCargoRespDeclDisp": "Ordenadora de Despesas",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 21172,
+                "noServico": "TREINAMENTO QUALIFICACAO PROFISSIONAL",
+                "dsDetalhada": "Capacitação de 02 servidores da DIRCC no curso \"Implantando Sistema de Informa ções de Custos no Setor Público\" de 17/10 a 24/10/2022 na modalidade On-Line e  ao vivo",
+                "qtMaterialAlt": 2,
+                "noUnidadeMedida": "UNIDADE",
+                "vrEstimadoItem": 3000.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "14087594000124",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "MMP CURSOS  CAPACITACAO E TREINAMENTO LTDA",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813202000012020",
+        "data_extracao": "2026-02-13 11:38:31",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 46142042,
+                "numeroLicitacao": "15813202120201",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 2,
+                "nomeModalidade": "TOMADA DE PREÇOS",
+                "numeroAviso": 12020,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 19224,
+                "nomeServico": "CONSTRUCAO / MANUTENCAO / REFORMA - TELHADO",
+                "cnpjFornecedor": "28686423000126",
+                "nomeFornecedor": "LACO SERVICOS PREDIAIS           -ESPECIALIZADOS eireli",
+                "quantidade": 1,
+                "unidade": "Unidade",
+                "descricaoItem": "Serviço de Obra de Engenharia para execução  de  obra  de reforma  do  telhado com  substituição  completa  do  telhamento  e  da  estrutura  e  reparo  em estrutura de concreto no prédio da Reitoria do IFMS, localizado na Rua Ceará 9 72  Bairro Santa Fé, Campo Grande  MS, mediante o regime empreitada por preço unitário, conforme especificações constantes no Projeto Básico  ANEXO II",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 626262.59,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813202000012020",
+                "idCompraItem": "1581320200001202000001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

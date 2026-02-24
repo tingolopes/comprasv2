@@ -1,0 +1,224 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/4_consultarEmpenhosSaldoItem?numeroAta=00011%2F2023&unidadeGerenciadora=158132&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-23 16:03:55",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroItem": "00039",
+                "unidade": "154580 - INSTITUTO FEDERAL BAIANO - CAMPUS ITAPETINGA",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 2.0,
+                "quantidadeEmpenhada": 2.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-28T15:00:54"
+            },
+            {
+                "numeroItem": "00037",
+                "unidade": "155849 - INST.FED.DO MS/CAMPUS NAVIRAI",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 1.0,
+                "quantidadeEmpenhada": 1.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-28T15:00:49"
+            },
+            {
+                "numeroItem": "00039",
+                "unidade": "155849 - INST.FED.DO MS/CAMPUS NAVIRAI",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 5.0,
+                "quantidadeEmpenhada": 5.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-28T15:00:54"
+            },
+            {
+                "numeroItem": "00037",
+                "unidade": "155850 - INST.FED.DO MS/CAMPUS JARDIM",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 1.0,
+                "quantidadeEmpenhada": 1.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-28T15:00:49"
+            },
+            {
+                "numeroItem": "00039",
+                "unidade": "155850 - INST.FED.DO MS/CAMPUS JARDIM",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 2.0,
+                "quantidadeEmpenhada": 2.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-28T15:00:54"
+            },
+            {
+                "numeroItem": "00037",
+                "unidade": "158448 - INST.FED.DO MS/CAMPUS AQUIDAUANA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 1.0,
+                "quantidadeEmpenhada": 1.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-28T15:00:49"
+            },
+            {
+                "numeroItem": "00038",
+                "unidade": "158448 - INST.FED.DO MS/CAMPUS AQUIDAUANA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 2.0,
+                "quantidadeEmpenhada": 2.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-28T15:00:52"
+            },
+            {
+                "numeroItem": "00039",
+                "unidade": "158448 - INST.FED.DO MS/CAMPUS AQUIDAUANA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 2.0,
+                "quantidadeEmpenhada": 2.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-28T15:00:54"
+            },
+            {
+                "numeroItem": "00037",
+                "unidade": "158449 - INST. FED. DO MS/CAMPUS CAMPO GRANDE",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 3.0,
+                "quantidadeEmpenhada": 1.0,
+                "saldoEmpenho": 2.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-28T15:00:49"
+            },
+            {
+                "numeroItem": "00038",
+                "unidade": "158449 - INST. FED. DO MS/CAMPUS CAMPO GRANDE",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 1.0,
+                "quantidadeEmpenhada": 1.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-28T15:00:52"
+            },
+            {
+                "numeroItem": "00039",
+                "unidade": "158449 - INST. FED. DO MS/CAMPUS CAMPO GRANDE",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 12.0,
+                "quantidadeEmpenhada": 7.0,
+                "saldoEmpenho": 5.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-28T15:00:54"
+            },
+            {
+                "numeroItem": "00037",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 1.0,
+                "quantidadeEmpenhada": 1.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-28T15:00:49"
+            },
+            {
+                "numeroItem": "00038",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 1.0,
+                "quantidadeEmpenhada": 1.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-28T15:00:52"
+            },
+            {
+                "numeroItem": "00039",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 3.0,
+                "quantidadeEmpenhada": 3.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-28T15:00:54"
+            },
+            {
+                "numeroItem": "00037",
+                "unidade": "158451 - INST. FED. DO MS/CAMPUS COXIM",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 4.0,
+                "quantidadeEmpenhada": 4.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-28T15:00:49"
+            },
+            {
+                "numeroItem": "00038",
+                "unidade": "158451 - INST. FED. DO MS/CAMPUS COXIM",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 4.0,
+                "quantidadeEmpenhada": 4.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-28T15:00:52"
+            },
+            {
+                "numeroItem": "00039",
+                "unidade": "158451 - INST. FED. DO MS/CAMPUS COXIM",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 4.0,
+                "quantidadeEmpenhada": 4.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-28T15:00:54"
+            },
+            {
+                "numeroItem": "00037",
+                "unidade": "158452 - INST. FED. DO MS/CAMPUS NOVA ANDRADINA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 9.0,
+                "quantidadeEmpenhada": 9.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-28T15:00:49"
+            },
+            {
+                "numeroItem": "00039",
+                "unidade": "158453 - INST. FED. DO MS/CAMPUS PONTA PORA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 3.0,
+                "quantidadeEmpenhada": 3.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-28T15:00:54"
+            },
+            {
+                "numeroItem": "00037",
+                "unidade": "158454 - INST. FED. DO MS/CAMPUS TRES LAGOAS",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 6.0,
+                "quantidadeEmpenhada": 6.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-28T15:00:49"
+            },
+            {
+                "numeroItem": "00039",
+                "unidade": "158454 - INST. FED. DO MS/CAMPUS TRES LAGOAS",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 4.0,
+                "quantidadeEmpenhada": 4.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-28T15:00:54"
+            }
+        ],
+        "totalRegistros": 21,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

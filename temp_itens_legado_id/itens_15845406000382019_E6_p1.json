@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845406000382019",
+        "data_extracao": "2026-02-13 11:34:26",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845406000382019",
+                "idCompraItem": "1584540600038201900001",
+                "coUasg": 158454,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 38,
+                "dtAnoAvisoLicitacao": 2019,
+                "nuInciso": "02",
+                "nuProcesso": "23347.022433.2019",
+                "vrEstimado": 17598.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Valor abaixo de R$ 17.600,00 (dezessete mil e seiscentos reais).",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "APIO CARNIELO E SILVA",
+                "noCargoRespDeclDisp": "Ordenador de Despesa",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 21695,
+                "noConjuntoMateriais": "INVERSOR DE FASE DE CORRENTE ELETRICA",
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "Inversor de Potência E-12V S-220VAC 60HZ 5000WTensão de Entrada: 12,0VCC - Ten são de Saída: 220VCA - Potência: 5000WGarantia: 12 meses.Marca:TanderModelo: 5 000W",
+                "qtMaterialAlt": 2,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 17598.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "Sem marca",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "24616322000128",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "MORK SOLAR - PRODUTOS E SERVICOS ELETRICOS LTDA",
+                "dtAlteracao": "2024-04-08T11:45:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

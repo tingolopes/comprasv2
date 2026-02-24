@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845406000012019",
+        "data_extracao": "2026-02-13 11:33:41",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845406000012019",
+                "idCompraItem": "1584540600001201900001",
+                "coUasg": 158454,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 1,
+                "dtAnoAvisoLicitacao": 2019,
+                "nuInciso": "02",
+                "nuProcesso": "23347001016201932",
+                "vrEstimado": 1875.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Valor inferior a R$17.600,00.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "APIO CARNIELO E SILVA",
+                "noCargoRespDeclDisp": "Ordenador de Despesa",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 2763,
+                "noServico": "MANUTENCAO DE SISTEMAS DE PROTECAO CONTRA INCENDIO",
+                "dsDetalhada": "Serviço de manutenção do sistema de prevenção contra incêndio do campus Três L agoas/IFMS, com as seguintes  especificidades: confecção e instalação de três  abraçadeiras na rede de tubulação; confecção e  instalação/readequação de seis  roscas em tubo tamanho quatro polegadas, galvanizado;  alinhamento da bomba d e incêndio; readequação do funcionamento da válvula de fluxo; manutenção da po rta da casa da bomba de incêndio.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "UNIDADE",
+                "vrEstimadoItem": 1875.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "15280419000111",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "RAFAEL APARECIDO FERREIRA ZUQUE 00063516110",
+                "dtAlteracao": "2024-04-08T11:45:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

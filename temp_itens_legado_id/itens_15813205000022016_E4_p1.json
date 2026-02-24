@@ -1,0 +1,122 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/4.1_consultarItensPregoes_Id?id_compra=15813205000022016",
+        "data_extracao": "2026-02-13 11:42:15",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158132,
+                    "coItem": 16664627
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "Servidor TIPO 1  Tipo rack, com botão frontal de liga/desliga;  Leds frontais de equipamento ligado e de acesso a disco;  Deve possuir no mínimo 2 (duas) fontes de alimentação de 110/220 Volts, AC - 60 Hz, com redundância e potência necessária e suficiente para suportar a configuração mínima exigida, com capacidade de expansão;  Seleção de voltagem chaveada ou automática;  Possuir no mínimo 02 (dois) processadores Six-Core ou superior, de, no mínimo 2.10 GHz, com cache de, no mínimo, 15(quinze) MB por processador;  Recurso de wake up on lan  2 (dois) slots PCI-Express X4 ou superior  Kit cooler (dissipador) para cada processador, original do próprio fabricante do processador ou em regime de OEM, homologado e com selo do fabricante do processador. VER DESCRIÇÃO COMPLETA NO TERMO DE REFERÊNCIA.",
+                "descricaoItem": "SERVIDOR DE REDE",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "TRUE",
+                "menorLance": "41010.00",
+                "quantidadeItem": "9",
+                "situacaoItem": "encerrado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "Unidade",
+                "valorHomologadoItem": null,
+                "valorEstimadoItem": "53671.36",
+                "valorNegociado": null,
+                "idCompra": "15813205000022016",
+                "idCompraItem": "1581320500002201600001",
+                "noAdjudic": null,
+                "noHom": null,
+                "dtEncerramento": "2016-05-18",
+                "dtAdjudic": null,
+                "dtHom": null,
+                "dtAlteracao": "2024-04-08T11:17:00"
+            },
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158132,
+                    "coItem": 16664628
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "Servidor TIPO 2  Tipo rack, com botão frontal de liga/desliga;  Leds frontais de equipamento ligado e de acesso a disco;  Deve possuir no mínimo 2 (duas) fontes de alimentação de 110/220 Volts, AC - 60 Hz, com redundância e potência necessária e suficiente para suportar a configuração mínima exigida, com capacidade de expansão;  Seleção de voltagem chaveada ou automática;  Possuir no mínimo 02 (dois) processadores Six-Core ou superior, de, no mínimo 2.40 GHz, com cache de, no mínimo, 15(quinze) MB por processador;  Recurso de wake up on lan  2 (dois) slots PCI-Express X4 ou superior  Kit cooler (dissipador) para cada processador, original do próprio fabricante do processador ou em regime de OEM, homologado e com selo do fabricante do processador. VER DESCRIÇÃO DETALHADA NO TERMO DE REFERENCIA.",
+                "descricaoItem": "SERVIDOR DE REDE",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "TRUE",
+                "menorLance": "27800.00",
+                "quantidadeItem": "6",
+                "situacaoItem": "encerrado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "Unidade",
+                "valorHomologadoItem": null,
+                "valorEstimadoItem": "63217.81",
+                "valorNegociado": null,
+                "idCompra": "15813205000022016",
+                "idCompraItem": "1581320500002201600002",
+                "noAdjudic": null,
+                "noHom": null,
+                "dtEncerramento": "2016-05-18",
+                "dtAdjudic": null,
+                "dtHom": null,
+                "dtAlteracao": "2024-04-08T11:17:00"
+            },
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158132,
+                    "coItem": 16664629
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "Servidor TIPO 1  Tipo rack, com botão frontal de liga/desliga;  Leds frontais de equipamento ligado e de acesso a disco;  Deve possuir no mínimo 2 (duas) fontes de alimentação de 110/220 Volts, AC - 60 Hz, com redundância e potência necessária e suficiente para suportar a configuração mínima exigida, com capacidade de expansão;  Seleção de voltagem chaveada ou automática;  Possuir no mínimo 02 (dois) processadores Six-Core ou superior, de, no mínimo 2.10 GHz, com cache de, no mínimo, 15(quinze) MB por processador;  Recurso de wake up on lan  2 (dois) slots PCI-Express X4 ou superior  Kit cooler (dissipador) para cada processador, original do próprio fabricante do processador ou em regime de OEM, homologado e com selo do fabricante do processador. VER DESCRIÇÃO COMPLETA NO TERMO DE REFERÊNCIA.",
+                "descricaoItem": "SERVIDOR DE REDE",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "TRUE",
+                "menorLance": "36925.00",
+                "quantidadeItem": "3",
+                "situacaoItem": "cancelado no julgamento",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "Unidade",
+                "valorHomologadoItem": null,
+                "valorEstimadoItem": "53671.36",
+                "valorNegociado": null,
+                "idCompra": "15813205000022016",
+                "idCompraItem": "1581320500002201600003",
+                "noAdjudic": null,
+                "noHom": null,
+                "dtEncerramento": "2016-05-18",
+                "dtAdjudic": null,
+                "dtHom": null,
+                "dtAlteracao": "2024-04-08T11:17:00"
+            },
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158132,
+                    "coItem": 16664630
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "Servidor TIPO 2  Tipo rack, com botão frontal de liga/desliga;  Leds frontais de equipamento ligado e de acesso a disco;  Deve possuir no mínimo 2 (duas) fontes de alimentação de 110/220 Volts, AC - 60 Hz, com redundância e potência necessária e suficiente para suportar a configuração mínima exigida, com capacidade de expansão;  Seleção de voltagem chaveada ou automática;  Possuir no mínimo 02 (dois) processadores Six-Core ou superior, de, no mínimo 2.40 GHz, com cache de, no mínimo, 15(quinze) MB por processador;  Recurso de wake up on lan  2 (dois) slots PCI-Express X4 ou superior  Kit cooler (dissipador) para cada processador, original do próprio fabricante do processador ou em regime de OEM, homologado e com selo do fabricante do processador. VER DESCRIÇÃO DETALHADA NO TERMO DE REFERENCIA.",
+                "descricaoItem": "SERVIDOR DE REDE",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "TRUE",
+                "menorLance": "62130.00",
+                "quantidadeItem": "1",
+                "situacaoItem": "cancelado no julgamento",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "Unidade",
+                "valorHomologadoItem": null,
+                "valorEstimadoItem": "63217.81",
+                "valorNegociado": null,
+                "idCompra": "15813205000022016",
+                "idCompraItem": "1581320500002201600004",
+                "noAdjudic": null,
+                "noHom": null,
+                "dtEncerramento": "2016-05-18",
+                "dtAdjudic": null,
+                "dtHom": null,
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 4,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

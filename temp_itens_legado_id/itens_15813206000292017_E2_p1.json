@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000292017",
+        "data_extracao": "2026-02-13 11:19:35",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 40974946,
+                "numeroLicitacao": "158132062920171",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 292017,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 150281,
+                "nomeMaterial": "CÂMERA WEB, CÂMERA WEB NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "21308808000100",
+                "nomeFornecedor": "A.F.H. COMERCIO E SERVICOS TECNICOS LTDA - ME",
+                "quantidade": null,
+                "unidade": "unidade",
+                "descricaoItem": "Câmera IP HD 1.0MPPlug &amp; Play  Compressão de Vídeo H.264Monitorament o Dia/Noite, LEDs IR com Ativação Automática  Alerta de Detecção de Movimento por E-Mail e FTP  Protocolo ONVIF  Serviço DDNS Foscam Gratuito  Compatível co m o Software Gratuito de Gerenciamento Foscam  Compatível com o APP Foscam Gra tuito para iOS e Android  Suporta Áudio Bidirecional  Modelo FI9821P, Linha In terna, Sensor de Imagem 1/4&quot; CMOS  Filtro IR-Cut, Resolução do display 12 80 x 720p (1.0 Megapixel), Iluminação mínima 0 LUX (Com IR Ligado), Lente f: 2 .8mm, F:2.4, Ângulo de Visão 70, Ângulo Pan/Tilt Horizontal: 300° e Vertical: 120°Entrada para cartão SD Card Wireless  Entrada de Microfone embutido  Saída de áudio Alto falantes, com um conector de áudio  Compressão de áudio PCM/G.7 26, Compressão de imagem H.264, Taxa de FPS (frames per second) 30 fps (60Hz), 25 fps (50Hz), Frequência da Luz 50Hz, 60Hz  Espelhamento da imagem Vertical / Horizontal.  Padrão Wireless IEEE 802.11 b/g/n  Rede de Área Local (LAN)  11 LEDs Infravermelhos (5mm), Visibilidade noturna de até 8 metros.  Sistema Ope racional Suportado Windows, Macintosh, Android, iOS, Consumo de energia 4.2 Wa tts, Certificação CE, FCC.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1262.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000292017",
+                "idCompraItem": "1581320600029201700001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

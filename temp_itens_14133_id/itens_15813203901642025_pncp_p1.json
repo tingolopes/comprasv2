@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-contratacoes/2.1_consultarItensContratacoes_PNCP_14133_Id?tipo=idCompra&codigo=15813203901642025&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-13 10:44:36",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813203901642025",
+                "idCompraItem": "1581320390164202500001",
+                "idContratacaoPNCP": "10673078000120-1-000055/2025",
+                "unidadeOrgaoCodigoUnidade": "158132",
+                "orgaoEntidadeCnpj": "10673078000120",
+                "numeroItemPncp": 1,
+                "numeroItemCompra": 1,
+                "numeroGrupo": 0,
+                "descricaoResumida": "Obras Civis de Edificação Prediais",
+                "materialOuServico": "S",
+                "materialOuServicoNome": "Serviço",
+                "codigoClasse": null,
+                "codigoGrupo": 541,
+                "codItemCatalogo": 1619,
+                "descricaodetalhada": "Contratação de empresa especializada para construção de obra (refeitório) para o campus Três Lagoas",
+                "unidadeMedida": "UNIDADE",
+                "orcamentoSigiloso": false,
+                "itemCategoriaIdPncp": 3,
+                "itemCategoriaNome": "Informática (TIC)",
+                "criterioJulgamentoIdPncp": 2,
+                "criterioJulgamentoNome": "Maior desconto",
+                "situacaoCompraItem": "2",
+                "situacaoCompraItemNome": "Homologado",
+                "tipoBeneficio": "5",
+                "tipoBeneficioNome": "Não se aplica",
+                "incentivoProdutivoBasico": false,
+                "quantidade": 1.0,
+                "valorUnitarioEstimado": 2524110.18,
+                "valorTotal": 2524110.18,
+                "temResultado": true,
+                "codFornecedor": "47297949000169",
+                "nomeFornecedor": "M E ENGENHARIA LTDA",
+                "quantidadeResultado": 1.0,
+                "valorUnitarioResultado": 2048063.0001,
+                "valorTotalResultado": 2048063.0001,
+                "dataInclusaoPncp": "2025-07-01T07:11:52",
+                "dataAtualizacaoPncp": "2025-09-16T18:59:09",
+                "dataResultado": "2025-08-01 00:00:00.0000000",
+                "margemPreferenciaNormal": false,
+                "percentualMargemPreferenciaNormal": null,
+                "margemPreferenciaAdicional": false,
+                "percentualMargemPreferenciaAdicional": null,
+                "codigoNCM": null,
+                "descricaoNCM": null,
+                "numeroControlePNCPCompra": "10673078000120-1-000055/2025"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

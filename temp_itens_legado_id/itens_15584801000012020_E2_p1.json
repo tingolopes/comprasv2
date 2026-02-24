@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15584801000012020",
+        "data_extracao": "2026-02-13 11:37:01",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 46688282,
+                "numeroLicitacao": "15584801120201",
+                "uasg": 155848,
+                "nomeUasg": "IF - MS/ CAMPUS DOURADOS",
+                "modalidade": 1,
+                "nomeModalidade": "CONVITE",
+                "numeroAviso": 12020,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 5622,
+                "nomeServico": "OBRAS CIVIS PUBLICAS ( CONSTRUCAO )",
+                "cnpjFornecedor": null,
+                "nomeFornecedor": null,
+                "quantidade": 1,
+                "unidade": "Unidade",
+                "descricaoItem": "Barracão Reciclagem IFMS Dourados. Área: 504,60 m²",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 0.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:35:00",
+                "idCompra": "15584801000012020",
+                "idCompraItem": "1558480100001202000001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813207000132017",
+        "data_extracao": "2026-02-13 11:20:08",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 40111495,
+                "numeroLicitacao": "158132071320171",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 7,
+                "nomeModalidade": "INEXIGIBILIDADE DE LICITAÇÃO",
+                "numeroAviso": 132017,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 14729,
+                "nomeServico": "TREINAMENTO NA AREA DE ADMINISTRACAO PUBLICA",
+                "cnpjFornecedor": "27505203000196",
+                "nomeFornecedor": "PISIGMA SOLUCOES EM TECNOLOGIA LTDA - ME",
+                "quantidade": null,
+                "unidade": "Inscrição",
+                "descricaoItem": "Inscrição do Servidor André Kioshi da Silva Nakamura SIAPE 2190895, no evento de Capacitação no 1º Simpósio Internacional de Inovação em Educação Superior SIIES e 2ª Reunião Extraordinária de Coordenadores da Rede E-Tec Brasil em Sã o Luis/MA de 27/06 a 30/06/2017.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 330.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813207000132017",
+                "idCompraItem": "1581320700013201700001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

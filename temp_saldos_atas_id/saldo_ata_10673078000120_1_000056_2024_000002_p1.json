@@ -1,0 +1,184 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/4_consultarEmpenhosSaldoItem?numeroAta=00076%2F2024&unidadeGerenciadora=158132&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-23 16:04:23",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroItem": "00021",
+                "unidade": "155848 - INST.FED.DO MS/CAMPUS DOURADOS",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 26928.0,
+                "quantidadeEmpenhada": 10355.86215,
+                "saldoEmpenho": 16572.13785,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00022",
+                "unidade": "155848 - INST.FED.DO MS/CAMPUS DOURADOS",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 4320.0,
+                "quantidadeEmpenhada": 877.23906,
+                "saldoEmpenho": 3442.76094,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00023",
+                "unidade": "155848 - INST.FED.DO MS/CAMPUS DOURADOS",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 4800.0,
+                "quantidadeEmpenhada": 1292.41143,
+                "saldoEmpenho": 3507.58857,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00024",
+                "unidade": "155848 - INST.FED.DO MS/CAMPUS DOURADOS",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 12000.0,
+                "quantidadeEmpenhada": 4614.55184,
+                "saldoEmpenho": 7385.44816,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00025",
+                "unidade": "155848 - INST.FED.DO MS/CAMPUS DOURADOS",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 17184.0,
+                "quantidadeEmpenhada": 6599.50154,
+                "saldoEmpenho": 10584.49846,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00008",
+                "unidade": "158449 - INST. FED. DO MS/CAMPUS CAMPO GRANDE",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 67572.0,
+                "quantidadeEmpenhada": 8404.0,
+                "saldoEmpenho": 59168.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00009",
+                "unidade": "158449 - INST. FED. DO MS/CAMPUS CAMPO GRANDE",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 15396.0,
+                "quantidadeEmpenhada": 68.2,
+                "saldoEmpenho": 15327.8,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00010",
+                "unidade": "158449 - INST. FED. DO MS/CAMPUS CAMPO GRANDE",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 6828.0,
+                "quantidadeEmpenhada": 120.0,
+                "saldoEmpenho": 6708.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00011",
+                "unidade": "158449 - INST. FED. DO MS/CAMPUS CAMPO GRANDE",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 12072.0,
+                "quantidadeEmpenhada": 305.0,
+                "saldoEmpenho": 11767.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00012",
+                "unidade": "158449 - INST. FED. DO MS/CAMPUS CAMPO GRANDE",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 13836.0,
+                "quantidadeEmpenhada": 332.0,
+                "saldoEmpenho": 13504.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00013",
+                "unidade": "158449 - INST. FED. DO MS/CAMPUS CAMPO GRANDE",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 3564.0,
+                "quantidadeEmpenhada": 48.0,
+                "saldoEmpenho": 3516.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00047",
+                "unidade": "158454 - INST. FED. DO MS/CAMPUS TRES LAGOAS",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 50808.0,
+                "quantidadeEmpenhada": 4234.0,
+                "saldoEmpenho": 46574.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-06-18T11:29:34"
+            },
+            {
+                "numeroItem": "00048",
+                "unidade": "158454 - INST. FED. DO MS/CAMPUS TRES LAGOAS",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 8712.0,
+                "quantidadeEmpenhada": 726.0,
+                "saldoEmpenho": 7986.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-06-18T11:29:34"
+            },
+            {
+                "numeroItem": "00049",
+                "unidade": "158454 - INST. FED. DO MS/CAMPUS TRES LAGOAS",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 5832.0,
+                "quantidadeEmpenhada": 486.0,
+                "saldoEmpenho": 5346.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-06-18T11:29:40"
+            },
+            {
+                "numeroItem": "00050",
+                "unidade": "158454 - INST. FED. DO MS/CAMPUS TRES LAGOAS",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 2160.0,
+                "quantidadeEmpenhada": 180.0,
+                "saldoEmpenho": 1980.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-06-18T11:29:40"
+            },
+            {
+                "numeroItem": "00051",
+                "unidade": "158454 - INST. FED. DO MS/CAMPUS TRES LAGOAS",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 8280.0,
+                "quantidadeEmpenhada": 690.0,
+                "saldoEmpenho": 7590.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-06-18T11:29:41"
+            },
+            {
+                "numeroItem": "00052",
+                "unidade": "158454 - INST. FED. DO MS/CAMPUS TRES LAGOAS",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 1272.0,
+                "quantidadeEmpenhada": 106.0,
+                "saldoEmpenho": 1166.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-06-18T11:29:41"
+            }
+        ],
+        "totalRegistros": 17,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/4.1_consultarItensPregoes_Id?id_compra=15844905000032019",
+        "data_extracao": "2026-02-13 11:40:44",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158449,
+                    "coItem": 21531851
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "Serviço continuado, sob demanda, de capina/roçada mecânica e manual, sem coleta de resíduos, com a roçada manual em torno do cercamento do terreno. Inclui mão de obra, equipamentos, materiais e todos os insumos necessários nas dependências do campus Campo Grande do IFMS. Previsão de 05 (cinco) chamadas no período de 12 meses para a execução dos serviços numa área de total de 41.143,45 m2, por chamada.",
+                "descricaoItem": "Roçada / Limpeza de Área - Mecanizada / Manual",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "0.12",
+                "quantidadeItem": "205718",
+                "situacaoItem": "homologado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "Metro Quadrado",
+                "valorHomologadoItem": "0.12",
+                "valorEstimadoItem": "0.48",
+                "valorNegociado": null,
+                "idCompra": "15844905000032019",
+                "idCompraItem": "1584490500003201900001",
+                "noAdjudic": null,
+                "noHom": "ROSANE DE BRITO FERNANDEZ GARCIA",
+                "dtEncerramento": "2019-05-17",
+                "dtAdjudic": null,
+                "dtHom": "2019-06-17",
+                "dtAlteracao": "2024-04-08T11:27:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

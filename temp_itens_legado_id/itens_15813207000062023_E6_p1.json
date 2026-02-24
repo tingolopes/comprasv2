@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813207000062023",
+        "data_extracao": "2026-02-13 11:30:44",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813207000062023",
+                "idCompraItem": "1581320700006202300001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 6,
+                "dtAnoAvisoLicitacao": 2023,
+                "nuInciso": "24",
+                "nuProcesso": "23347004971202316",
+                "vrEstimado": 13800.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": "Objeto: Capacitação sobre \"Comunicação Não Viol                             enta, in company\" - Carga Horária 16h.",
+                "dsFundamentoLegal": "Fundamento Legal: Art. 74º, Inciso III, f da Lei nº 14.133 de 1º/04/2021.",
+                "dsJustificativa": "Justificativa: Art. 74º, Inciso III, f da Lei nº 14.133 de 1º/04/2021.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "",
+                "noCargoRespDeclDisp": "",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 21172,
+                "noServico": "TREINAMENTO QUALIFICACAO PROFISSIONAL",
+                "dsDetalhada": "Treinamento Qualificação Profissional",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "UNIDADE",
+                "vrEstimadoItem": 13800.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "07774090000117",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "ESCOLA DE NEGOCIOS CONEXXOES - EDUCACAO EMPRESARIAL LTDA",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

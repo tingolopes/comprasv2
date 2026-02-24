@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813206000012018",
+        "data_extracao": "2026-02-13 11:20:47",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000012018",
+                "idCompraItem": "1581320600001201800001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 1,
+                "dtAnoAvisoLicitacao": 2018,
+                "nuInciso": "02",
+                "nuProcesso": "01037880041201842",
+                "vrEstimado": 1499.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Aquisição de produtos e/ou serviços com valor inferior a R$ 8.000,00",
+                "nuCpfRespDeclDisp": "00374744130",
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "DELMIR DA COSTA FELIPE",
+                "noCargoRespDeclDisp": "Ordenador de Despesas em Exercício",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 407523,
+                "noConjuntoMateriais": null,
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": null,
+                "qtMaterialAlt": 110,
+                "noUnidadeMedida": "FRASCO",
+                "vrEstimadoItem": 1499.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "ASSUGRIN",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "18266878000139",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "COMERCIAL NOSSO LAR EIRELI - EPP",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

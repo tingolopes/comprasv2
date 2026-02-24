@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845306000192020",
+        "data_extracao": "2026-02-13 11:16:33",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845306000192020",
+                "idCompraItem": "1584530600019202000001",
+                "coUasg": 158453,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 19,
+                "dtAnoAvisoLicitacao": 2020,
+                "nuInciso": "22",
+                "nuProcesso": "23347.011875.2020",
+                "vrEstimado": 2000.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso XXII da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Art. 24º, Inciso XXII da Lei nº 8.666 de 21/06/1993.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "EDISON SILVA SOSA",
+                "noCargoRespDeclDisp": "Assistente em Administração",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 27863,
+                "noServico": "ENERGIA ELETRICA - FORNECIMENTO MERCADO LIVRE",
+                "dsDetalhada": "Prestação de serviço de fornecimento de energia elétrica para o IFMS Campus Po nta Porã - Unidade II.",
+                "qtMaterialAlt": 12,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 2000.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "15413826000150",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "ENERGISA MATO GROSSO DO SUL - DISTRIBUIDORA DE ENERGIA S.A.",
+                "dtAlteracao": "2024-04-08T11:41:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

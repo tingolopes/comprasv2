@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15584906000042020",
+        "data_extracao": "2026-02-13 11:10:10",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 46212851,
+                "numeroLicitacao": "15584906420201",
+                "uasg": 155849,
+                "nomeUasg": "INSTITUTO FEDERAL DE MS/CAMPUS NAVIRAÍ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 42020,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 12700,
+                "nomeServico": "INSTALACAO DE FORRO / PECA DECORATIVA DE GESSO - TETO / PAREDE",
+                "cnpjFornecedor": "18727597000136",
+                "nomeFornecedor": "JM COMERCIO, CONSTRUCAO E SERVICOS LTDA",
+                "quantidade": null,
+                "unidade": "Metro quadrado",
+                "descricaoItem": "Contratação de empresa especializada em fornecimento e instalação de forro em Gesso Acartonado, com  estruturas e junta de dilatação, com todos os materiais necessários. Metragem: 20,16 m² ou 2.016 cm.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1612.8,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:38:00",
+                "idCompra": "15584906000042020",
+                "idCompraItem": "1558490600004202000001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

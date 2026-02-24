@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845206000042020",
+        "data_extracao": "2026-02-13 11:07:48",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845206000042020",
+                "idCompraItem": "1584520600004202000001",
+                "coUasg": 158452,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 4,
+                "dtAnoAvisoLicitacao": 2020,
+                "nuInciso": "02",
+                "nuProcesso": "23347.024843.2019",
+                "vrEstimado": 1617.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Em razão do valor.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "SÉRGIO PAULO DE SOUZA",
+                "noCargoRespDeclDisp": "Diretor de Administração",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 51268,
+                "noConjuntoMateriais": "TABUA DIMENSIONADA / APARELHADA",
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "RODAMEIO FABRICADO EM MADEIRA MACIÇA, TIPO MADEIRA DE LEI, MOREIRA, ITAUBA OU  DE  SIMILAR RESSTÊNCIA E DENSIDADE, MADEIRA APARADA, LIXADA, COM DOIS CANTOS A RREDONDADOS, MEDINDO 150MM (L) X 30 MM (E) X 3000MM (C). ( TOTAL DE  154 METRO S )",
+                "qtMaterialAlt": 154,
+                "noUnidadeMedida": "Metro",
+                "vrEstimadoItem": 1617.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "INDEFINIDA",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "10646939000181",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "MADEIREIRA MADENOVA E MATERIAIS PARA CONSTRUÇÃO LTDA - ME",
+                "dtAlteracao": "2024-04-08T11:40:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

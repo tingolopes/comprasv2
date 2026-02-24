@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845206000152017",
+        "data_extracao": "2026-02-13 11:05:06",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845206000152017",
+                "idCompraItem": "1584520600015201700001",
+                "coUasg": 158452,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 15,
+                "dtAnoAvisoLicitacao": 2017,
+                "nuInciso": "02",
+                "nuProcesso": "00944250126201782",
+                "vrEstimado": 1100.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Tendo em vista o valor do objeto da compra, ser inferior a R$ 8.000,00.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "ADRIANA SMANHOTTO SONCELA",
+                "noCargoRespDeclDisp": "Diretora Geral Substituta",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 19143,
+                "noServico": "ANALISE FISICO - QUIMICA AGUA",
+                "dsDetalhada": "Análise físico-químicas e bacteriológicas; laudo com as interpretações dos res ultados de acordo com os padrões de potabilidade estabelecidos pela Portaria 2 .914/2011 do Ministério de saúde, (alterações/substitui), bem como a resolução  CONOMA 396/2008, firmada por laboratório idôneo creditado pela INMETRO, mínim o dos seguintes parâmetros: temperatura da água, pH, S´lidos totais dissolvido s, Turbidez, cor, dureza total, alcalinidade total, nitrato ( NO3) nitrito, fl uoreto, sulfato, cloro rresidual livre, cloraminas, dióxido de cloro, sódio, c loreto, ferro total, condutividade elétrica, coliformes termotolerante, colifo rmes totais e E. Coli. Obs: poderão ser solicitados outros parãmetros dependen do do ponto de captação e finalidade de uso. A análise deverá ser realizada no  prazo máximo de 3 (três) meses do requerimento de outorga. Parâmetros específ icos para empreendimentos que possuam em suas instalações, depósitos de armaze namentos de substãncias do grupo BTEX (gasolina) ou oficinas de manutenção de equipamentos com uso de  substãncias:benzeno,tolueno,etilbenzeno e xileno e in stalações e depósitos de armazeno ou oficinas de manutenção de equipamentos no  óleo diesel: benzeno (a) pireno.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "serviço",
+                "vrEstimadoItem": 1100.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "02814708000101",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "TONINHO POCOS ARTESIANOS LTDA - EPP",
+                "dtAlteracao": "2024-04-08T11:40:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813207000022018",
+        "data_extracao": "2026-02-13 11:21:56",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813207000022018",
+                "idCompraItem": "1581320700002201800001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 2,
+                "dtAnoAvisoLicitacao": 2018,
+                "nuInciso": "00",
+                "nuProcesso": "23347002581201755",
+                "vrEstimado": 180000.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 25º, Caput da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Serviço oferecido apenas pela concessionária Águas Guariroba na cidade de Campo Grande - MS",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "JOSE JORGE GUIMARAES GARCIA",
+                "noCargoRespDeclDisp": "Ordenador de Despesas",
+                "noResponsavelRatificacao": "LUIZ SIMAO STASZCZAK",
+                "noCargoRespRatificacao": "Ordenador de Despesas",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 22845,
+                "noServico": "FORNECIMENTO DE AGUA E COLETA DE ESGOTO SANITARIO",
+                "dsDetalhada": "Serviço de fornecimento de água e tratamento de esgoto na Reitoria - IFMS",
+                "qtMaterialAlt": 12,
+                "noUnidadeMedida": "mês",
+                "vrEstimadoItem": 180000.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "04089570000150",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "AGUAS GUARIROBA SA",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

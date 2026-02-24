@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845006000102018",
+        "data_extracao": "2026-02-13 09:42:44",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 41563470,
+                "numeroLicitacao": "158450061020181",
+                "uasg": 158450,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.CORUMBÁ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 102018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 287699,
+                "nomeMaterial": "CORTADOR GRAMA, TIPO MOTOR GASOLINA  POTÊNCIA MOTOR 6 HP CARACTERÍSTICAS ADICIONAIS MOTOR DE 4T, SEM RECOLHEDOR E FAIXA DE CORTE DE 40",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "17473920000120",
+                "nomeFornecedor": "PEDRO ZATA BORGES",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 2030.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-03-26T06:27:00",
+                "idCompra": "15845006000102018",
+                "idCompraItem": "1584500600010201800001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

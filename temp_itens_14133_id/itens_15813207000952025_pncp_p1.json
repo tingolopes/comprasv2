@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-contratacoes/2.1_consultarItensContratacoes_PNCP_14133_Id?tipo=idCompra&codigo=15813207000952025&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-13 11:43:37",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813207000952025",
+                "idCompraItem": "1581320700095202500001",
+                "idContratacaoPNCP": "10673078000120-1-000010/2025",
+                "unidadeOrgaoCodigoUnidade": "158132",
+                "orgaoEntidadeCnpj": "10673078000120",
+                "numeroItemPncp": 1,
+                "numeroItemCompra": 1,
+                "numeroGrupo": 0,
+                "descricaoResumida": "Energia Elétrica - Fornecimento Mercado Regulado Energia Elétrica - Fornecimento Mercado Regulado",
+                "materialOuServico": "S",
+                "materialOuServicoNome": "Serviço",
+                "codigoClasse": null,
+                "codigoGrupo": 691,
+                "codItemCatalogo": 4120,
+                "descricaodetalhada": "Energia Elétrica - Fornecimento Mercado Regulado Energia Elétrica - Fornecimento Mercado Regulado",
+                "unidadeMedida": "UNIDADE",
+                "orcamentoSigiloso": false,
+                "itemCategoriaIdPncp": 3,
+                "itemCategoriaNome": "Informática (TIC)",
+                "criterioJulgamentoIdPncp": 7,
+                "criterioJulgamentoNome": "Não se aplica",
+                "situacaoCompraItem": "2",
+                "situacaoCompraItemNome": "Homologado",
+                "tipoBeneficio": "5",
+                "tipoBeneficioNome": "Não se aplica",
+                "incentivoProdutivoBasico": false,
+                "quantidade": 1.0,
+                "valorUnitarioEstimado": 60000.0,
+                "valorTotal": 60000.0,
+                "temResultado": true,
+                "codFornecedor": "15413826000150",
+                "nomeFornecedor": "ENERGISA MATO GROSSO DO SUL - DISTRIBUIDORA DE ENERGIA S.A.",
+                "quantidadeResultado": 1.0,
+                "valorUnitarioResultado": 60000.0,
+                "valorTotalResultado": 60000.0,
+                "dataInclusaoPncp": "2025-02-14T13:53:31",
+                "dataAtualizacaoPncp": "2025-02-14T13:56:32",
+                "dataResultado": "2025-02-14 00:00:00.0000000",
+                "margemPreferenciaNormal": false,
+                "percentualMargemPreferenciaNormal": null,
+                "margemPreferenciaAdicional": false,
+                "percentualMargemPreferenciaAdicional": null,
+                "codigoNCM": null,
+                "descricaoNCM": null,
+                "numeroControlePNCPCompra": "10673078000120-1-000010/2025"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

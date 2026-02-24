@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-contratacoes/2.1_consultarItensContratacoes_PNCP_14133_Id?tipo=idCompra&codigo=15813205900812025&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-13 11:44:18",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813205900812025",
+                "idCompraItem": "1581320590081202500001",
+                "idContratacaoPNCP": "10673078000120-1-000041/2025",
+                "unidadeOrgaoCodigoUnidade": "158132",
+                "orgaoEntidadeCnpj": "10673078000120",
+                "numeroItemPncp": 1,
+                "numeroItemCompra": 1,
+                "numeroGrupo": 0,
+                "descricaoResumida": "Aeronaves teleguiadas",
+                "materialOuServico": "M",
+                "materialOuServicoNome": "Material",
+                "codigoClasse": 1550,
+                "codigoGrupo": null,
+                "codItemCatalogo": 614916,
+                "descricaodetalhada": "AERONAVES TELEGUIADAS, TIPO AERONAVE REMOTAMENTE PILOTADA (DRONE), QUANTIDADEMOTORES 4 MOTORES, TAMANHO DIAGONAL 350 MM, PESO MÁXIMO 1.375 G, VELOCIDADEASCENSÃO VERTICAL 6 M/S, CARACTERÍSTICAS ADICIONAIS CMOS DE 20 MEGAPIXELS DE1POL, CÂMERA 4K",
+                "unidadeMedida": "Unidade",
+                "orcamentoSigiloso": false,
+                "itemCategoriaIdPncp": 3,
+                "itemCategoriaNome": "Informática (TIC)",
+                "criterioJulgamentoIdPncp": 1,
+                "criterioJulgamentoNome": "Menor preço",
+                "situacaoCompraItem": "2",
+                "situacaoCompraItemNome": "Homologado",
+                "tipoBeneficio": "5",
+                "tipoBeneficioNome": "Não se aplica",
+                "incentivoProdutivoBasico": false,
+                "quantidade": 4.0,
+                "valorUnitarioEstimado": 64014.0,
+                "valorTotal": 256056.0,
+                "temResultado": true,
+                "codFornecedor": "32907435000100",
+                "nomeFornecedor": "NW DRONES COMERCIO E MANUTENCAO DE DRONES LTDA",
+                "quantidadeResultado": 4.0,
+                "valorUnitarioResultado": 44300.0,
+                "valorTotalResultado": 177200.0,
+                "dataInclusaoPncp": "2025-05-15T07:15:44",
+                "dataAtualizacaoPncp": "2025-06-27T15:25:05",
+                "dataResultado": "2025-06-27 00:00:00.0000000",
+                "margemPreferenciaNormal": false,
+                "percentualMargemPreferenciaNormal": null,
+                "margemPreferenciaAdicional": false,
+                "percentualMargemPreferenciaAdicional": null,
+                "codigoNCM": null,
+                "descricaoNCM": null,
+                "numeroControlePNCPCompra": "10673078000120-1-000041/2025"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

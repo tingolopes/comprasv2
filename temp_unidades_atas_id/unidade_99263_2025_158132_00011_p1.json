@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=99263%2F2025&unidadeGerenciadora=158132&numeroItem=00011&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:44:54",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "99263/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00011",
+                "codigoPdm": null,
+                "descricaoItem": "Serviço de manutenção corretiva e atendimento a chamados emergenciais de plataformas elevatórias / elevadores, incluindo os serviços de troca de peças e componentes. (IFMS Campus Naviraí)",
+                "fornecedor": "27437415000183 - THF ELEVADORES LTDA",
+                "quantidadeRegistrada": 4.0,
+                "saldoAdesoes": 8.0,
+                "saldoRemanejamentoEmpenho": 4.0,
+                "qtdLimiteAdesao": 8.0,
+                "qtdLimiteInformadoCompra": null,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2025-09-24T11:19:01",
+                "dataHoraAtualizacao": "2025-09-24T11:27:52",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "155849",
+                "nomeUnidade": "INST.FED.DO MS/CAMPUS NAVIRAI",
+                "tipoUnidade": "PARTICIPANTE"
+            },
+            {
+                "numeroAta": "99263/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00011",
+                "codigoPdm": null,
+                "descricaoItem": "Serviço de manutenção corretiva e atendimento a chamados emergenciais de plataformas elevatórias / elevadores, incluindo os serviços de troca de peças e componentes. (IFMS Campus Naviraí)",
+                "fornecedor": "27437415000183 - THF ELEVADORES LTDA",
+                "quantidadeRegistrada": 0.0,
+                "saldoAdesoes": 8.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 8.0,
+                "qtdLimiteInformadoCompra": null,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2025-09-24T11:18:32",
+                "dataHoraAtualizacao": "2025-09-24T11:27:23",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

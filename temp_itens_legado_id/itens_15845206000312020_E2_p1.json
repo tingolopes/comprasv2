@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845206000312020",
+        "data_extracao": "2026-02-13 11:08:42",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 47757891,
+                "numeroLicitacao": "158452063120201",
+                "uasg": 158452,
+                "nomeUasg": "INST.F.DE ED.,CIENC.E TEC.DO MS/C.N ANDRADINA",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 312020,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 892,
+                "nomeServico": "PROPAGANDA E PUBLICIDADE",
+                "cnpjFornecedor": "14905532000182",
+                "nomeFornecedor": "JUNIO CEZAR BOLSANELO 61361356120",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Propaganda volante para divulgação do exame de seleção dos cursos técnicos int egrados ao Ensino Médio do IFMS Campus Nova Andradina. ( 32 horas )",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 704.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:40:00",
+                "idCompra": "15845206000312020",
+                "idCompraItem": "1584520600031202000001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

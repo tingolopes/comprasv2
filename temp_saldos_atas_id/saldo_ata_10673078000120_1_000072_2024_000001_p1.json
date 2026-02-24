@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/4_consultarEmpenhosSaldoItem?numeroAta=00084%2F2024&unidadeGerenciadora=158132&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-23 16:05:06",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroItem": "00032",
+                "unidade": "158123 - INSTITUTO FED CIENCIA TECNOL SUDESTE MG",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 1.0,
+                "quantidadeEmpenhada": 1.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-06-20T18:23:44"
+            },
+            {
+                "numeroItem": "00064",
+                "unidade": "158123 - INSTITUTO FED CIENCIA TECNOL SUDESTE MG",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 1.0,
+                "quantidadeEmpenhada": 1.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-06-20T18:23:48"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

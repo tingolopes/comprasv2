@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845406000012020",
+        "data_extracao": "2026-02-13 11:34:44",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845406000012020",
+                "idCompraItem": "1584540600001202000001",
+                "coUasg": 158454,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 1,
+                "dtAnoAvisoLicitacao": 2020,
+                "nuInciso": "02",
+                "nuProcesso": "23347002187202012",
+                "vrEstimado": 2200.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Valor total da compra inferior à R$ 17.600,00",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "WALTERISIO GONCALVES CARNEIRO JUNIOR",
+                "noCargoRespDeclDisp": "Ordenador de Despesas",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 3417,
+                "noServico": "DESINSETIZACAO / DESRATIZACAO / DEDETIZACAO",
+                "dsDetalhada": "Dedetização em controle mensal de insetos rasteiros blattella germânica.",
+                "qtMaterialAlt": 11,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 2200.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "15049063000100",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "OSVALDO FERNANDES DE PINHO & CIA LTDA",
+                "dtAlteracao": "2024-04-08T11:45:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000382019",
+        "data_extracao": "2026-02-13 11:23:17",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 45623548,
+                "numeroLicitacao": "158132063820192",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 382019,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": 449370,
+                "nomeMaterial": "PLACA HOMENAGEM, MATERIAL PLACA AÇO INOXIDÁVEL ESCOVADO Nº 22  COMPRIMENTO PLACA 50 CM LARGURA DA PLACA 35 CM CARACTERÍSTICAS ADICIONAIS CONFORME MODELO DO ÓRGÃO  ESPESSURA PLACA 2 MM",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "11073532000175",
+                "nomeFornecedor": "RADRA INDUSTRIA LTDA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1140.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-05-23T08:11:00",
+                "idCompra": "15813206000382019",
+                "idCompraItem": "1581320600038201900002"
+            },
+            {
+                "isnSidecResultadoCompra": 45623547,
+                "numeroLicitacao": "158132063820191",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 382019,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 452308,
+                "nomeMaterial": "PLACA HOMENAGEM, MATERIAL PLACA AÇO INOX ESCOVADO  COMPRIMENTO PLACA 30 CM LARGURA DA PLACA 40 CM CARACTERÍSTICAS ADICIONAIS GRAVAÇÃO FOTO-CORROSÃO BAIXO RELEVO, CONFORME MODE  COR 4/4",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "11073532000175",
+                "nomeFornecedor": "RADRA INDUSTRIA LTDA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 2530.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-05-23T08:11:00",
+                "idCompra": "15813206000382019",
+                "idCompraItem": "1581320600038201900001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

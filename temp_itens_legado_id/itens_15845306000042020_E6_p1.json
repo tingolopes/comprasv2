@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845306000042020",
+        "data_extracao": "2026-02-13 11:15:53",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845306000042020",
+                "idCompraItem": "1584530600004202000001",
+                "coUasg": 158453,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 4,
+                "dtAnoAvisoLicitacao": 2020,
+                "nuInciso": "02",
+                "nuProcesso": "23347.004858.2020",
+                "vrEstimado": 8160.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Lei 8.666, Art.24 - Inciso II",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "CRISTINA APARECIDA CORREA AJALA",
+                "noCargoRespDeclDisp": "Assistente em Administração",
+                "noResponsavelRatificacao": "IZIDRO DOS SANTOS DE LIMA JUNIOR",
+                "noCargoRespRatificacao": "Ordenador de Despesas",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 23868,
+                "noServico": "PRESTACAO DE SERVICO DE  VIGILANCIA E SEGURANCA - ELETRONICA24 HORAS DIUTURNAS",
+                "dsDetalhada": "Prestação de serviço de  vigilância e segurança - eletrônica24 horas diuturnas .  Contratação de empresa especializada para prestação de serviços de ronda pe riódica monitorada com marcação eletrônica de visitas, conforme detalhamento a baixo:  1. Serão realizadas duas visitas diárias, de segunda-feira a domingo.   2. O controle eletrônico das visitas a ser fornecido pela contratada, deverá  contemplar 2 (dois) pontos e permitir a emissão de relatório mensal de control e.  3. As visitas têm como objetivo verificar a integridade do patrimônio da E mbrapa e possíveis sinais de invasão, risco de incêndio, etc.  4. Caso o vigil ante perceba qualquer situação considerada anormal, este deverá comunicar imed iatamente à Embrapa e se for o caso, os órgãos de segurança competentes, para  que tomem as providências necessárias.",
+                "qtMaterialAlt": 12,
+                "noUnidadeMedida": "Posto",
+                "vrEstimadoItem": 8160.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "11759984000105",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "SEGURANCA ELETRONICA PONTA PORA LTDA",
+                "dtAlteracao": "2024-04-08T11:41:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

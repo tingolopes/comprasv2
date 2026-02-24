@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000452023",
+        "data_extracao": "2026-02-13 11:30:25",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 56266973,
+                "numeroLicitacao": "158132064520231",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 452023,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 13099,
+                "nomeServico": "LOCACAO / MONTAGEM / DESMONTAGEM DE STANDS E PROJETOS EM FEIRAS E EXPOSICOES",
+                "cnpjFornecedor": "05394356000170",
+                "nomeFornecedor": "MEGA STANDS LTDA",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "Locação de bens móveis, compreendo a montagem e desmontagem, conforme segue: 65 unidades (estrutura) medindo 2,00 x 2,20m com 02 balcões (medidas: 1,0 0 x 1,00 x 0,50), montados em ilhas sem fechamento lateral;  Revestimento de Piso: Carpete grafite tipo forração medindo 2x1m;  Paredes: painéis em TS e strutural de 3mm na cor branca;  Estrutura: octanorme em alumínio anodizado brilhante, pé direito de 2,20m.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 14000.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2025-03-24T16:03:22",
+                "idCompra": "15813206000452023",
+                "idCompraItem": "1581320600045202300001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

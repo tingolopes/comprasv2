@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813206000092022",
+        "data_extracao": "2026-02-13 11:27:13",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000092022",
+                "idCompraItem": "1581320600009202200001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 9,
+                "dtAnoAvisoLicitacao": 2022,
+                "nuInciso": "10",
+                "nuProcesso": "23347000795202092",
+                "vrEstimado": 167400.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": "Objeto: Locação de imóvel para atender ao proje                             to \"Casa do Estudante Universitário - CEU\" -  I                             FMS / Campus Nova Andradina.",
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso X da Lei nº 8.666 de 21º/06/1993.",
+                "dsJustificativa": "Justificativa: Artigo 24, inciso X, da Lei 8.666.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "HEBERTON LUIZ DUARTE RODRIGUES",
+                "noCargoRespDeclDisp": "Gestor Financeiro",
+                "noResponsavelRatificacao": "ELAINE BORGES MONTEIRO CASSIANO",
+                "noCargoRespRatificacao": "Ordenadora de Despesas",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 4316,
+                "noServico": "LOCACAO DE IMOVEL",
+                "dsDetalhada": "Locação de imóvel predial localizado na Av. Rio Brilhante, 1039, Guiomar Soare s Andrade,  em Nova Andradina  - MS, com 5 apartamentos, destinados à CEU - Ca sa do Estudantes Universitário,  por 36 meses, conforme projeto.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "UNIDADE",
+                "vrEstimadoItem": 167400.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "",
+                "inTipoFornecedorVencedor": "PF",
+                "nuCnpjVencedor": null,
+                "nuCpfVencedor": "***739711**   ",
+                "noFornecedorVencedor": "MAURILIO GOMES CARVALHO",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

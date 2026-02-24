@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845006000632018",
+        "data_extracao": "2026-02-13 09:43:15",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 42905334,
+                "numeroLicitacao": "158450066320181",
+                "uasg": 158450,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.CORUMBÁ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 632018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 372679,
+                "nomeMaterial": "CARTUCHO TONER IMPRESSORA HP, TIPO CARTUCHO ORIGINAL  REFERÊNCIA CARTUCHO 1 CE505A  COR PRETA  REFERÊNCIA IMPRESSORA 1 LASERJET P2035",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "12706257000142",
+                "nomeFornecedor": "STS COMERCIO VAREJISTA LTDA",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 681.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-05-15T06:32:00",
+                "idCompra": "15845006000632018",
+                "idCompraItem": "1584500600063201800001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

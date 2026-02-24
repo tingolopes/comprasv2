@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00076%2F2024&unidadeGerenciadora=158132&numeroItem=00025&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:52:00",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00076/2024",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00025",
+                "codigoPdm": null,
+                "descricaoItem": "Prestação de Serviço de Limpeza e Conservação - Área Externa - Varrição de pas seios e arruamentos - Dourados",
+                "fornecedor": "25072403000177 - LETICIA DA CRUZ VAZ",
+                "quantidadeRegistrada": 17184.0,
+                "saldoAdesoes": 34368.0,
+                "saldoRemanejamentoEmpenho": 10584.49846,
+                "qtdLimiteAdesao": 34368.0,
+                "qtdLimiteInformadoCompra": 34368.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2024-10-21T15:33:55",
+                "dataHoraAtualizacao": "2025-10-08T16:30:04",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "155848",
+                "nomeUnidade": "INST.FED.DO MS/CAMPUS DOURADOS",
+                "tipoUnidade": "PARTICIPANTE"
+            },
+            {
+                "numeroAta": "00076/2024",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00025",
+                "codigoPdm": null,
+                "descricaoItem": "Prestação de Serviço de Limpeza e Conservação - Área Externa - Varrição de pas seios e arruamentos - Dourados",
+                "fornecedor": "25072403000177 - LETICIA DA CRUZ VAZ",
+                "quantidadeRegistrada": 0.0,
+                "saldoAdesoes": 34368.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 34368.0,
+                "qtdLimiteInformadoCompra": 34368.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2024-10-21T15:33:40",
+                "dataHoraAtualizacao": "2024-11-11T11:46:34",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

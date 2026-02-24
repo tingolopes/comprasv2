@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00106%2F2025&unidadeGerenciadora=158132&numeroItem=00036&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:44:46",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00106/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00036",
+                "codigoPdm": "01581",
+                "descricaoItem": "BANDEIRA INSTITUCIONAL, MATERIAL POLIÉSTER, COMPRIMENTO 160 CM, LARGURA 112 CM , CARACTERÍSTICAS ADICIONAIS 2,5 PANOS, FUROS, ILHOSES, REPRESENTAÇÃO ESTADO DE SANTA CATARINA",
+                "fornecedor": "50615423000194 - LIDER BANDEIRAS E UNIFORMES LTDA",
+                "quantidadeRegistrada": 12.0,
+                "saldoAdesoes": 24.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 24.0,
+                "qtdLimiteInformadoCompra": 24.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2025-08-19T15:42:57",
+                "dataHoraAtualizacao": "2025-10-10T11:13:06",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

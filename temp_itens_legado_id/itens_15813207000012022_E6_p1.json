@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813207000012022",
+        "data_extracao": "2026-02-13 11:28:47",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813207000012022",
+                "idCompraItem": "1581320700001202200001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 1,
+                "dtAnoAvisoLicitacao": 2022,
+                "nuInciso": "02",
+                "nuProcesso": "23347011589202199",
+                "vrEstimado": 1217.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 25º, Inciso II da Lei nº 8.666 de 21º/06/1993.",
+                "dsJustificativa": "Justificativa: Contratação de profissional de notório saber",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "FERNANDO SILVEIRA ALVES",
+                "noCargoRespDeclDisp": "Ordenador de Despesas por Delegação",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 14729,
+                "noServico": "TREINAMENTO NA AREA DE ADMINISTRACAO PUBLICA",
+                "dsDetalhada": "Contratação de PF para ministrar a Palestra Racismo Estrutural e as formas per versas de manifestações em instituições de Ensino: mecanismos de enfrentamento  e combate rumo a igualdade racial.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "UNIDADE",
+                "vrEstimadoItem": 1217.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "",
+                "inTipoFornecedorVencedor": "PF",
+                "nuCnpjVencedor": null,
+                "nuCpfVencedor": "***333091**   ",
+                "noFornecedorVencedor": "BARTOLINA RAMALHO CATANANTE",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

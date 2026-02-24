@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00013%2F2024&unidadeGerenciadora=158132&numeroItem=00007&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:13:58",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00013/2024",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00007",
+                "codigoPdm": null,
+                "descricaoItem": "Serviço de MANUTENÇÃO PREVENTIVA E CORRETIVA, sob demanda, de Exaustor axial.",
+                "fornecedor": "23070991000184 - INOVAR REFRIGERACAO LTDA",
+                "quantidadeRegistrada": 8.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 7.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": null,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2024-06-28T08:58:24",
+                "dataHoraAtualizacao": "2024-11-26T11:45:01",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

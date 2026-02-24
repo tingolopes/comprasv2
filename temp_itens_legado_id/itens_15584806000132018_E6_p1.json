@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15584806000132018",
+        "data_extracao": "2026-02-13 10:27:17",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15584806000132018",
+                "idCompraItem": "1558480600013201800001",
+                "coUasg": 155848,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 13,
+                "dtAnoAvisoLicitacao": 2018,
+                "nuInciso": "02",
+                "nuProcesso": "23347017997201859",
+                "vrEstimado": 17500.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "DANILO SANCHES DANTAS",
+                "noCargoRespDeclDisp": "Gestor Financeiro",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 105902,
+                "noConjuntoMateriais": "MESA DIGITALIZADORA / COMPONENTES",
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "Mesa digitalizadora: área ativa de trabalho de, no mínimo, 150 x 90 mm, inclui ndo caneta apontadora sem fios ergonômica de 2 botões com, pleo menos, 4.096 n íveis de sensibilidade de pressão, resolução mínima de 2500 lpi, conexão usb.",
+                "qtMaterialAlt": 40,
+                "noUnidadeMedida": "un",
+                "vrEstimadoItem": 17500.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "s/m",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "28622432000153",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "FRANCISCO DE SOUZA NUNES 07459947415",
+                "dtAlteracao": "2024-04-08T11:35:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

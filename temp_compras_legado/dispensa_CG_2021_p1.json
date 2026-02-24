@@ -1,0 +1,40 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/5_consultarComprasSemLicitacao?pagina=1&tamanhoPagina=500&dt_ano_aviso=2021&co_uasg=158449",
+        "data_extracao": "2026-02-05 14:10:43",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15844906000012021",
+                "co_orgao": "26415",
+                "co_orgao_superior": "20101",
+                "co_uasg": 158449,
+                "no_ausg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.C.GRANDE",
+                "co_modalidade_licitacao": 6,
+                "ds_lei": null,
+                "nu_processo": "23347000460202155",
+                "qt_total_item": 1,
+                "vr_estimado": 554.5,
+                "nu_aviso_licitacao": 1,
+                "ds_objeto_licitacao": null,
+                "ds_fundamento_legal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "ds_justificativa": "Justificativa: Urgência na aquisição.",
+                "no_responsavel_decl_disp": "ALINE MARUSE MONTEIRO MARIANO ZOTELLI",
+                "no_cargo_resp_decl_disp": "Ordenador de Despesas Substituta",
+                "no_responsavel_ratificacao": "",
+                "no_cargo_resp_ratificacao": "",
+                "dtDeclaracaoDispensa": "2021-01-25",
+                "dtRatificacao": null,
+                "dtPublicacao": null,
+                "dt_ano_aviso": 2021,
+                "dt_alteracao": "2024-04-08",
+                "pertence14133": false
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-contratacoes/2.1_consultarItensContratacoes_PNCP_14133_Id?tipo=idCompra&codigo=15813206002762025&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-13 10:54:58",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206002762025",
+                "idCompraItem": "1581320600276202500001",
+                "idContratacaoPNCP": "10673078000120-1-000100/2025",
+                "unidadeOrgaoCodigoUnidade": "158132",
+                "orgaoEntidadeCnpj": "10673078000120",
+                "numeroItemPncp": 1,
+                "numeroItemCompra": 1,
+                "numeroGrupo": 0,
+                "descricaoResumida": "Administração / Execução Projeto Educacional - Convênio / Estágio / Universitário / Monitor Administração / Execução Projeto Educacional - Convênio / Estágio / Universitário / Monitor",
+                "materialOuServico": "S",
+                "materialOuServicoNome": "Serviço",
+                "codigoClasse": null,
+                "codigoGrupo": 929,
+                "codItemCatalogo": 15156,
+                "descricaodetalhada": "Administração / Execução Projeto Educacional - Convênio / Estágio / Universitário / Monitor Administração / Execução Projeto Educacional - Convênio / Estágio / Universitário / Monitor",
+                "unidadeMedida": "UNIDADE",
+                "orcamentoSigiloso": false,
+                "itemCategoriaIdPncp": 3,
+                "itemCategoriaNome": "Informática (TIC)",
+                "criterioJulgamentoIdPncp": 7,
+                "criterioJulgamentoNome": "Não se aplica",
+                "situacaoCompraItem": "2",
+                "situacaoCompraItemNome": "Homologado",
+                "tipoBeneficio": "5",
+                "tipoBeneficioNome": "Não se aplica",
+                "incentivoProdutivoBasico": false,
+                "quantidade": 1.0,
+                "valorUnitarioEstimado": 130932.1,
+                "valorTotal": 130932.1,
+                "temResultado": true,
+                "codFornecedor": "02852277000178",
+                "nomeFornecedor": "FUNDACAO DE APOIO A EDUCACAO E AO DESENVOLVIMENTO TECNOLOGICO DO RN",
+                "quantidadeResultado": 1.0,
+                "valorUnitarioResultado": 130932.1,
+                "valorTotalResultado": 130932.1,
+                "dataInclusaoPncp": "2025-11-06T11:37:02",
+                "dataAtualizacaoPncp": "2025-11-06T11:40:03",
+                "dataResultado": "2025-11-05 00:00:00.0000000",
+                "margemPreferenciaNormal": false,
+                "percentualMargemPreferenciaNormal": null,
+                "margemPreferenciaAdicional": false,
+                "percentualMargemPreferenciaAdicional": null,
+                "codigoNCM": null,
+                "descricaoNCM": null,
+                "numeroControlePNCPCompra": "10673078000120-1-000100/2025"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

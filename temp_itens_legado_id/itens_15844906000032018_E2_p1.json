@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15844906000032018",
+        "data_extracao": "2026-02-13 09:46:51",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 41545927,
+                "numeroLicitacao": "15844906320181",
+                "uasg": 158449,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.C.GRANDE",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 32018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 59331,
+                "nomeMaterial": "APARELHO DE DISTRIBUICAO PARA CONTROLE ELETRICO, APARELHO DE DISTRIBUICAO PARA CONTROLE E NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "27556775000102",
+                "nomeFornecedor": "TANIA RAQUEL DA SILVA OLIVEIRA 03411394323",
+                "quantidade": null,
+                "unidade": "UN",
+                "descricaoItem": "Controle remoto universal, sem fio, para aparelhos de ar condicionado split, a limentado por 2 (duas) pilhas AAA. Com manual de instruções em português e dis tância de controle de no mínimo 8 (oito) Metros. Deve funcionar, no mínimo, em 90 marcas, dentre elas: Electrolux, Consul, LG, Komeco, Elgin e Midea.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 497.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:27:00",
+                "idCompra": "15844906000032018",
+                "idCompraItem": "1584490600003201800001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/4.1_consultarItensPregoes_Id?id_compra=15845405000032016",
+        "data_extracao": "2026-02-13 11:42:52",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158454,
+                    "coItem": 17762715
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "Contratação de empresa especializada para a instalação de sistema de alarme de incêndio nas edificações do campus Três Lagoas, com o fornecimento de mão-de-obra qualificada e material, conforme condições, quantidades, exigências e especificações técnicas estabelecidas no Termo de Referência e Projeto respectivo à demanda. A empresa deverá executar toda a instalação, configuração e testes dos equipamentos para que o sistema de alarme possa ser utilizado pela instituição.",
+                "descricaoItem": "Instalação e Montagem de Sistemas - Proteção Contra Incêndio (Instalacoes e Montagem)",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "51500.00",
+                "quantidadeItem": "1",
+                "situacaoItem": "homologado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "Serviço",
+                "valorHomologadoItem": "51500.00",
+                "valorEstimadoItem": "93427.75",
+                "valorNegociado": null,
+                "idCompra": "15845405000032016",
+                "idCompraItem": "1584540500003201600001",
+                "noAdjudic": "EDER SANTOS GOUVEIA",
+                "noHom": "APIO CARNIELO E SILVA",
+                "dtEncerramento": "2016-11-24",
+                "dtAdjudic": "2016-11-24",
+                "dtHom": "2016-11-30",
+                "dtAlteracao": "2024-04-08T11:45:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

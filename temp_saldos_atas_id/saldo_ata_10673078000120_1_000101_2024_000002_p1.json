@@ -1,0 +1,64 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/4_consultarEmpenhosSaldoItem?numeroAta=00048%2F2025&unidadeGerenciadora=158132&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-23 16:06:06",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroItem": "00008",
+                "unidade": "158448 - INST.FED.DO MS/CAMPUS AQUIDAUANA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 12.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 12.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-12-08T12:34:49"
+            },
+            {
+                "numeroItem": "00009",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 1.0,
+                "quantidadeEmpenhada": 2.0,
+                "saldoEmpenho": -1.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-27T14:32:08"
+            },
+            {
+                "numeroItem": "00010",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 12.0,
+                "quantidadeEmpenhada": 6.0,
+                "saldoEmpenho": 6.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-07-18T12:37:16"
+            },
+            {
+                "numeroItem": "00027",
+                "unidade": "158454 - INST. FED. DO MS/CAMPUS TRES LAGOAS",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 1.0,
+                "quantidadeEmpenhada": 2.0,
+                "saldoEmpenho": -1.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-27T14:32:08"
+            },
+            {
+                "numeroItem": "00028",
+                "unidade": "158454 - INST. FED. DO MS/CAMPUS TRES LAGOAS",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 12.0,
+                "quantidadeEmpenhada": 12.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            }
+        ],
+        "totalRegistros": 5,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/4_consultarEmpenhosSaldoItem?numeroAta=00010%2F2025&unidadeGerenciadora=158132&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-23 16:06:30",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroItem": "00001",
+                "unidade": "155849 - INST.FED.DO MS/CAMPUS NAVIRAI",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 1.0,
+                "quantidadeEmpenhada": 2.0,
+                "saldoEmpenho": -1.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-24T10:58:31"
+            },
+            {
+                "numeroItem": "00001",
+                "unidade": "158449 - INST. FED. DO MS/CAMPUS CAMPO GRANDE",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 2.0,
+                "quantidadeEmpenhada": 4.0,
+                "saldoEmpenho": -2.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-29T14:37:29"
+            },
+            {
+                "numeroItem": "00001",
+                "unidade": "720305 - CENTRO TECNOLOGICO DA MARINHA NO RIO DE JANEI",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 1.0,
+                "quantidadeEmpenhada": 2.0,
+                "saldoEmpenho": -1.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-06T11:27:13"
+            }
+        ],
+        "totalRegistros": 3,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

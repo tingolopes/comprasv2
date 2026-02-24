@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813207000232022",
+        "data_extracao": "2026-02-13 11:29:07",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813207000232022",
+                "idCompraItem": "1581320700023202200001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 23,
+                "dtAnoAvisoLicitacao": 2022,
+                "nuInciso": "01",
+                "nuProcesso": "23347007224202241",
+                "vrEstimado": 30000.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": "Objeto: Contratação de contratação de serviço d                             e impulsionamento de postagem para divulgação e                             m massa do Processo Seletivo 2023 para os curso                             s técnicos integrados e demais seleções nas pla                             taformas do facebook e instagram.",
+                "dsFundamentoLegal": "Fundamento Legal: Art. 25º, Inciso I da Lei nº 8.666 de 21º/06/1993.",
+                "dsJustificativa": "Justificativa: Serviço somente pode ser fornecido pela empresa contratada",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "ELAINE BORGES MONTEIRO CASSIANO",
+                "noCargoRespDeclDisp": "Ordenadora de Despesas",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 892,
+                "noServico": "PROPAGANDA E PUBLICIDADE",
+                "dsDetalhada": "Contratação de serviço de impulsionamento de postagem para divulgação em massa  do Processo Seletivo 2023 para os cursos técnicos integrados e demais seleçõe s do IFMS nas plataformas do Facebook e Instagram.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "UNIDADE",
+                "vrEstimadoItem": 30000.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "13347016000117",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "FACEBOOK SERVICOS ONLINE DO BRASIL LTDA.",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

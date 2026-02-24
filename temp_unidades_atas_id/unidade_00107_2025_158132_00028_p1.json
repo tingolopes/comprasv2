@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00107%2F2025&unidadeGerenciadora=158132&numeroItem=00028&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:58:26",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00107/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00028",
+                "codigoPdm": "11908",
+                "descricaoItem": "SACOLA, MATERIAL ALGODÃO CRU, COMPRIMENTO 40 CM, LARGURA 35 CM, ESPESSURA 14 CM, COR NATURAL, TIPO ALÇA SIMPLES, MATERIAL ALÇA ALGODÃO CRU, CARACTERÍSTICAS ADICIONAIS PERSONALIZADA COM LOGOTIPO EM SILKSCREEN/COSTURAD A, TIPO DE MÃO, SANFONA 14 CM",
+                "fornecedor": "36346017000142 - RIP CROSS - COMERCIO ATACADO DE BOLSAS E MOCHILAS LTDA",
+                "quantidadeRegistrada": 3500.0,
+                "saldoAdesoes": 7000.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 7000.0,
+                "qtdLimiteInformadoCompra": 7000.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2025-08-19T15:42:54",
+                "dataHoraAtualizacao": "2025-09-24T18:28:07",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

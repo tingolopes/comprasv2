@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845006000392018",
+        "data_extracao": "2026-02-13 09:43:50",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 42119855,
+                "numeroLicitacao": "158450063920181",
+                "uasg": 158450,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.CORUMBÁ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 392018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 24023,
+                "nomeServico": "PRESTACAO DE SERVICO DE LIMPEZA E CONSERVACAO - OUTRAS      NECESSIDADES",
+                "cnpjFornecedor": "20019882000144",
+                "nomeFornecedor": "DENILSON DA SILVA ROSA",
+                "quantidade": null,
+                "unidade": "POSTO",
+                "descricaoItem": "Prestação de serviço de limpeza, com fornecimento de material, para realização do JIFMS 2018, período de 12 a 22 de julho.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 3120.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-05-22T11:30:35",
+                "idCompra": "15845006000392018",
+                "idCompraItem": "1584500600039201800001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

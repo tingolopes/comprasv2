@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845406000142019",
+        "data_extracao": "2026-02-13 11:33:51",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845406000142019",
+                "idCompraItem": "1584540600014201900001",
+                "coUasg": 158454,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 14,
+                "dtAnoAvisoLicitacao": 2019,
+                "nuInciso": "02",
+                "nuProcesso": "23347006911201943",
+                "vrEstimado": 2200.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: O valor da compra é inferior à R$17.600,00",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "APIO CARNIELO E SILVA",
+                "noCargoRespDeclDisp": "Ordenador de Despesas",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 13757,
+                "noServico": "INSTALACAO / MANUTENCAO / OPERACAO / LOCACAO  -  EQUIPAMENTODE LUZ / IMAGEM / SOM",
+                "dsDetalhada": "Serviços de sonorização e iluminação para a abertura e encerramento dos JIFMS  2019, compreendendo 02 dias de evento.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "unidade",
+                "vrEstimadoItem": 2200.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "13639334000151",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "MARCELO PEREIRA VIDA 63858819115",
+                "dtAlteracao": "2024-04-08T11:45:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

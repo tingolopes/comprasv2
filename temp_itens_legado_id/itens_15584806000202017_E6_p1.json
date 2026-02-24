@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15584806000202017",
+        "data_extracao": "2026-02-13 10:20:11",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15584806000202017",
+                "idCompraItem": "1558480600020201700001",
+                "coUasg": 155848,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 20,
+                "dtAnoAvisoLicitacao": 2017,
+                "nuInciso": "02",
+                "nuProcesso": "02145590120201764",
+                "vrEstimado": 440.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: A porta de vidro do bloco A quebrou com a mudança brusca de temperatura. Urgente a troca por questões de segurança.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "CARLOS VINICIUS DA SILVA FIGUEIREDO",
+                "noCargoRespDeclDisp": "Ordenador de Despesas",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 1430,
+                "noConjuntoMateriais": "FOLHA DE VIDRO",
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "Placa de vidro temperado incolor de espessura 10mm, nas medidas 2600x1000, com  instalação.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "unidade",
+                "vrEstimadoItem": 440.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "NÃO SE APLICA",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "12997226000198",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "RAFAEL ANDRADE ARAUJO 04975846110 - ME",
+                "dtAlteracao": "2024-04-08T11:35:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

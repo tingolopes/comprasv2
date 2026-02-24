@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813206000252019",
+        "data_extracao": "2026-02-13 11:23:03",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000252019",
+                "idCompraItem": "1581320600025201900001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 25,
+                "dtAnoAvisoLicitacao": 2019,
+                "nuInciso": "01",
+                "nuProcesso": "23347015315201954",
+                "vrEstimado": 6000.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso I da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Compra dentro do limite da Lei 8666/93, I",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "LUIZ SIMAO STASZCZAK",
+                "noCargoRespDeclDisp": "Ordenador de Despesas",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 20060,
+                "noServico": "ELABORACAO / ANALISE PROJETO - ENGENHARIA",
+                "dsDetalhada": "Projeto e aprovação da entrada de serviço de energia do Campus Naviraí, inclui ndo estudo de proteção, seletividade e parametrização dos relés.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 6000.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "15706824000159",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "COGERA SERVICOS ELETRICOS LTDA",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

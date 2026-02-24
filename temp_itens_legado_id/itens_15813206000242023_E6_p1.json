@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813206000242023",
+        "data_extracao": "2026-02-13 11:29:49",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000242023",
+                "idCompraItem": "1581320600024202300001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 24,
+                "dtAnoAvisoLicitacao": 2023,
+                "nuInciso": "01",
+                "nuProcesso": "23347005817202353",
+                "vrEstimado": 8193.89,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": "Objeto: Contratação de empresa especializada em                              inspeção de segurança contra incêndio e pânico                             , conforme legislação do Corpo de Bombeiros MS,                              emissão de laudos, emissão de Anotações de Res                             ponsabilidade Técnica - ARTs e Curso com Atesta                             do de Brigada de Incêndio para atender a demand                             a do Campus Três Lagoas do IFMS.",
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso I da Lei nº 8.666 de 21º/06/1993.",
+                "dsJustificativa": "Justificativa: Art. 24º, Inciso I da Lei nº 8.666 de 21º/06/1993.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "CLAUDIA SANTOS FERNANDES",
+                "noCargoRespDeclDisp": "Ordenadora de Despesas Substituta",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 876,
+                "noServico": "PERICIA / LAUDO / AVALIACAO - TECNICA",
+                "dsDetalhada": "Perícia, Laudo e Avaliação",
+                "qtMaterialAlt": 6,
+                "noUnidadeMedida": "UNIDADE",
+                "vrEstimadoItem": 8193.89,
+                "dsFabricante": null,
+                "noMarcaMaterial": "",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "20953856000199",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "J Q RAMOS ENGENHARIA",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

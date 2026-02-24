@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15844906000152017",
+        "data_extracao": "2026-02-13 09:46:32",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 40478734,
+                "numeroLicitacao": "158449061520171",
+                "uasg": 158449,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.C.GRANDE",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 152017,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 22225,
+                "nomeServico": "SERVICO ENGENHARIA",
+                "cnpjFornecedor": "03356964000165",
+                "nomeFornecedor": "RONEY SOARES CASIMIRO - EPP",
+                "quantidade": null,
+                "unidade": "Serviço",
+                "descricaoItem": "REMOÇÃO DE BLOKRET COM EMPILHAMENTO  RETIRADA DE MEIO FIO COM EMPILHAMENTO E S EM REMOÇÃO  ESCAVAÇÃO MANUAL DE VALAS.  CAIXA DE GORDURA EM PVC, DIAMETRO MÍNI MO 300 MM, DIAMETRO DE SAÍDA 100 MM, CAPACIDADE APROXIMADA 18 LITROS, COM TAMP A  TUBO DE PVC PARA REDE COLETORA DE ESGOTO DE PAREDE MACIÇA, DN 100 MM, JUNTA ELÁSTICA, INSTALADO EM LOCAL COM NÍVEL BAIXO DE INTERFERÊNCIAS FORNECIMENTO E ASSENTAMENTO.  JOELHO 90 GRAUS, PVC, SERIE NORMAL, ESGOTO PREDIAL, DN 100 M M, JUNTA ELÁSTICA, FORNECIDO E INSTALADO EM RAMAL DE DESCARGA OU RAMAL DE ESGO TO SANITÁRIO  VÁLVULA DE RETENÇÃO HORIZONTAL Ø 100MM (4\") FORNECIMENTO E INS TALAÇÃO  REATERRO DE VALA COM COMPACTAÇÃO MANUAL  ALVENARIA EM TIJOLO CERAMICO MACIÇO 5X10X20CM 1 VEZ (ESPESSURA 20CM), ASSENTADO COM ARGAMASSA TRACO 1:2:8 (CIMENTO, CAL E AREIA)  ARGAMASSA TRACO 1:3 (CIMENTO E AREIA), PREPARO MANUAL, INCLUSO ADITIVO IMPERMEABILIZANTE  RECOMPOSIÇÃO DE PAVIMENTAÇÃO TIPO BLOKRET SOBRE COLCHÃO DE AREIA COM REAPROVEITAMENTO DE MATERIAL  ASSENTAMENTO DE GUIA (MEIO-FIO) EM TRECHO RETO, CONFECCIONADA EM CONCRETO PRÉ-FABRICADO, DIMENSÕES 100X15X13X20 CM (COMPRIMENTO X BASE INFERIOR X BASE SUPERIOR X ALTURA), PARA U RBANIZAÇÃO INTERNA DE EMPREENDIMENTO",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 2430.69,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:27:00",
+                "idCompra": "15844906000152017",
+                "idCompraItem": "1584490600015201700001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00102%2F2025&unidadeGerenciadora=158132&numeroItem=00008&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:58:26",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00102/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00008",
+                "codigoPdm": "10289",
+                "descricaoItem": "PAINEL ANÚNCIO, FORMATO RETANGULAR, MATERIAL ESTRUTURA AÇO, COMPRIMENTO 200 CM , LARGURA 200 CM, TIPO PAINEL DE LED (OUTDOOR), PROFUNDIDADE 14 CM, ALTURA 400 CM, TENSÃO 220 V, LUMINOSIDADE 7.000 A 9.000 NIT, CARACTERÍSTICAS ADICIONAIS ENTRADA DE DADOS: WIFI, HDMI; MEMORIA MÍNIMA 8G",
+                "fornecedor": "57805562000120 - UDIARTS COMUNICACAO VISUAL LTDA",
+                "quantidadeRegistrada": 70.0,
+                "saldoAdesoes": 140.0,
+                "saldoRemanejamentoEmpenho": 70.0,
+                "qtdLimiteAdesao": 140.0,
+                "qtdLimiteInformadoCompra": 140.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2025-08-19T15:42:46",
+                "dataHoraAtualizacao": "2025-08-29T15:33:35",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

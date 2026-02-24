@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845406000112016",
+        "data_extracao": "2026-02-13 11:32:18",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845406000112016",
+                "idCompraItem": "1584540600011201600001",
+                "coUasg": 158454,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 11,
+                "dtAnoAvisoLicitacao": 2016,
+                "nuInciso": "02",
+                "nuProcesso": "23347022193201618",
+                "vrEstimado": 1810.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Aquisição de produtos e/ou serviços com valor inferior a R$ 8.000,00",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "APIO CARNIELO E SILVA",
+                "noCargoRespDeclDisp": "Ordenador de Despesa",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 150821,
+                "noConjuntoMateriais": null,
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "Ventilador oscilante de parede 60cm. - 127v. Possui oscilação para direita e e squerda e inclinação para frente e para trás. Deverá possuir grade removível p ara a limpeza. O mesmo deverá contar com garantia mínima de 01 ano. Potência m ínima: 160w. Rotação mínima: 1.300 rpm, isolação (fio de cobre esmaltado): Cla sse H (180º). Peso médio: 8,0 kg. Hélice: mínimo 22\" - 3 pás. Cor: preto. Cont role de velocidade: rotativo.",
+                "qtMaterialAlt": 10,
+                "noUnidadeMedida": "unidade",
+                "vrEstimadoItem": 1810.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "VITALEX",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "15110797000157",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "ENG-CLASS COMERCIAL LTDA - ME",
+                "dtAlteracao": "2024-04-08T11:45:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

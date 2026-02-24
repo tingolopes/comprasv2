@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00058%2F2025&unidadeGerenciadora=158132&numeroItem=00006&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:55:39",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00058/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00006",
+                "codigoPdm": null,
+                "descricaoItem": "Diária no país",
+                "fornecedor": "23740606000169 - DOMINI SERVICOS TECNICOS LTDA",
+                "quantidadeRegistrada": 1080.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 930.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": 0.0,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2025-07-18T14:25:42",
+                "dataHoraAtualizacao": "2025-12-01T16:43:16",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

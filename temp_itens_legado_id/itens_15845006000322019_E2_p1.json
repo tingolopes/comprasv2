@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845006000322019",
+        "data_extracao": "2026-02-13 09:44:22",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 45604011,
+                "numeroLicitacao": "158450063220191",
+                "uasg": 158450,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.CORUMBÁ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 322019,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 96563,
+                "nomeMaterial": "ABÓBORA IN-NATURA, ABOBORA IN - NATURA NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": null,
+                "nomeFornecedor": null,
+                "quantidade": null,
+                "unidade": "Quilograma",
+                "descricaoItem": "ABÓBORA, cabotiã, de 1ª qualidade, in natura, tamanho e coloração uniforme, po lpa firme, livre de sujidades, parasitas, larvas, resíduo de fertilizante. Dev erá estar em perfeito estado para consumo, madura, sem defeitos graves como po dridão, amassado, murcho, deformado, descolorado, queimado de sol, com manchas , rachaduras, injúrias por pragas ou doenças. Embalada em sacos de polietileno , transparentes, atóxico e intacto.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 639.54,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "49692984168",
+                "nomeVencedorPf": "MATIAS SOARES PEREIRA NETO",
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:30:00",
+                "idCompra": "15845006000322019",
+                "idCompraItem": "1584500600032201900001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

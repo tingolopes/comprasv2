@@ -1,0 +1,41 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/4.1_consultarItensPregoes_Id?id_compra=15845305000022017",
+        "data_extracao": "2026-02-13 11:41:46",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158453,
+                    "coItem": 18480810
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "Contratação de Empresa Especializada para a Instalação de Sistema de Alarme de Incêndio e sistema de acionamento de bomba de incêndio com realização de manutenção geral do quadro de comando da bomba de incêndio, nas Edificações do IFMS- Campus Ponta Porã, com fornecimento de Mão-de Obra qualificada e Material. A Empresa deverá executar toda a instalação, configuração, configuração e testes dos equipamentos para que o sistema de alarme e sistema da bomba de incêndio possa ser utilizado pela Instituição. A Instalação do Sistema será nas edificações do Campus Ponta Porã, localizado na Rodovia BR 463- Km 14- Sanga Puitã- Ponta Porã- MS- Os materiais a serem fornecido constam da tabela do item 1 no termo de referencia.",
+                "descricaoItem": "Instalação e Montagem de Sistemas - Proteção Contra Incêndio",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "30500.00",
+                "quantidadeItem": "1",
+                "situacaoItem": "homologado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "Un",
+                "valorHomologadoItem": "30500.00",
+                "valorEstimadoItem": "87401.66",
+                "valorNegociado": null,
+                "idCompra": "15845305000022017",
+                "idCompraItem": "1584530500002201700001",
+                "noAdjudic": null,
+                "noHom": "MARCOS PINHEIRO VILHANUEVA",
+                "dtEncerramento": "2017-05-25",
+                "dtAdjudic": null,
+                "dtHom": "2017-06-13",
+                "dtAlteracao": "2024-04-08T11:41:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

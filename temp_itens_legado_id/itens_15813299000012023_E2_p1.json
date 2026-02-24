@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813299000012023",
+        "data_extracao": "2026-02-13 11:39:11",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 55100833,
+                "numeroLicitacao": "15813299120231",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 99,
+                "nomeModalidade": "RDC",
+                "numeroAviso": 12023,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 5622,
+                "nomeServico": "OBRAS CIVIS PUBLICAS ( CONSTRUCAO )",
+                "cnpjFornecedor": "31941534000146",
+                "nomeFornecedor": "REAL VISAO CONSTRUCAO CIVIL LTDA",
+                "quantidade": 1,
+                "unidade": "UNIDADE",
+                "descricaoItem": "Obra De Engenharia Para Construção da Cobertura em Estrutura Metálica, do tipo treliça espacial, de aproximadamente 504 m², com cobertura em telha de polica rbonato, da Área de Convivência entre os Blocos Administrativo e de Ensino do Campus Corumbá, IFMS.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 864670.43,
+                "decreto7174": "false",
+                "criterioJulgamento": "Maior Desconto",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813299000012023",
+                "idCompraItem": "1581329900001202300001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

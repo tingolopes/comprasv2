@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15844907000052018",
+        "data_extracao": "2026-02-13 09:48:23",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 42816643,
+                "numeroLicitacao": "15844907520181",
+                "uasg": 158449,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.C.GRANDE",
+                "modalidade": 7,
+                "nomeModalidade": "INEXIGIBILIDADE DE LICITAÇÃO",
+                "numeroAviso": 52018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 17663,
+                "nomeServico": "CURSO APERFEICOAMENTO / ESPECIALIZACAO PROFISSIONAL",
+                "cnpjFornecedor": "07774090000117",
+                "nomeFornecedor": "ESCOLA DE NEGOCIOS CONEXXOES - EDUCACAO EMPRESARIAL LTDA",
+                "quantidade": null,
+                "unidade": "Evento",
+                "descricaoItem": "Contratação de empresa para ministrar Capacitação em Gestão de Frotas (16 hora s) na modalidade \"in company\"que será ofertado em 02 e 03/10/2018 para 15 part icipantes servidores do IFMS.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 9800.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2025-02-26T11:45:34",
+                "idCompra": "15844907000052018",
+                "idCompraItem": "1584490700005201800001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

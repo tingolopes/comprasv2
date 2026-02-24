@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15844907000072018",
+        "data_extracao": "2026-02-13 09:48:34",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 43314893,
+                "numeroLicitacao": "15844907720181",
+                "uasg": 158449,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.C.GRANDE",
+                "modalidade": 7,
+                "nomeModalidade": "INEXIGIBILIDADE DE LICITAÇÃO",
+                "numeroAviso": 72018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 17663,
+                "nomeServico": "CURSO APERFEICOAMENTO / ESPECIALIZACAO PROFISSIONAL",
+                "cnpjFornecedor": "35963479000146",
+                "nomeFornecedor": "ESAFI - ESCOLA DE ADMINISTRACAO E TREINAMENTO LTDA",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "Participação da servidora Aline Maruse Monteiro Mariano Zotelli no Curso  Secr etariado Executivo e Assessoria: Desenvolvimento de competências com foco estr atégico  , promovido pela ESAFI Escola de Administração e Treinamento, que será realizado nos dias 03 a 05 de dezembro de 2018 em Foz do Iguaçu-PR.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 2490.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2025-02-26T11:45:34",
+                "idCompra": "15844907000072018",
+                "idCompraItem": "1584490700007201800001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

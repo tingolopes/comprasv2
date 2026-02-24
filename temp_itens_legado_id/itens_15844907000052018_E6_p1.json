@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15844907000052018",
+        "data_extracao": "2026-02-13 09:48:24",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15844907000052018",
+                "idCompraItem": "1584490700005201800001",
+                "coUasg": 158449,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 5,
+                "dtAnoAvisoLicitacao": 2018,
+                "nuInciso": "02",
+                "nuProcesso": "23347011440201812",
+                "vrEstimado": 9800.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 25º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Inviabilidade de competição.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "ROSANE DE BRITO FERNANDEZ GARCIA",
+                "noCargoRespDeclDisp": "Diretora Geral",
+                "noResponsavelRatificacao": "JOAO OTAVIO CENEDEZI PIMENTA",
+                "noCargoRespRatificacao": "Diretor de Administração",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 17663,
+                "noServico": "CURSO APERFEICOAMENTO / ESPECIALIZACAO PROFISSIONAL",
+                "dsDetalhada": "Contratação de empresa para ministrar Capacitação em Gestão de Frotas (16 hora s) na modalidade \"in company\"que será ofertado em 02 e 03/10/2018 para 15 part icipantes servidores do IFMS.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "Evento",
+                "vrEstimadoItem": 9800.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "07774090000117",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "ESCOLA DE NEGOCIOS CONEXXOES - EDUCACAO EMPRESARIAL LTDA",
+                "dtAlteracao": "2024-04-08T11:27:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

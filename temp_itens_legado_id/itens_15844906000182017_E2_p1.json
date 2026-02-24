@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15844906000182017",
+        "data_extracao": "2026-02-13 09:46:35",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 41326422,
+                "numeroLicitacao": "158449061820171",
+                "uasg": 158449,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.C.GRANDE",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 182017,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 5304,
+                "nomeServico": "INSTALACAO / MANUTENCAO - PISOS ALTA RESISTENCIA",
+                "cnpjFornecedor": "26905321000129",
+                "nomeFornecedor": "ARAUJO MATERIAIS DE CONSTRUCAO E SERVICOS LTDA - - ME",
+                "quantidade": null,
+                "unidade": "Serviço",
+                "descricaoItem": "Serviço de instalação de piso intertravado de concreto, área de 52,6 m² com fo rnecimento de materiais.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 7250.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:27:00",
+                "idCompra": "15844906000182017",
+                "idCompraItem": "1584490600018201700001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

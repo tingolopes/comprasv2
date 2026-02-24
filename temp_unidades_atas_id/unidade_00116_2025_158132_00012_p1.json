@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00116%2F2025&unidadeGerenciadora=158132&numeroItem=00012&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:30:11",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00116/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00012",
+                "codigoPdm": null,
+                "descricaoItem": "Locação de mobiliário em comodato, sendo: 01 Mesa de madeira, 1 cadeiras, incl uindo ambientalização de ambiente através de adesivo em vinil blackout fosco;",
+                "fornecedor": "15695672000136 - ASX PARTICIPACOES & TECNOLOGIA LTDA",
+                "quantidadeRegistrada": 180.0,
+                "saldoAdesoes": 360.0,
+                "saldoRemanejamentoEmpenho": 180.0,
+                "qtdLimiteAdesao": 360.0,
+                "qtdLimiteInformadoCompra": 360.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2025-09-12T10:21:19",
+                "dataHoraAtualizacao": "2025-09-12T10:21:19",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

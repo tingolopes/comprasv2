@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-contratacoes/2.1_consultarItensContratacoes_PNCP_14133_Id?tipo=idCompra&codigo=15813206000302023&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-13 10:48:01",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000302023",
+                "idCompraItem": "1581320600030202300001",
+                "idContratacaoPNCP": "10673078000120-1-000039/2023",
+                "unidadeOrgaoCodigoUnidade": "158132",
+                "orgaoEntidadeCnpj": "10673078000120",
+                "numeroItemPncp": 1,
+                "numeroItemCompra": 1,
+                "numeroGrupo": 0,
+                "descricaoResumida": "Outros Serviços para a Infraestrutura de Tecnologia da Informação e Comunicação (TIC)",
+                "materialOuServico": "S",
+                "materialOuServicoNome": "Serviço",
+                "codigoClasse": null,
+                "codigoGrupo": 165,
+                "codItemCatalogo": 27090,
+                "descricaodetalhada": "Serviço de TIC do tipo lançamento de fibra  óptica",
+                "unidadeMedida": "UND SERVIÇO TÉCNICO",
+                "orcamentoSigiloso": false,
+                "itemCategoriaIdPncp": 3,
+                "itemCategoriaNome": "Informática (TIC)",
+                "criterioJulgamentoIdPncp": 7,
+                "criterioJulgamentoNome": "Não se aplica",
+                "situacaoCompraItem": "2",
+                "situacaoCompraItemNome": "Homologado",
+                "tipoBeneficio": "1",
+                "tipoBeneficioNome": "Participação exclusiva para ME/EPP",
+                "incentivoProdutivoBasico": false,
+                "quantidade": 1.0,
+                "valorUnitarioEstimado": 31378.0,
+                "valorTotal": 31378.0,
+                "temResultado": true,
+                "codFornecedor": "00746407000162",
+                "nomeFornecedor": "ATIVANET TELECOM LTDA",
+                "quantidadeResultado": 1.0,
+                "valorUnitarioResultado": 31378.0,
+                "valorTotalResultado": 31378.0,
+                "dataInclusaoPncp": "2023-09-15T16:04:21",
+                "dataAtualizacaoPncp": "2023-09-15T16:04:23",
+                "dataResultado": "2023-09-15 00:00:00.0000000",
+                "margemPreferenciaNormal": false,
+                "percentualMargemPreferenciaNormal": null,
+                "margemPreferenciaAdicional": false,
+                "percentualMargemPreferenciaAdicional": null,
+                "codigoNCM": null,
+                "descricaoNCM": null,
+                "numeroControlePNCPCompra": "10673078000120-1-000039/2023"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

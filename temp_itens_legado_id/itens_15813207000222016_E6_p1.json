@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813207000222016",
+        "data_extracao": "2026-02-13 11:18:58",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813207000222016",
+                "idCompraItem": "1581320700022201600001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 22,
+                "dtAnoAvisoLicitacao": 2016,
+                "nuInciso": "02",
+                "nuProcesso": "23347015660201645",
+                "vrEstimado": 5650.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 25º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Serviços técnico profissional especializado, conforme previsto no art. 13, VI da Lei nº 8.666/93.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "JOSE JORGE GUIMARAES GARCIA",
+                "noCargoRespDeclDisp": "Gestor Financeiro",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 21172,
+                "noServico": "TREINAMENTO QUALIFICACAO PROFISSIONAL",
+                "dsDetalhada": "Inscrição de 30 servidores no curso \"Como Falar em Público\", ofertado pela Fal arte nos dias 12 a 16/09/2016, na cidade de Campo Grande/MS.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "INSCRIÇÃO",
+                "vrEstimadoItem": 5650.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "09111031000194",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "FALARTE - CENTRO DE DESENVOLVIMENTO DA COMUNICACAO HUMANA S/S - ME",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

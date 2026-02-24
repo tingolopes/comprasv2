@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845007000372017",
+        "data_extracao": "2026-02-13 09:41:27",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 40450430,
+                "numeroLicitacao": "158450073720171",
+                "uasg": 158450,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.CORUMBÁ",
+                "modalidade": 7,
+                "nomeModalidade": "INEXIGIBILIDADE DE LICITAÇÃO",
+                "numeroAviso": 372017,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 22764,
+                "nomeServico": "PAGAMENTO COBERTURAS SEGURO VEÍCULO",
+                "cnpjFornecedor": "01560929000138",
+                "nomeFornecedor": "SSP DEPARTAMENTO ESTADUAL DE TRANSITO DE MS",
+                "quantidade": null,
+                "unidade": "SERV",
+                "descricaoItem": "Pagamento seguro obrigatório 2016 do veiculo tipo caminhonete marca/placa FORD RANGER XLP 13P Placa HTO 2026, HTO2025",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 141.62,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:30:00",
+                "idCompra": "15845007000372017",
+                "idCompraItem": "1584500700037201700001"
+            },
+            {
+                "isnSidecResultadoCompra": 40450431,
+                "numeroLicitacao": "158450073720172",
+                "uasg": 158450,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.CORUMBÁ",
+                "modalidade": 7,
+                "nomeModalidade": "INEXIGIBILIDADE DE LICITAÇÃO",
+                "numeroAviso": 372017,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 22764,
+                "nomeServico": "PAGAMENTO COBERTURAS SEGURO VEÍCULO",
+                "cnpjFornecedor": "01560929000138",
+                "nomeFornecedor": "SSP DEPARTAMENTO ESTADUAL DE TRANSITO DE MS",
+                "quantidade": null,
+                "unidade": "SERV",
+                "descricaoItem": "Pagamento do seguro obrigatório 2016 do seguinte veiculo Marca/Placa RENAULT/S ANDERO AUT 10 16V ANO 2014 PLACA NRL 8544",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 67.84,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:30:00",
+                "idCompra": "15845007000372017",
+                "idCompraItem": "1584500700037201700002"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

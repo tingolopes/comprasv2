@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813207000222021",
+        "data_extracao": "2026-02-13 11:26:56",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813207000222021",
+                "idCompraItem": "1581320700022202100001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 22,
+                "dtAnoAvisoLicitacao": 2021,
+                "nuInciso": "02",
+                "nuProcesso": "23347007593202152",
+                "vrEstimado": 18187.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 25º, Inciso II da Lei nº 8.666 de 21º/06/1993.",
+                "dsJustificativa": "Justificativa: Capacitação de pessoal",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "ELAINE BORGES MONTEIRO CASSIANO",
+                "noCargoRespDeclDisp": "Ordenadora de Despesas",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 25232,
+                "noServico": "PAGAMENTO INSCRICAO EVENTOS",
+                "dsDetalhada": "Pagamento de inscrição de 16 servidores do IFMS no curso \"Avaliação de Bens mó veis e aspectos de desfazimento de bens\" com carga horária de 20h realizado pe la MMP Costa Treinamento &amp; Desenvolvimento Humano",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 18187.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "10613756000160",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "M M P COSTA TREINAMENTO & DESENVOLVIMENTO HUMANO EIRELI -",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

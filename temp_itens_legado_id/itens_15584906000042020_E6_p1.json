@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15584906000042020",
+        "data_extracao": "2026-02-13 11:10:11",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15584906000042020",
+                "idCompraItem": "1558490600004202000001",
+                "coUasg": 155849,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 4,
+                "dtAnoAvisoLicitacao": 2020,
+                "nuInciso": "02",
+                "nuProcesso": "23347003953202066",
+                "vrEstimado": 1612.8,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Nem a dispensa, nem a soma anual das despesas na respectiva natureza de despesa, ultrapassam o limite do art. 24, II.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "PEDRO JORGE CARDOSO DA SILVA RODRIGUES",
+                "noCargoRespDeclDisp": "Coordenador de Materiais",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 12700,
+                "noServico": "INSTALACAO DE FORRO / PECA DECORATIVA DE GESSO - TETO / PAREDE",
+                "dsDetalhada": "Contratação de empresa especializada em fornecimento e instalação de forro em  Gesso Acartonado, com  estruturas e junta de dilatação, com todos os materiais  necessários. Metragem: 20,16 m² ou 2.016 cm.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "Metro quadrado",
+                "vrEstimadoItem": 1612.8,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "18727597000136",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "JM COMERCIO, CONSTRUCAO E SERVICOS LTDA",
+                "dtAlteracao": "2024-04-08T11:38:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

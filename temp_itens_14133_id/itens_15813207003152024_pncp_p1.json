@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-contratacoes/2.1_consultarItensContratacoes_PNCP_14133_Id?tipo=idCompra&codigo=15813207003152024&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-13 11:43:27",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813207003152024",
+                "idCompraItem": "1581320700315202400001",
+                "idContratacaoPNCP": "10673078000120-1-000097/2024",
+                "unidadeOrgaoCodigoUnidade": "158132",
+                "orgaoEntidadeCnpj": "10673078000120",
+                "numeroItemPncp": 1,
+                "numeroItemCompra": 1,
+                "numeroGrupo": 0,
+                "descricaoResumida": "Locação sala / auditório Locação de imóvel destinado à unidade urbana do IFMS Campus Nova Andradina. ",
+                "materialOuServico": "S",
+                "materialOuServicoNome": "Serviço",
+                "codigoClasse": null,
+                "codigoGrupo": null,
+                "codItemCatalogo": null,
+                "descricaodetalhada": null,
+                "unidadeMedida": "UNIDADE",
+                "orcamentoSigiloso": false,
+                "itemCategoriaIdPncp": 3,
+                "itemCategoriaNome": "Informática (TIC)",
+                "criterioJulgamentoIdPncp": 7,
+                "criterioJulgamentoNome": "Não se aplica",
+                "situacaoCompraItem": "1",
+                "situacaoCompraItemNome": "Em andamento",
+                "tipoBeneficio": "5",
+                "tipoBeneficioNome": "Não se aplica",
+                "incentivoProdutivoBasico": false,
+                "quantidade": 60.0,
+                "valorUnitarioEstimado": 9999.99,
+                "valorTotal": 599999.4,
+                "temResultado": null,
+                "codFornecedor": null,
+                "nomeFornecedor": null,
+                "quantidadeResultado": null,
+                "valorUnitarioResultado": null,
+                "valorTotalResultado": null,
+                "dataInclusaoPncp": "2024-12-09T12:25:53",
+                "dataAtualizacaoPncp": "2024-12-09T12:25:53",
+                "dataResultado": null,
+                "margemPreferenciaNormal": false,
+                "percentualMargemPreferenciaNormal": null,
+                "margemPreferenciaAdicional": false,
+                "percentualMargemPreferenciaAdicional": null,
+                "codigoNCM": null,
+                "descricaoNCM": null,
+                "numeroControlePNCPCompra": "10673078000120-1-000097/2024"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

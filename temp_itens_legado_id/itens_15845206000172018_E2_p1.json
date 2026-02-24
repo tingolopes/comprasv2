@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845206000172018",
+        "data_extracao": "2026-02-13 11:05:56",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 43249119,
+                "numeroLicitacao": "158452061720182",
+                "uasg": 158452,
+                "nomeUasg": "INST.F.DE ED.,CIENC.E TEC.DO MS/C.N ANDRADINA",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 172018,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": 150267,
+                "nomeMaterial": "LEITORA CÓDIGO BARRA, LEITORA CÓDIGO BARRA NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "16103634000100",
+                "nomeFornecedor": "TECH MAIS IMPORTACAO LTDA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "LEITORA CÓDIGO BARRA, TENSÃO ALIMENTAÇÃO 5 V, TIPO MANUAL LASER, VARREDURA DIO DO LASER VISÍVEL 650 NM  OU LED 645 NM, CONEXÃO USB, TIPO ACIONAMENTO GATILHO, VELOCIDADE LEITURA 100 VARREDURAS POR SEGUNDO  (MÍNIMO), RESOLUÇÃO 0,125 MM ( MÍNIMO), POTÊNCIA 0,6 W, CARACTERÍSTICAS ADICIONAIS RESISTENTE QUEDA,  INDICAD OR SOM E LUZ, CODE 128, U, DISTÂNCIA LEITURA CONTATO MÍNIMO 2 CM, TIPO LEITURA BIDIRECIONAL, REFLEXÃO 35 PER.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 696.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-08-16T10:54:00",
+                "idCompra": "15845206000172018",
+                "idCompraItem": "1584520600017201800002"
+            },
+            {
+                "isnSidecResultadoCompra": 43249118,
+                "numeroLicitacao": "158452061720181",
+                "uasg": 158452,
+                "nomeUasg": "INST.F.DE ED.,CIENC.E TEC.DO MS/C.N ANDRADINA",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 172018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 20591,
+                "nomeMaterial": "ARMÁRIO ESTANTE, ARMARIO TIPO ESTANTE NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "26100395000198",
+                "nomeFornecedor": "TIAGO DE LIMA DA SILVA 02090194170",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "ESTANTE EXPOSITOR FACE SIMPLES PARA LIVRO DA BIBLIOTECA, TOTALMENTE CONFECCION ADA EM CHAPA DE AÇO DE BAIXO TEOR DE CARBONO, COM ACABAMENTO PELO SISTEMA DE T RATAMENTO QUÍMICO DA CHAPA. DIMENSÕES APROXIMADAS: ALT. 2000 MM X LARG. 100 0 MM X PROF. 450 MM. PINTURA: COR A DEFINIR. BASE: 01 (UMA) BASE FORMADA POR UMA ÚNIC A PEÇA, FECHADA, CONFECCIONADA EM CHAPA Nº 20 (0,90 MM), COM ALTURA DE A TÉ 180 MM, SUA FIXAÇÃO ÀS LATERAIS DA ESTANTE SE DÁ ATRAVÉS DE PARAFUSOS SEXTA VADOS GALVANIZADOS, POSSUI AINDA 04 (QUATRO) SAPATAS REGULADORAS DE NÍVEL.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 8630.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-11-12T07:33:00",
+                "idCompra": "15845206000172018",
+                "idCompraItem": "1584520600017201800001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

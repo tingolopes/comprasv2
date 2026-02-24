@@ -1,0 +1,13 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-contratacoes/1_consultarContratacoes_PNCP_14133?pagina=2&tamanhoPagina=500&unidadeOrgaoCodigoUnidade=158132&dataPublicacaoPncpInicial=2021-01-01&dataPublicacaoPncpFinal=2021-12-31&codigoModalidade=6",
+        "data_extracao": "2026-02-19 12:33:55",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [],
+        "totalRegistros": 4,
+        "totalPaginas": 0,
+        "paginasRestantes": 1
+    }
+}

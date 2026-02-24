@@ -1,0 +1,41 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/4.1_consultarItensPregoes_Id?id_compra=15813205000072021",
+        "data_extracao": "2026-02-13 11:42:26",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158132,
+                    "coItem": 26827469
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "Fornecimento e instalação de guardacorpos e corrimãos nas rampas de acesso do IFMS Campus Coxim.",
+                "descricaoItem": "Serviço Engenharia",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "183765.23",
+                "quantidadeItem": "1",
+                "situacaoItem": "homologado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "UNIDADE",
+                "valorHomologadoItem": "192178.00",
+                "valorEstimadoItem": "199744.82",
+                "valorNegociado": "192178.00",
+                "idCompra": "15813205000072021",
+                "idCompraItem": "1581320500007202100001",
+                "noAdjudic": "CARLOS GRACINDO PEREIRA LANDIVAR",
+                "noHom": "ELAINE BORGES MONTEIRO CASSIANO",
+                "dtEncerramento": "2021-12-09",
+                "dtAdjudic": "2021-12-09",
+                "dtHom": "2021-12-09",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

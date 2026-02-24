@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813207000012023",
+        "data_extracao": "2026-02-13 11:30:40",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813207000012023",
+                "idCompraItem": "1581320700001202300001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 1,
+                "dtAnoAvisoLicitacao": 2023,
+                "nuInciso": "02",
+                "nuProcesso": "23347000576202356",
+                "vrEstimado": 12880.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": "Objeto: Contratação de empresa para capacitação                              de contador (Cotab/Dircc) por meio do Curso \"D                             ominando a EFD-Reinf e DCTFWeb para Órgãos Públ                             icos Teoria e Prática\", de 14/03 a 17/03/2023,                              na modalidade On-Line (Ao vivo).",
+                "dsFundamentoLegal": "Fundamento Legal: Art. 25º, Inciso II da Lei nº 8.666 de 21º/06/1993.",
+                "dsJustificativa": "Justificativa: Capacitação de servidores",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "HEBERTON LUIZ DUARTE RODRIGUES",
+                "noCargoRespDeclDisp": "Gestor Financeiro",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 21172,
+                "noServico": "TREINAMENTO QUALIFICACAO PROFISSIONAL",
+                "dsDetalhada": "Treinamento qualificação profissional de 8 servidores no curso Dominando a EFD -Reinf e DCTFWeb para Órgãos Públicos (Teoria e Prática)",
+                "qtMaterialAlt": 8,
+                "noUnidadeMedida": "UNIDADE",
+                "vrEstimadoItem": 12880.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "34370234000142",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "SUPREME CAPACITACAO E TREINAMENTO LTDA",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

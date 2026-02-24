@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813207000072023",
+        "data_extracao": "2026-02-13 11:30:41",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813207000072023",
+                "idCompraItem": "1581320700007202300001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 7,
+                "dtAnoAvisoLicitacao": 2023,
+                "nuInciso": "02",
+                "nuProcesso": "23347.008243.2023",
+                "vrEstimado": 1200.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": "Objeto: Pagamento de uma inscrição no COBACI 20                             23   Congresso Brasileiro de Auditoria e Contro                             le Interno.",
+                "dsFundamentoLegal": "Fundamento Legal: Art. 25º, Inciso II da Lei nº 8.666 de 21º/06/1993.",
+                "dsJustificativa": "Justificativa: O COBACI é um evento desenvolvido com esse foco. Capacitação de Auditores e ocorre anualmente.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "HEBERTON LUIZ DUARTE RODRIGUES",
+                "noCargoRespDeclDisp": "Gestor Financeiro",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 21172,
+                "noServico": "TREINAMENTO QUALIFICACAO PROFISSIONAL",
+                "dsDetalhada": "Treinamento Qualificação Profissional. Congresso Brasileiro de Auditoria e Con trole Interno",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "UNIDADE",
+                "vrEstimadoItem": 1200.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "28627449000101",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "UNIAO NACIONAL DOS AUDITORES DO MINISTERIO DA EDUCACAO - UNAMEC",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

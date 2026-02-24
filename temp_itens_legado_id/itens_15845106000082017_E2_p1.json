@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845106000082017",
+        "data_extracao": "2026-02-13 10:05:34",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 39949590,
+                "numeroLicitacao": "15845106820172",
+                "uasg": 158451,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.COXIM",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 82017,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": 52140,
+                "nomeMaterial": "FITA ISOLANTE ELÉTRICA, FITA ISOLANTE NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "26968291000108",
+                "nomeFornecedor": "DICOM COMERCIAL LTDA - ME",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "FITA ISOLANTE ELÉTRICA 10 METROS",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 10.05,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:32:00",
+                "idCompra": "15845106000082017",
+                "idCompraItem": "1584510600008201700002"
+            },
+            {
+                "isnSidecResultadoCompra": 39949589,
+                "numeroLicitacao": "15845106820171",
+                "uasg": 158451,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.COXIM",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 82017,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 39608,
+                "nomeMaterial": "SOQUETE, SOQUETE NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "26968291000108",
+                "nomeFornecedor": "DICOM COMERCIAL LTDA - ME",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "SOQUETE DE PORCELANA E-27",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 154.4,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:32:00",
+                "idCompra": "15845106000082017",
+                "idCompraItem": "1584510600008201700001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

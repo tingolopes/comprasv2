@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845306000052016",
+        "data_extracao": "2026-02-13 11:12:31",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845306000052016",
+                "idCompraItem": "1584530600005201600001",
+                "coUasg": 158453,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 5,
+                "dtAnoAvisoLicitacao": 2016,
+                "nuInciso": "02",
+                "nuProcesso": "23347002386201644",
+                "vrEstimado": 400.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Serviço urgente, de baixo valor e sujeito a perda de garantia se executado por outra empresa.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "RICARDO AUGUSTO LINS DO NASCIMENTO",
+                "noCargoRespDeclDisp": "Diretor-geral em Exercício",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 1880,
+                "noServico": "OBRAS CIVIS DE SANEAMENTO - TRATAMENTO DE AGUA, ESGOTO  SANITARIO E DESPEJO INDUSTRIAL",
+                "dsDetalhada": "Conserto de estação de tratamento de esgoto, com troca de tubo diâmetro 60mm c om 6m de comprimento na interligação entre bacia de contenção e gradeamento e reator aeróbico/aeróbico. Catserv: 1880",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "UNIDADE",
+                "vrEstimadoItem": 400.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "02595980000148",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "SANAGUA TECNOLOGIA EM ANALISE AMBIENTAL E DERIVADOS DE PETROLEO LTDA - EPP",
+                "dtAlteracao": "2024-04-08T11:41:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

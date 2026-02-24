@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813207000222016",
+        "data_extracao": "2026-02-13 11:18:48",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 38374380,
+                "numeroLicitacao": "158132072220161",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 7,
+                "nomeModalidade": "INEXIGIBILIDADE DE LICITAÇÃO",
+                "numeroAviso": 222016,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 21172,
+                "nomeServico": "TREINAMENTO QUALIFICACAO PROFISSIONAL",
+                "cnpjFornecedor": "09111031000194",
+                "nomeFornecedor": "FALARTE - CENTRO DE DESENVOLVIMENTO DA COMUNICACAO HUMANA S/S - ME",
+                "quantidade": null,
+                "unidade": "INSCRIÇÃO",
+                "descricaoItem": "Inscrição de 30 servidores no curso \"Como Falar em Público\", ofertado pela Fal arte nos dias 12 a 16/09/2016, na cidade de Campo Grande/MS.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 5650.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813207000222016",
+                "idCompraItem": "1581320700022201600001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845306000132018",
+        "data_extracao": "2026-02-13 11:14:51",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845306000132018",
+                "idCompraItem": "1584530600013201800001",
+                "coUasg": 158453,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 13,
+                "dtAnoAvisoLicitacao": 2018,
+                "nuInciso": "02",
+                "nuProcesso": "23347017101201831",
+                "vrEstimado": 842.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Manutenção obrigatória em oficina qualificada e credenciada pelo fabricante como requisito para manutenção da garantia.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "PATRICIA FERREIRA DUARTE",
+                "noCargoRespDeclDisp": "Tecnólogo-formação: Gestão Pública",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 3573,
+                "noServico": "MANUTENCAO DE VEICULOS PESADOS",
+                "dsDetalhada": "Primeira manutenção preventiva de amaciamento do motor a se realizar com 50hor as de trabalho, de acordo com manual do operador e recomendações do fabricante  do veículo e previsto no termo de garantia do maquinário Massey Fergusson (MF  4283). Sendo que, para tal manutenção será necessária a troca dos seguintes i tens: FILTRO LUBRIFICANTE, FILTRO DE BOMBA DIESEL, FILTRO COMBUSTIVEL e ÓLEO D O MOTOR (conforme especificações do fabricante), INCLUINDO A MÃO-DE-OBRA E DEM AIS CUSTOS PARA EXECUÇÃO DO SERVIÇO.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "SERVIÇO",
+                "vrEstimadoItem": 842.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "15925449000642",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "TRATORNAN MAQUINAS, IMPLEMENTOS E EQUIPAMENTOS LTDA",
+                "dtAlteracao": "2024-04-08T11:41:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

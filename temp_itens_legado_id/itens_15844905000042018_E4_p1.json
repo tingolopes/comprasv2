@@ -1,0 +1,41 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/4.1_consultarItensPregoes_Id?id_compra=15844905000042018",
+        "data_extracao": "2026-02-13 11:40:27",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158449,
+                    "coItem": 19905697
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "Elevador Hidráulico de 2 paradas para passageiros (em conformidade para pessoas com mobilidade reduzida)  Os elevadores deverão estar de acordo com a NBR 313:2007 e NBR 267:2001.  Características técnicas gerais dos elevadores:  Tipo: Hidráulico para passageiros (Em conformidade para pessoas com mobilidade reduzida).  Percurso (m) estimado/ aproximado: 4,5 metros. (aferir nos locais e nos projetos executivos).  Paradas: 02 (duas). (aferir nos locais e nos projetos executivos).  Entradas: 01 entrada unilateral.  Dimensões estimadas da Cabina.  - Altura livre mínima: 2,25 m.  - Largura: 1,10 m.  - Profundidade: 1,40 m.  Capacidade mínima: 08 (oito) pessoas ou 600 (seiscentos) Kg.  Medida estimada para abertura de portas:  - Largura: 90cm  - Altura: 2m  Velocidade nominal (m/s) mínima: 0,4 m/s- 220 volts   60 HZ (trifásico).  Para melhor orçar o produto em questão estamos a disposição para acompanha-los a uma visita técnica no local onde serão instalados os equipamentos.  Tipo Hidráulico: Com casa de máquina instalado no piso inferior, deverá ser previsto armário metálico para acondicionar unidade hidráulica e comando.  ESPECIFICAÇÃO COMPLETA DO ITEM NO TERMO DE REFERÊNCIA.",
+                "descricaoItem": "ELEVADOR DE CARGA",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "64270.00",
+                "quantidadeItem": "2",
+                "situacaoItem": "homologado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "Unidade",
+                "valorHomologadoItem": "64270.00",
+                "valorEstimadoItem": "67400.00",
+                "valorNegociado": null,
+                "idCompra": "15844905000042018",
+                "idCompraItem": "1584490500004201800001",
+                "noAdjudic": "CARLOS GRACINDO PEREIRA LANDIVAR",
+                "noHom": "DEJAHYR LOPES JUNIOR",
+                "dtEncerramento": "2018-04-10",
+                "dtAdjudic": "2018-04-10",
+                "dtHom": "2018-04-12",
+                "dtAlteracao": "2024-04-08T11:27:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

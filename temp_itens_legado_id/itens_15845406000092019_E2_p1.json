@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845406000092019",
+        "data_extracao": "2026-02-13 11:34:11",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 44078213,
+                "numeroLicitacao": "15845406920191",
+                "uasg": 158454,
+                "nomeUasg": "INST.F.ED.,CIENC.E TEC DE MS/C.TRÊS LAGOAS",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 92019,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 4170,
+                "nomeMaterial": "MOCHILA, MOCHILA NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "23282208000146",
+                "nomeFornecedor": "RODRIGO DE AVEIRO FERREIRA BRINDES",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "mochila saco em nylon 35x41 personalizada com a marca dos JIFMS e 01 squeeze d e plástico 500 ml personalizada",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 3999.42,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-06-10T06:34:00",
+                "idCompra": "15845406000092019",
+                "idCompraItem": "1584540600009201900001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

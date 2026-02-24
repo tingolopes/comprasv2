@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000632018",
+        "data_extracao": "2026-02-13 11:21:52",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 43578109,
+                "numeroLicitacao": "158132066320181",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 632018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 377652,
+                "nomeMaterial": "GÁS REFRIGERANTE, TIPO R-401A  APLICAÇÃO SISTEMA DE AR CONDICIONADO  APRESENTAÇÃO CILINDRO",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "20451729000191",
+                "nomeFornecedor": "LUCIANO APARECIDO LIMA CRISTALDO",
+                "quantidade": null,
+                "unidade": "CILINDRO",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 3060.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-05-12T08:39:00",
+                "idCompra": "15813206000632018",
+                "idCompraItem": "1581320600063201800001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

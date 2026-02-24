@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813207000252016",
+        "data_extracao": "2026-02-13 11:18:58",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 38923816,
+                "numeroLicitacao": "158132072520161",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 7,
+                "nomeModalidade": "INEXIGIBILIDADE DE LICITAÇÃO",
+                "numeroAviso": 252016,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 15431,
+                "nomeServico": "CURSO PROFISSIONALIZANTE",
+                "cnpjFornecedor": "03603739001824",
+                "nomeFornecedor": "SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL - SENAC",
+                "quantidade": null,
+                "unidade": "Serviço",
+                "descricaoItem": "Inscrição no curso de cerimonial e protocolo para eventos da servidora Ida Eve line Rockel.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 130.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813207000252016",
+                "idCompraItem": "1581320700025201600001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

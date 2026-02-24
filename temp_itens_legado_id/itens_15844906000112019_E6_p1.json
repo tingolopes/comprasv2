@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15844906000112019",
+        "data_extracao": "2026-02-13 09:49:21",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15844906000112019",
+                "idCompraItem": "1584490600011201900001",
+                "coUasg": 158449,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 11,
+                "dtAnoAvisoLicitacao": 2019,
+                "nuInciso": "02",
+                "nuProcesso": "23347005938201919",
+                "vrEstimado": 7120.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Pequeno vulto",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "ROSANE DE BRITO FERNANDEZ GARCIA",
+                "noCargoRespDeclDisp": "Diretora-geral",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 3557,
+                "noServico": "INSTALACAO / MANUTENCAO - ELEVADORES, ESCADAS ROLANTES,  MONTA - CARGAS / PLATAFORMA / ESCADAS",
+                "dsDetalhada": "Serviço ,com fornecimento de material, de manutenção do Elevador do Bloco A (B arreira Infra vermelha , Operador de porta VVVF, Placa ST15784JF36 do quadro d e comando principal, Placa FiF do quadro de comando, Galão de óleo hidráulico  15780, limpeza de cabine e comando completa) no IFMS - Campus Campo Grande.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "Serviço",
+                "vrEstimadoItem": 7120.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "27555840000177",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "SULLIFT ELEVADORES LTDA",
+                "dtAlteracao": "2024-04-08T11:27:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

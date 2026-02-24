@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15844906000162016",
+        "data_extracao": "2026-02-13 09:45:53",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15844906000162016",
+                "idCompraItem": "1584490600016201600001",
+                "coUasg": 158449,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 16,
+                "dtAnoAvisoLicitacao": 2016,
+                "nuInciso": "02",
+                "nuProcesso": "23347019034201628",
+                "vrEstimado": 690.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Aquisição de produtos e/ou serviços com valor inferior a R$ 8.000,00",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "JOAO OTAVIO CENEDEZI PIMENTA",
+                "noCargoRespDeclDisp": "Diretor de Administração",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 108618,
+                "noConjuntoMateriais": "SUPORTE / NOBREAK",
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "Nobreak Senoidal   Com potência de no mínimo 1400 VA (980W); Tensão de saída: 115 V Monofásico; Autonomia de no mínimo 10 minutos em meia carga; As baterias  deverão ser VRLA - seladas (livres de manutenção); Entrada bivolt automática;  Inversor sincronizado com a rede; By-pass automático em caso de falha ou sobr ecarga no inversor; Entrada para módulos de baterias externas para aumentar o tempo de autonomia (em caso de expansão futura); Alarme intermitente, sinaliza ndo queda de rede, fim do tempo de autonomia e condições anormais de funcionam ento; Proteção contra surtos de tensão; Permite ser ligado na ausência de rede  elétrica (DC Start); Proteção contra descarga total das baterias; Recarga aut omática das baterias mesmo com o nobreak desligado; Fator de potência de entra da e saída 0,7; Tempo de recarga de aproximadamente 12 horas; Frequência de sa ída 60 Hz +/- 5%; Forma de onda Senoidal aproximada; Software para gerenciamen to de Energia; Garantia mínima de 1 ano para No-break e baterias.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "UNIDADE",
+                "vrEstimadoItem": 690.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "Ragtech",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "15282550000118",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "SPENCER COMERCIO DE EQUIPAMENTOS INDUSTRIAIS E SERVICOS",
+                "dtAlteracao": "2024-04-08T11:27:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845206000322020",
+        "data_extracao": "2026-02-13 11:08:45",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 47787895,
+                "numeroLicitacao": "158452063220202",
+                "uasg": 158452,
+                "nomeUasg": "INST.F.DE ED.,CIENC.E TEC.DO MS/C.N ANDRADINA",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 322020,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 2658,
+                "nomeServico": "MANUTENCAO / INSTALACAO - NOBREAK",
+                "cnpjFornecedor": "02460753000105",
+                "nomeFornecedor": "MARIA DE FATIMA PAIAO GARCIA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Reparos na placa principal, revisão e testes NO-BREAK 3000VA",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 580.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:40:00",
+                "idCompra": "15845206000322020",
+                "idCompraItem": "1584520600032202000002"
+            },
+            {
+                "isnSidecResultadoCompra": 47787894,
+                "numeroLicitacao": "158452063220201",
+                "uasg": 158452,
+                "nomeUasg": "INST.F.DE ED.,CIENC.E TEC.DO MS/C.N ANDRADINA",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 322020,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 2658,
+                "nomeServico": "MANUTENCAO / INSTALACAO - NOBREAK",
+                "cnpjFornecedor": "02460753000105",
+                "nomeFornecedor": "MARIA DE FATIMA PAIAO GARCIA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Reparos na placa principal, revisão e testes NO-BREAK 1400VA",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 180.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:40:00",
+                "idCompra": "15845206000322020",
+                "idCompraItem": "1584520600032202000001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

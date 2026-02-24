@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15584806000032020",
+        "data_extracao": "2026-02-13 10:38:56",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15584806000032020",
+                "idCompraItem": "1558480600003202000001",
+                "coUasg": 155848,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 3,
+                "dtAnoAvisoLicitacao": 2020,
+                "nuInciso": "02",
+                "nuProcesso": "23347000435202091",
+                "vrEstimado": 14000.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Processo dispendioso por licitação para este objeto. Prestadores de serviço sem hábito de participar de cotação eletroni",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "SEDENIR MARCOS DEPARIS",
+                "noCargoRespDeclDisp": "Gestor Financeiro Interino",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 14044,
+                "noServico": "ROÇADA / LIMPEZA DE AREA - MECANIZADA / MANUAL",
+                "dsDetalhada": "Roçada , limpeza de área - mecanizada , manual, empreitada global 33 mil m2, 0 4 roçadas/ano",
+                "qtMaterialAlt": 4,
+                "noUnidadeMedida": "Metro quadrado",
+                "vrEstimadoItem": 14000.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "33857604000108",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "MYRIAN DA SILVA VANSAN 73513520115",
+                "dtAlteracao": "2024-04-08T11:35:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

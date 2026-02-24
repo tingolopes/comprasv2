@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813207000272016",
+        "data_extracao": "2026-02-13 11:18:53",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 39196120,
+                "numeroLicitacao": "158132072720161",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 7,
+                "nomeModalidade": "INEXIGIBILIDADE DE LICITAÇÃO",
+                "numeroAviso": 272016,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 22764,
+                "nomeServico": "PAGAMENTO COBERTURAS SEGURO VEÍCULO",
+                "cnpjFornecedor": "00475855000179",
+                "nomeFornecedor": "DEPARTAMENTO DE TRANSITO DO DISTRITO FEDERAL",
+                "quantidade": null,
+                "unidade": "Serviço",
+                "descricaoItem": "Pagamento de seguro obrigatório do caminhão do E-TEC 2016.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 109.96,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813207000272016",
+                "idCompraItem": "1581320700027201600001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

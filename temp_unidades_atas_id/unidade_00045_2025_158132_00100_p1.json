@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00045%2F2025&unidadeGerenciadora=158132&numeroItem=00100&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:38:18",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00045/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00100",
+                "codigoPdm": "08974",
+                "descricaoItem": "LUVA PROTEÇÃO, MATERIAL BORRACHA NITRÍLICA, TAMANHO EXTRA PEQUENO, TAMANHO CANO MÉDIO, TIPO AMBIDESTRA, SEM COSTURA, FITA PARA AJUSTE NO PUNH O, APLICAÇÃO USO LABORATÓRIO, TIPO USO REUTILIZÁVEL, USO TRATAMENTO FITOSSANITÁRIO, COR AZUL",
+                "fornecedor": "43881723000150 - UNIVERSO ATACADISTA MATERIAIS PARA CONSTRUCAO LTDA",
+                "quantidadeRegistrada": 0.0,
+                "saldoAdesoes": 190.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 190.0,
+                "qtdLimiteInformadoCompra": 190.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2025-05-23T10:37:12",
+                "dataHoraAtualizacao": "2025-05-23T12:38:07",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            },
+            {
+                "numeroAta": "00045/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00100",
+                "codigoPdm": "08974",
+                "descricaoItem": "LUVA PROTEÇÃO, MATERIAL BORRACHA NITRÍLICA, TAMANHO EXTRA PEQUENO, TAMANHO CANO MÉDIO, TIPO AMBIDESTRA, SEM COSTURA, FITA PARA AJUSTE NO PUNH O, APLICAÇÃO USO LABORATÓRIO, TIPO USO REUTILIZÁVEL, USO TRATAMENTO FITOSSANITÁRIO, COR AZUL",
+                "fornecedor": "43881723000150 - UNIVERSO ATACADISTA MATERIAIS PARA CONSTRUCAO LTDA",
+                "quantidadeRegistrada": 45.0,
+                "saldoAdesoes": 190.0,
+                "saldoRemanejamentoEmpenho": 25.0,
+                "qtdLimiteAdesao": 190.0,
+                "qtdLimiteInformadoCompra": 190.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2025-05-23T10:38:59",
+                "dataHoraAtualizacao": "2025-12-31T10:38:02",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158452",
+                "nomeUnidade": "INST. FED. DO MS/CAMPUS NOVA ANDRADINA",
+                "tipoUnidade": "PARTICIPANTE"
+            },
+            {
+                "numeroAta": "00045/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00100",
+                "codigoPdm": "08974",
+                "descricaoItem": "LUVA PROTEÇÃO, MATERIAL BORRACHA NITRÍLICA, TAMANHO EXTRA PEQUENO, TAMANHO CANO MÉDIO, TIPO AMBIDESTRA, SEM COSTURA, FITA PARA AJUSTE NO PUNH O, APLICAÇÃO USO LABORATÓRIO, TIPO USO REUTILIZÁVEL, USO TRATAMENTO FITOSSANITÁRIO, COR AZUL",
+                "fornecedor": "43881723000150 - UNIVERSO ATACADISTA MATERIAIS PARA CONSTRUCAO LTDA",
+                "quantidadeRegistrada": 50.0,
+                "saldoAdesoes": 190.0,
+                "saldoRemanejamentoEmpenho": 50.0,
+                "qtdLimiteAdesao": 190.0,
+                "qtdLimiteInformadoCompra": 190.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2025-05-23T10:38:59",
+                "dataHoraAtualizacao": "2025-05-23T12:38:26",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158453",
+                "nomeUnidade": "INST. FED. DO MS/CAMPUS PONTA PORA",
+                "tipoUnidade": "PARTICIPANTE"
+            }
+        ],
+        "totalRegistros": 3,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

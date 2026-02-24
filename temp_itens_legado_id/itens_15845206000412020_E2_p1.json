@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845206000412020",
+        "data_extracao": "2026-02-13 11:08:44",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 48039005,
+                "numeroLicitacao": "158452064120202",
+                "uasg": 158452,
+                "nomeUasg": "INST.F.DE ED.,CIENC.E TEC.DO MS/C.N ANDRADINA",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 412020,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 27120,
+                "nomeServico": "SERVICOS DE MANUTENCAO DE  EQUIPAMENTOS DE COMUNICACAO DE DADOS E COMUTACAO TELEFONICA",
+                "cnpjFornecedor": "05032228000187",
+                "nomeFornecedor": "ROUTERLINK IT SOLUTIONS AND SERVICES LTDA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Reparos na placa mãe, Plaqueta POE revisão geral e teste em Comutador Cisco Ca talyst 2960-X Séries 48P",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 2340.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-12-06T11:23:40",
+                "idCompra": "15845206000412020",
+                "idCompraItem": "1584520600041202000002"
+            },
+            {
+                "isnSidecResultadoCompra": 48039004,
+                "numeroLicitacao": "158452064120201",
+                "uasg": 158452,
+                "nomeUasg": "INST.F.DE ED.,CIENC.E TEC.DO MS/C.N ANDRADINA",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 412020,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 27120,
+                "nomeServico": "SERVICOS DE MANUTENCAO DE  EQUIPAMENTOS DE COMUNICACAO DE DADOS E COMUTACAO TELEFONICA",
+                "cnpjFornecedor": "05032228000187",
+                "nomeFornecedor": "ROUTERLINK IT SOLUTIONS AND SERVICES LTDA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Reparos na placa mãe, revisão geral e teste em Comutador Cisco Catalyst 2960-X Séries 24P",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1250.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-12-06T11:23:40",
+                "idCompra": "15845206000412020",
+                "idCompraItem": "1584520600041202000001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813299000032022",
+        "data_extracao": "2026-02-13 11:38:58",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 53926388,
+                "numeroLicitacao": "15813299320221",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 99,
+                "nomeModalidade": "RDC",
+                "numeroAviso": 32022,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 5622,
+                "nomeServico": "OBRAS CIVIS PUBLICAS ( CONSTRUCAO )",
+                "cnpjFornecedor": null,
+                "nomeFornecedor": null,
+                "quantidade": 1,
+                "unidade": "UNIDADE",
+                "descricaoItem": "Obras Civis PúblicasContratação de empresa Especializada Para Execução de Ob ra De Engenharia Para Construção da Cobertura em Estrutura Metálica, do tipo t reliça espacial, de aproximadamente 504 m², com cobertura em telha de policarb onato, da Área de Convivência entre os Blocos 1 e 3 do Campus Corumbá do Insti tuto Federal de Mato Grosso do Sul, conforme condições, quantidades e exigênci as estabelecidas neste instrumento e seus anexos",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": null,
+                "decreto7174": "false",
+                "criterioJulgamento": "Maior Desconto",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813299000032022",
+                "idCompraItem": "1581329900003202200001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

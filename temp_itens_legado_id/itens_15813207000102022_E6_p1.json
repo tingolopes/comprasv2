@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813207000102022",
+        "data_extracao": "2026-02-13 11:29:04",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813207000102022",
+                "idCompraItem": "1581320700010202200001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 10,
+                "dtAnoAvisoLicitacao": 2022,
+                "nuInciso": "02",
+                "nuProcesso": "23347007610202232",
+                "vrEstimado": 3360.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": "Objeto: Ação de capacitação \"CURSO DE EQUILÍBRI                             O ECONÔMICO- FINANCEIRO DOS CONTRATOS ADMINISTR                             ATIVOS: REVISÃO, REAJUSTE E REPACTUAÇÃO, COM ÊN                             FASE EM OBRAS PÚBLICAS",
+                "dsFundamentoLegal": "Fundamento Legal: Art. 25º, Inciso II da Lei nº 8.666 de 21º/06/1993.",
+                "dsJustificativa": "Justificativa: Capacitação de servidores",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "HEBERTON LUIZ DUARTE RODRIGUES",
+                "noCargoRespDeclDisp": "Gestor Financeiro",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 21172,
+                "noServico": "TREINAMENTO QUALIFICACAO PROFISSIONAL",
+                "dsDetalhada": "Inscrição no Curso de Equilíbrio Econômico - Financeiro dos Contratos Administ rativos: Revisão, Reajuste e Repactuação, com Ênfase em Obras Públicas.",
+                "qtMaterialAlt": 2,
+                "noUnidadeMedida": "UNIDADE",
+                "vrEstimadoItem": 3360.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "11128083000115",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "SUPERCIA CAPACITACAO E MARKETING EIRELI",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,149 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/4.1_consultarItensPregoes_Id?id_compra=15584805000012017",
+        "data_extracao": "2026-02-13 11:41:29",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 155848,
+                    "coItem": 18271300
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "BANCO, MATERIAL MADEIRA, COMPRIMENTO 2 M, LARGURA 40 CM, ALTURA 55 CM,        ACABAMENTO NATURAL",
+                "descricaoItem": "BANCO",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "167.00",
+                "quantidadeItem": "60",
+                "situacaoItem": "homologado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "UNIDADE",
+                "valorHomologadoItem": "167.00",
+                "valorEstimadoItem": "672.00",
+                "valorNegociado": null,
+                "idCompra": "15584805000012017",
+                "idCompraItem": "1558480500001201700001",
+                "noAdjudic": "SEDENIR MARCOS DEPARIS",
+                "noHom": "CARLOS VINICIUS DA SILVA FIGUEIREDO",
+                "dtEncerramento": "2017-03-27",
+                "dtAdjudic": "2017-03-27",
+                "dtHom": "2017-03-28",
+                "dtAlteracao": "2024-04-08T11:35:00"
+            },
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 155848,
+                    "coItem": 18271304
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "VASO DE PLANTA, MATERIAL CIMENTO, DIÂMETRO EXTERNO 40 CM, ALTURA 60 CM, TIPO  COM FURO, CARACTERÍSTICAS ADICIONAIS SEM PRATO",
+                "descricaoItem": "VASO DE PLANTA",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "98.99",
+                "quantidadeItem": "35",
+                "situacaoItem": "homologado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "UNIDADE",
+                "valorHomologadoItem": "98.99",
+                "valorEstimadoItem": "128.50",
+                "valorNegociado": null,
+                "idCompra": "15584805000012017",
+                "idCompraItem": "1558480500001201700005",
+                "noAdjudic": "SEDENIR MARCOS DEPARIS",
+                "noHom": "CARLOS VINICIUS DA SILVA FIGUEIREDO",
+                "dtEncerramento": "2017-03-27",
+                "dtAdjudic": "2017-03-27",
+                "dtHom": "2017-03-28",
+                "dtAlteracao": "2024-04-08T11:35:00"
+            },
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 155848,
+                    "coItem": 18271303
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "VASO DE PLANTA, MATERIAL CIMENTO, DIÂMETRO EXTERNO 40 CM, ALTURA 60 CM, TIPO  COM FURO, CARACTERÍSTICAS ADICIONAIS SEM PRATO",
+                "descricaoItem": "VASO DE PLANTA",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "128.90",
+                "quantidadeItem": "45",
+                "situacaoItem": "homologado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "UNIDADE",
+                "valorHomologadoItem": "128.90",
+                "valorEstimadoItem": "153.50",
+                "valorNegociado": null,
+                "idCompra": "15584805000012017",
+                "idCompraItem": "1558480500001201700004",
+                "noAdjudic": "SEDENIR MARCOS DEPARIS",
+                "noHom": "CARLOS VINICIUS DA SILVA FIGUEIREDO",
+                "dtEncerramento": "2017-03-27",
+                "dtAdjudic": "2017-03-27",
+                "dtHom": "2017-03-28",
+                "dtAlteracao": "2024-04-08T11:35:00"
+            },
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 155848,
+                    "coItem": 18271302
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "VASO DE PLANTA, MATERIAL CIMENTO, DIÂMETRO EXTERNO 40 CM, ALTURA 60 CM, TIPO  COM FURO, CARACTERÍSTICAS ADICIONAIS SEM PRATO",
+                "descricaoItem": "VASO DE PLANTA",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "178.90",
+                "quantidadeItem": "22",
+                "situacaoItem": "homologado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "UNIDADE",
+                "valorHomologadoItem": "178.90",
+                "valorEstimadoItem": "233.50",
+                "valorNegociado": null,
+                "idCompra": "15584805000012017",
+                "idCompraItem": "1558480500001201700003",
+                "noAdjudic": "SEDENIR MARCOS DEPARIS",
+                "noHom": "CARLOS VINICIUS DA SILVA FIGUEIREDO",
+                "dtEncerramento": "2017-03-27",
+                "dtAdjudic": "2017-03-27",
+                "dtHom": "2017-03-28",
+                "dtAlteracao": "2024-04-08T11:35:00"
+            },
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 155848,
+                    "coItem": 18271301
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "MOBILIARIO CONCRETO, NOME MOBILIARIO CONCRETO",
+                "descricaoItem": "MOBILIARIO CONCRETO",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "484.50",
+                "quantidadeItem": "41",
+                "situacaoItem": "homologado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "UNIDADE",
+                "valorHomologadoItem": "484.50",
+                "valorEstimadoItem": "538.52",
+                "valorNegociado": null,
+                "idCompra": "15584805000012017",
+                "idCompraItem": "1558480500001201700002",
+                "noAdjudic": "SEDENIR MARCOS DEPARIS",
+                "noHom": "CARLOS VINICIUS DA SILVA FIGUEIREDO",
+                "dtEncerramento": "2017-03-27",
+                "dtAdjudic": "2017-03-27",
+                "dtHom": "2017-03-28",
+                "dtAlteracao": "2024-04-08T11:35:00"
+            }
+        ],
+        "totalRegistros": 5,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

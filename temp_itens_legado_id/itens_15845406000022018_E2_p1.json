@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845406000022018",
+        "data_extracao": "2026-02-13 11:32:44",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 41790930,
+                "numeroLicitacao": "15845406220181",
+                "uasg": 158454,
+                "nomeUasg": "INST.F.ED.,CIENC.E TEC DE MS/C.TRÊS LAGOAS",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 22018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 292440,
+                "nomeMaterial": "CAIXA D'ÁGUA, MATERIAL POLIPROPILENO  TIPO REDONDO  CAPACIDADE 2.000 L CARACTERÍSTICAS ADICIONAIS COM TAMPA  COR AZUL",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "26469541000157",
+                "nomeFornecedor": "SUL.COM ATACADO E VAREJO LTDA",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 700.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:45:00",
+                "idCompra": "15845406000022018",
+                "idCompraItem": "1584540600002201800001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

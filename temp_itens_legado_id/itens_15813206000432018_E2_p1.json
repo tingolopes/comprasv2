@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000432018",
+        "data_extracao": "2026-02-13 11:21:25",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 42991033,
+                "numeroLicitacao": "158132064320182",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 432018,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": 150010,
+                "nomeMaterial": "AR CONDICIONADO-APARELHO, NOME AR CONDICIONADO-APARELHO",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "28332508000106",
+                "nomeFornecedor": "HELENA RITA DE BARROS MIERES",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "AR-CONDICIONADO SPLIT INVERTER, FRIO, 220V, COM CONTROLE REMOTO, 12 MIL BTU'S COM INSTALAÇÃO INCLUÍDA.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 5180.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000432018",
+                "idCompraItem": "1581320600043201800002"
+            },
+            {
+                "isnSidecResultadoCompra": 42991032,
+                "numeroLicitacao": "158132064320181",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 432018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 150010,
+                "nomeMaterial": "AR CONDICIONADO-APARELHO, NOME AR CONDICIONADO-APARELHO",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "28332508000106",
+                "nomeFornecedor": "HELENA RITA DE BARROS MIERES",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "AR-CONDICIONADO SPLIT INVERTER, FRIO, 220V, COM CONTROLE REMOTO, 24 MIL BTU'S COM INSTALAÇÃO INCLUÍDA",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 9220.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000432018",
+                "idCompraItem": "1581320600043201800001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000052016",
+        "data_extracao": "2026-02-13 11:17:00",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 37295769,
+                "numeroLicitacao": "15813206520161",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 52016,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 21504,
+                "nomeServico": "CONFECCAO CLICHE IMPRESSAO GRAFICA",
+                "cnpjFornecedor": "07214945000155",
+                "nomeFornecedor": "ECKOGRAF SOLUCOES IMPRESSAS LTDA - ME",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "Impressão de panfleto com dimensões 21X29,7 cm/papel couchê liso 90g/m2/colori do frente e verso (4/4 fotolito)/refile.  Obs: Separar em pacotes de 500 unida des. Prazo de entrega: 3 dias úteis.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1735.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000052016",
+                "idCompraItem": "1581320600005201600001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

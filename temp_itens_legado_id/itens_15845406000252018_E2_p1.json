@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845406000252018",
+        "data_extracao": "2026-02-13 11:33:21",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 43238392,
+                "numeroLicitacao": "158454062520181",
+                "uasg": 158454,
+                "nomeUasg": "INST.F.ED.,CIENC.E TEC DE MS/C.TRÊS LAGOAS",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 252018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 116700,
+                "nomeMaterial": "BALCÃO, BALCAO MADEIRA NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "06104861000104",
+                "nomeFornecedor": "NOVA ERA -COMERCIO DE MOVEIS PLANEJADOS LTDA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Balcão de cozinha em material MDF na cor branca. Dimensão 1,20m x 0,50cm com d ois suportes dobráveis/retráteis em cada. Instalação inclusa.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1260.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:45:00",
+                "idCompra": "15845406000252018",
+                "idCompraItem": "1584540600025201800001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

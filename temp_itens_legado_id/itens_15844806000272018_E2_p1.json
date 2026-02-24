@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15844806000272018",
+        "data_extracao": "2026-02-13 09:39:49",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 43462513,
+                "numeroLicitacao": "158448062720181",
+                "uasg": 158448,
+                "nomeUasg": "INST.FED.DE ED.,CIENT.E TEC.DE MS/C.AQUIDAUAN",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 272018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 5592,
+                "nomeServico": "INSTALACAO / MANUTENCAO HIDROSSANITARIAS - PREDIAL, INDUSTRIAL",
+                "cnpjFornecedor": "21061532000109",
+                "nomeFornecedor": "CICALISE & ORSI LTDA",
+                "quantidade": null,
+                "unidade": "Serviço",
+                "descricaoItem": "Contratação de Serviço hidrossanitário para o laboratório de construção civil do IFMS Campus Aquidauana.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 6479.05,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-05-14T18:05:46",
+                "idCompra": "15844806000272018",
+                "idCompraItem": "1584480600027201800001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

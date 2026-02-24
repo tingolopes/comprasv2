@@ -1,0 +1,41 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/1_consultarLicitacao?pagina=1&tamanhoPagina=500&uasg=155849&data_publicacao_inicial=2017-01-01&data_publicacao_final=2017-12-31",
+        "data_extracao": "2026-02-05 17:52:17",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "id_compra": "15584903000012017",
+                "identificador": "1558490312017",
+                "numero_processo": "23347000762201747",
+                "uasg": 155849,
+                "modalidade": 3,
+                "nome_modalidade": "CONCORRÊNCIA",
+                "numero_aviso": 12017,
+                "situacao_aviso": "Publicado",
+                "tipo_pregao": "presencial",
+                "tipo_recurso": "Nacional",
+                "nome_responsavel": "MATHEUS BORNELLI DE CASTRO",
+                "funcao_responsavel": "Ordenador de Despesas",
+                "numero_itens": 1,
+                "valor_estimado_total": null,
+                "valor_homologado_total": 65.67,
+                "informacoes_gerais": null,
+                "objeto": "Concessão de Espaço Físico (Bem Público ) para fins Comerciais (lanchonete/restaurante/ cantina), a título gratuito, em área do Prédio provisório do Instituto Federal de Educação, Ci ência e Tecnologia de Mato Grosso do SulIFMS Campus Naviraí, Rua Hilda, 203, Bairro Boa V ista , NaviraíMS",
+                "endereco_entrega_edital": "Rua Hilda, 203 - Boa Vista/MS",
+                "codigo_municipio_uasg": 91138,
+                "data_abertura_proposta": null,
+                "data_entrega_edital": "2017-02-20",
+                "data_entrega_proposta": "2017-03-29",
+                "data_publicacao": "2017-02-20",
+                "dt_alteracao": "2017-02-16T17:46:24",
+                "pertence14133": false
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

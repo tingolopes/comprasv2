@@ -1,0 +1,41 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/1_consultarLicitacao?pagina=1&tamanhoPagina=500&uasg=155850&data_publicacao_inicial=2019-01-01&data_publicacao_final=2019-12-31",
+        "data_extracao": "2026-02-05 16:03:29",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "id_compra": "15585005000012019",
+                "identificador": "1558500512019",
+                "numero_processo": "23347005532201936",
+                "uasg": 155850,
+                "modalidade": 5,
+                "nome_modalidade": "PREGÃO",
+                "numero_aviso": 12019,
+                "situacao_aviso": "Publicado",
+                "tipo_pregao": "eletronico",
+                "tipo_recurso": "Nacional",
+                "nome_responsavel": "GUILHERME SEMIONATO GALICIO",
+                "funcao_responsavel": "Diretor de Administração",
+                "numero_itens": 18,
+                "valor_estimado_total": 1.95,
+                "valor_homologado_total": 97.09,
+                "informacoes_gerais": null,
+                "objeto": "Pregão Eletrônico Concessão administ rativa de uso de área física para exploração do s serviços de cantina/lanchonete, por meio de i nstalação de trailer fixo (do tipo container ou food truck) situada no IFMSCampus Jardim, c om aproximadamente 24 m (vinte e quatro metros quadrados), localizada no patio interno descob erto do Campus Jardim, situado à Rodovia BR 060 saída para Bela VistaJardim-MS tendo como finalidade específica a exploração de serviço de cantina/lanchonete.",
+                "endereco_entrega_edital": "Rodovia Br60 Sn - Saida para Bela Vista - /MS",
+                "codigo_municipio_uasg": 90999,
+                "data_abertura_proposta": "2019-07-01",
+                "data_entrega_edital": "2019-06-05",
+                "data_entrega_proposta": "2019-06-05",
+                "data_publicacao": "2019-06-04",
+                "dt_alteracao": "2019-07-03T10:54:24",
+                "pertence14133": false
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

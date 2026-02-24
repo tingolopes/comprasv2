@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15584806000012017",
+        "data_extracao": "2026-02-13 10:15:59",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 39405068,
+                "numeroLicitacao": "15584806120172",
+                "uasg": 155848,
+                "nomeUasg": "IF - MS/ CAMPUS DOURADOS",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 12017,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": 55557,
+                "nomeMaterial": "SUPORTE DE MASTRO DE BANDEIRA, SUPORTE DE MASTRO DE BANDEIRA NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "08157480000100",
+                "nomeFornecedor": "ALSEMIR LUIZ WILHELMS EIRELI - ME",
+                "quantidade": null,
+                "unidade": "unidade",
+                "descricaoItem": "Kit Base de madeira com revestimento laminado na cor imbuia e 03 Mastros em al umínio com ponteira lança, para uso interno, mastro dividido em 03 partes de a prox. 67cm; ponteira lança com 20 cm de altura em latão cromado, 2 presilhas p ara fixação nos ilhoses das bandeiras, roscas de encaixe em nylon de alta resi stência, tamanho do mastro: de 1,95m a 2,20m de altura; 28mm de diâmetro.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 367.5,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-07-16T07:31:00",
+                "idCompra": "15584806000012017",
+                "idCompraItem": "1558480600001201700002"
+            },
+            {
+                "isnSidecResultadoCompra": 39405067,
+                "numeroLicitacao": "15584806120171",
+                "uasg": 155848,
+                "nomeUasg": "IF - MS/ CAMPUS DOURADOS",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 12017,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 68705,
+                "nomeMaterial": "PULPITO PORTATIL, PULPITO PORTATIL NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "08157480000100",
+                "nomeFornecedor": "ALSEMIR LUIZ WILHELMS EIRELI - ME",
+                "quantidade": null,
+                "unidade": "unidade",
+                "descricaoItem": "Púlpito de madeira maciça, com 2 (duas) rodas, bandeja superior 36x68cm, altur a total de 120cm, base inferior 40x75cm, laterais de 25cm de largura, tratamen to contra cupim, com brasão da República colorido na parte frontal e os dizere s IFMS, conforme arte constante no termo de referência.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 2210.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-05-09T10:17:00",
+                "idCompra": "15584806000012017",
+                "idCompraItem": "1558480600001201700001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

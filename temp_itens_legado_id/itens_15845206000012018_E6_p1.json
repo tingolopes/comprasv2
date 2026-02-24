@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845206000012018",
+        "data_extracao": "2026-02-13 11:05:34",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845206000012018",
+                "idCompraItem": "1584520600001201800002",
+                "coUasg": 158452,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 1,
+                "dtAnoAvisoLicitacao": 2018,
+                "nuInciso": "02",
+                "nuProcesso": "94425000150201859",
+                "vrEstimado": 906.0,
+                "qtTotalItem": 11,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Aquisição de produtos e/ou serviços com valor inferior a R$ 8.000,00",
+                "nuCpfRespDeclDisp": "08805442879",
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "MARIA JOSE VASCONCELOS PEREIRA",
+                "noCargoRespDeclDisp": "Tecnóloga em Gestão Pública",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 2,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 139343,
+                "noConjuntoMateriais": "REDE INFORMATICA - PECA / ACESSORIO",
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "UNIDADE Disco, RÍGIDO, 500 GB, 3,5 POL,  7.200 RPM, SATA II, 32 MB.",
+                "qtMaterialAlt": 5,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 906.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "SEAGATE",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "27206834000104",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "WALLERIA ALVES DE SOUZA 09376207939",
+                "dtAlteracao": "2024-04-08T11:40:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

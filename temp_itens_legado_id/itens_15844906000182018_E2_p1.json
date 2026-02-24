@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15844906000182018",
+        "data_extracao": "2026-02-13 09:47:37",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 42357113,
+                "numeroLicitacao": "158449061820181",
+                "uasg": 158449,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.C.GRANDE",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 182018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 4049,
+                "nomeServico": "LOCACAO EQUIPAMENTO ELEVACAO / MOVIMENTACAO DE CARGA",
+                "cnpjFornecedor": "15480852000109",
+                "nomeFornecedor": "HYDRAMAQ SERVICOS HIDRAULICOS DE EQUIPAMENTOS E MAQUINAS EIRELI",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Contratação de Serviços para movimentação do Centro de Usinagem do Laboratório de Mecânica do IFMS Campus Campo Grande.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 3000.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:27:00",
+                "idCompra": "15844906000182018",
+                "idCompraItem": "1584490600018201800001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

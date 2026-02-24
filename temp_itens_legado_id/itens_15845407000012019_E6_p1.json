@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845407000012019",
+        "data_extracao": "2026-02-13 11:34:31",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845407000012019",
+                "idCompraItem": "1584540700001201900001",
+                "coUasg": 158454,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 1,
+                "dtAnoAvisoLicitacao": 2019,
+                "nuInciso": "00",
+                "nuProcesso": "23347000200201965",
+                "vrEstimado": 7500.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 25º, Caput da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Singularidade do objeto é notória especialização do fornecedor.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "CINTIA LORENA DE CARVALHO FIGUEIREDO",
+                "noCargoRespDeclDisp": "Gestor Financeiro",
+                "noResponsavelRatificacao": "APIO CARNIELO E SILVA",
+                "noCargoRespRatificacao": "Ordenador de Despesa",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 16152,
+                "noServico": "PUBLICACAO LIVRO / MATERIA - PERIODICA / OFICIAL",
+                "dsDetalhada": "Contratação de órgão oficial para distribuição de publicidade legal - Empresa  Brasil de Comunicação S.A. - EBC",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 7500.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "09168704000142",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "EMPRESA BRASIL DE COMUNICACAO S.A. - EBC",
+                "dtAlteracao": "2024-04-08T11:45:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

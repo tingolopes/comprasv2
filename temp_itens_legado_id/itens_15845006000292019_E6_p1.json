@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845006000292019",
+        "data_extracao": "2026-02-13 09:44:55",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845006000292019",
+                "idCompraItem": "1584500600029201900001",
+                "coUasg": 158450,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 29,
+                "dtAnoAvisoLicitacao": 2019,
+                "nuInciso": "02",
+                "nuProcesso": "23347013477201958",
+                "vrEstimado": 10239.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Em razão do valor, não utilização de Cotação Eletrônica para serviços por não atualização do sistema",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "SANDRO MOURA SANTOS",
+                "noCargoRespDeclDisp": "Ordenador de Despesas",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 150770,
+                "noConjuntoMateriais": "PASTA PVC",
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "Totem identificação, totem identificação",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 10239.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "S/M",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "33783341000130",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "RODRIGUES PUBLICIDADE LTDA",
+                "dtAlteracao": "2024-04-08T11:30:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

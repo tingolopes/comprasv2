@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813207000092018",
+        "data_extracao": "2026-02-13 11:22:11",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813207000092018",
+                "idCompraItem": "1581320700009201800001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 9,
+                "dtAnoAvisoLicitacao": 2018,
+                "nuInciso": "02",
+                "nuProcesso": "23347001330201834",
+                "vrEstimado": 80890.56,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 25º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Serviço técnico especializado",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "HEBERTON LUIZ DUARTE RODRIGUES",
+                "noCargoRespDeclDisp": "Gestor Financeiro",
+                "noResponsavelRatificacao": "LUIZ SIMAO STASZCZAK",
+                "noCargoRespRatificacao": "Ordenador de Despesa",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 26476,
+                "noServico": "TRAFEGO DE DADOS VIA CABO",
+                "dsDetalhada": "Prestação de serviços na gestão financeira e administrativa envolvendo a admin istração de pessoal técnico contratado diretamente e/ou terceirizado, bem como  a contratação de empresas especializadas prestadoras de  serviços, a fim de a tenderas operações das conexões metropolitanas inseridas na infraestrutura da  Rede Comunitária de Educação e Pesquisa na cidade de Campo Grande, MS, denomi nada REDECOMEP pelo período de 12 meses.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "Anuidade",
+                "vrEstimadoItem": 80890.56,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "15513690000150",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "FUNDACAO DE APOIO A PESQUISA AO ENSINO E A CULTURA",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

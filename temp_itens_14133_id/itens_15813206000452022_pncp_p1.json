@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-contratacoes/2.1_consultarItensContratacoes_PNCP_14133_Id?tipo=idCompra&codigo=15813206000452022&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-13 10:44:58",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000452022",
+                "idCompraItem": "1581320600045202200001",
+                "idContratacaoPNCP": "10673078000120-1-000022/2022",
+                "unidadeOrgaoCodigoUnidade": "158132",
+                "orgaoEntidadeCnpj": "10673078000120",
+                "numeroItemPncp": 1,
+                "numeroItemCompra": 1,
+                "numeroGrupo": 0,
+                "descricaoResumida": "Monitoramento Circuito Fechado TV",
+                "materialOuServico": "S",
+                "materialOuServicoNome": "Serviço",
+                "codigoClasse": null,
+                "codigoGrupo": 852,
+                "codItemCatalogo": 21660,
+                "descricaodetalhada": "Contratação de empresa especializada em implantação da infraestrutura de videomonitoramento (Circuito Fechado de Televisão-CFTV) com fornecimento de câmeras, equipamentos e demais materiais necessários e incluso todos os serviços. A solução a ser contratada deve conter, no mínimo, as seguintes características (rol exemplificativo):     - Fornecimento e instalação de solução em CFTV com imagens Full HD tecnologia IP;    - Fornecimento e instalação de 19 câmeras IP FULL HD;    - Fornecimento e instalação de NVD IP de no mínimo 32 canais com HD de no mínimo 4 Tera Byte;    - Fornecimento e instalação de cabeamento de rede para CFTV IP;    - Fornecimento e instalação de Switches POE;    - Fornecimento e instalação de infraestrutura em aço;    - Instalação de software de monitoramento;    - Configuração de acesso remoto em PC e smartphone;    - Emissão de ART (CREA/MS);     - Treinamento de uso do sistema;    - Assistênciatécnica em até 48 horas uteis depois do acionamento, por no mínimo 06 meses - Garantia de troca ou reposição de peças (cujo defeito não tenha o IFMS dado causa) por mínimo 06 meses ou pelo prazo do fabricante (este último se mais favorável ao IFMS).",
+                "unidadeMedida": "UNIDADE",
+                "orcamentoSigiloso": false,
+                "itemCategoriaIdPncp": 3,
+                "itemCategoriaNome": "Informática (TIC)",
+                "criterioJulgamentoIdPncp": 7,
+                "criterioJulgamentoNome": "Não se aplica",
+                "situacaoCompraItem": "2",
+                "situacaoCompraItemNome": "Homologado",
+                "tipoBeneficio": "1",
+                "tipoBeneficioNome": "Participação exclusiva para ME/EPP",
+                "incentivoProdutivoBasico": false,
+                "quantidade": 1.0,
+                "valorUnitarioEstimado": 36000.0,
+                "valorTotal": 36000.0,
+                "temResultado": true,
+                "codFornecedor": "15233928000193",
+                "nomeFornecedor": "INVIOLAVEL CAMPO GRANDE LTDA",
+                "quantidadeResultado": 1.0,
+                "valorUnitarioResultado": 36000.0,
+                "valorTotalResultado": 36000.0,
+                "dataInclusaoPncp": "2022-07-25T14:41:18",
+                "dataAtualizacaoPncp": "2022-07-25T14:41:20",
+                "dataResultado": "2022-07-25 00:00:00.0000000",
+                "margemPreferenciaNormal": false,
+                "percentualMargemPreferenciaNormal": null,
+                "margemPreferenciaAdicional": false,
+                "percentualMargemPreferenciaAdicional": null,
+                "codigoNCM": null,
+                "descricaoNCM": null,
+                "numeroControlePNCPCompra": "10673078000120-1-000022/2022"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

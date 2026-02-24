@@ -1,0 +1,13 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813205902352024",
+        "data_extracao": "2026-02-20 13:25:29",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [],
+        "totalRegistros": 0,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845006000292017",
+        "data_extracao": "2026-02-13 09:41:36",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845006000292017",
+                "idCompraItem": "1584500600029201700001",
+                "coUasg": 158450,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 29,
+                "dtAnoAvisoLicitacao": 2017,
+                "nuInciso": "02",
+                "nuProcesso": "00000107/2017-63 ",
+                "vrEstimado": 90.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Devido a necessidade do campus, e o uso emergencial do material visto que a cafeteira elétrica está danificada.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "SANDRO MOURA SANTOS",
+                "noCargoRespDeclDisp": "Ordenador de Despesa",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 220583,
+                "noConjuntoMateriais": null,
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": null,
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "BOTIJÃO",
+                "vrEstimadoItem": 90.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "diversos",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "02984590000160",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "FARID A. H. M. MUSTAFA - EPP",
+                "dtAlteracao": "2024-04-08T11:30:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

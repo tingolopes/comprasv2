@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813207000422022",
+        "data_extracao": "2026-02-13 11:29:21",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813207000422022",
+                "idCompraItem": "1581320700042202200001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 42,
+                "dtAnoAvisoLicitacao": 2022,
+                "nuInciso": "02",
+                "nuProcesso": "23347011845202229",
+                "vrEstimado": 21000.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": "Objeto: Capacitação acerca de questões trabalhi                             stas e previdenciárias - Fiscalização administr                             ativa de contratos com dedicação exclusiva de m                             ão de obra",
+                "dsFundamentoLegal": "Fundamento Legal: Art. 25º, Inciso II da Lei nº 8.666 de 21º/06/1993.",
+                "dsJustificativa": "Justificativa: Empresa possui notória especialização.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "HEBERTON LUIZ DUARTE RODRIGUES",
+                "noCargoRespDeclDisp": "Gestor Financeiro",
+                "noResponsavelRatificacao": "ELAINE BORGES MONTEIRO CASSIANO",
+                "noCargoRespRatificacao": "Ordenadora de Despesas",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 21172,
+                "noServico": "TREINAMENTO QUALIFICACAO PROFISSIONAL",
+                "dsDetalhada": "Treinamento Qualificação Profissional, Capacitação acerca de questões trabalhi stas e previdenciárias - Fiscalização administrativa de contratos com dedicaçã o exclusiva de mão de obra, para 30 servidores.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "UNIDADE",
+                "vrEstimadoItem": 21000.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "36031159000110",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "CONCEPTU TREINAMENTOS E DESENVOLVIMENTO PROFISSIONAL LTDA",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

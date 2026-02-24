@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-contratacoes/2.1_consultarItensContratacoes_PNCP_14133_Id?tipo=idCompra&codigo=15813206002982025&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-13 10:55:16",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206002982025",
+                "idCompraItem": "1581320600298202500001",
+                "idContratacaoPNCP": "10673078000120-1-000116/2025",
+                "unidadeOrgaoCodigoUnidade": "158132",
+                "orgaoEntidadeCnpj": "10673078000120",
+                "numeroItemPncp": 1,
+                "numeroItemCompra": 1,
+                "numeroGrupo": 0,
+                "descricaoResumida": "Serviço engenharia Contratação de empresa para execução de serviços de cercamento de área excedente, mediante instalação de alambrado e mourões de concreto, no Campus Coxim do IFMS.",
+                "materialOuServico": "S",
+                "materialOuServicoNome": "Serviço",
+                "codigoClasse": null,
+                "codigoGrupo": 833,
+                "codItemCatalogo": 22225,
+                "descricaodetalhada": "Serviço engenharia Contratação de empresa para execução de serviços de cercamento de área excedente, mediante instalação de alambrado e mourões de concreto, no Campus Coxim do IFMS. ",
+                "unidadeMedida": "UNIDADE",
+                "orcamentoSigiloso": false,
+                "itemCategoriaIdPncp": 3,
+                "itemCategoriaNome": "Informática (TIC)",
+                "criterioJulgamentoIdPncp": 1,
+                "criterioJulgamentoNome": "Menor preço",
+                "situacaoCompraItem": "2",
+                "situacaoCompraItemNome": "Homologado",
+                "tipoBeneficio": "5",
+                "tipoBeneficioNome": "Não se aplica",
+                "incentivoProdutivoBasico": false,
+                "quantidade": 1.0,
+                "valorUnitarioEstimado": 114025.88,
+                "valorTotal": 114025.88,
+                "temResultado": true,
+                "codFornecedor": "47297949000169",
+                "nomeFornecedor": "M E ENGENHARIA LTDA",
+                "quantidadeResultado": 1.0,
+                "valorUnitarioResultado": 97998.0,
+                "valorTotalResultado": 97998.0,
+                "dataInclusaoPncp": "2025-12-10T17:19:40",
+                "dataAtualizacaoPncp": "2025-12-18T17:52:01",
+                "dataResultado": "2025-12-18 00:00:00.0000000",
+                "margemPreferenciaNormal": false,
+                "percentualMargemPreferenciaNormal": null,
+                "margemPreferenciaAdicional": false,
+                "percentualMargemPreferenciaAdicional": null,
+                "codigoNCM": null,
+                "descricaoNCM": null,
+                "numeroControlePNCPCompra": "10673078000120-1-000116/2025"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

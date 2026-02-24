@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00131%2F2023&unidadeGerenciadora=158132&numeroItem=00073&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:37:30",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00131/2023",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00073",
+                "codigoPdm": "04414",
+                "descricaoItem": "CANETA DESENHO ARQUITETÔNICO, MATERIAL CORPO PLÁSTICO, MATERIAL PONTA METAL, CARACTERÍSTICAS ADICIONAIS TINTA:NANQUIM/ USO:DESCARTAVEL, TAMANHO PONTA 0,80 MM, COR PRETA",
+                "fornecedor": "41597891000192 - EXCLUSIVA COMERCIO E SERVICOS, PAPELARIA E INFORMATICA LTDA",
+                "quantidadeRegistrada": 50.0,
+                "saldoAdesoes": 200.0,
+                "saldoRemanejamentoEmpenho": 50.0,
+                "qtdLimiteAdesao": 200.0,
+                "qtdLimiteInformadoCompra": 200.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2024-05-08T15:25:18",
+                "dataHoraAtualizacao": "2024-05-08T15:25:18",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "155850",
+                "nomeUnidade": "INST.FED.DO MS/CAMPUS JARDIM",
+                "tipoUnidade": "PARTICIPANTE"
+            },
+            {
+                "numeroAta": "00131/2023",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00073",
+                "codigoPdm": "04414",
+                "descricaoItem": "CANETA DESENHO ARQUITETÔNICO, MATERIAL CORPO PLÁSTICO, MATERIAL PONTA METAL, CARACTERÍSTICAS ADICIONAIS TINTA:NANQUIM/ USO:DESCARTAVEL, TAMANHO PONTA 0,80 MM, COR PRETA",
+                "fornecedor": "41597891000192 - EXCLUSIVA COMERCIO E SERVICOS, PAPELARIA E INFORMATICA LTDA",
+                "quantidadeRegistrada": 0.0,
+                "saldoAdesoes": 200.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 200.0,
+                "qtdLimiteInformadoCompra": 200.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2024-05-08T15:23:29",
+                "dataHoraAtualizacao": "2024-05-08T15:23:29",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            },
+            {
+                "numeroAta": "00131/2023",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00073",
+                "codigoPdm": "04414",
+                "descricaoItem": "CANETA DESENHO ARQUITETÔNICO, MATERIAL CORPO PLÁSTICO, MATERIAL PONTA METAL, CARACTERÍSTICAS ADICIONAIS TINTA:NANQUIM/ USO:DESCARTAVEL, TAMANHO PONTA 0,80 MM, COR PRETA",
+                "fornecedor": "41597891000192 - EXCLUSIVA COMERCIO E SERVICOS, PAPELARIA E INFORMATICA LTDA",
+                "quantidadeRegistrada": 50.0,
+                "saldoAdesoes": 200.0,
+                "saldoRemanejamentoEmpenho": 50.0,
+                "qtdLimiteAdesao": 200.0,
+                "qtdLimiteInformadoCompra": 200.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2024-05-08T15:25:18",
+                "dataHoraAtualizacao": "2024-05-08T15:25:18",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158454",
+                "nomeUnidade": "INST. FED. DO MS/CAMPUS TRES LAGOAS",
+                "tipoUnidade": "PARTICIPANTE"
+            }
+        ],
+        "totalRegistros": 3,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

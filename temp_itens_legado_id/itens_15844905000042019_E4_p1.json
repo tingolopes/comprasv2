@@ -1,0 +1,41 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/4.1_consultarItensPregoes_Id?id_compra=15844905000042019",
+        "data_extracao": "2026-02-13 11:40:45",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158449,
+                    "coItem": 21608860
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "Serviços de Instalação elétrica para alimentação do nobreak de 20 kVA com o objetivo de garantir o fornecimento ininterrupto de energia elétrica aos equipamentos localizados no Campus Campo Grande do Instituto Federal do Mato Grosso do Sul, incluído todos os materiais, equipamentos e mão-de-obra para execução dos serviços.",
+                "descricaoItem": "Estudos e Projetos de Instalação Elétrica",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "18150.00",
+                "quantidadeItem": "1",
+                "situacaoItem": "homologado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "Serviço",
+                "valorHomologadoItem": "18150.00",
+                "valorEstimadoItem": "20349.89",
+                "valorNegociado": null,
+                "idCompra": "15844905000042019",
+                "idCompraItem": "1584490500004201900001",
+                "noAdjudic": "CARLOS GRACINDO PEREIRA LANDIVAR",
+                "noHom": "ROSANE DE BRITO FERNANDEZ GARCIA",
+                "dtEncerramento": "2019-05-02",
+                "dtAdjudic": "2019-05-02",
+                "dtHom": "2019-06-03",
+                "dtAlteracao": "2024-04-08T11:27:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

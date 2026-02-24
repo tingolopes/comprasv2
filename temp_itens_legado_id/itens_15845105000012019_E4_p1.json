@@ -1,0 +1,41 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/4.1_consultarItensPregoes_Id?id_compra=15845105000012019",
+        "data_extracao": "2026-02-13 11:41:08",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158451,
+                    "coItem": 21327723
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "Prestação de serviços contínuos de manutenção preventiva conforme previsto no Plano de Manutenção, Operação e Controle (PMOC), com fornecimento de peças, materiais, insumos e mão de obra, para atendimento da demanda do Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul   Campus Coxim, para um período de 12 (doze) meses.",
+                "descricaoItem": "Ar Condicionado - Manutenção de Sistemas / Limpeza",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "95000.00",
+                "quantidadeItem": "1",
+                "situacaoItem": "encerrado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "SERVIÇO",
+                "valorHomologadoItem": null,
+                "valorEstimadoItem": "225253.33",
+                "valorNegociado": null,
+                "idCompra": "15845105000012019",
+                "idCompraItem": "1584510500001201900001",
+                "noAdjudic": null,
+                "noHom": null,
+                "dtEncerramento": null,
+                "dtAdjudic": null,
+                "dtHom": null,
+                "dtAlteracao": "2024-04-08T11:32:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

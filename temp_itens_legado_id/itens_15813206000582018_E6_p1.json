@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813206000582018",
+        "data_extracao": "2026-02-13 11:21:41",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000582018",
+                "idCompraItem": "1581320600058201800001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 58,
+                "dtAnoAvisoLicitacao": 2018,
+                "nuInciso": "02",
+                "nuProcesso": "23347019427201801",
+                "vrEstimado": 8584.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Compra de baixo vulto",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "LUIZ SIMAO STASZCZAK",
+                "noCargoRespDeclDisp": "Ordenador de Despesas",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 12807,
+                "noServico": "BUFFET",
+                "dsDetalhada": "Prestação de serviços de multimídia, iluminação e outros para o evento 10 ANOS  DO IFMS.  01 Diária de 01 Painel de LED medindo 5 metros de largura x 3 metro s de altura. Totalizando 15m²  01 Diária de 02 Monitores de imagens de 50 pole gadas para o Palco com suporte Dog House  01 Diária de 02 Monitores de imagnes  de 50 polegadas para a recepção com suporte em coluna de alumínio de 02 metro s  01 Diária de 01 Técnico Operador de Multimídia  01 Diária de 01 Sistema de  iluminação decorativa contendo: 20 refletores Par LED RGBW  01 Diária de arran jo com folhagem murta e aricana: 03 floreiras de 2 metros cada.  01 Diária de  01 púlpito de acrílico   01 Diária de 02 Totens em lona impressa  02 Tapetes p ara o palco medindo 2,00m largura x 2,50 m de comprimento  01 Painel para inst alação de quadros",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "Diaria",
+                "vrEstimadoItem": 8584.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "08824288000120",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "FUTURA ENTRETENIMENTO E EVENTOS LTDA",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

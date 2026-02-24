@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845207000012016",
+        "data_extracao": "2026-02-13 11:04:34",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845207000012016",
+                "idCompraItem": "1584520700001201600001",
+                "coUasg": 158452,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 1,
+                "dtAnoAvisoLicitacao": 2016,
+                "nuInciso": "00",
+                "nuProcesso": "23347008241201657",
+                "vrEstimado": 1665.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Lei 8666/93",
+                "dsJustificativa": "Justificativa: Tendo em vista que o serviço é prestado por represente exclusivo do fabricante",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "SERGIO PAULO DE SOUZA",
+                "noCargoRespDeclDisp": "Diretor de Administração",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 5827,
+                "noServico": "MANUTENCAO / REPARO MAQUINA COPIADORA/ DUPLICADORA",
+                "dsDetalhada": "Troca de peça TPH (cabeça de impressão), calibração da TPH, calibração das bor das e calibração dos sensores.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "SERV",
+                "vrEstimadoItem": 1665.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "04730561000105",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "TOTAL CARD COMERCIO E IMPORTACAO LTDA - EPP",
+                "dtAlteracao": "2024-04-08T11:40:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

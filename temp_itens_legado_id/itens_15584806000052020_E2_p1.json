@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15584806000052020",
+        "data_extracao": "2026-02-13 10:39:54",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 46054064,
+                "numeroLicitacao": "15584806520202",
+                "uasg": 155848,
+                "nomeUasg": "IF - MS/ CAMPUS DOURADOS",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 52020,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 16195,
+                "nomeServico": "RECOLHIMENTO DE TAXA / IMPOSTO / MULTA",
+                "cnpjFornecedor": "14147098000119",
+                "nomeFornecedor": "SANCRISTO - COLETA DE RESIDUOS EIRELI",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Taxa por quilograma excedente à cota de coleta de lixo",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 160.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:35:00",
+                "idCompra": "15584806000052020",
+                "idCompraItem": "1558480600005202000002"
+            },
+            {
+                "isnSidecResultadoCompra": 46054063,
+                "numeroLicitacao": "15584806520201",
+                "uasg": 155848,
+                "nomeUasg": "IF - MS/ CAMPUS DOURADOS",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 52020,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 19380,
+                "nomeServico": "COLETA / TRATAMENTO LIXO - HOSPITALAR",
+                "cnpjFornecedor": "14147098000119",
+                "nomeFornecedor": "SANCRISTO - COLETA DE RESIDUOS EIRELI",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Contratação de empresa ou Pessoa Física especializada para prestação de serviç o de coleta, transporte e encaminhamento para tratamento de resíduos de saúde, lâmpadas e baterias para atendimento das demandas do Campus Dourados. Cota at é 8 Kg/mês.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1200.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2025-03-24T15:35:20",
+                "idCompra": "15584806000052020",
+                "idCompraItem": "1558480600005202000001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

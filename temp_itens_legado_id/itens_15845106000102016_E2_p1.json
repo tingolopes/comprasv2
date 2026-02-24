@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845106000102016",
+        "data_extracao": "2026-02-13 10:00:36",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 37434369,
+                "numeroLicitacao": "158451061020161",
+                "uasg": 158451,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.COXIM",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 102016,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 14273,
+                "nomeMaterial": "CADEIRA, CADEIRA COMUM NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "00462854000190",
+                "nomeFornecedor": "LIVRARIA E PAPELARIA AQUARELA LTDA - ME",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "CADEIRA PALITO ? Cadeira fixa palito. Feito em aço carbono. Estrutura fixa mod . 4 pés em tubo de aço 3/4\". Cor: Preto.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 450.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-05-14T18:20:00",
+                "idCompra": "15845106000102016",
+                "idCompraItem": "1584510600010201600001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

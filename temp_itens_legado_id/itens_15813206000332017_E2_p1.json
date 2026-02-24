@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000332017",
+        "data_extracao": "2026-02-13 11:19:33",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 41044528,
+                "numeroLicitacao": "158132063320171",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 332017,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 1260,
+                "nomeServico": "INFORMATICA - MANUTENCAO/INSTALACAO SISTEMAS / PERIFERICOS",
+                "cnpjFornecedor": "07139828000174",
+                "nomeFornecedor": "ABM INFORMATICA LTDA - ME",
+                "quantidade": null,
+                "unidade": "Serviço",
+                "descricaoItem": "Contratação do serviço de manutenção com troca de peças da impressora HP CM131 2nfi MFP, patrimônio 11168, utilizada pela Secretaria de Gabinete da Reitoria.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 180.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000332017",
+                "idCompraItem": "1581320600033201700001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

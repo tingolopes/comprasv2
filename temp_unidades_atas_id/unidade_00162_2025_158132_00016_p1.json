@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00162%2F2025&unidadeGerenciadora=158132&numeroItem=00016&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:30:42",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00162/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00016",
+                "codigoPdm": "03767",
+                "descricaoItem": "BOMBA DE VÁCUO, TIPO DUPLO ESTÁGIO, POTÊNCIA MOTOR 1/2 HP, VOLTAGEM 220 V, VAZÃO 0,34 M3/MIN",
+                "fornecedor": "35764167000103 - ACARVE COMERCIO E LICITACOES LTDA",
+                "quantidadeRegistrada": 3.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 3.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": 0.0,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2025-12-11T12:22:49",
+                "dataHoraAtualizacao": "2025-12-12T12:13:30",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "155849",
+                "nomeUnidade": "INST.FED.DO MS/CAMPUS NAVIRAI",
+                "tipoUnidade": "PARTICIPANTE"
+            },
+            {
+                "numeroAta": "00162/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00016",
+                "codigoPdm": "03767",
+                "descricaoItem": "BOMBA DE VÁCUO, TIPO DUPLO ESTÁGIO, POTÊNCIA MOTOR 1/2 HP, VOLTAGEM 220 V, VAZÃO 0,34 M3/MIN",
+                "fornecedor": "35764167000103 - ACARVE COMERCIO E LICITACOES LTDA",
+                "quantidadeRegistrada": 0.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": 0.0,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2025-12-11T12:22:00",
+                "dataHoraAtualizacao": "2025-12-12T12:13:28",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            },
+            {
+                "numeroAta": "00162/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00016",
+                "codigoPdm": "03767",
+                "descricaoItem": "BOMBA DE VÁCUO, TIPO DUPLO ESTÁGIO, POTÊNCIA MOTOR 1/2 HP, VOLTAGEM 220 V, VAZÃO 0,34 M3/MIN",
+                "fornecedor": "35764167000103 - ACARVE COMERCIO E LICITACOES LTDA",
+                "quantidadeRegistrada": 3.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 3.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": 0.0,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2025-12-11T12:22:49",
+                "dataHoraAtualizacao": "2025-12-12T12:13:30",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158451",
+                "nomeUnidade": "INST. FED. DO MS/CAMPUS COXIM",
+                "tipoUnidade": "PARTICIPANTE"
+            }
+        ],
+        "totalRegistros": 3,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

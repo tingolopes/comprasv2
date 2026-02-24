@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-contratacoes/2.1_consultarItensContratacoes_PNCP_14133_Id?tipo=idCompra&codigo=15813206902652023&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-13 10:48:06",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206902652023",
+                "idCompraItem": "1581320690265202300001",
+                "idContratacaoPNCP": "10673078000120-1-000065/2023",
+                "unidadeOrgaoCodigoUnidade": "158132",
+                "orgaoEntidadeCnpj": "10673078000120",
+                "numeroItemPncp": 1,
+                "numeroItemCompra": 1,
+                "numeroGrupo": 0,
+                "descricaoResumida": "ESTUDOS E PROJETOS DE TOPOGRAFIA Levantamento topográfico para implantação da quadra poliesportiva padrão FNDE do Campus Corumbá.",
+                "materialOuServico": "S",
+                "materialOuServicoNome": "Serviço",
+                "codigoClasse": null,
+                "codigoGrupo": null,
+                "codItemCatalogo": null,
+                "descricaodetalhada": null,
+                "unidadeMedida": "UN",
+                "orcamentoSigiloso": false,
+                "itemCategoriaIdPncp": 3,
+                "itemCategoriaNome": "Informática (TIC)",
+                "criterioJulgamentoIdPncp": 7,
+                "criterioJulgamentoNome": "Não se aplica",
+                "situacaoCompraItem": "2",
+                "situacaoCompraItemNome": "Homologado",
+                "tipoBeneficio": "5",
+                "tipoBeneficioNome": "Não se aplica",
+                "incentivoProdutivoBasico": false,
+                "quantidade": 1.0,
+                "valorUnitarioEstimado": 10000.0,
+                "valorTotal": 10000.0,
+                "temResultado": true,
+                "codFornecedor": "24588746000126",
+                "nomeFornecedor": "TM TERCEIRIZACOES LTDA",
+                "quantidadeResultado": 1.0,
+                "valorUnitarioResultado": 6000.0,
+                "valorTotalResultado": 6000.0,
+                "dataInclusaoPncp": "2023-11-17T17:23:45",
+                "dataAtualizacaoPncp": "2024-06-27T15:56:07",
+                "dataResultado": "2023-11-17 00:00:00.0000000",
+                "margemPreferenciaNormal": false,
+                "percentualMargemPreferenciaNormal": null,
+                "margemPreferenciaAdicional": false,
+                "percentualMargemPreferenciaAdicional": null,
+                "codigoNCM": null,
+                "descricaoNCM": null,
+                "numeroControlePNCPCompra": "10673078000120-1-000065/2023"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

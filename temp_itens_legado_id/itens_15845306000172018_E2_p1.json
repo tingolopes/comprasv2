@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845306000172018",
+        "data_extracao": "2026-02-13 11:14:59",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 43465220,
+                "numeroLicitacao": "158453061720181",
+                "uasg": 158453,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MT/C.P.PORÃ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 172018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 150398,
+                "nomeMaterial": "FONTE ALIMENTAÇÃO ININTERRUPTA, FONTE ALIMENTAÇÃO ININTERRUPTA NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": null,
+                "nomeFornecedor": null,
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "FONTE ALIMENTAÇÃO ININTERRUPTA, NOME FONTE ALIMENTAÇÃO ININTERRUPTA: Fontes de computador Manufacturer: HP Model: PC8019 Power Capacity/Type: 240W Mini ITX Form Factor Compatible System: HP Elite 8000 6005 8100 8200 SFF Desktop Comput er Part NO.: 503376-001 Spare Part NO.: 508152-001",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 0.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-05-16T11:38:00",
+                "idCompra": "15845306000172018",
+                "idCompraItem": "1584530600017201800001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00074%2F2024&unidadeGerenciadora=158132&numeroItem=00033&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:51:51",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00074/2024",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00033",
+                "codigoPdm": null,
+                "descricaoItem": "Operador Máquina e Equipamentos de uso geral - Tratorista 44h",
+                "fornecedor": "26852970000109 - SERVPLAN - SERVICOS DE LIMPEZA AMBIENTAL LTDA",
+                "quantidadeRegistrada": 1.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 1.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": null,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2024-09-11T11:44:58",
+                "dataHoraAtualizacao": "2024-09-12T10:42:49",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "155849",
+                "nomeUnidade": "INST.FED.DO MS/CAMPUS NAVIRAI",
+                "tipoUnidade": "PARTICIPANTE"
+            },
+            {
+                "numeroAta": "00074/2024",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00033",
+                "codigoPdm": null,
+                "descricaoItem": "Operador Máquina e Equipamentos de uso geral - Tratorista 44h",
+                "fornecedor": "26852970000109 - SERVPLAN - SERVICOS DE LIMPEZA AMBIENTAL LTDA",
+                "quantidadeRegistrada": 0.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": null,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2024-09-11T11:44:46",
+                "dataHoraAtualizacao": "2024-09-12T10:42:32",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

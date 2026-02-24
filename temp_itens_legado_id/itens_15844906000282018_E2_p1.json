@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15844906000282018",
+        "data_extracao": "2026-02-13 09:47:47",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 42788167,
+                "numeroLicitacao": "158449062820181",
+                "uasg": 158449,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.C.GRANDE",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 282018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 394766,
+                "nomeMaterial": "DESFIBRILADOR, TIPO EXTERNO AUTOMÁTICO  TIPO ONDA BIFÁSICA  TEMPO MÁXIMO CARGA ATÉ 6 S MEMÓRIA GRAVA ECG/EVENTOS  PESO ATÉ 3 KG ALIMENTAÇÃO BATERIA INTERNA RECARREGÁVEL  COMPONENTE PÁS ADESIVAS DESCARTÁVEIS  CARACTERÍSTICAS ADICIONAIS COMANDO DE VOZ  TIPO MÓDULO PORTÁTIL, C/ ALÇA TRANSPORTE, MALETA",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "28931351000135",
+                "nomeFornecedor": "HILDON CHAVES 87709449891",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 6848.2,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:27:00",
+                "idCompra": "15844906000282018",
+                "idCompraItem": "1584490600028201800001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15584807000022020",
+        "data_extracao": "2026-02-13 10:57:25",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15584807000022020",
+                "idCompraItem": "1558480700002202000001",
+                "coUasg": 155848,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 2,
+                "dtAnoAvisoLicitacao": 2020,
+                "nuInciso": "01",
+                "nuProcesso": "23347005713202004",
+                "vrEstimado": 5000.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 25º, Inciso I da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Art. 25º, Inciso I da Lei nº 8.666 de 21/06/1993.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "DANILO SANCHES DANTAS",
+                "noCargoRespDeclDisp": "Gestor Financeiro",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 892,
+                "noServico": "PROPAGANDA E PUBLICIDADE",
+                "dsDetalhada": "Propaganda e publicidade",
+                "qtMaterialAlt": 10,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 5000.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "09168704000142",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "EMPRESA BRASIL DE COMUNICACAO S.A. - EBC",
+                "dtAlteracao": "2024-04-08T11:35:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

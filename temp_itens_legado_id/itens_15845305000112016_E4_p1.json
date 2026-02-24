@@ -1,0 +1,41 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/4.1_consultarItensPregoes_Id?id_compra=15845305000112016",
+        "data_extracao": "2026-02-13 11:41:46",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158453,
+                    "coItem": 18033274
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": ":a)- Operação e Manutenção da ETE: 01 (um)Operador de ETE 44(quarenta) horas semanais qualificado para o serviço.b)- Limpeza da area de gradeamanto;c)- Coleta e transporte e condicionamento de material gradeado;d)- Limpeza dos desarenadores;e)Assepsia das instalações da ETE;f)- Manutenção e recuperação das estruturas da ETE;g)- Manutenção de válvula, comportas e tubulações da ETE;h)- Limpeza das áreas, poda das árvores, corte de gramíneas, aplicação de inseticidas, sinalização do local;i)- Manutenção das estruturas para minimização de odores;j)- Descarte de lodo utilizando caminhões limpa-fossa em local adequado;k)-Retirada dos resíduos sólidos retirados no gradeamento e caixa de areia em caçambas estacionárias;l)- Manutenção da pintura da unidade da ETE;m)- Manutenção dos motores dos equipamentos eletrônicos, elétricos, mecânicos e hidráulicos;n);o)- Desinfecção e controle rotineiro de odores; p)- Atividades de controle ;q)- Coleta de amostras para medição de pH com apresentação de laudos, temperatura, sólidos sedimentáveis; s)- Controles para efeito de descarte de lodo digeridos dos reatores; t)- Mistura e dosagem de produtos químicos, tais como: cloro e cal e demais em edital.",
+                "descricaoItem": "Manutenção de Redes - Água / Esgoto",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "196100.00",
+                "quantidadeItem": "12",
+                "situacaoItem": "homologado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "mensal",
+                "valorHomologadoItem": "16000.00",
+                "valorEstimadoItem": "207000.00",
+                "valorNegociado": "192000.00",
+                "idCompra": "15845305000112016",
+                "idCompraItem": "1584530500011201600001",
+                "noAdjudic": "EDISON SILVA SOSA",
+                "noHom": "MARCOS PINHEIRO VILHANUEVA",
+                "dtEncerramento": "2016-12-28",
+                "dtAdjudic": "2016-12-28",
+                "dtHom": "2016-12-29",
+                "dtAlteracao": "2024-04-08T11:41:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

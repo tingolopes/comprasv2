@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813207000062020",
+        "data_extracao": "2026-02-13 11:24:49",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813207000062020",
+                "idCompraItem": "1581320700006202000001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 6,
+                "dtAnoAvisoLicitacao": 2020,
+                "nuInciso": "02",
+                "nuProcesso": "23347010972202049",
+                "vrEstimado": 1399.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 25º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Capacitação de servidor",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "FERNANDO SILVEIRA ALVES",
+                "noCargoRespDeclDisp": "Ordenador de Despesas Substituto",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 25232,
+                "noServico": "PAGAMENTO INSCRICAO EVENTOS",
+                "dsDetalhada": "Inscrição do servidor Thiago Maciel Castro no curso de Conformidade Contábil e  Análise das Demonstrações Contábeis ofertado pela MMP Costa Treinamento &amp; Des envolvimento Humano (Gestão Treinamento)",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 1399.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "10613756000160",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "M M P COSTA TREINAMENTO & DESENVOLVIMENTO HUMANO EIRELI -",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,534 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/4_consultarEmpenhosSaldoItem?numeroAta=00061%2F2025&unidadeGerenciadora=158132&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-23 16:05:24",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroItem": "00070",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 200.0,
+                "quantidadeEmpenhada": 100.0,
+                "saldoEmpenho": 100.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-02T16:22:48"
+            },
+            {
+                "numeroItem": "00071",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 300.0,
+                "quantidadeEmpenhada": 150.0,
+                "saldoEmpenho": 150.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-02T16:22:48"
+            },
+            {
+                "numeroItem": "00072",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 100.0,
+                "quantidadeEmpenhada": 100.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-13T17:01:27"
+            },
+            {
+                "numeroItem": "00073",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 45.0,
+                "quantidadeEmpenhada": 45.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-13T17:01:54"
+            },
+            {
+                "numeroItem": "00074",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 1650.0,
+                "quantidadeEmpenhada": 300.0,
+                "saldoEmpenho": 1350.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00075",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 1000.0,
+                "quantidadeEmpenhada": 250.0,
+                "saldoEmpenho": 750.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00076",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 800.0,
+                "quantidadeEmpenhada": 300.0,
+                "saldoEmpenho": 500.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00077",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 300.0,
+                "quantidadeEmpenhada": 300.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00078",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 320.0,
+                "quantidadeEmpenhada": 100.0,
+                "saldoEmpenho": 220.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-02T16:22:48"
+            },
+            {
+                "numeroItem": "00079",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 820.0,
+                "quantidadeEmpenhada": 150.0,
+                "saldoEmpenho": 670.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-02T16:22:48"
+            },
+            {
+                "numeroItem": "00080",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 80.0,
+                "quantidadeEmpenhada": 80.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-13T17:01:44"
+            },
+            {
+                "numeroItem": "00081",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 600.0,
+                "quantidadeEmpenhada": 250.0,
+                "saldoEmpenho": 350.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00082",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 200.0,
+                "quantidadeEmpenhada": 100.0,
+                "saldoEmpenho": 100.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-02T16:22:48"
+            },
+            {
+                "numeroItem": "00083",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 100.0,
+                "quantidadeEmpenhada": 100.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-13T17:02:00"
+            },
+            {
+                "numeroItem": "00084",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 100.0,
+                "quantidadeEmpenhada": 100.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-13T17:02:01"
+            },
+            {
+                "numeroItem": "00085",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 60.0,
+                "quantidadeEmpenhada": 30.0,
+                "saldoEmpenho": 30.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-02T16:22:48"
+            },
+            {
+                "numeroItem": "00086",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 180.0,
+                "quantidadeEmpenhada": 180.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00087",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 60.0,
+                "quantidadeEmpenhada": 30.0,
+                "saldoEmpenho": 30.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-02T16:22:48"
+            },
+            {
+                "numeroItem": "00088",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 90.0,
+                "quantidadeEmpenhada": 50.0,
+                "saldoEmpenho": 40.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-02T16:22:48"
+            },
+            {
+                "numeroItem": "00089",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 400.0,
+                "quantidadeEmpenhada": 250.0,
+                "saldoEmpenho": 150.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00090",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 180.0,
+                "quantidadeEmpenhada": 150.0,
+                "saldoEmpenho": 30.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-02T16:22:48"
+            },
+            {
+                "numeroItem": "00091",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 300.0,
+                "quantidadeEmpenhada": 80.0,
+                "saldoEmpenho": 220.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-02T16:22:48"
+            },
+            {
+                "numeroItem": "00092",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 130.0,
+                "quantidadeEmpenhada": 50.0,
+                "saldoEmpenho": 80.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-02T16:22:48"
+            },
+            {
+                "numeroItem": "00093",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 150.0,
+                "quantidadeEmpenhada": 150.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-13T17:01:51"
+            },
+            {
+                "numeroItem": "00094",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 90.0,
+                "quantidadeEmpenhada": 30.0,
+                "saldoEmpenho": 60.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-02T16:22:48"
+            },
+            {
+                "numeroItem": "00095",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 60.0,
+                "quantidadeEmpenhada": 20.0,
+                "saldoEmpenho": 40.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-02T16:22:48"
+            },
+            {
+                "numeroItem": "00096",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 400.0,
+                "quantidadeEmpenhada": 150.0,
+                "saldoEmpenho": 250.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-02T16:22:48"
+            },
+            {
+                "numeroItem": "00097",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 250.0,
+                "quantidadeEmpenhada": 50.0,
+                "saldoEmpenho": 200.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-02T16:22:48"
+            },
+            {
+                "numeroItem": "00098",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 80.0,
+                "quantidadeEmpenhada": 50.0,
+                "saldoEmpenho": 30.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-02T16:22:48"
+            },
+            {
+                "numeroItem": "00099",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 1000.0,
+                "quantidadeEmpenhada": 300.0,
+                "saldoEmpenho": 700.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-02T16:22:48"
+            },
+            {
+                "numeroItem": "00100",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 80.0,
+                "quantidadeEmpenhada": 50.0,
+                "saldoEmpenho": 30.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-02T16:22:48"
+            },
+            {
+                "numeroItem": "00101",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 1080.0,
+                "quantidadeEmpenhada": 400.0,
+                "saldoEmpenho": 680.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00102",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 150.0,
+                "quantidadeEmpenhada": 60.0,
+                "saldoEmpenho": 90.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-02T16:22:48"
+            },
+            {
+                "numeroItem": "00103",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 30.0,
+                "quantidadeEmpenhada": 10.0,
+                "saldoEmpenho": 20.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-02T16:22:48"
+            },
+            {
+                "numeroItem": "00104",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 50.0,
+                "quantidadeEmpenhada": 50.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-13T17:01:47"
+            },
+            {
+                "numeroItem": "00105",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 1350.0,
+                "quantidadeEmpenhada": 250.0,
+                "saldoEmpenho": 1100.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00106",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 500.0,
+                "quantidadeEmpenhada": 90.0,
+                "saldoEmpenho": 410.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-02T16:22:48"
+            },
+            {
+                "numeroItem": "00107",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 300.0,
+                "quantidadeEmpenhada": 200.0,
+                "saldoEmpenho": 100.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00108",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 50.0,
+                "quantidadeEmpenhada": 50.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-13T17:01:40"
+            },
+            {
+                "numeroItem": "00109",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 20.0,
+                "quantidadeEmpenhada": 20.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-13T17:02:11"
+            },
+            {
+                "numeroItem": "00110",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 150.0,
+                "quantidadeEmpenhada": 50.0,
+                "saldoEmpenho": 100.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-02T16:22:48"
+            },
+            {
+                "numeroItem": "00111",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 200.0,
+                "quantidadeEmpenhada": 50.0,
+                "saldoEmpenho": 150.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-02T16:22:48"
+            },
+            {
+                "numeroItem": "00112",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 20.0,
+                "quantidadeEmpenhada": 10.0,
+                "saldoEmpenho": 10.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-02T16:22:48"
+            },
+            {
+                "numeroItem": "00113",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 150.0,
+                "quantidadeEmpenhada": 30.0,
+                "saldoEmpenho": 120.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-02T16:22:48"
+            },
+            {
+                "numeroItem": "00114",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 80.0,
+                "quantidadeEmpenhada": 20.0,
+                "saldoEmpenho": 60.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-02T16:22:48"
+            },
+            {
+                "numeroItem": "00115",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 50.0,
+                "quantidadeEmpenhada": 10.0,
+                "saldoEmpenho": 40.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-02T16:22:48"
+            },
+            {
+                "numeroItem": "00116",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 350.0,
+                "quantidadeEmpenhada": 50.0,
+                "saldoEmpenho": 300.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00117",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 10.0,
+                "quantidadeEmpenhada": 10.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-13T17:01:41"
+            },
+            {
+                "numeroItem": "00118",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 1300.0,
+                "quantidadeEmpenhada": 100.0,
+                "saldoEmpenho": 1200.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-02T16:22:48"
+            },
+            {
+                "numeroItem": "00119",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 70.0,
+                "quantidadeEmpenhada": 20.0,
+                "saldoEmpenho": 50.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-02T16:22:48"
+            },
+            {
+                "numeroItem": "00120",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 200.0,
+                "quantidadeEmpenhada": 50.0,
+                "saldoEmpenho": 150.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-10-02T16:22:48"
+            },
+            {
+                "numeroItem": "00121",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 1000.0,
+                "quantidadeEmpenhada": 65.0,
+                "saldoEmpenho": 935.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            }
+        ],
+        "totalRegistros": 52,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

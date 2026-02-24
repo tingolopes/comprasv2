@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15844907000132016",
+        "data_extracao": "2026-02-13 09:46:17",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 37886723,
+                "numeroLicitacao": "158449071320161",
+                "uasg": 158449,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.C.GRANDE",
+                "modalidade": 7,
+                "nomeModalidade": "INEXIGIBILIDADE DE LICITAÇÃO",
+                "numeroAviso": 132016,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 17965,
+                "nomeServico": "MANUTENCAO E REPARO - TACOGRAFO",
+                "cnpjFornecedor": "36779965000171",
+                "nomeFornecedor": "CENTRO OESTE INSTRUMENTOS PARA PAINEIS LTDA - EPP",
+                "quantidade": null,
+                "unidade": "UN",
+                "descricaoItem": "Pagamento de serviço de selagem e ensaio do tacógrafo dos veículos oficiais do IFMS Campus Campo Grande.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 418.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:27:00",
+                "idCompra": "15844907000132016",
+                "idCompraItem": "1584490700013201600001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

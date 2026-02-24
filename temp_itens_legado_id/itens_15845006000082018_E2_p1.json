@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845006000082018",
+        "data_extracao": "2026-02-13 09:43:33",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 42141499,
+                "numeroLicitacao": "15845006820181",
+                "uasg": 158450,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.CORUMBÁ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 82018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 266955,
+                "nomeMaterial": "MISTURA GASOSA, APLICAÇÃO LABORATORIAL  COMPOSIÇÃO 85% NITROGÊNIO, 10% HIDROGÊNIO E 5% GÁS CARBÔNICO",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "35820448000136",
+                "nomeFornecedor": "WHITE MARTINS GASES INDUSTRIAIS LTDA",
+                "quantidade": null,
+                "unidade": "METRO CÚBICO",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 3300.5,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:30:00",
+                "idCompra": "15845006000082018",
+                "idCompraItem": "1584500600008201800001"
+            },
+            {
+                "isnSidecResultadoCompra": 42141500,
+                "numeroLicitacao": "15845006820182",
+                "uasg": 158450,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.CORUMBÁ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 82018,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": 366164,
+                "nomeMaterial": "GÁS COMPRIMIDO, NOME AR SINTÉTICO  ASPECTO FÍSICO INERTE, INCOLOR, INODORO  FÓRMULA QUÍMICA MISTURA DE OXIGÊNIO E NITROGÊNIO  GRAU DE PUREZA TEOR DE O2 ENTRE 21 E 22,5%  CARACTERÍSTICA ADICIONAL USO MEDICINAL",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "35820448000136",
+                "nomeFornecedor": "WHITE MARTINS GASES INDUSTRIAIS LTDA",
+                "quantidade": null,
+                "unidade": "METRO CÚBICO",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 3372.25,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-12-02T07:48:00",
+                "idCompra": "15845006000082018",
+                "idCompraItem": "1584500600008201800002"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

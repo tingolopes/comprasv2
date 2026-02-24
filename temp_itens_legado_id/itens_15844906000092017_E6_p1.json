@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15844906000092017",
+        "data_extracao": "2026-02-13 09:46:26",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15844906000092017",
+                "idCompraItem": "1584490600009201700001",
+                "coUasg": 158449,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 9,
+                "dtAnoAvisoLicitacao": 2017,
+                "nuInciso": "02",
+                "nuProcesso": "23347013769201729",
+                "vrEstimado": 2400.21,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Aquisição de produtos e/ou serviços com valor inferior a R$ 8.000,00",
+                "nuCpfRespDeclDisp": "00281874158",
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "JOAO OTAVIO CENEDEZI PIMENTA",
+                "noCargoRespDeclDisp": "Diretor de Administração.",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 150836,
+                "noConjuntoMateriais": null,
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "Quadro branco para uso de marcador de quadro branco; tela em chapa de fibra de  madeira;                          pintura UV de alta durabilidade; acompanha afixado no quadro/lousa porta marcadores; moldura em alumínio; acompanha acess órios para fixação na parede; dimensão: 300cm x 120cm.",
+                "qtMaterialAlt": 13,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 2400.21,
+                "dsFabricante": null,
+                "noMarcaMaterial": "CORTIARTE",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "26455918000119",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "FR2 COMERCIO DE MATERIAIS ELETRICOS LTDA - ME",
+                "dtAlteracao": "2024-04-08T11:27:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

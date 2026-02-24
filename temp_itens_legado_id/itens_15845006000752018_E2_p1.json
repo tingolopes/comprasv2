@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845006000752018",
+        "data_extracao": "2026-02-13 09:42:48",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 43574500,
+                "numeroLicitacao": "158450067520181",
+                "uasg": 158450,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.CORUMBÁ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 752018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 17809,
+                "nomeServico": "LOCACAO / INSTALACAO / MANUTENCAO - COBERTURA/PASSARELA/TOLDO/BARRACA",
+                "cnpjFornecedor": "00632384000165",
+                "nomeFornecedor": "A.F. DE BULHOES",
+                "quantidade": null,
+                "unidade": "UN",
+                "descricaoItem": "Confecção e instalação de 01 toldo fixo, tipo curvo, cobertura em lona reforça da, estrutura em metalon zarconado e pintado em tinta esmalte sintético com as seguintes medidas: 20m de comprimento x 4,5 metros de largura.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 15000.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2025-03-26T11:56:51",
+                "idCompra": "15845006000752018",
+                "idCompraItem": "1584500600075201800001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

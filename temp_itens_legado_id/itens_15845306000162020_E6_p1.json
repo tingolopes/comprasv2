@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845306000162020",
+        "data_extracao": "2026-02-13 11:16:37",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845306000162020",
+                "idCompraItem": "1584530600016202000001",
+                "coUasg": 158453,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 16,
+                "dtAnoAvisoLicitacao": 2020,
+                "nuInciso": "02",
+                "nuProcesso": "23347010148202099",
+                "vrEstimado": 26734.05,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Art. 2º da Lei 8.666/1993",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "EDISON SILVA SOSA",
+                "noCargoRespDeclDisp": "Assistente em Administração",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 1538,
+                "noServico": "INSTALACOES PREDIAIS ELETRICAS",
+                "dsDetalhada": "Serviço de instalação elétrica para aparelhos de ar condicionados de 60.000BTU s. Com o  fornecimento dos seguintes materiais: 110 metros de tubo 2 ; 20 cond uletes de 2 ; 40 unidade de 2 ;  5 curva de 2 ; 70 abraçadeira tipo 2 ; 110 pa rafusos 8; 110 bucha 8; 16,5 metros de cabo 70mm  preto; 5 metros de cabo 50mm  verde; 15 rolos de cabo de 6mm preto; 2 rolos de cabo de 6mm  verde; 2 rolo d e cabo de 2,5mm; 6 terminal de pressão 70 mm; 2 terminal de pressão 50 mm; 50   terminal de 6mm pino; 10 disjuntores de 25 amperes trifásico; 1 disjuntor de  150 amperes trifásico; 1 quadro de distribuição; 6 fitas isolantes p44; 3 Spli t Bolt de 70mm e 1 Split Bolt de 50mm. Com  interligação a rede elétrica do IF MS.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 26734.05,
+                "dsFabricante": null,
+                "noMarcaMaterial": "",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "12282201000108",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "J S AR CONDICIONADO EIRELI",
+                "dtAlteracao": "2024-04-08T11:41:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

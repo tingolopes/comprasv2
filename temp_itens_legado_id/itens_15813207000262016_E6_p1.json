@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813207000262016",
+        "data_extracao": "2026-02-13 11:18:55",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813207000262016",
+                "idCompraItem": "1581320700026201600001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 26,
+                "dtAnoAvisoLicitacao": 2016,
+                "nuInciso": "00",
+                "nuProcesso": "23347022408201692",
+                "vrEstimado": 1350.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 25º, Caput da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Não cabe licitação.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "MARCELINA TERUKO FUJII MASCHIO",
+                "noCargoRespDeclDisp": "Ordenador de Despesas",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 20010,
+                "noServico": "RECOLHIMENTO CONTRIBUICAO / ANUIDADE",
+                "dsDetalhada": "Anuidade do Fórum Nacional de Gestores de Inovação e Transferência de Tecnolog ia - FORTEC, competência 2017.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "Serviço",
+                "vrEstimadoItem": 1350.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "15258821000108",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "FORUM NACIONAL DE GESTORES DE INOVACAO E TRANSFERENCIA DE TECNOLOGIA - FORTEC",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

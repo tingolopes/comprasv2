@@ -1,0 +1,50 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/2_consultarARPItem?codigoUnidadeGerenciadora=158132&dataVigenciaInicialMin=2024-01-29&dataVigenciaInicialMax=2024-01-29&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 10:46:59",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAtaRegistroPreco": "00003/2024",
+                "codigoUnidadeGerenciadora": "158132",
+                "numeroCompra": "00026",
+                "anoCompra": "2023",
+                "codigoModalidadeCompra": "05",
+                "dataAssinatura": "2024-01-26T00:00:00",
+                "dataVigenciaInicial": "2024-01-29",
+                "dataVigenciaFinal": "2026-01-29",
+                "numeroItem": "00026",
+                "codigoItem": 457184,
+                "descricaoItem": "MICROCOMPUTADOR, MEMÓRIA RAM 32 GB, NÚCLEOS POR PROCESSADOR 5 A 8, ARMAZENAMENTO HDD 2 TB., ARMAZENAMENTO SSD ATÉ 2 TB, MONITOR 21 A 29 POL, COMPONENTES ADICIONAIS COM TECLADO E MOUSE, SISTEMA OPERACIONAL PROPRIETÁRIO, GARANTIA ON SITE SUPERIOR A 36 MESES",
+                "tipoItem": "Material",
+                "quantidadeHomologadaItem": 1089.0,
+                "classificacaoFornecedor": "001",
+                "niFornecedor": "05778325000547",
+                "nomeRazaoSocialFornecedor": "E.R. SOLUCOES INFORMATICA LTDA",
+                "quantidadeHomologadaVencedor": 1089,
+                "valorUnitario": 7509.31,
+                "valorTotal": 8177638.59,
+                "maximoAdesao": 2178.0,
+                "nomeUnidadeGerenciadora": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "nomeModalidadeCompra": "Pregão",
+                "idCompra": "15813205000262023",
+                "numeroControlePncpCompra": "10673078000120-1-000068/2023",
+                "dataHoraInclusao": "2024-01-29T15:02:02",
+                "dataHoraAtualizacao": "2024-01-29T15:02:02",
+                "quantidadeEmpenhada": 0.0,
+                "percentualMaiorDesconto": 0.0,
+                "situacaoSicaf": "1",
+                "dataHoraExclusao": null,
+                "itemExcluido": false,
+                "numeroControlePncpAta": "10673078000120-1-000068/2023-000013",
+                "codigoPdm": 6661,
+                "nomePdm": "MICROCOMPUTADOR"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845006000342019",
+        "data_extracao": "2026-02-13 09:44:51",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845006000342019",
+                "idCompraItem": "1584500600034201900001",
+                "coUasg": 158450,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 34,
+                "dtAnoAvisoLicitacao": 2019,
+                "nuInciso": "02",
+                "nuProcesso": "23347022104201978",
+                "vrEstimado": 10000.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Devido ao valor estimado estar dentro dos parâmetros para a dispensa de licitação.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "LAURA DE SOUZA FERNANDES RAMOS",
+                "noCargoRespDeclDisp": "Gestora Financeira",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 12750,
+                "noServico": "MANUTENCAO/ REPARO DE CARRO DE TRANSPORTE DE CARGA / PORTA /PORTA DE FERRO/ GRADE DE FERRO/ COLETOR DE LIXO",
+                "dsDetalhada": "Manutenção, reparo de carro de transporte de carga , porta ,porta de ferro, gr ade de ferro, coletor de lixo",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 10000.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "00632384000165",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "A.F. DE BULHOES",
+                "dtAlteracao": "2024-04-08T11:30:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

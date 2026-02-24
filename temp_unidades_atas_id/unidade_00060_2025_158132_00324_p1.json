@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00060%2F2025&unidadeGerenciadora=158132&numeroItem=00324&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:38:36",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00060/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00324",
+                "codigoPdm": "19772",
+                "descricaoItem": "LEGUME IN NATURA, TIPO BETERRABA",
+                "fornecedor": "13425923000137 - JG COMERCIAL LTDA",
+                "quantidadeRegistrada": 0.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": 0.0,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2025-08-05T15:50:05",
+                "dataHoraAtualizacao": "2025-08-05T16:00:21",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            },
+            {
+                "numeroAta": "00060/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00324",
+                "codigoPdm": "19772",
+                "descricaoItem": "LEGUME IN NATURA, TIPO BETERRABA",
+                "fornecedor": "13425923000137 - JG COMERCIAL LTDA",
+                "quantidadeRegistrada": 540.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 540.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": 0.0,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2025-08-05T15:51:19",
+                "dataHoraAtualizacao": "2025-08-05T16:01:25",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158454",
+                "nomeUnidade": "INST. FED. DO MS/CAMPUS TRES LAGOAS",
+                "tipoUnidade": "PARTICIPANTE"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

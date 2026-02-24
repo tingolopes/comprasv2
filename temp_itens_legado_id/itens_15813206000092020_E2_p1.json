@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000092020",
+        "data_extracao": "2026-02-13 11:23:47",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 46070428,
+                "numeroLicitacao": "15813206920202",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 92020,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 4316,
+                "nomeServico": "LOCACAO DE IMOVEL",
+                "cnpjFornecedor": "03226149000181",
+                "nomeFornecedor": "MISSAO SALESIANA DE MATO GROSSO",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Despesas de Condomínio referente a 12 (doze) meses de aluguel do imóvel para u so da Reitoria do IFMS.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 269639.8,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000092020",
+                "idCompraItem": "1581320600009202000002"
+            },
+            {
+                "isnSidecResultadoCompra": 46070427,
+                "numeroLicitacao": "15813206920201",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 92020,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 4316,
+                "nomeServico": "LOCACAO DE IMOVEL",
+                "cnpjFornecedor": "03226149000181",
+                "nomeFornecedor": "MISSAO SALESIANA DE MATO GROSSO",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Aluguel de imóvel para uso da Reitoria do IFMS pelo período de 12 (doze) meses .",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 232864.2,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000092020",
+                "idCompraItem": "1581320600009202000001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

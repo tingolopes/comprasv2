@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813206000242021",
+        "data_extracao": "2026-02-13 11:25:37",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000242021",
+                "idCompraItem": "1581320600024202100001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 24,
+                "dtAnoAvisoLicitacao": 2021,
+                "nuInciso": "02",
+                "nuProcesso": "23347006160202181",
+                "vrEstimado": 9360.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21º/06/1993.",
+                "dsJustificativa": "Justificativa: Contratação de pequeno vulto",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "ELAINE BORGES MONTEIRO CASSIANO",
+                "noCargoRespDeclDisp": "Ordenadora de Despesas",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 21660,
+                "noServico": "MONITORAMENTO CIRCUITO FECHADO TV",
+                "dsDetalhada": "Contratação de empresa especializada para prestação de serviços de ronda perió dica monitorada com marcação eletrônica de visitas, PELO PERÍODO DE 12 (DOZE)  MESES, conforme detalhamento abaixo:  1. Serão realizadas duas visitas diárias , de segunda feira a domingo.  2. O controle eletrônico das visitas a ser forn ecido pela contratada, deverá contemplar 2 (dois) pontos e permitir a emissão  de relatório mensal de controle.  3. As visitas têm como objetivo verificar a  integridade do patrimônio da Embrapa e possíveis sinais de invasão, risco de i ncêndio, etc.  4. Caso o vigilante perceba qualquer situação considerada anorm al, este deverá comunicar imediatamente à Embrapa e se for o caso, os órgãos d e segurança competentes, para que tomem as providências necessárias.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 9360.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "11759984000105",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "SEGURANCA ELETRONICA PONTA PORA LTDA",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

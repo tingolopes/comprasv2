@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845106000062019",
+        "data_extracao": "2026-02-13 10:11:29",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845106000062019",
+                "idCompraItem": "1584510600006201900001",
+                "coUasg": 158451,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 6,
+                "dtAnoAvisoLicitacao": 2019,
+                "nuInciso": "02",
+                "nuProcesso": "23347003079201923",
+                "vrEstimado": 9000.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Os valores estão de acordo com o previsto na legislação, bem como realizou-se a Cotação Eletrônica nº 02/2019.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "SANDRA DA SILVA COSTA",
+                "noCargoRespDeclDisp": "Gestor Financeiro",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 150770,
+                "noConjuntoMateriais": "PASTA PVC",
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "Totem de Identificação, nas seguintes dimensões: 3m(A)X0,90m(C)X0,30m(L) eixo  central. O item deverá ser em dupla face, com partes frontais revestidas em ch apa de ACM rígido 3mm de espessura, pintado com 2 demãos de tinta à base de PD VF na cor branca, sinalizada em vinil de recorte eletrônico. O círculo corresp ondente ao acento da letra  i  da logomarca do IFMS será na cor Pantone 187C/Q uadricromia M 100 Y 100 K 15, o quadriculado que formula o restante das letras   i  e  F  será na cor Pantone 362 C/Quadricromia C 75 Y 100 K 15, e o nome po r extenso  Instituto Federal Mato grosso do Sul Campus Coxim será na cor Panto ne Process Black C/Quadricromia K 100. A estrutura metálica interna deve ser e m aço galvanizado reforçado, pintada com 2 demãos de tinta automotiva na cor b ranca, soldada em 2 vigas de aço galvanizado com chapa de 4mm e com 1,50m de a ltura cada a partir da base, pintadas com 2 demãos de tinta automotiva na cor  branca. A instalação deverá ocorrer por conta da empresa, por meio de chumbame nto com profundidade aprox. de 0,40m, em sapata de concreto, a ser construída  pela empresa, (devendo ser considerada nos custos apresentados), nas seguintes  dimensões: 0,10m(A)X1,10m(C)X0,40m(L).",
+                "qtMaterialAlt": 2,
+                "noUnidadeMedida": "UNIDADE",
+                "vrEstimadoItem": 9000.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "RESOLVE",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "18089049000128",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "RESOLVE COMERCIO CONSTRUCOES SERVICOS E MANUTENCAO LTDA",
+                "dtAlteracao": "2024-04-08T11:32:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15844906000082016",
+        "data_extracao": "2026-02-13 09:45:41",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15844906000082016",
+                "idCompraItem": "1584490600008201600001",
+                "coUasg": 158449,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 8,
+                "dtAnoAvisoLicitacao": 2016,
+                "nuInciso": "02",
+                "nuProcesso": "23347011263201602",
+                "vrEstimado": 8000.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Valor pretendido não extrapola o limite estabelecido no art. 24, II da Lei 8666/93.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "JOAO OTAVIO CENEDEZI PIMENTA",
+                "noCargoRespDeclDisp": "Diretor de Administração",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 14044,
+                "noServico": "ROÇADA / LIMPEZA DE AREA - MECANIZADA / MANUAL",
+                "dsDetalhada": "Serviço de roçada de terreno, sem recolhimento do entulho, em área de aproxima damente 32.500 m2, localizada à Rua Taquari, nº 831 ? Bairro Santo Antônio ? C ampo Grande ? MS, sede do IFMS ? Campus Campo Grande.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "SERVIÇO",
+                "vrEstimadoItem": 8000.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "14905950000170",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "LOCKER LOCACOES E SERVICOS  EIRELI - ME",
+                "dtAlteracao": "2024-04-08T11:27:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

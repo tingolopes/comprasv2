@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00042%2F2024&unidadeGerenciadora=158132&numeroItem=00038&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:46:40",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00042/2024",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00038",
+                "codigoPdm": "09806",
+                "descricaoItem": "EMBUTIDO, TIPO LINGUIÇA TOSCANA, TAMANHO GROSSA, TIPO PREPARAÇÃO FRESCA, ESTADO DE CONSERVAÇÃO RESFRIADO(A)",
+                "fornecedor": "18572200000184 - CJN COMERCIO E SERVICOS DE ALIMENTOS LTDA",
+                "quantidadeRegistrada": 0.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": 0.0,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2024-08-20T16:30:07",
+                "dataHoraAtualizacao": "2024-10-25T16:38:58",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            },
+            {
+                "numeroAta": "00042/2024",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00038",
+                "codigoPdm": "09806",
+                "descricaoItem": "EMBUTIDO, TIPO LINGUIÇA TOSCANA, TAMANHO GROSSA, TIPO PREPARAÇÃO FRESCA, ESTADO DE CONSERVAÇÃO RESFRIADO(A)",
+                "fornecedor": "18572200000184 - CJN COMERCIO E SERVICOS DE ALIMENTOS LTDA",
+                "quantidadeRegistrada": 640.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 640.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": 0.0,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2024-08-20T16:31:40",
+                "dataHoraAtualizacao": "2024-10-25T16:40:58",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158449",
+                "nomeUnidade": "INST. FED. DO MS/CAMPUS CAMPO GRANDE",
+                "tipoUnidade": "PARTICIPANTE"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

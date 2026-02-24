@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845206000192019",
+        "data_extracao": "2026-02-13 11:06:53",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845206000192019",
+                "idCompraItem": "1584520600019201900001",
+                "coUasg": 158452,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 19,
+                "dtAnoAvisoLicitacao": 2019,
+                "nuInciso": "02",
+                "nuProcesso": "23347.019365.2019",
+                "vrEstimado": 3277.92,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Aquisição de produtos e/ou serviços com valor inferior a R$ 17.600,00",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "MARCIENE NASCIMENTO DE BRITO",
+                "noCargoRespDeclDisp": "Asssitente em Administração",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 150028,
+                "noConjuntoMateriais": null,
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "Conversor de mídia Gigabit 10/100/1000,Multimodo com conector do tipo SC(TX/RX )e uma interface RJ4510/100/1000,projetado para converter as fibras1000BASE-LX paramídia1000Base-Tdecobreouvice-versa.",
+                "qtMaterialAlt": 6,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 3277.92,
+                "dsFabricante": null,
+                "noMarcaMaterial": "TRENDNET",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "18596838000155",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "MBG COMERCIAL LTDA",
+                "dtAlteracao": "2024-04-08T11:40:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

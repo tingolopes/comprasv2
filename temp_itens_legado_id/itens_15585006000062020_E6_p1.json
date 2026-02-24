@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15585006000062020",
+        "data_extracao": "2026-02-13 11:01:58",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15585006000062020",
+                "idCompraItem": "1558500600006202000001",
+                "coUasg": 155850,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 6,
+                "dtAnoAvisoLicitacao": 2020,
+                "nuInciso": "02",
+                "nuProcesso": "23347006817202028",
+                "vrEstimado": 2329.43,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Aquisição de produtos e/ou serviços com valor inferior a R$ 50.000,00",
+                "nuCpfRespDeclDisp": "01789089166",
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "SIRLEY DA SILVA ROJAS OLIVEIRA",
+                "noCargoRespDeclDisp": "Diretora-geral",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 111490,
+                "noConjuntoMateriais": "SISTEMA  ( EQUIPAMENTO / SOFTWARE ) GERENCIAMENTO INCIDENTES",
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "Licenciamento vitalício do software aSc Time Tables; Do tipo premium: com supo rte técnico para montar e gerar horários e atualizações da licença; Sem limita ções na geração de horário de todos os professores e turmas de todos os turnos ; Licenciamento por unidade /endereço / campus; Inclui licenciamento vitalício  de aSc Substitutions (incluso no custo da licença): permite ajustes no cronog rama / horário que já está pronto permitindo a substituição de professores que  tenham faltado no dia; Validade técnica: Por dois anos nos termos da Lei 9.60 9/98; Com direito a atualizações do software; Com prestação de serviço de supo rte técnico por email e/ou mensagem instantânea; Com direito ao serviço aSc On line: interface web do aSc Time Table onde se pode criar web site de cada unid ade/endereço/campus com diversas funcionalidades agregadas que podem ser acess adas por professores, pais e alunos; Após o transcurso de dois anos, a validad e técnica pode ser contratada anualmente.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 2329.43,
+                "dsFabricante": null,
+                "noMarcaMaterial": "aSc Timetables",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "21142448000110",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "LENI S SILVA DE LUCENA",
+                "dtAlteracao": "2024-04-08T11:36:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

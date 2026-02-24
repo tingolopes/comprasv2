@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15584906000182019",
+        "data_extracao": "2026-02-13 11:10:04",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 44583319,
+                "numeroLicitacao": "155849061820192",
+                "uasg": 155849,
+                "nomeUasg": "INSTITUTO FEDERAL DE MS/CAMPUS NAVIRAÍ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 182019,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": 234340,
+                "nomeMaterial": "MANGUEIRA GÁS, MATERIAL PLÁSTICO  DIÂMETRO 3/8 POL APLICAÇÃO GLP - GÁS LIQUEFEITO DE PETRÓLEO  MODELO TARJA AMARELA  TIPO FLEXÍVEL",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "03627960000174",
+                "nomeFornecedor": "IPE TRANSPORTE E GAS LTDA",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 220.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-06-10T20:29:00",
+                "idCompra": "15584906000182019",
+                "idCompraItem": "1558490600018201900002"
+            },
+            {
+                "isnSidecResultadoCompra": 44583318,
+                "numeroLicitacao": "155849061820191",
+                "uasg": 155849,
+                "nomeUasg": "INSTITUTO FEDERAL DE MS/CAMPUS NAVIRAÍ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 182019,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 238647,
+                "nomeMaterial": "REGULADOR BOTIJÃO GÁS, MATERIAL CORPO LIGA DE ZINCO  MATERIAL VEDAÇÃO BORRACHA NITRÍLICA  DIÂMETRO SAÍDA 3/8 POL COMPONENTES ADICIONAIS BORBOLETA",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "03627960000174",
+                "nomeFornecedor": "IPE TRANSPORTE E GAS LTDA",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 99.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:38:00",
+                "idCompra": "15584906000182019",
+                "idCompraItem": "1558490600018201900001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

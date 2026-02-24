@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813206900022024",
+        "data_extracao": "2026-02-13 11:30:58",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206900022024",
+                "idCompraItem": "1581320690002202400001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 90002,
+                "dtAnoAvisoLicitacao": 2024,
+                "nuInciso": "3A",
+                "nuProcesso": "23347.013697.2023",
+                "vrEstimado": null,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": "Objeto: Utilização de espaço físico não edifica                             do para exploração comercial de serviços de ali                             mentação, por meio da disponibilização de lanch                             onete no IFMS - Campus JARDIM  voltados para o                              fornecimento de lanches , para a comunidade aca                             dêmica, servidores e transeuntes.",
+                "dsFundamentoLegal": "Fundamento Legal: Art. 75º, Inciso III, a da Lei nº 14.133 de 1º/04/2021.",
+                "dsJustificativa": "Justificativa: Art. 75º, Inciso III, a da Lei nº 14.133 de 1º/04/2021.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "LUCIANO RODRIGUES DUARTE",
+                "noCargoRespDeclDisp": "Diretor Geral do IFMS Campus Jardim",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 19356,
+                "noServico": "CONCESSAO USO - AREA / IMOVEL PUBLICO",
+                "dsDetalhada": "Cesta de Produtos mínimos para uso de espaço físico não edificado para explora ção comercial de serviços de alimentação no Campus IFMS Jardim. O valor corres ponde ao somatório dos valores unitários dos itens que compõem a cesta conform e o Termo de Referência.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "UNIDADE",
+                "vrEstimadoItem": null,
+                "dsFabricante": null,
+                "noMarcaMaterial": "",
+                "inTipoFornecedorVencedor": null,
+                "nuCnpjVencedor": null,
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

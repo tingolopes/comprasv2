@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845206000272019",
+        "data_extracao": "2026-02-13 11:07:36",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845206000272019",
+                "idCompraItem": "1584520600027201900001",
+                "coUasg": 158452,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 27,
+                "dtAnoAvisoLicitacao": 2019,
+                "nuInciso": "02",
+                "nuProcesso": "23347.011319.2019",
+                "vrEstimado": 250.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Em razão do valor.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "MARCIENE NASCIMENTO DE BRITO",
+                "noCargoRespDeclDisp": "Assistente em Administração",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 41920,
+                "noConjuntoMateriais": "CABO COBRE FLEXIVEL",
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "Cabo flexível paralelo 2x2, 5 mm, branco, para uso em baixa tensão, rolo com 1 00 metros NBR NM247-3",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "Rolo",
+                "vrEstimadoItem": 250.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "corfio",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "03922226000138",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "COMERCIAL ELETRICA ANZAI LIMITADA",
+                "dtAlteracao": "2024-04-08T11:40:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

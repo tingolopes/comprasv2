@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00117%2F2025&unidadeGerenciadora=158132&numeroItem=00023&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:44:58",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00117/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00023",
+                "codigoPdm": "19777",
+                "descricaoItem": "Açúcar Tipo: Cristal, Coloração: Branca",
+                "fornecedor": "14811425000195 - COMERCIAL NORDESTE LTDA",
+                "quantidadeRegistrada": 4.0,
+                "saldoAdesoes": 8.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 8.0,
+                "qtdLimiteInformadoCompra": null,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2025-09-24T16:38:14",
+                "dataHoraAtualizacao": "2025-10-16T11:51:51",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "155850",
+                "nomeUnidade": "INST.FED.DO MS/CAMPUS JARDIM",
+                "tipoUnidade": "PARTICIPANTE"
+            },
+            {
+                "numeroAta": "00117/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00023",
+                "codigoPdm": "19777",
+                "descricaoItem": "Açúcar Tipo: Cristal, Coloração: Branca",
+                "fornecedor": "14811425000195 - COMERCIAL NORDESTE LTDA",
+                "quantidadeRegistrada": 0.0,
+                "saldoAdesoes": 8.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 8.0,
+                "qtdLimiteInformadoCompra": null,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2025-09-24T16:37:53",
+                "dataHoraAtualizacao": "2025-09-24T16:37:53",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

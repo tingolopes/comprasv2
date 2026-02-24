@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813206000502021",
+        "data_extracao": "2026-02-13 11:25:55",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000502021",
+                "idCompraItem": "1581320600050202100001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 50,
+                "dtAnoAvisoLicitacao": 2021,
+                "nuInciso": "12",
+                "nuProcesso": "23347009160202131",
+                "vrEstimado": 13108.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 14 da Lei nº 11.947 de 16/06/2009.",
+                "dsJustificativa": "Justificativa: Pressuposto da Lei da Pnae",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "HEBERTON LUIZ DUARTE RODRIGUES",
+                "noCargoRespDeclDisp": "Gestor Financeiro",
+                "noResponsavelRatificacao": "ELAINE BORGES MONTEIRO CASSIANO",
+                "noCargoRespRatificacao": "Ordenadora de Despesas",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 481412,
+                "noConjuntoMateriais": null,
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": null,
+                "qtMaterialAlt": 232,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 13108.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "InNatura",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "31390641000123",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "COOPERAPOMS - COOPERATIVA DE PRODUCAO E COMERCIALIZACAO DA REDE DOS PRODUTORES O",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

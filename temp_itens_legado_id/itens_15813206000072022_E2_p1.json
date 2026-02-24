@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000072022",
+        "data_extracao": "2026-02-13 11:27:11",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 51495303,
+                "numeroLicitacao": "15813206720222",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 72022,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 16276,
+                "nomeServico": "EXECUCAO DE TESTE DE ESTANQUEIDADE",
+                "cnpjFornecedor": "03721227000114",
+                "nomeFornecedor": "ITAIPU INSTALACOES, MECANICA & ENGENHARIA EIRELI",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "Prestação de serviço de teste de estanqueidade em linha de Gás Liquefeito de P etróleo, com emissão do respectivo Termo de Responsabilidade Técnica (ART) I FMS campus Dourados. Execução do serviço: Rua Filinto Müller, 1.790, Jardim Ca naã I, DouradosMS, CEP 79833-520",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1280.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000072022",
+                "idCompraItem": "1581320600007202200002"
+            },
+            {
+                "isnSidecResultadoCompra": 51495302,
+                "numeroLicitacao": "15813206720221",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 72022,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 16276,
+                "nomeServico": "EXECUCAO DE TESTE DE ESTANQUEIDADE",
+                "cnpjFornecedor": "29682679000128",
+                "nomeFornecedor": "RAFAEL CABRELI FAVARIN ENGENHARIA",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "Prestação de serviço de teste de estanqueidade em linha de Gás Liquefeito de P etróleo, com emissão do respectivo Termo de Responsabilidade Técnica (ART) I FMS campus Corumbá. Execução do serviço: Rua Pedro de Medeiros, 941, Bairro Po pular Velha, Corumbá-MS, CEP 79310-410",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 3418.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000072022",
+                "idCompraItem": "1581320600007202200001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

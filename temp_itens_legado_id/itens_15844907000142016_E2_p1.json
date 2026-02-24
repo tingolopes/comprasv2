@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15844907000142016",
+        "data_extracao": "2026-02-13 09:46:18",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 37866956,
+                "numeroLicitacao": "158449071420161",
+                "uasg": 158449,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.C.GRANDE",
+                "modalidade": 7,
+                "nomeModalidade": "INEXIGIBILIDADE DE LICITAÇÃO",
+                "numeroAviso": 142016,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 21172,
+                "nomeServico": "TREINAMENTO QUALIFICACAO PROFISSIONAL",
+                "cnpjFornecedor": "00580613000145",
+                "nomeFornecedor": "SINDICATO DAS SECRETARIA E DOS SECRETARIOS DO DF",
+                "quantidade": null,
+                "unidade": "Serviço",
+                "descricaoItem": "Participação de servidora Aline Maruse Monteiro Mariano Zotelli no evento XIX Congresso Nacional de Secretariado.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 800.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:27:00",
+                "idCompra": "15844907000142016",
+                "idCompraItem": "1584490700014201600001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

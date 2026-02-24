@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15844905000162016",
+        "data_extracao": "2026-02-13 11:35:37",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 39138117,
+                "numeroLicitacao": "158449051620161",
+                "uasg": 158449,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.C.GRANDE",
+                "modalidade": 5,
+                "nomeModalidade": "PREGÃO",
+                "numeroAviso": 162016,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 1627,
+                "nomeServico": "MANUTENCAO / REFORMA PREDIAL",
+                "cnpjFornecedor": "11936338000176",
+                "nomeFornecedor": "BRAVOCAST COMERCIO E SERVICOS LTDA  - ME",
+                "quantidade": 1,
+                "unidade": "Serviço",
+                "descricaoItem": "Trata  de  serviços  comuns  de  engenharia  de  reforma,  adaptação,  reparo e manutenção corretiva nos blocos A, B, C e D, na área do terreno entre os bl ocos; reparos no  cercamento  e  adaptação  e  melhorias  na  rede  de  esgoto .  Tudo  conforme  condições, quantidades, exigências e especificações discrim inadas nos projetos e demais documentos anexos a este Edital.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 232369.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:27:00",
+                "idCompra": "15844905000162016",
+                "idCompraItem": "1584490500016201600001"
+            },
+            {
+                "isnSidecResultadoCompra": 39138118,
+                "numeroLicitacao": "158449051620162",
+                "uasg": 158449,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.C.GRANDE",
+                "modalidade": 5,
+                "nomeModalidade": "PREGÃO",
+                "numeroAviso": 162016,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 25135,
+                "nomeServico": "SERVICO REDE COMUNICACAO DADOS E IMAGEM",
+                "cnpjFornecedor": "05700103000188",
+                "nomeFornecedor": "IDEALNET PRODUTOS ELETRONICOS E TELEINFORMATICA LTDA -",
+                "quantidade": 1,
+                "unidade": "Serviço",
+                "descricaoItem": "Trata-se de serviços de cabeamento estruturado (rede lógica) entre os blocos. Tudo  conforme  condições,  quantidades,  exigências  e  especificações  discr iminadas  nos projetos e demais documentos anexos a este Edital",
+                "beneficio": "Beneficio Tipo I - Participacao Exclusiva de ME/EPP/COOPERATIVA",
+                "valorEstimado": 58477.99,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:27:00",
+                "idCompra": "15844905000162016",
+                "idCompraItem": "1584490500016201600002"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

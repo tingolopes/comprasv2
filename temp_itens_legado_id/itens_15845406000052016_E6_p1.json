@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845406000052016",
+        "data_extracao": "2026-02-13 11:31:49",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845406000052016",
+                "idCompraItem": "1584540600005201600001",
+                "coUasg": 158454,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 5,
+                "dtAnoAvisoLicitacao": 2016,
+                "nuInciso": "02",
+                "nuProcesso": "23347008393201650",
+                "vrEstimado": 890.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Aquisição de produtos e/ou serviços com valor inferior a R$ 8.000,00",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "SUELI ALVES DE ALMEIDA",
+                "noCargoRespDeclDisp": "Gestora Financeira",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 150376,
+                "noConjuntoMateriais": null,
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "ÓLEO LUBRIFICANTE, GRAU DE VISCOSIDADE ISO VG 46, alta performance para compre ssores, sistemas hidráulicos e mecânicos de máquinas e equipamentos. Para Cond ições severas e sob uso intenso, incorpora ampla gama de aditivos, com alta pe rformance em equipamentos onde é indispensável um óleo estável e resistente, c om qualidades antidesgaste e Extrema Pressão (EP). Galão de 20 litros.",
+                "qtMaterialAlt": 4,
+                "noUnidadeMedida": "Galão",
+                "vrEstimadoItem": 890.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "hexx oil",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "09117368000109",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "PERUIBE COMERCIO DE PRODUTOS ELETRO - ELETRONICOS LTDA",
+                "dtAlteracao": "2024-04-08T11:45:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

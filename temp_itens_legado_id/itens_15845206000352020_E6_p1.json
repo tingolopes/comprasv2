@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845206000352020",
+        "data_extracao": "2026-02-13 11:08:57",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845206000352020",
+                "idCompraItem": "1584520600035202000001",
+                "coUasg": 158452,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 35,
+                "dtAnoAvisoLicitacao": 2020,
+                "nuInciso": "02",
+                "nuProcesso": "23347011156202052",
+                "vrEstimado": 17625.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "CLAUDIO ZARATE SANAVRIA",
+                "noCargoRespDeclDisp": "Ordenador  de Despesas",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 63177,
+                "noConjuntoMateriais": "MAQUINA E APARELHO PARA PREPARACAO DE RACAO ANIMAL",
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "Fábrica de Ração: Mini Fábrica de Ração Compacta.Deve conter: A - 01 - TRANSPO RTADOR HELICOIDAL 100 X 3,0 M - Diâmetro:100 mm -Comprimento:3,0 metros. - Con strução:Tubo em chapan. 14. - Hélice em chapa expandida,unidas por mancais. -  Funilde entradamedindo 600 mm x 600 mm -Produção até:5,0 ton./hora. Produto:Pe so específico 0,75 ton./m3 - Acionamento: Polias e correias, potência 1,0 CV.  B - 01 - MOINHO MARTELO 7,5 CV - Construída em aço carbono - Capacidade 0,75 t on./h (pen 3,0mm) (milho com uma densidade 300kg/m³) - Acoplamento elástico -  Equipamento com martelos - Montado com peneira 3,0mm - Acionamento: potência 3 ,0 CV;C - 01 - MISTURADOR VERTICAL 300 Litros - Estrutura em cantoneiras - Cor po em chapa 2 mm - Rosca de mistura - Descarga frontal - Moega de carga com gr ade - Acionamento 1,5 c.v. (polias e correias) - Tempo estimado para mistura 8 min; ACESSÓRIOS: - 2 Torres Fixação Chupim 10- Boca De Carga Chupim 100 - Boca  De Descarga Chupim 100 - Funil De Alimentação Moinho - Base Moinho; Motores N ovos Trifásicos Inclusos: TIPO: - 1,0 CV 4 polos - 3,0 CV 2 polos - 1,5 CV 4 p olos Frete para o Campus Nova Andradina do IFMS em Nova Andradina/MS incluso.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 17625.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "indefinida",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "16935999000109",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "METALURGICA BBA LTDA",
+                "dtAlteracao": "2024-04-08T11:40:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

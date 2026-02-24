@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813207000072022",
+        "data_extracao": "2026-02-13 11:28:49",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813207000072022",
+                "idCompraItem": "1581320700007202200001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 7,
+                "dtAnoAvisoLicitacao": 2022,
+                "nuInciso": "02",
+                "nuProcesso": "23347005484202281",
+                "vrEstimado": 9153.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": "Objeto: Ação de capacitação para os servidores                              do IFMS \"4º SEMINÁRIO NACIONAL DE OBRAS PÚBLICA                             S E MANUTENÇÃO PREDIAL.",
+                "dsFundamentoLegal": "Fundamento Legal: Art. 25º, Inciso II da Lei nº 8.666 de 21º/06/1993.",
+                "dsJustificativa": "Justificativa: Art. 25º, Inciso II da Lei nº 8.666 de 21º/06/1993.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "ELAINE BORGES MONTEIRO CASSIANO",
+                "noCargoRespDeclDisp": "Ordenador de Despesas",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 3832,
+                "noServico": "TREINAMENTO NA AREA DE ENGENHARIA",
+                "dsDetalhada": "SEMINÁRIO NACIONAL DE OBRAS PÚBLICAS E MANUTENÇÃO PREDIAL",
+                "qtMaterialAlt": 3,
+                "noUnidadeMedida": "UNIDADE",
+                "vrEstimadoItem": 9153.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "10498974000281",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "INSTITUTO NEGOCIOS PUBLICOS DO BRASIL - ESTUDOS E PESQUISAS NA ADMNIISTRACAO PUB",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

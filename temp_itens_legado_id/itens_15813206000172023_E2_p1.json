@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000172023",
+        "data_extracao": "2026-02-13 11:29:57",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 55667655,
+                "numeroLicitacao": "158132061720231",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 172023,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 5320,
+                "nomeServico": "REFEICOES INDUSTRIAIS - PREPARO / DISTRIBUICAO",
+                "cnpjFornecedor": "17962701000104",
+                "nomeFornecedor": "M L VIEIRA LTDA",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "Contratação de refeições prontas, tipo merenda fria, por meio de empresa espec ializada em serviços de alimentação e nutrição para operacionalização e desenv olvimento de todas as atividades envolvidas na produção, transporte e distribu ição de refeições, e demais regras conforme o termo de referência, incluindo o fornecimento de todos os insumos e mão de obra necessários à realização desta s atividades, para o IFMS, Campus Ponta Porã. CATMAT 3697",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1055600.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000172023",
+                "idCompraItem": "1581320600017202300001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000142016",
+        "data_extracao": "2026-02-13 11:17:16",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 37837250,
+                "numeroLicitacao": "158132061420161",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 142016,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 13404,
+                "nomeServico": "TREINAMENTO DE BOMBEIRO PARTICULAR / BRIGADA CONTRA INCENDIO",
+                "cnpjFornecedor": "17398906000109",
+                "nomeFornecedor": "RHUAN DYEGO BORTONE GRUBERT 00003936147",
+                "quantidade": null,
+                "unidade": "unidade",
+                "descricaoItem": "Contratação de Treinamento teórico e prático de brigada de incêndio, nível int ermediário, com fornecimento de materiais, instalações, equipamentos e mão de obra. Treinamento com carga horária total de 08 (oito) horas. Treinamento para 10 (dez) servidores lotados no Campus Jardim/MS. Treinamento de acordo com as normas técnicas ABNT NBR 14276, NBR 14277 e CBMMS n.º 17/2016.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1710.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000142016",
+                "idCompraItem": "1581320600014201600001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

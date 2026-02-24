@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/4_consultarEmpenhosSaldoItem?numeroAta=00036%2F2024&unidadeGerenciadora=158132&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-23 16:04:17",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroItem": "00059",
+                "unidade": "158153 - INST.FED.DE EDUC.,CIENC.E TEC.DE GOIAS",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 2.0,
+                "quantidadeEmpenhada": 2.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-12-02T12:26:22"
+            },
+            {
+                "numeroItem": "00059",
+                "unidade": "158451 - INST. FED. DO MS/CAMPUS COXIM",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 2.0,
+                "quantidadeEmpenhada": 2.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-14T15:08:15"
+            },
+            {
+                "numeroItem": "00059",
+                "unidade": "158453 - INST. FED. DO MS/CAMPUS PONTA PORA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 2.0,
+                "quantidadeEmpenhada": 2.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-14T15:08:15"
+            },
+            {
+                "numeroItem": "00059",
+                "unidade": "158954 - CAMPUS MORADA NOVA/IFCE",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 2.0,
+                "quantidadeEmpenhada": 2.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-14T15:08:15"
+            },
+            {
+                "numeroItem": "00059",
+                "unidade": "158955 - CAMPUS JAGUARIBE/IFCE",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 2.0,
+                "quantidadeEmpenhada": 2.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-14T15:08:15"
+            },
+            {
+                "numeroItem": "00059",
+                "unidade": "158969 - CAMPUS ACOPIARA/IFCE",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 4.0,
+                "quantidadeEmpenhada": 2.0,
+                "saldoEmpenho": 2.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-14T15:12:01"
+            }
+        ],
+        "totalRegistros": 6,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

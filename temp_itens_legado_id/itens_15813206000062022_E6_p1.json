@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813206000062022",
+        "data_extracao": "2026-02-13 11:27:17",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000062022",
+                "idCompraItem": "1581320600006202200001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 6,
+                "dtAnoAvisoLicitacao": 2022,
+                "nuInciso": "02",
+                "nuProcesso": "23347000251202292",
+                "vrEstimado": 19990.62,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": "Objeto: Contratação por dispensa de licitação d                             e serviços de auxiliar de cozinha, com dedicaçã                             o exclusiva de mão de obra, a serem prestados n                             a sede do Instituto Federal de Mato Grosso do S                             ul, campus Corumbá, conforme condições, quantid                             ades e exigências estabelecidas no Aviso de Con                             tratação Direta e seus anexos.",
+                "dsFundamentoLegal": "Fundamento Legal: Art. 75º, Inciso II da Lei nº 14.133 de 1º/04/2021.",
+                "dsJustificativa": "Justificativa: Em razão do valor, o valor total se encontra abaixo do limite estabelecido pelo Inciso II, Art 75 da Lei n° 14.133/2021",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "HEBERTON LUIZ DUARTE RODRIGUES",
+                "noCargoRespDeclDisp": "Gestor Financeiro",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 19399,
+                "noServico": "PRESTACAO DE SERVICOS DE COZINHEIRO",
+                "dsDetalhada": "Prestação de Serviços de  Auxiliar de cozinha   posto de serviço com 44h seman ais, período de 90 dias de contratação. Valor total estimado se refere a 02 po stos de auxiliar de cozinha, pelo período de 90 dias de contratação.",
+                "qtMaterialAlt": 2,
+                "noUnidadeMedida": "UNIDADE",
+                "vrEstimadoItem": 19990.62,
+                "dsFabricante": null,
+                "noMarcaMaterial": "",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "25318823000190",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "RESULT SOLUCOES E EMPREENDIMENTOS EIRELI",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

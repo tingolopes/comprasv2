@@ -1,0 +1,41 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/4.1_consultarItensPregoes_Id?id_compra=15813205000112017",
+        "data_extracao": "2026-02-13 11:42:26",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158132,
+                    "coItem": 19686153
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "Contratação de empresa para fornecimento de materiais e serviços de instalação de módulos de tela de sombreamento com medida aproximada de 5m x 5m, sendo o material da tela termo-plástico, resistente a incidência de sol e chuva por ser produzidos em trama de polietileno de alta densidade. Fixação no piso. Quanto as estruturas metálicas, as mesmas devem ser em aço galvanizado no formato tubular, parafusadas por meio de chumbadores ou parafusos com bucha/ bolt em dimensões e quantidades adequadas à dimensão e carga do toldo. Nos pisos externos onde existam materiais impermeabilizantes (mantas asfálticas) a instalação deverá ser feita por meio da construção de base independente em dimensões e quantidades adequadas à dimensão e carga do toldo, com o objetivo de preservar o material impermeabilizante. Todos os equipamentos auxiliares à instalação, inclusive escadas ou andaimes serão fornecidos pela beneficiária da Ata.   Garantia de 12 (doze) meses.   A instalação dos módulos será na Reitoria do IFMS. Cor a ser escolhida posteriormente.",
+                "descricaoItem": "TOLDO",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "19874.00",
+                "quantidadeItem": "6",
+                "situacaoItem": "homologado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "Unidades",
+                "valorHomologadoItem": "3312.33",
+                "valorEstimadoItem": "24112.02",
+                "valorNegociado": null,
+                "idCompra": "15813205000112017",
+                "idCompraItem": "1581320500011201700001",
+                "noAdjudic": null,
+                "noHom": "LUIZ SIMAO STASZCZAK",
+                "dtEncerramento": "2018-03-12",
+                "dtAdjudic": null,
+                "dtHom": "2018-03-21",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

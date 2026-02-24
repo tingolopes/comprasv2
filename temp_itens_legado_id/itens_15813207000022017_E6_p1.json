@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813207000022017",
+        "data_extracao": "2026-02-13 11:19:47",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813207000022017",
+                "idCompraItem": "1581320700002201700001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 2,
+                "dtAnoAvisoLicitacao": 2017,
+                "nuInciso": "00",
+                "nuProcesso": "23347001134201789",
+                "vrEstimado": 442.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 25º, Caput da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Há inviabilidade de competição",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "JOSE JORGE GUIMARAES GARCIA",
+                "noCargoRespDeclDisp": "Ordenador de Despesas por Delegação",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 16195,
+                "noServico": "RECOLHIMENTO DE TAXA / IMPOSTO / MULTA",
+                "dsDetalhada": "Pagamento da Guia de Recolhimento ao CRQ, 20 Região, referente à taxa única de  Cadastro da Instituição e Registro de Responsável Técnico.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "unidade",
+                "vrEstimadoItem": 442.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "09558631000103",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "CONSELHO REGIONAL DE QUIMICA DA 20A. REGIAO",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

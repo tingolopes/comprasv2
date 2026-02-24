@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-contratacoes/2.1_consultarItensContratacoes_PNCP_14133_Id?tipo=idCompra&codigo=15813205900012025&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-13 11:44:27",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813205900012025",
+                "idCompraItem": "1581320590001202500001",
+                "idContratacaoPNCP": "10673078000120-1-000001/2025",
+                "unidadeOrgaoCodigoUnidade": "158132",
+                "orgaoEntidadeCnpj": "10673078000120",
+                "numeroItemPncp": 1,
+                "numeroItemCompra": 1,
+                "numeroGrupo": 0,
+                "descricaoResumida": "Transporte Rodoviário - Pessoal por Automóveis",
+                "materialOuServico": "S",
+                "materialOuServicoNome": "Serviço",
+                "codigoClasse": null,
+                "codigoGrupo": 643,
+                "codItemCatalogo": 3239,
+                "descricaodetalhada": "Custo variável. Valor  por quilômetro referente  serviço de transporte de  estudantes por meio de  7 (sete) veículos com  capacidade mínima de  44 (quarenta e quatro)  lugares cada um.  Serviço deve incluir  motoristas, sob  responsabilidade da  contratada. O percurso  compreende o trecho  do primeiro ponto do perímetro urbano de  Nova Andradina até a  sede do campus do  IFMS cujo acesso se dá  por meio da Rodovia  MS 473. Serviço  disponível de segunda  à sábado, por um  período de 12 meses,  considerando 200 dias  letivos, nos períodosmatutino e vespertino.",
+                "unidadeMedida": "UNIDADE",
+                "orcamentoSigiloso": false,
+                "itemCategoriaIdPncp": 3,
+                "itemCategoriaNome": "Informática (TIC)",
+                "criterioJulgamentoIdPncp": 1,
+                "criterioJulgamentoNome": "Menor preço",
+                "situacaoCompraItem": "2",
+                "situacaoCompraItemNome": "Homologado",
+                "tipoBeneficio": "5",
+                "tipoBeneficioNome": "Não se aplica",
+                "incentivoProdutivoBasico": false,
+                "quantidade": 112800.0,
+                "valorUnitarioEstimado": 10.49,
+                "valorTotal": 1183272.0,
+                "temResultado": true,
+                "codFornecedor": "09290616000119",
+                "nomeFornecedor": "S A PICOLI TRANSPORTES LTDA",
+                "quantidadeResultado": 112800.0,
+                "valorUnitarioResultado": 9.59,
+                "valorTotalResultado": 1081752.0,
+                "dataInclusaoPncp": "2024-12-17T07:06:09",
+                "dataAtualizacaoPncp": "2025-01-13T15:11:54",
+                "dataResultado": "2025-01-13 00:00:00.0000000",
+                "margemPreferenciaNormal": false,
+                "percentualMargemPreferenciaNormal": null,
+                "margemPreferenciaAdicional": false,
+                "percentualMargemPreferenciaAdicional": null,
+                "codigoNCM": null,
+                "descricaoNCM": null,
+                "numeroControlePNCPCompra": "10673078000120-1-000001/2025"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

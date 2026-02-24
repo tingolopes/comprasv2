@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000112020",
+        "data_extracao": "2026-02-13 11:23:49",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 46175620,
+                "numeroLicitacao": "158132061120202",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 112020,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": 259000,
+                "nomeMaterial": "MEDIDOR DEMANDA ELETRICIDADE, TIPO DIGITAL  TIPO DISPLAY GRÁFICO ILUMINADO  TIPO MEDIÇÃO TEMPO REAL EM SISTEMAS ELÉTRICOS MONO-BI-TRIFASI-  TIPO USO REGISTRADOR GRANDEZAS ELÉTRICAS  APLICAÇÃO MONITORAMENTO QUALIDADE ENERGIA ELÉTRICA, DIAGNÓS-  CARACTERíSTICAS ADICIONAIS TRANSFERÊNCIA DE DADOS ENTRE ANALISADOR/PC SERIAL",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "91772301000199",
+                "nomeFornecedor": "EMBRASUL-INDUSTRIA ELETRONICA LTDA.",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1140.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000112020",
+                "idCompraItem": "1581320600011202000002"
+            },
+            {
+                "isnSidecResultadoCompra": 46175619,
+                "numeroLicitacao": "158132061120201",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 112020,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 368856,
+                "nomeMaterial": "TRANSFORMADOR CORRENTE, CARACTERÍSTICAS ADICIONAIS 2 NÚCLEOS MEDIÇÃO E 3 PROTEÇÃO  USO EXTERNO  TIPO ISOLAÇÃO A OLEO  CORRENTE NOMINAL 5 A TENSÃO MÁXIMA OPERAÇÃO 242 KV RELAÇÃO TRANSFORMAÇÃO 300/400/500/800/1100/1200/1500/1600/2000 -5-5-5A A TENSÃO ISOLAMENTO 950 KV CLASSE DE EXATIDÃO MEDIÇÃO 0,6C50 PROTEÇÃO 3X10B800  FATOR TÉRMICO NOMINAL 1,2  FREQUÊNCIA NOMINAL 60 HZ CORRENTE DINÂMICA NOMINAL (ID) 100 KA  CORRENTE TÉRMICA NOMINAL (IT) 40 KA",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "30041676000194",
+                "nomeFornecedor": "VIVO LICITACOES EIRELI",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1243.98,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-12-05T08:24:00",
+                "idCompra": "15813206000112020",
+                "idCompraItem": "1581320600011202000001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

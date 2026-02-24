@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00083%2F2024&unidadeGerenciadora=158132&numeroItem=00015&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:53:12",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00083/2024",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00015",
+                "codigoPdm": null,
+                "descricaoItem": "Treinamento informática - sistema / software",
+                "fornecedor": "14457637000116 - LEMOBS -SOLUCOES EM TECNOLOGIA DE INFORMACAO LTDA",
+                "quantidadeRegistrada": 0.0,
+                "saldoAdesoes": 2.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 2.0,
+                "qtdLimiteInformadoCompra": null,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2024-12-05T09:03:06",
+                "dataHoraAtualizacao": "2024-12-13T17:28:34",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            },
+            {
+                "numeroAta": "00083/2024",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00015",
+                "codigoPdm": null,
+                "descricaoItem": "Treinamento informática - sistema / software",
+                "fornecedor": "14457637000116 - LEMOBS -SOLUCOES EM TECNOLOGIA DE INFORMACAO LTDA",
+                "quantidadeRegistrada": 1.0,
+                "saldoAdesoes": 2.0,
+                "saldoRemanejamentoEmpenho": 1.0,
+                "qtdLimiteAdesao": 2.0,
+                "qtdLimiteInformadoCompra": null,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2024-12-05T09:03:12",
+                "dataHoraAtualizacao": "2025-05-29T14:59:38",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158453",
+                "nomeUnidade": "INST. FED. DO MS/CAMPUS PONTA PORA",
+                "tipoUnidade": "PARTICIPANTE"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

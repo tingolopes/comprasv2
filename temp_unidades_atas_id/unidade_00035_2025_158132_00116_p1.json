@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00035%2F2025&unidadeGerenciadora=158132&numeroItem=00116&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:38:20",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00035/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00116",
+                "codigoPdm": "17963",
+                "descricaoItem": "REDE CAPTURA ANIMAL, MATERIAL ALUMÍNIO, TIPO PUÇÁ, APLICAÇÃO INSETOS, CARACTERÍSTICAS ADICIONAIS CABO RETRÁTIL: 75CM/ DÎAMETRO DO ARO: 38CM",
+                "fornecedor": "21707794000106 - FASTLABOR COMERCIAL LTDA",
+                "quantidadeRegistrada": 0.0,
+                "saldoAdesoes": 170.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 170.0,
+                "qtdLimiteInformadoCompra": 170.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2025-05-23T10:37:17",
+                "dataHoraAtualizacao": "2025-05-23T11:48:36",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            },
+            {
+                "numeroAta": "00035/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00116",
+                "codigoPdm": "17963",
+                "descricaoItem": "REDE CAPTURA ANIMAL, MATERIAL ALUMÍNIO, TIPO PUÇÁ, APLICAÇÃO INSETOS, CARACTERÍSTICAS ADICIONAIS CABO RETRÁTIL: 75CM/ DÎAMETRO DO ARO: 38CM",
+                "fornecedor": "21707794000106 - FASTLABOR COMERCIAL LTDA",
+                "quantidadeRegistrada": 35.0,
+                "saldoAdesoes": 170.0,
+                "saldoRemanejamentoEmpenho": 35.0,
+                "qtdLimiteAdesao": 170.0,
+                "qtdLimiteInformadoCompra": 170.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2025-05-23T10:39:13",
+                "dataHoraAtualizacao": "2025-05-23T11:50:01",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158452",
+                "nomeUnidade": "INST. FED. DO MS/CAMPUS NOVA ANDRADINA",
+                "tipoUnidade": "PARTICIPANTE"
+            },
+            {
+                "numeroAta": "00035/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00116",
+                "codigoPdm": "17963",
+                "descricaoItem": "REDE CAPTURA ANIMAL, MATERIAL ALUMÍNIO, TIPO PUÇÁ, APLICAÇÃO INSETOS, CARACTERÍSTICAS ADICIONAIS CABO RETRÁTIL: 75CM/ DÎAMETRO DO ARO: 38CM",
+                "fornecedor": "21707794000106 - FASTLABOR COMERCIAL LTDA",
+                "quantidadeRegistrada": 50.0,
+                "saldoAdesoes": 170.0,
+                "saldoRemanejamentoEmpenho": 50.0,
+                "qtdLimiteAdesao": 170.0,
+                "qtdLimiteInformadoCompra": 170.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2025-05-23T10:39:13",
+                "dataHoraAtualizacao": "2025-05-23T11:50:02",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158453",
+                "nomeUnidade": "INST. FED. DO MS/CAMPUS PONTA PORA",
+                "tipoUnidade": "PARTICIPANTE"
+            }
+        ],
+        "totalRegistros": 3,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

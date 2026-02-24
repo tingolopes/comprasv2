@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15584806000182020",
+        "data_extracao": "2026-02-13 10:57:11",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 46486339,
+                "numeroLicitacao": "155848061820201",
+                "uasg": 155848,
+                "nomeUasg": "IF - MS/ CAMPUS DOURADOS",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 182020,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 1627,
+                "nomeServico": "MANUTENCAO / REFORMA PREDIAL",
+                "cnpjFornecedor": "05766941000154",
+                "nomeFornecedor": "RODRIGUES DA SILVA & CIA. LTDA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Confecção de mureta em alvenaria em blocos cerâmicos de 8 furos (meia vez) med indo 130 metros lineares por 60 cm de altura a ser edificada ao redor da quadr a poliesportiva do campus Dourados conforme croqui anexo. Em uma das laterais da quadra, numa extensão de 46 metros lineares deverá ser realizada a abertura de vala escavação para montagem de viga baldrame com 25 cm de profundidade e 10 cm de largura, construção de 78 m² de alvenaria que será travada por meio d e uma viga superior medindo 130 metros lineares 10 cm de profundidade e 15 cm de altura e colunas medindo 20 cm de largura e 10 cm de profundidade armadas a cada 2,5 metros uma da outra. O acabamento deve ser realizado por meio de cha pisco + reboco totalizando 156m² e 130 metros lineares de requadro.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 13850.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:35:00",
+                "idCompra": "15584806000182020",
+                "idCompraItem": "1558480600018202000001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

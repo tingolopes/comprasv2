@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845007000072018",
+        "data_extracao": "2026-02-13 09:43:45",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 43007960,
+                "numeroLicitacao": "15845007720181",
+                "uasg": 158450,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.CORUMBÁ",
+                "modalidade": 7,
+                "nomeModalidade": "INEXIGIBILIDADE DE LICITAÇÃO",
+                "numeroAviso": 72018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 21180,
+                "nomeServico": "TREINAMENTO NA AREA DE LIDERANCA",
+                "cnpjFornecedor": null,
+                "nomeFornecedor": null,
+                "quantidade": null,
+                "unidade": "SERV",
+                "descricaoItem": "Curso de Relações Interpessoais e Desenvolvimento de Equipes, com caraga horár ia de 20 horas, a ser realizado no período de 22 de outubro a 01 de novembro d e 2018",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 3963.36,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "86983385187",
+                "nomeVencedorPf": "ALEX SANDRE RODRIGO PEREIRA CAZELLI",
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:30:00",
+                "idCompra": "15845007000072018",
+                "idCompraItem": "1584500700007201800001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

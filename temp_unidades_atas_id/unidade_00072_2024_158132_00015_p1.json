@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00072%2F2024&unidadeGerenciadora=158132&numeroItem=00015&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:51:51",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00072/2024",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00015",
+                "codigoPdm": null,
+                "descricaoItem": "Almoxarife / Controle de Estoque - Auxiliar de almoxarifado 44h",
+                "fornecedor": "11301568000169 - SETTA - SERVICOS TERCEIRIZADOS LTDA",
+                "quantidadeRegistrada": 1.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 1.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": 0.0,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2024-09-11T11:44:52",
+                "dataHoraAtualizacao": "2025-10-06T16:02:37",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "155848",
+                "nomeUnidade": "INST.FED.DO MS/CAMPUS DOURADOS",
+                "tipoUnidade": "PARTICIPANTE"
+            },
+            {
+                "numeroAta": "00072/2024",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00015",
+                "codigoPdm": null,
+                "descricaoItem": "Almoxarife / Controle de Estoque - Auxiliar de almoxarifado 44h",
+                "fornecedor": "11301568000169 - SETTA - SERVICOS TERCEIRIZADOS LTDA",
+                "quantidadeRegistrada": 0.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": 0.0,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2024-09-11T11:44:43",
+                "dataHoraAtualizacao": "2025-10-06T16:02:30",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

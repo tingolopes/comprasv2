@@ -1,0 +1,164 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/4_consultarEmpenhosSaldoItem?numeroAta=00026%2F2025&unidadeGerenciadora=158132&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-23 16:05:22",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroItem": "00005",
+                "unidade": "155849 - INST.FED.DO MS/CAMPUS NAVIRAI",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 100.0,
+                "quantidadeEmpenhada": 10.0,
+                "saldoEmpenho": 90.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2026-01-12T12:10:32"
+            },
+            {
+                "numeroItem": "00011",
+                "unidade": "155849 - INST.FED.DO MS/CAMPUS NAVIRAI",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 100.0,
+                "quantidadeEmpenhada": 5.0,
+                "saldoEmpenho": 95.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2026-01-12T12:10:32"
+            },
+            {
+                "numeroItem": "00017",
+                "unidade": "155849 - INST.FED.DO MS/CAMPUS NAVIRAI",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 60.0,
+                "quantidadeEmpenhada": 2.0,
+                "saldoEmpenho": 58.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2026-01-12T12:10:32"
+            },
+            {
+                "numeroItem": "00018",
+                "unidade": "155849 - INST.FED.DO MS/CAMPUS NAVIRAI",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 20.0,
+                "quantidadeEmpenhada": 2.0,
+                "saldoEmpenho": 18.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2026-01-12T12:10:32"
+            },
+            {
+                "numeroItem": "00008",
+                "unidade": "158452 - INST. FED. DO MS/CAMPUS NOVA ANDRADINA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 5.0,
+                "quantidadeEmpenhada": 5.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-12-31T10:06:11"
+            },
+            {
+                "numeroItem": "00011",
+                "unidade": "158452 - INST. FED. DO MS/CAMPUS NOVA ANDRADINA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 100.0,
+                "quantidadeEmpenhada": 50.0,
+                "saldoEmpenho": 50.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-12-31T10:06:11"
+            },
+            {
+                "numeroItem": "00016",
+                "unidade": "158452 - INST. FED. DO MS/CAMPUS NOVA ANDRADINA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 60.0,
+                "quantidadeEmpenhada": 60.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-12-31T10:06:11"
+            },
+            {
+                "numeroItem": "00017",
+                "unidade": "158452 - INST. FED. DO MS/CAMPUS NOVA ANDRADINA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 60.0,
+                "quantidadeEmpenhada": 60.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-12-31T10:06:11"
+            },
+            {
+                "numeroItem": "00018",
+                "unidade": "158452 - INST. FED. DO MS/CAMPUS NOVA ANDRADINA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 80.0,
+                "quantidadeEmpenhada": 80.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-12-31T10:06:11"
+            },
+            {
+                "numeroItem": "00005",
+                "unidade": "158453 - INST. FED. DO MS/CAMPUS PONTA PORA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 260.0,
+                "quantidadeEmpenhada": 150.0,
+                "saldoEmpenho": 110.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-27T10:41:06"
+            },
+            {
+                "numeroItem": "00008",
+                "unidade": "158453 - INST. FED. DO MS/CAMPUS PONTA PORA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 20.0,
+                "quantidadeEmpenhada": 8.0,
+                "saldoEmpenho": 12.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-12-31T09:46:32"
+            },
+            {
+                "numeroItem": "00011",
+                "unidade": "158453 - INST. FED. DO MS/CAMPUS PONTA PORA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 120.0,
+                "quantidadeEmpenhada": 120.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-12-31T09:46:32"
+            },
+            {
+                "numeroItem": "00016",
+                "unidade": "158453 - INST. FED. DO MS/CAMPUS PONTA PORA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 390.0,
+                "quantidadeEmpenhada": 390.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-12-31T09:46:32"
+            },
+            {
+                "numeroItem": "00017",
+                "unidade": "158453 - INST. FED. DO MS/CAMPUS PONTA PORA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 80.0,
+                "quantidadeEmpenhada": 80.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-12-31T09:46:32"
+            },
+            {
+                "numeroItem": "00018",
+                "unidade": "158453 - INST. FED. DO MS/CAMPUS PONTA PORA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 500.0,
+                "quantidadeEmpenhada": 500.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-12-31T09:46:32"
+            }
+        ],
+        "totalRegistros": 15,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

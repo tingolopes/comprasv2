@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-contratacoes/2.1_consultarItensContratacoes_PNCP_14133_Id?tipo=idCompra&codigo=15813206001852025&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-13 10:53:48",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206001852025",
+                "idCompraItem": "1581320600185202500001",
+                "idContratacaoPNCP": "10673078000120-1-000042/2025",
+                "unidadeOrgaoCodigoUnidade": "158132",
+                "orgaoEntidadeCnpj": "10673078000120",
+                "numeroItemPncp": 1,
+                "numeroItemCompra": 1,
+                "numeroGrupo": 0,
+                "descricaoResumida": "Promoção de Eventos Promoção de Eventos",
+                "materialOuServico": "S",
+                "materialOuServicoNome": "Serviço",
+                "codigoClasse": null,
+                "codigoGrupo": 962,
+                "codItemCatalogo": 14591,
+                "descricaodetalhada": "Promoção de Eventos Promoção de Eventos",
+                "unidadeMedida": "UNIDADE",
+                "orcamentoSigiloso": false,
+                "itemCategoriaIdPncp": 3,
+                "itemCategoriaNome": "Informática (TIC)",
+                "criterioJulgamentoIdPncp": 7,
+                "criterioJulgamentoNome": "Não se aplica",
+                "situacaoCompraItem": "2",
+                "situacaoCompraItemNome": "Homologado",
+                "tipoBeneficio": "5",
+                "tipoBeneficioNome": "Não se aplica",
+                "incentivoProdutivoBasico": false,
+                "quantidade": 1.0,
+                "valorUnitarioEstimado": 60000.0,
+                "valorTotal": 60000.0,
+                "temResultado": true,
+                "codFornecedor": "31441403000108",
+                "nomeFornecedor": "4K LEDS E EVENTOS LTDA",
+                "quantidadeResultado": 1.0,
+                "valorUnitarioResultado": 35000.0,
+                "valorTotalResultado": 35000.0,
+                "dataInclusaoPncp": "2025-05-15T10:05:41",
+                "dataAtualizacaoPncp": "2025-05-15T10:08:44",
+                "dataResultado": "2025-05-15 00:00:00.0000000",
+                "margemPreferenciaNormal": false,
+                "percentualMargemPreferenciaNormal": null,
+                "margemPreferenciaAdicional": false,
+                "percentualMargemPreferenciaAdicional": null,
+                "codigoNCM": null,
+                "descricaoNCM": null,
+                "numeroControlePNCPCompra": "10673078000120-1-000042/2025"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

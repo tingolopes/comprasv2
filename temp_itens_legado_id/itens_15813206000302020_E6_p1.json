@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813206000302020",
+        "data_extracao": "2026-02-13 11:24:21",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000302020",
+                "idCompraItem": "1581320600030202000001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 30,
+                "dtAnoAvisoLicitacao": 2020,
+                "nuInciso": "01",
+                "nuProcesso": "23347008646202071",
+                "vrEstimado": 18800.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso I da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Serviço de Engenharia dentro do limite do Inciso I, art, 24 da Lei 8.666/93",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "HEBERTON LUIZ DUARTE RODRIGUES",
+                "noCargoRespDeclDisp": "Gestor Financeiro",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 20060,
+                "noServico": "ELABORACAO / ANALISE PROJETO - ENGENHARIA",
+                "dsDetalhada": "Contratação de empresa especializada para elaboração do projeto executivo para  obra de  cobertura  da  área  de  convivência  dos  campi  do IFMS, Aquidauan a,  Corumbá,  Coxim, Ponta Porã e Três Lagoas",
+                "qtMaterialAlt": 5,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 18800.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "36081482000107",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "FCK ENGENHARIA LTDA",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

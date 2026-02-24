@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845006000222018",
+        "data_extracao": "2026-02-13 09:42:50",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845006000222018",
+                "idCompraItem": "1584500600022201800001",
+                "coUasg": 158450,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 22,
+                "dtAnoAvisoLicitacao": 2018,
+                "nuInciso": "02",
+                "nuProcesso": "23347002182201875",
+                "vrEstimado": 2850.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: A presente dispensa é devido ao valor da compra ser inferior a 10% da alínea a, do inciso II do art. 23 da Lei 8666/93.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "SANDRO MOURA SANTOS",
+                "noCargoRespDeclDisp": "Ordenador de Despesa.",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 14354,
+                "noServico": "PRESTACAO DE SERVICOS DE ELETRICISTA",
+                "dsDetalhada": "Serviço de instalação de pontos de tomadas elétricas 220v trifásicos em labora tórios e salas de aula para instalação de aparelhos de ar condicionado de 6000 0btus",
+                "qtMaterialAlt": 5,
+                "noUnidadeMedida": "serv",
+                "vrEstimadoItem": 2850.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "20019882000144",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "DENILSON DA SILVA ROSA",
+                "dtAlteracao": "2024-04-08T11:30:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

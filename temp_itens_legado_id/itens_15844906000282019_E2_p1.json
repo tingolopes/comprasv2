@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15844906000282019",
+        "data_extracao": "2026-02-13 09:52:38",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 45903905,
+                "numeroLicitacao": "158449062820192",
+                "uasg": 158449,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.C.GRANDE",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 282019,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": 337781,
+                "nomeMaterial": "ETIQUETA ADESIVA, MATERIAL VINIL TRANSPARENTE  LARGURA 50 MM APLICAÇÃO PROTEÇÃO LOMBADAS DE LIVROS  FORMATO RETANGULAR  ALTURA 150 MM CARACTERÍSTICAS ADICIONAIS 2 CORTE RETO, ROLO COM TUBETE",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "00001822000197",
+                "nomeFornecedor": "MARDAN ETIQUETAS ADESIVAS LTDA",
+                "quantidade": null,
+                "unidade": "Rolo",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 893.3,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-04-03T21:00:00",
+                "idCompra": "15844906000282019",
+                "idCompraItem": "1584490600028201900002"
+            },
+            {
+                "isnSidecResultadoCompra": 45903904,
+                "numeroLicitacao": "158449062820191",
+                "uasg": 158449,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.C.GRANDE",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 282019,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 363952,
+                "nomeMaterial": "ETIQUETA ADESIVA, MATERIAL VINIL TRANSPARENTE  LARGURA 50 MM APLICAÇÃO PROTEÇÃO LOMBADAS DE LIVROS  FORMATO RETANGULAR  ALTURA 100 MM CARACTERÍSTICAS ADICIONAIS 2 CORTE RETO, ROLO COM TUBETE",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "00001822000197",
+                "nomeFornecedor": "MARDAN ETIQUETAS ADESIVAS LTDA",
+                "quantidade": null,
+                "unidade": "Rolo",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 249.99,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-04-03T21:00:00",
+                "idCompra": "15844906000282019",
+                "idCompraItem": "1584490600028201900001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

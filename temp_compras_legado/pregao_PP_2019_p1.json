@@ -1,0 +1,62 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/3_consultarPregoes?pagina=1&tamanhoPagina=500&co_uasg=158453&dt_data_edital_inicial=2019-01-01&dt_data_edital_final=2019-12-31",
+        "data_extracao": "2026-02-05 18:21:39",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "id_compra": "15845305000012019",
+                "co_processo": "23347019672201819",
+                "co_portaria": "057",
+                "co_uasg": 158453,
+                "no_ausg": "INST.FED.DE ED.,CIENC.E TEC.DE MT/C.P.PORÃ",
+                "co_orgao": 26415,
+                "no_orgao": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "numero": 12019,
+                "ds_situacao_pregao": "homologado",
+                "ds_tipo_pregao": "eletronico",
+                "ds_tipo_pregao_compra": "SISRP",
+                "tx_objeto": "Objeto: Pregão Eletrônico -  Aquisição de 01 (um) Reboque com tanque metálico com bomba de abastecimento de combustível acoplada, 12 volts para acionamento, com reboque fabricado em perfis de aço-carbono estrutural, para atender as demandas do IFMS - Campus Ponta Porã e demais órgãos participantes do IFMS.",
+                "valorEstimadoTotal": "61764.28",
+                "valorHomologadoTotal": "61690.28",
+                "dt_portaria": "2019-05-21T03:00:00.000+00:00",
+                "dt_data_edital": "2019-05-03",
+                "dt_inicio_proposta": "2019-05-13T11:00:00.000+00:00",
+                "dt_fim_proposta": "2019-05-23T13:00:00.000+00:00",
+                "dt_alteracao": "2024-04-08T11:41:00",
+                "dt_encerramento": "2019-05-31",
+                "dt_resultado": "2019-06-03",
+                "pertence14133": false
+            },
+            {
+                "id_compra": "15845305000022019",
+                "co_processo": "23347015822201815",
+                "co_portaria": "0692019",
+                "co_uasg": 158453,
+                "no_ausg": "INST.FED.DE ED.,CIENC.E TEC.DE MT/C.P.PORÃ",
+                "co_orgao": 26415,
+                "no_orgao": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "numero": 22019,
+                "ds_situacao_pregao": "homologado",
+                "ds_tipo_pregao": "eletronico",
+                "ds_tipo_pregao_compra": "SISRP",
+                "tx_objeto": "Objeto: Pregão Eletrônico -  Aquisição de insumos para atender a Área de Agrárias do IFMS - Campus Ponta Porã.",
+                "valorEstimadoTotal": "818232.37",
+                "valorHomologadoTotal": "652685.65",
+                "dt_portaria": "2019-06-18T03:00:00.000+00:00",
+                "dt_data_edital": "2019-06-26",
+                "dt_inicio_proposta": "2019-06-26T11:00:00.000+00:00",
+                "dt_fim_proposta": "2019-07-09T13:00:00.000+00:00",
+                "dt_alteracao": "2024-04-08T11:41:00",
+                "dt_encerramento": "2019-07-22",
+                "dt_resultado": "2019-07-22",
+                "pertence14133": false
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

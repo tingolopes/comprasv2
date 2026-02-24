@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813207000182017",
+        "data_extracao": "2026-02-13 11:20:27",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813207000182017",
+                "idCompraItem": "1581320700018201700001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 18,
+                "dtAnoAvisoLicitacao": 2017,
+                "nuInciso": "02",
+                "nuProcesso": "23347018495201764",
+                "vrEstimado": 13000.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 25º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Curso único oferecido em Campo Grande - MS",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "JOSE JORGE GUIMARAES GARCIA",
+                "noCargoRespDeclDisp": "Gestor Financeiro",
+                "noResponsavelRatificacao": "LUIZ SIMAO STASZCZAK",
+                "noCargoRespRatificacao": "Ordenador de Despesas",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 18821,
+                "noServico": "TREINAMENTO / CAPACITACAO - SEGURANCA INDUSTRIAL",
+                "dsDetalhada": "Participação dos servidores: Raquel Lipinski de Andrade Machado, Maria Rosa Sa ntos Silva, Adriano Santos Nascimento, Laura de Souza Fernandes Ramos, Sandra da Silva Costa, Sergio Paulo de Souza, Cristina Aparecida Correa Ajala e Cinti a Lorena de Carvalho Figueiredo no curso \"curso prático - planilha de custos c omo instrumento de fiscalização de serviços terceirizados, implicações e risco s na licitação e na execução contratual, segundo as diretrizes da IN 05/2017.\"",
+                "qtMaterialAlt": 8,
+                "noUnidadeMedida": "unidade",
+                "vrEstimadoItem": 13000.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "23880650000174",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "INOVE SOLUCOES EM CAPACITACAO E EVENTOS LTDA - ME",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

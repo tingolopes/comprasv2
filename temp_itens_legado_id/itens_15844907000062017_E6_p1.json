@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15844907000062017",
+        "data_extracao": "2026-02-13 09:46:45",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15844907000062017",
+                "idCompraItem": "1584490700006201700001",
+                "coUasg": 158449,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 6,
+                "dtAnoAvisoLicitacao": 2017,
+                "nuInciso": "01",
+                "nuProcesso": "23347014133201702",
+                "vrEstimado": 2950.03,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 25º, Inciso I da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Exclusividade no fornecimento.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "JOAO OTAVIO CENEDEZI PIMENTA",
+                "noCargoRespDeclDisp": "Diretor de Administração",
+                "noResponsavelRatificacao": "ROSANE DE BRITO FERNANDEZ GARCIA",
+                "noCargoRespRatificacao": "Ordenadora de Despesas Titular",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 2879,
+                "noServico": "MANUTENCAO DE LINHAS DE DISTRIBUICAO DE ENERGIA ELETRICA",
+                "dsDetalhada": "Realização de serviços de retirada e realocação de poste de energia elétrica, com os materiais necessários.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "UN",
+                "vrEstimadoItem": 2950.03,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "15413826000150",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "ENERGISA MATO GROSSO DO SUL - DISTRIBUIDORA DE ENERGIA S.A.",
+                "dtAlteracao": "2024-04-08T11:27:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

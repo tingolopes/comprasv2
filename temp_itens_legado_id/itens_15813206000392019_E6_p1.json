@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813206000392019",
+        "data_extracao": "2026-02-13 11:23:17",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000392019",
+                "idCompraItem": "1581320600039201900001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 39,
+                "dtAnoAvisoLicitacao": 2019,
+                "nuInciso": "21",
+                "nuProcesso": "23347008016201882",
+                "vrEstimado": 16000.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso XXI da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Contratação de pequeno Vulto",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "LUIZ SIMAO STASZCZAK",
+                "noCargoRespDeclDisp": "Ordenador de Despesa",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 26069,
+                "noServico": "PLATAFORMA COMO SERVICO - PAAS",
+                "dsDetalhada": "Contratação assinatura anual gerenciamento,  visualização,  atualização  autom ática  e impressão  ilimitada    da  coleção  completa  de  normas  técnicas   brasileiras (NBR s) e Mercosul (AMN), de acesso por meio da web, para compor o  acervo  digital  das  bibliotecas  do  IFMS  e  que  tenha    possibilidade   de integração/vinculação   com o sistema Pergamum.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "Und serviço em nuvem",
+                "vrEstimadoItem": 16000.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "00000028000129",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "TARGET ENGENHARIA E CONSULTORIA LTDA.",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813207000222021",
+        "data_extracao": "2026-02-13 11:27:04",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 50296406,
+                "numeroLicitacao": "158132072220211",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 7,
+                "nomeModalidade": "INEXIGIBILIDADE DE LICITAÇÃO",
+                "numeroAviso": 222021,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 25232,
+                "nomeServico": "PAGAMENTO INSCRICAO EVENTOS",
+                "cnpjFornecedor": "10613756000160",
+                "nomeFornecedor": "M M P COSTA TREINAMENTO & DESENVOLVIMENTO HUMANO EIRELI -",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Pagamento de inscrição de 16 servidores do IFMS no curso \"Avaliação de Bens mó veis e aspectos de desfazimento de bens\" com carga horária de 20h realizado pe la MMP Costa Treinamento & Desenvolvimento Humano",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 18187.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813207000222021",
+                "idCompraItem": "1581320700022202100001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

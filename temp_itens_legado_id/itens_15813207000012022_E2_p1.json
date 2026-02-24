@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813207000012022",
+        "data_extracao": "2026-02-13 11:28:42",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 51237410,
+                "numeroLicitacao": "15813207120221",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 7,
+                "nomeModalidade": "INEXIGIBILIDADE DE LICITAÇÃO",
+                "numeroAviso": 12022,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 14729,
+                "nomeServico": "TREINAMENTO NA AREA DE ADMINISTRACAO PUBLICA",
+                "cnpjFornecedor": null,
+                "nomeFornecedor": null,
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "Contratação de PF para ministrar a Palestra Racismo Estrutural e as formas per versas de manifestações em instituições de Ensino: mecanismos de enfrentamento e combate rumo a igualdade racial.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1217.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "39033309149   ",
+                "nomeVencedorPf": "BARTOLINA RAMALHO CATANANTE",
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813207000012022",
+                "idCompraItem": "1581320700001202200001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00049%2F2025&unidadeGerenciadora=158132&numeroItem=00015&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:38:22",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00049/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00015",
+                "codigoPdm": null,
+                "descricaoItem": "Taxa de Instalação Link de Internet - STFC (Banda Larga)",
+                "fornecedor": "08611669000393 - 67 TELECOM LTDA",
+                "quantidadeRegistrada": 1.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": 0.0,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2025-05-30T11:49:55",
+                "dataHoraAtualizacao": "2025-12-18T17:38:25",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "155850",
+                "nomeUnidade": "INST.FED.DO MS/CAMPUS JARDIM",
+                "tipoUnidade": "PARTICIPANTE"
+            },
+            {
+                "numeroAta": "00049/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00015",
+                "codigoPdm": null,
+                "descricaoItem": "Taxa de Instalação Link de Internet - STFC (Banda Larga)",
+                "fornecedor": "08611669000393 - 67 TELECOM LTDA",
+                "quantidadeRegistrada": 0.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": 0.0,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2025-05-30T11:49:47",
+                "dataHoraAtualizacao": "2025-06-06T14:12:53",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15844806000082017",
+        "data_extracao": "2026-02-13 09:38:36",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15844806000082017",
+                "idCompraItem": "1584480600008201700001",
+                "coUasg": 158448,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 8,
+                "dtAnoAvisoLicitacao": 2017,
+                "nuInciso": "02",
+                "nuProcesso": "23347010792201761",
+                "vrEstimado": 3200.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: A proteção elétrica de todo o campus encontra-se vulnerável.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "HILDA RIBEIRO ROMERO",
+                "noCargoRespDeclDisp": "Ordenadora de Despesas",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 4944,
+                "noServico": "MANUTENCAO DE LINHAS DE  TRANSMISSAO  ENERGIA  ELETRICA  ATE69KV",
+                "dsDetalhada": "SUBSTITUIÇÃO DE PARA-RAIOS NO POSTE DE ENTRADA DE ENERGIA ELÉTRICA DO CAMPUS A QUIDAUANA.",
+                "qtMaterialAlt": 3,
+                "noUnidadeMedida": "UNIDADE",
+                "vrEstimadoItem": 3200.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "28334342000167",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "ALAN JARDIM DA SILVA 39968601888",
+                "dtAlteracao": "2024-04-08T11:20:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

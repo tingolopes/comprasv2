@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813207000232017",
+        "data_extracao": "2026-02-13 11:20:43",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 40560854,
+                "numeroLicitacao": "158132072320171",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 7,
+                "nomeModalidade": "INEXIGIBILIDADE DE LICITAÇÃO",
+                "numeroAviso": 232017,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 18449,
+                "nomeServico": "PROMOCAO DE ATIVIDADES DESPORTIVAS E RECREACAO",
+                "cnpjFornecedor": "04822012000152",
+                "nomeFornecedor": "FEDERACAO ESCOLAR DE ESPORTES DE MATO GROSSO DO SUL",
+                "quantidade": null,
+                "unidade": "Serviço",
+                "descricaoItem": "Contratação de serviço de arbitragem para as modalidades de Atletismo, Basquet ebol, Futebol de Campo, Handebol, Judô, Natação, Tênis de Mesa, Vôlei de Quadr a, Vôlei de Praia e Xadrez.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 47200.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-12-03T08:56:28",
+                "idCompra": "15813207000232017",
+                "idCompraItem": "1581320700023201700001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

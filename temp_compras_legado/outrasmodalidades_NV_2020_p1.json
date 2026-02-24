@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/1_consultarLicitacao?pagina=1&tamanhoPagina=500&uasg=155849&data_publicacao_inicial=2020-01-01&data_publicacao_final=2020-12-31",
+        "data_extracao": "2026-02-05 18:03:47",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "id_compra": "15584905000022020",
+                "identificador": "1558490522020",
+                "numero_processo": "23347019362201977",
+                "uasg": 155849,
+                "modalidade": 5,
+                "nome_modalidade": "PREGÃO",
+                "numero_aviso": 22020,
+                "situacao_aviso": "Publicado",
+                "tipo_pregao": "eletronico",
+                "tipo_recurso": "Nacional",
+                "nome_responsavel": "PEDRO JORGE CARDOSO DA SILVA RODRIGUES",
+                "funcao_responsavel": "Pregoeiro",
+                "numero_itens": 52,
+                "valor_estimado_total": 108095.12,
+                "valor_homologado_total": 14129.68,
+                "informacoes_gerais": "Em caso de divergências ent re informações do Comprasnet e do Edital e anex os, prevalecem estes.",
+                "objeto": "Pregão Eletrônico Aquisição de mater iais e equipamentos para criação do laboratório de hardware/redes para o IFMS Campus Naviraí .",
+                "endereco_entrega_edital": "Rua Hilda, Nº 203 - Boa Vista/MS",
+                "codigo_municipio_uasg": 91138,
+                "data_abertura_proposta": "2020-07-06",
+                "data_entrega_edital": "2020-06-23",
+                "data_entrega_proposta": "2020-06-23",
+                "data_publicacao": "2020-06-23",
+                "dt_alteracao": "2020-12-31T19:15:35",
+                "pertence14133": false
+            },
+            {
+                "id_compra": "15584905000012020",
+                "identificador": "1558490512020",
+                "numero_processo": "23347020200201981",
+                "uasg": 155849,
+                "modalidade": 5,
+                "nome_modalidade": "PREGÃO",
+                "numero_aviso": 12020,
+                "situacao_aviso": "Publicado",
+                "tipo_pregao": "eletronico",
+                "tipo_recurso": "Nacional",
+                "nome_responsavel": "PEDRO JORGE CARDOSO DA SILVA RODRIGUES",
+                "funcao_responsavel": "Pregoeiro",
+                "numero_itens": 33,
+                "valor_estimado_total": 64079.04,
+                "valor_homologado_total": 134171.21,
+                "informacoes_gerais": null,
+                "objeto": "Pregão Eletrônico Contratação de ser viços terceirizados para o IFMS Campus Navira í e demais órgãos e entidades participantes.",
+                "endereco_entrega_edital": "Rua Hilda, Nº 203 - Boa Vista/MS",
+                "codigo_municipio_uasg": 91138,
+                "data_abertura_proposta": "2020-05-14",
+                "data_entrega_edital": "2020-04-28",
+                "data_entrega_proposta": "2020-04-28",
+                "data_publicacao": "2020-04-28",
+                "dt_alteracao": "2020-06-22T14:59:39",
+                "pertence14133": false
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

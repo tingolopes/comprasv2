@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845406000102017",
+        "data_extracao": "2026-02-13 11:32:33",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 40940653,
+                "numeroLicitacao": "158454061020172",
+                "uasg": 158454,
+                "nomeUasg": "INST.F.ED.,CIENC.E TEC DE MS/C.TRÊS LAGOAS",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 102017,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": 38229,
+                "nomeMaterial": "BOMBA D'ÁGUA - PEÇA/COMPONENTE, BOMBA ALTERNATIVA PARA AGUA NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "09058708000178",
+                "nomeFornecedor": "FRATELLI COMERCIO DE MAQUINAS E EQUIPAMENTOS EIRELI - E",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "BOMBA D´ÁGUA Submersa com característica iguais ou superiores Trifásico 38 0v, 60Hz, 1,0cv, Recalque 1 1/4\", Vazão máxima 4800 litros/hora, Altura Manomé trica Máxima: 92 mca, Rotor fechado, Peso 12Kg, Projetada para poços 4\" (100mm ), Fabricação Nacional. Referência: Bomba D'água submersa Thebe TSM 1310.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1232.16,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-04-15T13:35:00",
+                "idCompra": "15845406000102017",
+                "idCompraItem": "1584540600010201700002"
+            },
+            {
+                "isnSidecResultadoCompra": 40940652,
+                "numeroLicitacao": "158454061020171",
+                "uasg": 158454,
+                "nomeUasg": "INST.F.ED.,CIENC.E TEC DE MS/C.TRÊS LAGOAS",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 102017,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 38229,
+                "nomeMaterial": "BOMBA D'ÁGUA - PEÇA/COMPONENTE, BOMBA ALTERNATIVA PARA AGUA NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "02865717000121",
+                "nomeFornecedor": "MOGIMA COMERCIAL LTDA - ME",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "BOMBA D´ÁGUA Centrífuga, com características iguais ou superiores monobloc o e mancalizada Monoestágio, 3,0CV, trifásica 220/380V, 3500rpm bocais ros queados sucção 2\" x recalque 1.1/2\". Utilizada para água limpa. Vazão máxima até 31m³/h. Pressão máxima 28mc.a (2,8bar), Sucção BSP 2\", Recalque BSP 1.1/2 \", Bocais com rosca BSP, Caracol da motobomba de ferro fundido, Rotor 128x5,5m m fechado de alumínio ou bronze. Fabricação Nacional. Referência: Bomba d'água centrífuga Thebe THB 13",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1357.43,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-04-15T13:35:00",
+                "idCompra": "15845406000102017",
+                "idCompraItem": "1584540600010201700001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

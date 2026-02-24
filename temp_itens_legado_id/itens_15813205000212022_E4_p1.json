@@ -1,0 +1,149 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/4.1_consultarItensPregoes_Id?id_compra=15813205000212022",
+        "data_extracao": "2026-02-13 11:42:34",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158132,
+                    "coItem": 28576827
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "Container Material: Aço Inoxidável , Aplicação: Armazenamento De Materiais , Capacidade: 26.000 KG, Dimensões: 2,44 X 2,69 X 12,0 M, Tipo: Dry Standard , Características Adicionais: Dispositivo Para Cadeado",
+                "descricaoItem": "Container",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "57580.00",
+                "quantidadeItem": "2",
+                "situacaoItem": "homologado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "Unidade",
+                "valorHomologadoItem": "28790.00",
+                "valorEstimadoItem": "57581.66",
+                "valorNegociado": null,
+                "idCompra": "15813205000212022",
+                "idCompraItem": "1581320500021202200001",
+                "noAdjudic": "EDISON SILVA SOSA",
+                "noHom": "SIRLEY DA SILVA ROJAS OLIVEIRA",
+                "dtEncerramento": "2022-08-10",
+                "dtAdjudic": "2022-08-11",
+                "dtHom": "2022-08-17",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            },
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158132,
+                    "coItem": 28576828
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "Container Material: Aço Inoxidável , Aplicação: Armazenamento De Materiais , Capacidade: 26.000 KG, Dimensões: 2,44 X 2,69 X 12,0 M, Tipo: Dry Standard , Características Adicionais: Dispositivo Para Cadeado",
+                "descricaoItem": "Container",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "28780.00",
+                "quantidadeItem": "1",
+                "situacaoItem": "homologado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "Unidade",
+                "valorHomologadoItem": "28780.00",
+                "valorEstimadoItem": "28790.83",
+                "valorNegociado": null,
+                "idCompra": "15813205000212022",
+                "idCompraItem": "1581320500021202200002",
+                "noAdjudic": "EDISON SILVA SOSA",
+                "noHom": "SIRLEY DA SILVA ROJAS OLIVEIRA",
+                "dtEncerramento": "2022-08-10",
+                "dtAdjudic": "2022-08-11",
+                "dtHom": "2022-08-17",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            },
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158132,
+                    "coItem": 28576829
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "Container Material: Aço Inoxidável , Aplicação: Armazenamento De Materiais , Capacidade: 26.000 KG, Dimensões: 2,44 X 2,69 X 12,0 M, Tipo: Dry Standard , Características Adicionais: Dispositivo Para Cadeado",
+                "descricaoItem": "Container",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "86370.00",
+                "quantidadeItem": "3",
+                "situacaoItem": "homologado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "Unidade",
+                "valorHomologadoItem": "28790.00",
+                "valorEstimadoItem": "86372.49",
+                "valorNegociado": null,
+                "idCompra": "15813205000212022",
+                "idCompraItem": "1581320500021202200003",
+                "noAdjudic": "EDISON SILVA SOSA",
+                "noHom": "SIRLEY DA SILVA ROJAS OLIVEIRA",
+                "dtEncerramento": "2022-08-10",
+                "dtAdjudic": "2022-08-11",
+                "dtHom": "2022-08-17",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            },
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158132,
+                    "coItem": 28576830
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "Material: Aço Inoxidável, Aplicação: Armazenamento De Materiais, Capacidade: 26.000 KG, Dimensões: 2,44 X 2,69 X 12,0 M, Tipo: Dry Standard, Características Adicionais: Dispositivo Para Cadeado,",
+                "descricaoItem": "Container",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "28790.00",
+                "quantidadeItem": "1",
+                "situacaoItem": "homologado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "Unidade",
+                "valorHomologadoItem": "28790.00",
+                "valorEstimadoItem": "28790.83",
+                "valorNegociado": null,
+                "idCompra": "15813205000212022",
+                "idCompraItem": "1581320500021202200004",
+                "noAdjudic": "EDISON SILVA SOSA",
+                "noHom": "SIRLEY DA SILVA ROJAS OLIVEIRA",
+                "dtEncerramento": "2022-08-10",
+                "dtAdjudic": "2022-08-11",
+                "dtHom": "2022-08-17",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            },
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158132,
+                    "coItem": 28576831
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "Material: Aço Galvanizado, Aplicação: Armazenamento De Materiais, Capacidade: 200 KG, Dimensões: 6 X 2,25 X 2,6 M, Tipo: Vão Livre, Características Adicionais: Dispositivo Para Cadeado,",
+                "descricaoItem": "Container",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "18400.00",
+                "quantidadeItem": "1",
+                "situacaoItem": "homologado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "Unidade",
+                "valorHomologadoItem": "18400.00",
+                "valorEstimadoItem": "18465.23",
+                "valorNegociado": null,
+                "idCompra": "15813205000212022",
+                "idCompraItem": "1581320500021202200005",
+                "noAdjudic": "EDISON SILVA SOSA",
+                "noHom": "SIRLEY DA SILVA ROJAS OLIVEIRA",
+                "dtEncerramento": "2022-08-10",
+                "dtAdjudic": "2022-08-11",
+                "dtHom": "2022-08-17",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 5,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

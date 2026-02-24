@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15584906000062017",
+        "data_extracao": "2026-02-13 11:08:50",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 40185587,
+                "numeroLicitacao": "15584906620171",
+                "uasg": 155849,
+                "nomeUasg": "INSTITUTO FEDERAL DE MS/CAMPUS NAVIRAÍ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 62017,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 38229,
+                "nomeMaterial": "BOMBA D'ÁGUA - PEÇA/COMPONENTE, BOMBA ALTERNATIVA PARA AGUA NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "15459431000198",
+                "nomeFornecedor": "SERTAO COMERCIAL DE EQUIPAMENTOS LTDA",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "BOMBA CENTRÍFUGA CAW W10 1.1/2 CV TRIFASICA 220/380 FLANGELADA DANCOR",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1199.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-04-15T13:35:00",
+                "idCompra": "15584906000062017",
+                "idCompraItem": "1558490600006201700001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

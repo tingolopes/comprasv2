@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000302016",
+        "data_extracao": "2026-02-13 11:18:10",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 38463640,
+                "numeroLicitacao": "158132063020161",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 302016,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 15946,
+                "nomeMaterial": "IMPRESSO PRONTO, IMPRESSO PRONTO NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "07214945000155",
+                "nomeFornecedor": "ECKOGRAF SOLUCOES IMPRESSAS LTDA - ME",
+                "quantidade": null,
+                "unidade": "unidade",
+                "descricaoItem": "Cartza com dimensão 310x460mm, papel couche fosco 120g/m2, 4x0 cores, apresent ação 50 unidades por embalagem",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 429.75,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-05-28T09:30:00",
+                "idCompra": "15813206000302016",
+                "idCompraItem": "1581320600030201600001"
+            },
+            {
+                "isnSidecResultadoCompra": 38463641,
+                "numeroLicitacao": "158132063020162",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 302016,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": 15946,
+                "nomeMaterial": "IMPRESSO PRONTO, IMPRESSO PRONTO NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "07214945000155",
+                "nomeFornecedor": "ECKOGRAF SOLUCOES IMPRESSAS LTDA - ME",
+                "quantidade": null,
+                "unidade": "unidade",
+                "descricaoItem": "Folheto com dimensões 150x120mm, papel couche fosco 90 g/m2, 4x1 cores (colori do frente, preto verso), apresentação 1000 por emabalagem.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1785.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-05-28T09:30:00",
+                "idCompra": "15813206000302016",
+                "idCompraItem": "1581320600030201600002"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

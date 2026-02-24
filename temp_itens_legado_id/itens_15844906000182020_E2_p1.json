@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15844906000182020",
+        "data_extracao": "2026-02-13 09:55:52",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 47637625,
+                "numeroLicitacao": "158449061820201",
+                "uasg": 158449,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.C.GRANDE",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 182020,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 20338,
+                "nomeServico": "MANUTENCAO ELEVADOR HIDRAULICO/ELETRICO - VEICULO AUTOMOTIVO",
+                "cnpjFornecedor": "27555840000177",
+                "nomeFornecedor": "SULLIFT ELEVADORES LTDA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Serviços de manutenção preventiva para 3(três) Elevadores hidráulicos de passa geiros, 2(duas) paradas, 600 kg, comandos GMV sendo serviços mensais",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 10800.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:27:00",
+                "idCompra": "15844906000182020",
+                "idCompraItem": "1584490600018202000001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

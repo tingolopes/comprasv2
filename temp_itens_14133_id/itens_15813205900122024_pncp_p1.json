@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-contratacoes/2.1_consultarItensContratacoes_PNCP_14133_Id?tipo=idCompra&codigo=15813205900122024&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-13 11:44:16",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813205900122024",
+                "idCompraItem": "1581320590012202400001",
+                "idContratacaoPNCP": "10673078000120-1-000044/2024",
+                "unidadeOrgaoCodigoUnidade": "158132",
+                "orgaoEntidadeCnpj": "10673078000120",
+                "numeroItemPncp": 1,
+                "numeroItemCompra": 1,
+                "numeroGrupo": 0,
+                "descricaoResumida": "Produção Jornalística",
+                "materialOuServico": "S",
+                "materialOuServicoNome": "Serviço",
+                "codigoClasse": null,
+                "codigoGrupo": 836,
+                "codItemCatalogo": 10200,
+                "descricaodetalhada": "Produção Jornalística:     Captação de imagens e áudio para documentar a vivência acadêmica, atividades dos alunos, interações estudantis, e experiência educacional nas unidades do IFMS, incluindo filmagens aéreas em Aquidauana, Campo Grande, Corumbá, Coxim, Dourados, Jardim, Naviraí, Nova Andradina, Ponta Porã e Três Lagoas.    Captação de imagens: a empresa contratada deverá seguir umroteiro de imagens elaborado previamente pela Ascom /IFMS, sendo que cada cena deverá ter, no mínimo, seis (06) takes cada, de, no mínimo, trinta (30)segundos.    Captação de Áudio: Captação de Áudio: gravação profissional de áudio para capturar claramente depoimentos, ambientes e narrações, proporcionando umaexperiência auditiva rica para complementar as imagens capturadas.    Captação de depoimentos: os estudantes e servidores do IFMS entrevistados serão previamente definidos pela Ascom/IFMS, e a gravação deverá ser feita com base em umroteiro de perguntas elaborado por jornalistas da instituição.",
+                "unidadeMedida": "UNIDADE",
+                "orcamentoSigiloso": false,
+                "itemCategoriaIdPncp": 3,
+                "itemCategoriaNome": "Informática (TIC)",
+                "criterioJulgamentoIdPncp": 1,
+                "criterioJulgamentoNome": "Menor preço",
+                "situacaoCompraItem": "2",
+                "situacaoCompraItemNome": "Homologado",
+                "tipoBeneficio": "5",
+                "tipoBeneficioNome": "Não se aplica",
+                "incentivoProdutivoBasico": false,
+                "quantidade": 1.0,
+                "valorUnitarioEstimado": 163150.0,
+                "valorTotal": 163150.0,
+                "temResultado": true,
+                "codFornecedor": "42733989000192",
+                "nomeFornecedor": "MATHEUS CARLOS ACERBI",
+                "quantidadeResultado": 1.0,
+                "valorUnitarioResultado": 33190.0,
+                "valorTotalResultado": 33190.0,
+                "dataInclusaoPncp": "2024-07-09T07:08:34",
+                "dataAtualizacaoPncp": "2025-03-27T09:07:42",
+                "dataResultado": "2024-08-13 00:00:00.0000000",
+                "margemPreferenciaNormal": false,
+                "percentualMargemPreferenciaNormal": null,
+                "margemPreferenciaAdicional": false,
+                "percentualMargemPreferenciaAdicional": null,
+                "codigoNCM": null,
+                "descricaoNCM": null,
+                "numeroControlePNCPCompra": "10673078000120-1-000044/2024"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

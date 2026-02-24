@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00042%2F2025&unidadeGerenciadora=158132&numeroItem=00101&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:54:30",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00042/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00101",
+                "codigoPdm": "15915",
+                "descricaoItem": "COLMÉIA, MATERIAL MADEIRA, TIPO LANGSTROTH, COMPONENTES FUNDO, NINHO, MELGUEIRAS, QUADRO COM ARAME E TAMP A, APLICAÇÃO APICULTURA, CARACTERÍSTICAS ADICIONAIS 2 MELGUEIRAS COM 10 QUADROS DE NINHO TIPO HOFFMAN",
+                "fornecedor": "37564523000170 - PAMPA AGROBUSINESS LTDA",
+                "quantidadeRegistrada": 0.0,
+                "saldoAdesoes": 180.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 180.0,
+                "qtdLimiteInformadoCompra": 180.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2025-05-23T10:37:12",
+                "dataHoraAtualizacao": "2025-05-23T12:26:41",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            },
+            {
+                "numeroAta": "00042/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00101",
+                "codigoPdm": "15915",
+                "descricaoItem": "COLMÉIA, MATERIAL MADEIRA, TIPO LANGSTROTH, COMPONENTES FUNDO, NINHO, MELGUEIRAS, QUADRO COM ARAME E TAMP A, APLICAÇÃO APICULTURA, CARACTERÍSTICAS ADICIONAIS 2 MELGUEIRAS COM 10 QUADROS DE NINHO TIPO HOFFMAN",
+                "fornecedor": "37564523000170 - PAMPA AGROBUSINESS LTDA",
+                "quantidadeRegistrada": 45.0,
+                "saldoAdesoes": 180.0,
+                "saldoRemanejamentoEmpenho": 45.0,
+                "qtdLimiteAdesao": 180.0,
+                "qtdLimiteInformadoCompra": 180.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2025-05-23T10:39:00",
+                "dataHoraAtualizacao": "2025-05-23T12:27:12",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158452",
+                "nomeUnidade": "INST. FED. DO MS/CAMPUS NOVA ANDRADINA",
+                "tipoUnidade": "PARTICIPANTE"
+            },
+            {
+                "numeroAta": "00042/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00101",
+                "codigoPdm": "15915",
+                "descricaoItem": "COLMÉIA, MATERIAL MADEIRA, TIPO LANGSTROTH, COMPONENTES FUNDO, NINHO, MELGUEIRAS, QUADRO COM ARAME E TAMP A, APLICAÇÃO APICULTURA, CARACTERÍSTICAS ADICIONAIS 2 MELGUEIRAS COM 10 QUADROS DE NINHO TIPO HOFFMAN",
+                "fornecedor": "37564523000170 - PAMPA AGROBUSINESS LTDA",
+                "quantidadeRegistrada": 45.0,
+                "saldoAdesoes": 180.0,
+                "saldoRemanejamentoEmpenho": 35.0,
+                "qtdLimiteAdesao": 180.0,
+                "qtdLimiteInformadoCompra": 180.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2025-05-23T10:39:00",
+                "dataHoraAtualizacao": "2025-11-25T13:56:37",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158453",
+                "nomeUnidade": "INST. FED. DO MS/CAMPUS PONTA PORA",
+                "tipoUnidade": "PARTICIPANTE"
+            }
+        ],
+        "totalRegistros": 3,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

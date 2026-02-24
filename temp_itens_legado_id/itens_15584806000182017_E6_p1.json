@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15584806000182017",
+        "data_extracao": "2026-02-13 10:19:15",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15584806000182017",
+                "idCompraItem": "1558480600018201700001",
+                "coUasg": 155848,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 18,
+                "dtAnoAvisoLicitacao": 2017,
+                "nuInciso": "02",
+                "nuProcesso": "02145590014201748",
+                "vrEstimado": 240.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Por se enquadrar no Art. 24, inciso II da Lei 8.666 de 21/09/1993, no qual o valor está dentro do limite de 8 mil reais.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "DANILO SANCHES DANTAS",
+                "noCargoRespDeclDisp": "Gestor Financeiro",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 214577,
+                "noConjuntoMateriais": null,
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": null,
+                "qtMaterialAlt": 4,
+                "noUnidadeMedida": "BOTIJÃO",
+                "vrEstimadoItem": 240.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "GLP",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "09065531000137",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "KUSHIDA & CIA. LTDA - ME",
+                "dtAlteracao": "2024-04-08T11:35:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

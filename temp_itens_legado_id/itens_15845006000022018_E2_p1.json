@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845006000022018",
+        "data_extracao": "2026-02-13 09:42:54",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 41409041,
+                "numeroLicitacao": "15845006220181",
+                "uasg": 158450,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.CORUMBÁ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 22018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 256535,
+                "nomeMaterial": "EXTINTOR INCÊNDIO, MATERIAL MANGUEIRA BORRACHA  MATERIAL TRAMA AÇO  MATERIAL DIFUSOR PLÁSTICO  MATERIAL TUBO SIFÃO PLÁSTICO  MATERIAL CILINDRO TUBO AÇO SEM COSTURA  CAPACIDADE 6 KG PESO 14,70 KG PRESSÃO SERVIÇO 126 KGF/CM2 PRESSÃO TESTE 210 KGF/CM2 ACABAMENTO SUPERFICIAL CILINDRO METAL VERMELHO  TRATAMENTO SUPERFICIAL CILINDRO PRIMER/ÓXIDO FERRO E ESMALTE SINTÉTICO  NORMAS TÉCNICAS NBR 11716  APLICAÇÃO INCÊNDIO CLASSE \"B\" E \"C\"  MATERIAL CARGA GÁS CARBÔNICO",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "33157652000193",
+                "nomeFornecedor": "ML EQUIPAMENTO DE SEGURANCA LTDA - ME",
+                "quantidade": null,
+                "unidade": "CILINDRO",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 320.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-12-03T06:55:00",
+                "idCompra": "15845006000022018",
+                "idCompraItem": "1584500600002201800001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

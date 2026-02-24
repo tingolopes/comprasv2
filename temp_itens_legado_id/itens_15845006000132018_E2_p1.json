@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845006000132018",
+        "data_extracao": "2026-02-13 09:42:38",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 41564820,
+                "numeroLicitacao": "158450061320181",
+                "uasg": 158450,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.CORUMBÁ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 132018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 20117,
+                "nomeServico": "SERRALHARIA - CONFECCAO / INSTALACAO PECAS METALICAS",
+                "cnpjFornecedor": "00632384000165",
+                "nomeFornecedor": "A.F. DE BULHOES",
+                "quantidade": null,
+                "unidade": "UN",
+                "descricaoItem": "Serviço de confecção de suportes metálicos para lousas de vidro",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 500.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:30:00",
+                "idCompra": "15845006000132018",
+                "idCompraItem": "1584500600013201800001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

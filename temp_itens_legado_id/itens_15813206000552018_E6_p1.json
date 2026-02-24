@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813206000552018",
+        "data_extracao": "2026-02-13 11:21:39",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000552018",
+                "idCompraItem": "1581320600055201800001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 55,
+                "dtAnoAvisoLicitacao": 2018,
+                "nuInciso": "02",
+                "nuProcesso": "23347019035201834",
+                "vrEstimado": 1280.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993",
+                "dsJustificativa": "Justificativa: Pelo interesse da administração e pelo menor valor de mercado",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "LUIZ SIMAO STASZCZAK",
+                "noCargoRespDeclDisp": "Ordenador de Despesa",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 30775,
+                "noConjuntoMateriais": "TIPO DE IMPRESSAO",
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "Aquisição de Painel em lona FOSCA para o evento de comemoração de 10 anos IFMS  com a seguintes caracteristicas:  - impressão FOSCA UV colorida frente (4/0)  - estrutura metálica com sistema de fixação invisível  - tamanho final (sem o s pés) - 4m (largura) x 2,3m (altura)",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "unidade",
+                "vrEstimadoItem": 1280.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "MULTIARTEMS",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "33783341000130",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "RODRIGUES PUBLICIDADE LTDA",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

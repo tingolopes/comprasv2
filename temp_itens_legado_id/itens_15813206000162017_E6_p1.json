@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813206000162017",
+        "data_extracao": "2026-02-13 11:19:18",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000162017",
+                "idCompraItem": "1581320600016201700001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 16,
+                "dtAnoAvisoLicitacao": 2017,
+                "nuInciso": "02",
+                "nuProcesso": "23347016461201735",
+                "vrEstimado": 1190.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Aquisição de produtos e/ou serviços com valor inferior a R$ 8.000,00",
+                "nuCpfRespDeclDisp": "01003897169",
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "JOSE JORGE GUIMARAES GARCIA",
+                "noCargoRespDeclDisp": "Ordenador de Despesas Substituto",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 5576,
+                "noConjuntoMateriais": "CABO DE ACO",
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "Cabo de energia IEC-320 C13/C14 16A 240V 2M.",
+                "qtMaterialAlt": 100,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 1190.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "3gigafox",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "15050089000178",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "3 GIGAFOX NETWORK E INFORMATICA EIRELI - EPP",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

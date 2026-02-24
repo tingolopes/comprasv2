@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15584806000242020",
+        "data_extracao": "2026-02-13 10:57:13",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 46790839,
+                "numeroLicitacao": "155848062420202",
+                "uasg": 155848,
+                "nomeUasg": "IF - MS/ CAMPUS DOURADOS",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 242020,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 26484,
+                "nomeServico": "ACESSO A INTERNET VIA CABO",
+                "cnpjFornecedor": "04674092000146",
+                "nomeFornecedor": "NETWARE TELECOMUNICACOES E INFORMATICA EIRELI",
+                "quantidade": null,
+                "unidade": "Mega bits/segundo",
+                "descricaoItem": "Assinatura mensal de serviço de internet com capacidade de transmissão de 50Mb ps na cidade de Dourados-MS com banda garantida de download e upload de 50Mbps e 08 endereços IPv4.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 4200.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:35:00",
+                "idCompra": "15584806000242020",
+                "idCompraItem": "1558480600024202000002"
+            },
+            {
+                "isnSidecResultadoCompra": 46790838,
+                "numeroLicitacao": "155848062420201",
+                "uasg": 155848,
+                "nomeUasg": "IF - MS/ CAMPUS DOURADOS",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 242020,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 26484,
+                "nomeServico": "ACESSO A INTERNET VIA CABO",
+                "cnpjFornecedor": "04674092000146",
+                "nomeFornecedor": "NETWARE TELECOMUNICACOES E INFORMATICA EIRELI",
+                "quantidade": null,
+                "unidade": "Mega bits/segundo",
+                "descricaoItem": "Instalação/habilitação de serviço de internet para atendimento na cidade de Dourados-MS.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 2700.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:35:00",
+                "idCompra": "15584806000242020",
+                "idCompraItem": "1558480600024202000001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

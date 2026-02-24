@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845307000072020",
+        "data_extracao": "2026-02-13 11:16:53",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 46735852,
+                "numeroLicitacao": "15845307720201",
+                "uasg": 158453,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MT/C.P.PORÃ",
+                "modalidade": 7,
+                "nomeModalidade": "INEXIGIBILIDADE DE LICITAÇÃO",
+                "numeroAviso": 72020,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 17663,
+                "nomeServico": "CURSO APERFEICOAMENTO / ESPECIALIZACAO PROFISSIONAL",
+                "cnpjFornecedor": "27883894000161",
+                "nomeFornecedor": "INOVECAPACITACAO - CONSULTORIA E TREINAMENTOS LTDA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Curso  de aperfeiçoamento, especialização profissional. Contratação do curso \" Planilha de custos, revisão, reajuste e repactuação de Contrato Administrativo s\".",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 6660.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2025-02-26T11:45:34",
+                "idCompra": "15845307000072020",
+                "idCompraItem": "1584530700007202000001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}
