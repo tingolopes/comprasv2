@@ -10,15 +10,15 @@ Write-Host ""
 
 # Lista de scripts na ordem lógica de dependência
 $Scripts = @(
-    "extrator_atas.py",                          # 2. Busca Atas (ARP)
-    "extrator_atas_itens_saldos_unidades.py",    # 4. Enriquece Atas (Itens/Saldos/Unidades)
+    "extrator_atas.py",                                     # 2. Busca Atas (ARP)
+    "extrator_atas_itens_saldos_unidadesParticipantes.py",  # 4. Enriquece Atas (Itens/Saldos/Unidades)
     
-    "extrator_compras.py",                       # 3. Busca Compras (Legado/14133)
-    "extrator_compras_itens.py",                 # 5. Enriquece Compras
-    
-    "gerar_banco_atas_itens_saldos.py",          # 6. Gera os 4 bancos de Atas (Mestre/Itens/Saldos/Partic)
-    "gerar_banco_compras.py",                    # 7. Gera Banco Compras
-    "gerar_banco_itens.py"                       # 8. Gera Itens Compras
+    "extrator_compras.py",                                  # 3. Busca Compras (Legado/14133)
+    "extrator_compras_itens.py",                            # 5. Enriquece Compras
+
+    "gerar_banco_atas_itens_saldos.py",                     # 6. Gera os 4 bancos de Atas (Mestre/Itens/Saldos/Partic)
+    "gerar_banco_compras.py",                               # 7. Gera Banco Compras
+    "gerar_banco_itens.py"                                  # 8. Gera Itens Compras
 )
 
 $Falhas = @()

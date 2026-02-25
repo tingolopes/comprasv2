@@ -13,6 +13,17 @@ MAPA_CODIGOS = {
     "1": "CONVITE", "2": "TOMADA DE PREÇOS", "3": "CONCORRÊNCIA"
 }
 
+UASGS = [
+    {"sigla": "RT", "codigo": "158132"}, {"sigla": "AQ", "codigo": "158448"},
+    {"sigla": "CG", "codigo": "158449"}, {"sigla": "CB", "codigo": "158450"},
+    {"sigla": "CX", "codigo": "158451"}, {"sigla": "DR", "codigo": "155848"},
+    {"sigla": "JD", "codigo": "155850"}, {"sigla": "NA", "codigo": "158452"},
+    {"sigla": "NV", "codigo": "155849"}, {"sigla": "PP", "codigo": "158453"},
+    {"sigla": "TL", "codigo": "158454"}
+]
+
+MAPA_SIGLAS = {u["codigo"]: u["sigla"] for u in UASGS}
+
 
 def limpar_texto(texto):
     if not texto or str(texto).lower() == "null":
@@ -99,10 +110,12 @@ def unificar():
         # Tenta em E5, depois em E1, depois na Master
         resp_decl = fontes.get("LEG_E5", {}).get("no_responsavel_decl_disp") or \
             fontes.get("LEG_E1", {}).get("no_responsavel_decl_disp") or \
+            fontes.get("LEG_E1", {}).get("nome_responsavel") or \
             m.get("no_responsavel_decl_disp") or ""
 
         cargo_decl = fontes.get("LEG_E5", {}).get("no_cargo_resp_decl_disp") or \
             fontes.get("LEG_E1", {}).get("no_cargo_resp_decl_disp") or \
+            fontes.get("LEG_E1", {}).get("funcao_responsavel") or \
             m.get("no_cargo_resp_decl_disp") or ""
 
         resp_ratif = fontes.get("LEG_E5", {}).get("no_responsavel_ratificacao") or \
@@ -124,15 +137,23 @@ def unificar():
                 if cod_num in MAPA_CODIGOS:
                     modalidade_final = MAPA_CODIGOS[cod_num]
 
+        # 1. Primeiro captura o código da UASG
+        uasg_codigo = str(m.get("co_uasg") or m.get("uasg") or m.get(
+            "unidadeOrgaoCodigoUnidade") or "").strip()
+
+        # 2. Busca a sigla no nosso mapa (se não achar, deixa vazio ou '??')
+        sigla_campus = MAPA_SIGLAS.get(uasg_codigo, "")
+
         registro = {
             "id_compra": id_c,
             "numero_controle_pncp": m.get("numeroControlePNCP") or "",
             "lei_14133": m.get("pertence14133", False) or (master_key == "PNCP"),
             "uasg": str(m.get("co_uasg") or m.get("uasg") or m.get("unidadeOrgaoCodigoUnidade") or "").strip(),
+            "sigla_campus": sigla_campus,  # Coluna nova com a sigla do campus
             "unidade_nome": m.get("no_ausg") or m.get("unidadeOrgaoNomeUnidade") or "",
             "modalidade": modalidade_final,
-            "objeto": limpar_texto(m.get("objetoCompra") or m.get("tx_objeto") or m.get("objeto") or m.get("ds_objeto_licitacao") or ""),
-            "responsavel_declaracao": limpar_texto(resp_decl),
+            "objeto": limpar_texto(m.get("objetoCompra") or m.get("tx_objeto") or m.get("objeto") or m.get("ds_objeto_licitacao") or m.get("ds_justificativa") or ""),
+            "responsavel_declaracao": resp_decl,
             "cargo_declaracao": limpar_texto(cargo_decl),
             "responsavel_ratificacao": limpar_texto(resp_ratif),
             "cargo_ratificacao": limpar_texto(cargo_ratif),

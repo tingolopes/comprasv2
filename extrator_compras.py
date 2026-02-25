@@ -35,7 +35,7 @@ CONFIG_APIS = {
     "LEI14133": {
         "base_url": "https://dadosabertos.compras.gov.br",
         "pasta": "temp_compras_14133",
-        "anos": list(range(2021, 2027)),
+        "anos": list(range(2021, datetime.now().year + 1)),
         "uasgs": [u for u in UASGS if u["sigla"] == "RT"],
         "modalidades": {3: "concorrencia", 5: "pregao", 6: "dispensa", 7: "inexigibilidade"},
         "path": "/modulo-contratacoes/1_consultarContratacoes_PNCP_14133"
@@ -90,8 +90,8 @@ def salvar_dados(caminho, url_base, params, conteudo, status="SUCESSO"):
 
 
 def consultar_api_robusto(url, params):
-    atraso = 4  # Começa com 4 segundos
-    for tentativa in range(1, 4):
+    atraso = 2  # Começa com 2 segundos
+    for tentativa in range(1, 3):  # 2 tentativas: 2s e 4s
         try:
             response = requests.get(url, params=params, timeout=30)
             if response.status_code == 200:
@@ -101,7 +101,7 @@ def consultar_api_robusto(url, params):
         except:
             pass
         time.sleep(atraso)
-        atraso *= 2  # Backoff: 4s -> 12s
+        atraso *= 2  # Backoff: 2s -> 4s
     return None, "FALHA"
 
 # --- PROCESSADORES PARA THREADS ---
