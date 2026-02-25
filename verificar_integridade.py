@@ -4,13 +4,13 @@ from collections import Counter
 
 # --- CONFIGURAÇÃO ---
 PASTAS_MONITORADAS = ["temp_atas_arp",
+                      "temp_atas_itens_id",
+                      "temp_atas_saldos_id",
+                      "temp_atas_unidades_id",
                       "temp_compras_14133",
                       "temp_compras_legado",
                       "temp_itens_14133_id",
-                      "temp_itens_atas_id",
-                      "temp_itens_legado_id",
-                      "temp_saldos_atas_id",
-                      "temp_unidades_atas_id"]
+                      "temp_itens_legado_id"]
 
 
 def realizar_checkup():
@@ -62,6 +62,7 @@ def realizar_checkup():
     print(f"📊 TOTAL:    {total_sucesso + total_falha}")
     print(f"✅ SUCESSOS: {total_sucesso}")
     print(f"❌ FALHAS:   {total_falha}")
+
 
 if __name__ == "__main__":
     realizar_checkup()

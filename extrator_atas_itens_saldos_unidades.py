@@ -10,9 +10,9 @@ from concurrent.futures import ThreadPoolExecutor, as_completed, wait, FIRST_COM
 # --- CONFIGURAÇÃO ---
 PASTAS = {
     "C_ATAS": "temp_atas_arp",
-    "I_ATAS": "temp_itens_atas_id",
-    "S_ATAS": "temp_saldos_atas_id",
-    "U_ATAS": "temp_unidades_atas_id"
+    "I_ATAS": "temp_atas_itens_id",
+    "S_ATAS": "temp_atas_saldos_id",
+    "U_ATAS": "temp_atas_unidades_id"
 }
 # Reduzido de 10 para 3 para evitar o erro 429 (Too Many Requests)
 MAX_WORKERS = 3

@@ -22,7 +22,7 @@ jobs:
       - name: 🚀 Executar Esteira de Dados
         run: |
           python extrator_atas.py || true
-          python extrator_atas_itens.py || true
+          python extrator_atas_itens_saldos_unidades.py || true
           python extrator_compras.py || true
           python extrator_compras_itens.py || true
           python gerar_banco_atas_itens_saldos.py || true
