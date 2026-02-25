@@ -89,10 +89,10 @@ def processar_uma_tarefa(t):
                                urlencode(
                                    {k: v for k, v in params.items() if k != 'numeroAta'})
                 response = requests.get(
-                    url_with_ata, headers=headers, timeout=60)
+                    url_with_ata, headers=headers, timeout=30)
             else:
                 response = requests.get(
-                    url_full, params=params, headers=headers, timeout=60)
+                    url_full, params=params, headers=headers, timeout=30)
 
             if response.status_code == 200:
                 dados = response.json()

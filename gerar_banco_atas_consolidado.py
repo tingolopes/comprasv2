@@ -158,7 +158,7 @@ def build():
         cols_final = ["numero_ata", "numero_item", "codigo_unidade", "nome_unidade", "tipo_participacao",
                       "qtd_reservada", "saldo_remanejamento", "qtd_empenhada", "saldo_empenho", "data_atualizacao_saldo"]
         df_final = df_merge[[c for c in cols_final if c in df_merge.columns]]
-        salvar_bases(df_final, "banco_atas_itens_saldos_unidadesParticipantes")
+        salvar_bases(df_final, "banco_atas_saldos_unidadesParticipantes")
 
     print(f"\n✨ Bases sincronizadas com o padrão original. Tudo pronto para o GitHub!")
 

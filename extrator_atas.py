@@ -67,7 +67,7 @@ def processar_tarefa(t):
     }
 
     try:
-        response = requests.get(BASE_URL, params=params, timeout=60)
+        response = requests.get(BASE_URL, params=params, timeout=30)
         if response.status_code == 200:
             dados = response.json()
             salvar_dados(arquivo, BASE_URL, params, dados, "SUCESSO")

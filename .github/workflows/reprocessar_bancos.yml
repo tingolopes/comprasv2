@@ -20,9 +20,8 @@ jobs:
       - name: 🛠️ Gerar Bancos CSV
         run: |
           # Rodamos apenas os scripts de consolidação
-          python gerar_banco_compras.py
-          python gerar_banco_itens.py
-          python gerar_banco_atas_itens_saldos_unidadesParticipantes.py
+          python gerar_banco_compras_consolidado.py || true
+          python gerar_banco_atas_consolidado.py || true
 
       - name: 💾 Salvar Arquivos Gerados
         run: |

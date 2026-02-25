@@ -77,7 +77,7 @@ def processar_uma_tarefa(t):
         # BACKOFF: Tentativas contra Erro 429
         for tentativa in range(3):
             try:
-                response = requests.get(url_full, params=params, timeout=60)
+                response = requests.get(url_full, params=params, timeout=30)
                 if response.status_code == 200:
                     dados = response.json()
                     status = "SUCESSO"
