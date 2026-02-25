@@ -15,11 +15,11 @@ def localizar_pastas():
             continue
         if "atas_arp" in d:
             pastas["ATAS"] = d
-        elif "itens_atas_id" in d:
+        elif "atas_itens_id" in d:
             pastas["ITENS"] = d
-        elif "saldos_atas_id" in d:
+        elif "atas_saldos_id" in d:
             pastas["SALDOS"] = d
-        elif "unidades_atas_id" in d:
+        elif "atas_unidades_id" in d:
             pastas["UNIDADES"] = d
     return pastas
 
