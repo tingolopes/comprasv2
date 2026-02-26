@@ -1,0 +1,17 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-material/5_consultarMaterialNaturezaDespesa?pagina=1&codigoPdm=19586",
+        "data_extracao": "2026-02-26 15:05:48",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "codigoPdm": 19586,
+                "codigoNaturezaDespesa": "33903007",
+                "nomeNaturezaDespesa": "MATERIAL DE CONSUMO - GENEROS DE ALIMENTACAO",
+                "statusNaturezaDespesa": true
+            }
+        ]
+    }
+}

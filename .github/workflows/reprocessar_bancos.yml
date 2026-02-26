@@ -17,11 +17,9 @@ jobs:
       - name: Instalar Dependencias
         run: pip install pandas pyarrow
 
-      - name: 🛠️ Gerar Bancos CSV
+      - name: 🛠️ Reprocessar apenas as bases de dados
         run: |
-          # Rodamos apenas os scripts de consolidação
-          python gerar_banco_compras_consolidado.py || true
-          python gerar_banco_atas_consolidado.py || true
+          python main_executor.py banco || true
 
       - name: 💾 Salvar Arquivos Gerados
         run: |

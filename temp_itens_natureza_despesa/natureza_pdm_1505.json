@@ -1,0 +1,17 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-material/5_consultarMaterialNaturezaDespesa?pagina=1&codigoPdm=1505",
+        "data_extracao": "2026-02-26 15:01:24",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "codigoPdm": 1505,
+                "codigoNaturezaDespesa": "33903044",
+                "nomeNaturezaDespesa": "MATERIAL DE CONSUMO - MATERIAL DE SINALIZACAO VISUAL E OUTROS",
+                "statusNaturezaDespesa": true
+            }
+        ]
+    }
+}

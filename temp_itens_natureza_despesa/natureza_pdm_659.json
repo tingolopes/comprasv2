@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-material/5_consultarMaterialNaturezaDespesa?pagina=1&codigoPdm=659",
+        "data_extracao": "2026-02-26 15:00:21",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "codigoPdm": 659,
+                "codigoNaturezaDespesa": "44905196",
+                "nomeNaturezaDespesa": "OBRAS E INSTALACOES - ALMOXARIFADO DE OBRAS",
+                "statusNaturezaDespesa": true
+            },
+            {
+                "codigoPdm": 659,
+                "codigoNaturezaDespesa": "33903024",
+                "nomeNaturezaDespesa": "MATERIAL DE CONSUMO - MATERIAL P/ MANUT.DE BENS IMOVEIS/INSTALACOES",
+                "statusNaturezaDespesa": true
+            },
+            {
+                "codigoPdm": 659,
+                "codigoNaturezaDespesa": "44903024",
+                "nomeNaturezaDespesa": "MATERIAL DE CONSUMO - MATERIAL DE CONSTRUCAO",
+                "statusNaturezaDespesa": true
+            }
+        ]
+    }
+}

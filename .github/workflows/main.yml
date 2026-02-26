@@ -19,17 +19,9 @@ jobs:
       - name: Instalar Dependencias
         run: pip install requests pandas pyarrow
 
-      - name: 🚀 Executar Esteira de Dados
+      - name: 🚀 Executar Esteira Completa de Dados
         run: |
-          # Extração dos dados
-          python extrator_atas.py || true
-          python extrator_atas_itens_saldos_unidadesParticipantes.py || true
-          python extrator_compras.py || true
-          python extrator_compras_itens.py || true
-          
-          # Geração das bases de dados
-          python gerar_banco_compras_consolidado.py || true
-          python gerar_banco_atas_consolidado.py || true
+          python main_executor.py tudo || true
 
       - name: 💾 Salvar Bases e Cache no GitHub
         run: |

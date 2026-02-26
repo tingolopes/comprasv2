@@ -1,0 +1,17 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-material/5_consultarMaterialNaturezaDespesa?pagina=1&codigoPdm=14302",
+        "data_extracao": "2026-02-26 15:04:44",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "codigoPdm": 14302,
+                "codigoNaturezaDespesa": "44905230",
+                "nomeNaturezaDespesa": "EQUIPAMENTOS E MATERIAL PERMANENTE - MAQUINAS E EQUIPAMENTOS ENERGETICOS",
+                "statusNaturezaDespesa": true
+            }
+        ]
+    }
+}

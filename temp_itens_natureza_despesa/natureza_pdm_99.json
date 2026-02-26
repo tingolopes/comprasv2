@@ -1,0 +1,47 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-material/5_consultarMaterialNaturezaDespesa?pagina=1&codigoPdm=99",
+        "data_extracao": "2026-02-26 15:00:13",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "codigoPdm": 99,
+                "codigoNaturezaDespesa": "33903016",
+                "nomeNaturezaDespesa": "MATERIAL DE CONSUMO - MATERIAL DE EXPEDIENTE",
+                "statusNaturezaDespesa": true
+            },
+            {
+                "codigoPdm": 99,
+                "codigoNaturezaDespesa": "33909292",
+                "nomeNaturezaDespesa": "DESPESAS DE EXERCICIOS ANTERIORES - MATERIAL DE CONSUMO",
+                "statusNaturezaDespesa": true
+            },
+            {
+                "codigoPdm": 99,
+                "codigoNaturezaDespesa": "33903205",
+                "nomeNaturezaDespesa": "MATERIAL, BEM OU SERVICO P/ DISTRIB. GRATUITA - MERCADORIAS PARA DOACAO",
+                "statusNaturezaDespesa": true
+            },
+            {
+                "codigoPdm": 99,
+                "codigoNaturezaDespesa": "33903207",
+                "nomeNaturezaDespesa": "MATERIAL, BEM OU SERVICO P/ DISTRIB. GRATUITA - MATERIAL PARA CERIMONIAL",
+                "statusNaturezaDespesa": true
+            },
+            {
+                "codigoPdm": 99,
+                "codigoNaturezaDespesa": "33903209",
+                "nomeNaturezaDespesa": "MATERIAL, BEM OU SERVICO P/ DISTRIB. GRATUITA - MATERIAL PARA DIVULGACAO",
+                "statusNaturezaDespesa": true
+            },
+            {
+                "codigoPdm": 99,
+                "codigoNaturezaDespesa": "44903016",
+                "nomeNaturezaDespesa": "MATERIAL DE CONSUMO - MATERIAL DE EXPEDIENTE",
+                "statusNaturezaDespesa": true
+            }
+        ]
+    }
+}

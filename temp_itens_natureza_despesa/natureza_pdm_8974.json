@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-material/5_consultarMaterialNaturezaDespesa?pagina=1&codigoPdm=8974",
+        "data_extracao": "2026-02-26 15:02:44",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "codigoPdm": 8974,
+                "codigoNaturezaDespesa": "33903022",
+                "nomeNaturezaDespesa": "MATERIAL DE CONSUMO - MATERIAL DE LIMPEZA E PROD. DE HIGIENIZACAO",
+                "statusNaturezaDespesa": true
+            },
+            {
+                "codigoPdm": 8974,
+                "codigoNaturezaDespesa": "33903028",
+                "nomeNaturezaDespesa": "MATERIAL DE CONSUMO - MATERIAL DE PROTECAO E SEGURANCA",
+                "statusNaturezaDespesa": true
+            }
+        ]
+    }
+}

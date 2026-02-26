@@ -1,0 +1,17 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-material/5_consultarMaterialNaturezaDespesa?pagina=1&codigoPdm=12",
+        "data_extracao": "2026-02-26 15:00:12",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "codigoPdm": 12,
+                "codigoNaturezaDespesa": "33903016",
+                "nomeNaturezaDespesa": "MATERIAL DE CONSUMO - MATERIAL DE EXPEDIENTE",
+                "statusNaturezaDespesa": true
+            }
+        ]
+    }
+}
