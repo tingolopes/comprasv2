@@ -1,6 +1,6 @@
 # Ignorar arquivos brutos (Data Lake)
-#temp/
-#temp_*/
+temp/
+temp_*/
 
 # Permitir os bancos de dados consolidados
 !data/
