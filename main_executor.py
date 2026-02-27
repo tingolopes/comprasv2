@@ -32,17 +32,17 @@ def main():
 
     # Listas de scripts por fase
     extracao = [
-        "extrator_atas.py",
-        "extrator_compras.py",
-        "extrator_compras_itens.py",
-        "extrator_natureza_despesa.py",
-        "extrator_atas_itens_saldos_unidadesParticipantes.py"
+        "extractors/extrator_atas.py",
+        "extractors/extrator_compras.py",
+        "extractors/extrator_compras_itens.py",
+        "extractors/extrator_natureza_despesa.py",
+        "extractors/extrator_atas_itens_saldos_unidadesParticipantes.py"
     ]
 
     bancos = [
-        "gerar_banco_naturezas.py",
-        "gerar_banco_licitacoes_master.py",
-        "gerar_banco_compras_consolidado.py"
+        "generators/gerar_banco_atas_consolidado.py",
+        "generators/gerar_banco_compras_consolidado.py",
+        "generators/gerar_banco_naturezas.py",
     ]
 
     # Lógica de Orquestração baseada no parâmetro
