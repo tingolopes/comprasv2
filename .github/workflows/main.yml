@@ -1,15 +1,27 @@
 name: Atualizacao Diaria IFMS
 on:
   schedule:
-    - cron: '0 3 * * *' # Roda às 03:00 da manhã (horário UTC)
-  workflow_dispatch:   # Botão para rodar manualmente
+    - cron: '0 3 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    # Adicionamos permissão de escrita para o robô poder salvar os CSVs
+    permissions:
+      contents: write
+
     steps:
       - name: Checkout do codigo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4 # Atualizado para v4 (mais estável)
+
+      - name: 🔄 Restaurar Cache do Data Lake (JSONs)
+        uses: actions/cache@v3
+        with:
+          path: temp/
+          key: ${{ runner.os }}-data-lake-v1
+          restore-keys: |
+            ${{ runner.os }}-data-lake-
 
       - name: Configurar Python 3.11
         uses: actions/setup-python@v4
@@ -21,12 +33,17 @@ jobs:
 
       - name: 🚀 Executar Esteira Completa de Dados
         run: |
+          # O main_executor chama tudo na ordem correta
           python main_executor.py tudo || true
 
-      - name: 💾 Salvar Bases e Cache no GitHub
+      - name: 💾 Salvar Bases Consolidadas no GitHub
         run: |
           git config --global user.name 'Michell-Bot'
           git config --global user.email 'tingolopes@gmail.com'
-          git add *.csv temp_*/
-          git commit -m "Auto-update: $(date +'%Y-%m-%d %H:%M')" || exit 0
+          
+          # 1. Adicionamos apenas os CSVs (que o Power BI usa)
+          # 2. Ignoramos a pasta temp/ para não travar o Git
+          git add data/*.csv
+          
+          git commit -m "Auto-update Bases: $(date +'%Y-%m-%d %H:%M')" || exit 0
           git push
