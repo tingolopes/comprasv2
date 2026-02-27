@@ -2,6 +2,9 @@
 temp/
 temp_*/
 
+# Ignorar o arquivo Power BI
+*.pbix
+
 # Permitir os bancos de dados consolidados
 !data/
 !data/*.csv
