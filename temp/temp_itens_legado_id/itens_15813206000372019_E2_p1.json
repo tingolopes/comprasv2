@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000372019",
+        "data_extracao": "2026-02-13 11:23:18",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 45619549,
+                "numeroLicitacao": "158132063720191",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 372019,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 64920,
+                "nomeMaterial": "BUFFET, BUFFET NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "10426851000154",
+                "nomeFornecedor": "PRIME BUFFET MS LTDA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Coffee Break para 260 pessoas contendo: Salgados Assados: esfirra de carne, Tr ouxinha de Frango, Enroladinho de Presunto e Queijo, Folhado de Queijo. Salgad o Frito: Coxinha de Frango,Bolinha de Queijo,Sanduiche pão arabe de peito de p eru,Sanduiche de Pão de Forma Presunto e Queijo. Doces: Bolo de Cenoura com Co bertura de Chocolate, Bolo de Coco, 01 Tipo de Petiti Four. Bebidas:02 tiipos de Suco, refrigerante, café com e sem Açucar. Mais os materias descartaveis pa ra servir.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 3055.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000372019",
+                "idCompraItem": "1581320600037201900001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

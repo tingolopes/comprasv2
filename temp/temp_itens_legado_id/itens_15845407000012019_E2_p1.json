@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845407000012019",
+        "data_extracao": "2026-02-13 11:34:30",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 43779735,
+                "numeroLicitacao": "15845407120191",
+                "uasg": 158454,
+                "nomeUasg": "INST.F.ED.,CIENC.E TEC DE MS/C.TRÊS LAGOAS",
+                "modalidade": 7,
+                "nomeModalidade": "INEXIGIBILIDADE DE LICITAÇÃO",
+                "numeroAviso": 12019,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 16152,
+                "nomeServico": "PUBLICACAO LIVRO / MATERIA - PERIODICA / OFICIAL",
+                "cnpjFornecedor": "09168704000142",
+                "nomeFornecedor": "EMPRESA BRASIL DE COMUNICACAO S.A. - EBC",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Contratação de órgão oficial para distribuição de publicidade legal Empresa Brasil de Comunicação S.A. EBC",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 7500.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:45:00",
+                "idCompra": "15845407000012019",
+                "idCompraItem": "1584540700001201900001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

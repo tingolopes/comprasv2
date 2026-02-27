@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000352023",
+        "data_extracao": "2026-02-13 11:30:19",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 56088331,
+                "numeroLicitacao": "158132063520232",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 352023,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": 463990,
+                "nomeMaterial": "AÇÚCAR, TIPO CRISTAL  CARACTERÍSTICA ADICIONAL ORGÂNICO",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "30553576000147",
+                "nomeFornecedor": "D. DA SILVA DUARTE TRANSPORTE LTDA",
+                "quantidade": null,
+                "unidade": "Embalagem",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1419.6,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-05-20T08:43:00",
+                "idCompra": "15813206000352023",
+                "idCompraItem": "1581320600035202300002"
+            },
+            {
+                "isnSidecResultadoCompra": 56088330,
+                "numeroLicitacao": "158132063520231",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 352023,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 463990,
+                "nomeMaterial": "AÇÚCAR, TIPO CRISTAL  CARACTERÍSTICA ADICIONAL ORGÂNICO",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "30553576000147",
+                "nomeFornecedor": "D. DA SILVA DUARTE TRANSPORTE LTDA",
+                "quantidade": null,
+                "unidade": "Embalagem",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1495.2,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-05-20T08:43:00",
+                "idCompra": "15813206000352023",
+                "idCompraItem": "1581320600035202300001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

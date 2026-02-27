@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845406000102016",
+        "data_extracao": "2026-02-13 11:32:21",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845406000102016",
+                "idCompraItem": "1584540600010201600001",
+                "coUasg": 158454,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 10,
+                "dtAnoAvisoLicitacao": 2016,
+                "nuInciso": "02",
+                "nuProcesso": "23347020681201682",
+                "vrEstimado": 2400.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Valor abaixo de R$ 8.000.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "APIO CARNIELO E SILVA",
+                "noCargoRespDeclDisp": "Ordenador de Despesa",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 817,
+                "noServico": "CONSULTORIA E ASSESSORIA - MEIO AMBIENTE",
+                "dsDetalhada": "Contratação de empresa ou Pessoa Física especializada para prestação de serviç os de consultoria para a regularização do licenciamento ambiental do Campus Tr ês Lagoas. Incluso: Pedido de GDU e estudo de impacto a vizinhança acompanhado  de ART. Elaboração do Layout e Croqui de localização. Elaboração do Estudo (R AS), (PTCA), Cadastro descritivo de atividade, Requerimento Padrão e ART. Publ icação do DOE e Jornal Local, impressão, xerox dos documentos e plotagens.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "Serviço",
+                "vrEstimadoItem": 2400.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PF",
+                "nuCnpjVencedor": null,
+                "nuCpfVencedor": "***520301**",
+                "noFornecedorVencedor": "FERNANDO VIDA DA SILVA",
+                "dtAlteracao": "2024-04-08T11:45:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

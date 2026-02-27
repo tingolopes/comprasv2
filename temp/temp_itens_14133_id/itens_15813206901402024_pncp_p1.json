@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-contratacoes/2.1_consultarItensContratacoes_PNCP_14133_Id?tipo=idCompra&codigo=15813206901402024&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-13 10:49:42",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206901402024",
+                "idCompraItem": "1581320690140202400001",
+                "idContratacaoPNCP": "10673078000120-1-000013/2024",
+                "unidadeOrgaoCodigoUnidade": "158132",
+                "orgaoEntidadeCnpj": "10673078000120",
+                "numeroItemPncp": 1,
+                "numeroItemCompra": 1,
+                "numeroGrupo": 0,
+                "descricaoResumida": "Serviço bancário Serviço bancário",
+                "materialOuServico": "S",
+                "materialOuServicoNome": "Serviço",
+                "codigoClasse": null,
+                "codigoGrupo": 712,
+                "codItemCatalogo": 13811,
+                "descricaodetalhada": "Serviço bancário Serviço bancário",
+                "unidadeMedida": "UNIDADE",
+                "orcamentoSigiloso": false,
+                "itemCategoriaIdPncp": 3,
+                "itemCategoriaNome": "Informática (TIC)",
+                "criterioJulgamentoIdPncp": 7,
+                "criterioJulgamentoNome": "Não se aplica",
+                "situacaoCompraItem": "2",
+                "situacaoCompraItemNome": "Homologado",
+                "tipoBeneficio": "5",
+                "tipoBeneficioNome": "Não se aplica",
+                "incentivoProdutivoBasico": false,
+                "quantidade": 1.0,
+                "valorUnitarioEstimado": 0.01,
+                "valorTotal": 0.01,
+                "temResultado": true,
+                "codFornecedor": "00000000000191",
+                "nomeFornecedor": "BANCO DO BRASIL SA",
+                "quantidadeResultado": 1.0,
+                "valorUnitarioResultado": 0.01,
+                "valorTotalResultado": 0.01,
+                "dataInclusaoPncp": "2024-03-26T17:13:15",
+                "dataAtualizacaoPncp": "2024-03-26T17:13:17",
+                "dataResultado": "2024-03-26 00:00:00.0000000",
+                "margemPreferenciaNormal": false,
+                "percentualMargemPreferenciaNormal": null,
+                "margemPreferenciaAdicional": false,
+                "percentualMargemPreferenciaAdicional": null,
+                "codigoNCM": null,
+                "descricaoNCM": null,
+                "numeroControlePNCPCompra": "10673078000120-1-000013/2024"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

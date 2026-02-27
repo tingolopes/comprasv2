@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15584906000162020",
+        "data_extracao": "2026-02-13 11:10:39",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 47987112,
+                "numeroLicitacao": "155849061620202",
+                "uasg": 155849,
+                "nomeUasg": "INSTITUTO FEDERAL DE MS/CAMPUS NAVIRAÍ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 162020,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": 73814,
+                "nomeMaterial": "PLAQUETA DE IDENTIFICACAO PATRIMONIAL, PLAQUETA DE IDENTIFICACAO PATRIMONIAL NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "27745509000110",
+                "nomeFornecedor": "SILVEIRA & DALMAS LTDA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Plaqueta de identificação patrimonial plaqueta, material liga de alumínio le ve, com medidas 46 x 15 x 0,3 mm, formato retangular com bordas arredondadas, furos para rebite de diâmetro 3,3 mm, centralizados no sentido da largura.  O verso contendo auto-adesivo protegido, modelo 3M 468 ou similar de igual quali dade ou superior. A frente contendo arte personalizada em fundo branco e verde , com logo do IFMS, código de barras legível por leitor comum. Abaixo do códig o deverá trazer o número associado correspondente, legível, na cor preta, em a lgarismo arábico, fonte não serifada, contendo 10 (dez) algarismos, escolhidos de 0 a 9. Impressão por meio de foto-anodização selada/fosqueada, resistente a produtos químicos tais como thinner, álcool, querosene, limpadores multi-uso , ceras, detergentes, alvejantes, gasolina e outros. Revestimento por verniz p rotetivo. Conforme ilustração e imagens em anexo. Lotes a serem solicitados sob demanda, durante a vigência do contrato, sendo cada pedido constituído po r, no mínimo, 1.000 unidades.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 2286.65,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:38:00",
+                "idCompra": "15584906000162020",
+                "idCompraItem": "1558490600016202000002"
+            },
+            {
+                "isnSidecResultadoCompra": 47987111,
+                "numeroLicitacao": "155849061620201",
+                "uasg": 155849,
+                "nomeUasg": "INSTITUTO FEDERAL DE MS/CAMPUS NAVIRAÍ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 162020,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 73814,
+                "nomeMaterial": "PLAQUETA DE IDENTIFICACAO PATRIMONIAL, PLAQUETA DE IDENTIFICACAO PATRIMONIAL NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "27745509000110",
+                "nomeFornecedor": "SILVEIRA & DALMAS LTDA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Plaqueta de identificação patrimonial plaqueta, material liga de alumínio le ve, com medidas 46 x 15 x 0,3 mm, formato retangular com bordas arredondadas, furos para rebite de diâmetro 3,3 mm, centralizados no sentido da largura.  O verso contendo auto-adesivo protegido, modelo 3M 468 ou similar de igual quali dade ou superior. A frente contendo arte personalizada em fundo branco e verde , com logo do IFMS, código de barras legível por leitor comum. Abaixo do códig o deverá trazer o número associado correspondente, legível, na cor preta, em a lgarismo arábico, fonte não serifada, contendo 10 (dez) algarismos, escolhidos de 0 a 9. Impressão por meio de foto-anodização selada/fosqueada, resistente a produtos químicos tais como thinner, álcool, querosene, limpadores multi-uso , ceras, detergentes, alvejantes, gasolina e outros. Revestimento por verniz p rotetivo. Conforme ilustração e imagens em anexo. Lote único a ser solicita do após assinatura do contrato (pronta entrega).",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 2200.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:38:00",
+                "idCompra": "15584906000162020",
+                "idCompraItem": "1558490600016202000001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

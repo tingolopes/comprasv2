@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-contratacoes/2.1_consultarItensContratacoes_PNCP_14133_Id?tipo=idCompra&codigo=15813206002882024&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-13 10:49:54",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206002882024",
+                "idCompraItem": "1581320600288202400001",
+                "idContratacaoPNCP": "10673078000120-1-000110/2024",
+                "unidadeOrgaoCodigoUnidade": "158132",
+                "orgaoEntidadeCnpj": "10673078000120",
+                "numeroItemPncp": 1,
+                "numeroItemCompra": 1,
+                "numeroGrupo": 0,
+                "descricaoResumida": "Administração / Execução Projeto Educacional - Convênio / Estágio / Universitário / Monitor Contratação de fundação de apoio para gerenciar o projeto intitulado “Centro de Referência de Inclusão e Inovação na Educação- CREIE\"\n",
+                "materialOuServico": "S",
+                "materialOuServicoNome": "Serviço",
+                "codigoClasse": null,
+                "codigoGrupo": 929,
+                "codItemCatalogo": 15156,
+                "descricaodetalhada": "Administração / Execução Projeto Educacional - Convênio / Estágio / Universitário / Monitor Contratação de fundação de apoio para gerenciar o projeto intitulado “Centro de Referência de Inclusão e Inovação na Educação- CREIE\"\n",
+                "unidadeMedida": "UNIDADE",
+                "orcamentoSigiloso": false,
+                "itemCategoriaIdPncp": 3,
+                "itemCategoriaNome": "Informática (TIC)",
+                "criterioJulgamentoIdPncp": 7,
+                "criterioJulgamentoNome": "Não se aplica",
+                "situacaoCompraItem": "2",
+                "situacaoCompraItemNome": "Homologado",
+                "tipoBeneficio": "5",
+                "tipoBeneficioNome": "Não se aplica",
+                "incentivoProdutivoBasico": false,
+                "quantidade": 1.0,
+                "valorUnitarioEstimado": 700000.0,
+                "valorTotal": 700000.0,
+                "temResultado": true,
+                "codFornecedor": "04845150000157",
+                "nomeFornecedor": "FUNDACAO DE APOIO E DESENVOLVIMENTO DA UNIVERSIDADE FEDERAL DE MATO GROSSO",
+                "quantidadeResultado": 1.0,
+                "valorUnitarioResultado": 700000.0,
+                "valorTotalResultado": 700000.0,
+                "dataInclusaoPncp": "2024-12-12T09:04:32",
+                "dataAtualizacaoPncp": "2024-12-12T09:38:36",
+                "dataResultado": "2024-12-12 00:00:00.0000000",
+                "margemPreferenciaNormal": false,
+                "percentualMargemPreferenciaNormal": null,
+                "margemPreferenciaAdicional": false,
+                "percentualMargemPreferenciaAdicional": null,
+                "codigoNCM": null,
+                "descricaoNCM": null,
+                "numeroControlePNCPCompra": "10673078000120-1-000110/2024"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

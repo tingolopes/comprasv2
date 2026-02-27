@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-contratacoes/2.1_consultarItensContratacoes_PNCP_14133_Id?tipo=idCompra&codigo=15813207002192024&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-13 11:43:35",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813207002192024",
+                "idCompraItem": "1581320700219202400001",
+                "idContratacaoPNCP": "10673078000120-1-000071/2024",
+                "unidadeOrgaoCodigoUnidade": "158132",
+                "orgaoEntidadeCnpj": "10673078000120",
+                "numeroItemPncp": 1,
+                "numeroItemCompra": 1,
+                "numeroGrupo": 0,
+                "descricaoResumida": "Bancada acabamento: revestimento em laminado melamínico, altura: 87, aplicação: mobiliário para laboratorio, comprimento: 52, cor: branca, espessura: 25, largura: 120, material: mdf, tipo: módulo em vão livre com acessibilidade",
+                "materialOuServico": "M",
+                "materialOuServicoNome": "Material",
+                "codigoClasse": 5670,
+                "codigoGrupo": null,
+                "codItemCatalogo": 622108,
+                "descricaodetalhada": "Bancada acabamento: revestimento em laminado melamínico, altura: 87, aplicação: mobiliário para laboratorio, comprimento: 52, cor: branca, espessura: 25, largura: 120, material: mdf, tipo: módulo em vão livre com acessibilidade",
+                "unidadeMedida": "Unidade",
+                "orcamentoSigiloso": false,
+                "itemCategoriaIdPncp": 3,
+                "itemCategoriaNome": "Informática (TIC)",
+                "criterioJulgamentoIdPncp": 7,
+                "criterioJulgamentoNome": "Não se aplica",
+                "situacaoCompraItem": "2",
+                "situacaoCompraItemNome": "Homologado",
+                "tipoBeneficio": "5",
+                "tipoBeneficioNome": "Não se aplica",
+                "incentivoProdutivoBasico": false,
+                "quantidade": 1.0,
+                "valorUnitarioEstimado": 183617.49,
+                "valorTotal": 183617.49,
+                "temResultado": true,
+                "codFornecedor": "57582793000111",
+                "nomeFornecedor": "FESTO BRASIL LTDA",
+                "quantidadeResultado": 1.0,
+                "valorUnitarioResultado": 183617.49,
+                "valorTotalResultado": 183617.49,
+                "dataInclusaoPncp": "2024-10-03T18:36:38",
+                "dataAtualizacaoPncp": "2024-10-03T18:39:39",
+                "dataResultado": "2024-10-03 00:00:00.0000000",
+                "margemPreferenciaNormal": false,
+                "percentualMargemPreferenciaNormal": null,
+                "margemPreferenciaAdicional": false,
+                "percentualMargemPreferenciaAdicional": null,
+                "codigoNCM": null,
+                "descricaoNCM": null,
+                "numeroControlePNCPCompra": "10673078000120-1-000071/2024"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845306000152020",
+        "data_extracao": "2026-02-13 11:16:28",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845306000152020",
+                "idCompraItem": "1584530600015202000001",
+                "coUasg": 158453,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 15,
+                "dtAnoAvisoLicitacao": 2020,
+                "nuInciso": "02",
+                "nuProcesso": "233470091532020  ",
+                "vrEstimado": 1800.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Lei nº 8.666 de 21/06/1993, Art.24, Inciso II.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "CRISTINA APARECIDA CORREA AJALA",
+                "noCargoRespDeclDisp": "Assistente em Administração",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 876,
+                "noServico": "PERICIA / LAUDO / AVALIACAO - TECNICA",
+                "dsDetalhada": "Laudo e avaliação Elaboração do laudo elétrico, RRT (registro de responsabilid ade técnica, honorário mais elaboração de pedido de alvará, para fins de renov ação do Certificado de Vistoria do Instituto Federal de Educação, Ciência e Te cnologia de Mato Grosso do Sul   Campus Ponta Porã/MS       .",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 1800.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "18275274000159",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "M.S. EXTINTORES E EQUIPAMENTOS DE SEGURANCA LTDA",
+                "dtAlteracao": "2024-04-08T11:41:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/4.1_consultarItensPregoes_Id?id_compra=15813205000152023",
+        "data_extracao": "2026-02-13 11:42:34",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158132,
+                    "coItem": 31370952
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "Impressora Térmica Resolução: 203 DPI, Tipo Conexão: Serial Rs232 E Usb 2.0 , Compatibilidade: Windows 7 Ou Superior , Aplicação: Impressão De Etiquetas",
+                "descricaoItem": "Impressora térmica",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "1400.00",
+                "quantidadeItem": "10",
+                "situacaoItem": "homologado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "Unidade",
+                "valorHomologadoItem": "1380.00",
+                "valorEstimadoItem": "2048.85",
+                "valorNegociado": "1380.00",
+                "idCompra": "15813205000152023",
+                "idCompraItem": "1581320500015202300001",
+                "noAdjudic": "RAFAEL GABRIEL",
+                "noHom": "WALTERISIO GONCALVES CARNEIRO JUNIOR",
+                "dtEncerramento": "2023-10-24",
+                "dtAdjudic": "2023-11-10",
+                "dtHom": "2023-10-31",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            },
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158132,
+                    "coItem": 31370954
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "Ribbon Material: Cera/Resina , Largura: 110 MM, Comprimento: 110 M, Cor: Preta , Aplicação: Impressora Térmica",
+                "descricaoItem": "Ribbon",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "104.00",
+                "quantidadeItem": "250",
+                "situacaoItem": "homologado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "Unidade",
+                "valorHomologadoItem": "104.00",
+                "valorEstimadoItem": "121.55",
+                "valorNegociado": null,
+                "idCompra": "15813205000152023",
+                "idCompraItem": "1581320500015202300003",
+                "noAdjudic": "RAFAEL GABRIEL",
+                "noHom": "WALTERISIO GONCALVES CARNEIRO JUNIOR",
+                "dtEncerramento": "2023-10-24",
+                "dtAdjudic": "2023-11-10",
+                "dtHom": "2023-10-31",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            },
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158132,
+                    "coItem": 31370953
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "Etiqueta Personalizada Material: Poliéster , Cor: Prata , Largura: 45 MM, Comprimento: 20 MM, Formato: Retangular , Características Adicionais: Auto-Adesiva, Conforme Modelo Do Órgão , Tipo Cor: Fosca , Apresentação: Bobina Com 1000 Etiquetas",
+                "descricaoItem": "Etiqueta personalizada",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "37.50",
+                "quantidadeItem": "500",
+                "situacaoItem": "homologado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "Unidade",
+                "valorHomologadoItem": "37.50",
+                "valorEstimadoItem": "55.03",
+                "valorNegociado": null,
+                "idCompra": "15813205000152023",
+                "idCompraItem": "1581320500015202300002",
+                "noAdjudic": "RAFAEL GABRIEL",
+                "noHom": "WALTERISIO GONCALVES CARNEIRO JUNIOR",
+                "dtEncerramento": "2023-10-24",
+                "dtAdjudic": "2023-11-10",
+                "dtHom": "2023-10-31",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 3,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

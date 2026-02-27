@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-contratacoes/2.1_consultarItensContratacoes_PNCP_14133_Id?tipo=idCompra&codigo=15813207002132024&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-13 11:43:22",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813207002132024",
+                "idCompraItem": "1581320700213202400001",
+                "idContratacaoPNCP": "10673078000120-1-000035/2024",
+                "unidadeOrgaoCodigoUnidade": "158132",
+                "orgaoEntidadeCnpj": "10673078000120",
+                "numeroItemPncp": 1,
+                "numeroItemCompra": 1,
+                "numeroGrupo": 0,
+                "descricaoResumida": "LICENCIAMENTO DE DIREITOS PERMANENTES  DE  USO  DE  SOFTWAREPARA SERVIDOR LICENCIAMENTO DE DIREITOS PERMANENTES  DE  USO  DE  SOFTWAREPARA SERVIDOR",
+                "materialOuServico": "S",
+                "materialOuServicoNome": "Serviço",
+                "codigoClasse": null,
+                "codigoGrupo": 182,
+                "codItemCatalogo": 27464,
+                "descricaodetalhada": "LICENCIAMENTO DE DIREITOS PERMANENTES  DE  USO  DE  SOFTWAREPARA SERVIDOR LICENCIAMENTO DE DIREITOS PERMANENTES  DE  USO  DE  SOFTWAREPARA SERVIDOR",
+                "unidadeMedida": "UNIDADE",
+                "orcamentoSigiloso": false,
+                "itemCategoriaIdPncp": 3,
+                "itemCategoriaNome": "Informática (TIC)",
+                "criterioJulgamentoIdPncp": 7,
+                "criterioJulgamentoNome": "Não se aplica",
+                "situacaoCompraItem": "2",
+                "situacaoCompraItemNome": "Homologado",
+                "tipoBeneficio": "5",
+                "tipoBeneficioNome": "Não se aplica",
+                "incentivoProdutivoBasico": false,
+                "quantidade": 12.0,
+                "valorUnitarioEstimado": 1795.77,
+                "valorTotal": 21549.24,
+                "temResultado": true,
+                "codFornecedor": "76659820000151",
+                "nomeFornecedor": "ASSOCIACAO PARANAENSE DE CULTURA - APC",
+                "quantidadeResultado": 12.0,
+                "valorUnitarioResultado": 1795.77,
+                "valorTotalResultado": 21549.24,
+                "dataInclusaoPncp": "2024-06-07T10:06:24",
+                "dataAtualizacaoPncp": "2024-06-07T10:06:25",
+                "dataResultado": "2024-06-07 00:00:00.0000000",
+                "margemPreferenciaNormal": false,
+                "percentualMargemPreferenciaNormal": null,
+                "margemPreferenciaAdicional": false,
+                "percentualMargemPreferenciaAdicional": null,
+                "codigoNCM": null,
+                "descricaoNCM": null,
+                "numeroControlePNCPCompra": "10673078000120-1-000035/2024"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

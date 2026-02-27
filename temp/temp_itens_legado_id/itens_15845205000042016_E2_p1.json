@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845205000042016",
+        "data_extracao": "2026-02-13 11:37:01",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 40030689,
+                "numeroLicitacao": "15845205420162",
+                "uasg": 158452,
+                "nomeUasg": "INST.F.DE ED.,CIENC.E TEC.DO MS/C.N ANDRADINA",
+                "modalidade": 5,
+                "nomeModalidade": "PREGÃO",
+                "numeroAviso": 42016,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 1260,
+                "nomeServico": "INFORMATICA - MANUTENCAO/INSTALACAO SISTEMAS / PERIFERICOS",
+                "cnpjFornecedor": "21986368000140",
+                "nomeFornecedor": "NETVOX TECNOLOGIA EM TELECOMUNICACOES EIRELI - EPP",
+                "quantidade": 1,
+                "unidade": "SERV",
+                "descricaoItem": "Serviço de instalação de software, incluindo deslocamento, alimentação e hospe dagem.",
+                "beneficio": "Beneficio Tipo I - Participacao Exclusiva de ME/EPP/COOPERATIVA",
+                "valorEstimado": 3050.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:40:00",
+                "idCompra": "15845205000042016",
+                "idCompraItem": "1584520500004201600002"
+            },
+            {
+                "isnSidecResultadoCompra": 40030688,
+                "numeroLicitacao": "15845205420161",
+                "uasg": 158452,
+                "nomeUasg": "INST.F.DE ED.,CIENC.E TEC.DO MS/C.N ANDRADINA",
+                "modalidade": 5,
+                "nomeModalidade": "PREGÃO",
+                "numeroAviso": 42016,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 1260,
+                "nomeServico": "INFORMATICA - MANUTENCAO/INSTALACAO SISTEMAS / PERIFERICOS",
+                "cnpjFornecedor": "21986368000140",
+                "nomeFornecedor": "NETVOX TECNOLOGIA EM TELECOMUNICACOES EIRELI - EPP",
+                "quantidade": 2,
+                "unidade": "SERV",
+                "descricaoItem": "Serviço de upgrade de licença Alvarion B14 para B100.",
+                "beneficio": "Beneficio Tipo I - Participacao Exclusiva de ME/EPP/COOPERATIVA",
+                "valorEstimado": 23600.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:40:00",
+                "idCompra": "15845205000042016",
+                "idCompraItem": "1584520500004201600001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

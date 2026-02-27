@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845307000022019",
+        "data_extracao": "2026-02-13 11:16:24",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 44850760,
+                "numeroLicitacao": "15845307220191",
+                "uasg": 158453,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MT/C.P.PORÃ",
+                "modalidade": 7,
+                "nomeModalidade": "INEXIGIBILIDADE DE LICITAÇÃO",
+                "numeroAviso": 22019,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 18821,
+                "nomeServico": "TREINAMENTO / CAPACITACAO - SEGURANCA INDUSTRIAL",
+                "cnpjFornecedor": "44075687000108",
+                "nomeFornecedor": "FEDERACAO BRASILEIRA DE ASSOCIACOES DE BIBLIOTECARIOS, CIENTISTAS DA INFORMACAO",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Pagamento de inscrição de participação em evento CBDD/2019 em Vitoria/ES no dia 01 a 04 de outubro de 2019 XI Seminário Brasileiro de Bibliotecas das In stituições da Rede Federal de Educação Profissional, Científica e Tecnológica.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1200.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:41:00",
+                "idCompra": "15845307000022019",
+                "idCompraItem": "1584530700002201900001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

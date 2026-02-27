@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-contratacoes/2.1_consultarItensContratacoes_PNCP_14133_Id?tipo=idCompra&codigo=15813206900182024&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-13 10:51:09",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206900182024",
+                "idCompraItem": "1581320690018202400001",
+                "idContratacaoPNCP": "10673078000120-1-000053/2024",
+                "unidadeOrgaoCodigoUnidade": "158132",
+                "orgaoEntidadeCnpj": "10673078000120",
+                "numeroItemPncp": 1,
+                "numeroItemCompra": 1,
+                "numeroGrupo": 0,
+                "descricaoResumida": "Pá para desfibrilador",
+                "materialOuServico": "M",
+                "materialOuServicoNome": "Material",
+                "codigoClasse": 6515,
+                "codigoGrupo": null,
+                "codItemCatalogo": 453771,
+                "descricaodetalhada": "PÁ PARA DESFIBRILADOR, TIPO EQUIPAMENTO: EXTERNO AUTOMÁTICO - DEA , MODELO: TIPO ELETRODO, ADESIVA , TAMANHO: ADULTO , APRESENTAÇÃO*: PAR , COMPATIBILIDADE: C/ COMPATIBILIDADE ESPECÍFICA , ESTERILIDADE: DESCARTÁVEL ",
+                "unidadeMedida": "Par  ",
+                "orcamentoSigiloso": false,
+                "itemCategoriaIdPncp": 3,
+                "itemCategoriaNome": "Informática (TIC)",
+                "criterioJulgamentoIdPncp": 1,
+                "criterioJulgamentoNome": "Menor preço",
+                "situacaoCompraItem": "4",
+                "situacaoCompraItemNome": "Deserto",
+                "tipoBeneficio": "1",
+                "tipoBeneficioNome": "Participação exclusiva para ME/EPP",
+                "incentivoProdutivoBasico": false,
+                "quantidade": 3.0,
+                "valorUnitarioEstimado": 589.42,
+                "valorTotal": 1768.26,
+                "temResultado": null,
+                "codFornecedor": null,
+                "nomeFornecedor": null,
+                "quantidadeResultado": null,
+                "valorUnitarioResultado": null,
+                "valorTotalResultado": null,
+                "dataInclusaoPncp": "2024-08-23T15:55:40",
+                "dataAtualizacaoPncp": "2024-09-06T11:30:06",
+                "dataResultado": null,
+                "margemPreferenciaNormal": false,
+                "percentualMargemPreferenciaNormal": null,
+                "margemPreferenciaAdicional": false,
+                "percentualMargemPreferenciaAdicional": null,
+                "codigoNCM": null,
+                "descricaoNCM": null,
+                "numeroControlePNCPCompra": "10673078000120-1-000053/2024"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

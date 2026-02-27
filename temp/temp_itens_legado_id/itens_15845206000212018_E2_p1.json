@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845206000212018",
+        "data_extracao": "2026-02-13 11:06:07",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 43563827,
+                "numeroLicitacao": "158452062120181",
+                "uasg": 158452,
+                "nomeUasg": "INST.F.DE ED.,CIENC.E TEC.DO MS/C.N ANDRADINA",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 212018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 68330,
+                "nomeMaterial": "BIBLIOCANTO, BIBLIOCANTO NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "16765103000182",
+                "nomeFornecedor": "THAISA FREITAS CANHESTRO 08002101669",
+                "quantidade": null,
+                "unidade": "UN",
+                "descricaoItem": "BIBLIOCANTO  EM  AÇO.  MATERIAL:  CHAPA  DE  AÇO  DE  BAIXO TEOR  DE  CARBONO COM  ESPESSURA  MÍNIMA  DE  0,90  MM. COR:  CINZA.  ACABAMENTO:  PINTURA  ELE TROSTÁTICA  A  PÓ, SOL  DAS  DEVEM  POSSUIR  SUPERFÍCIE  LISA  E  HOMOGÊNEA, N ÃO  DEVENDO  APRESENTAR  PONTOS  CORTANTES, SUPERFÍCIES ÁSPERAS OU ESCÓRIAS, ELIMINAR RESPINGOS E  VOLUMES  DE  SOL  DA,  REBARBAS,  ESMERILHAR JUNTAS  E ARREDONDAR  QUINAS  AGUDAS,  TRATAMENTO  QUÍMICO  DA CHAPA  (ANTI-F ERRUGINOSO  E  FOSFOTIZANTE).  DIMENSÕES MÍNIMAS: ALT. 17 CM X L ARG. 10 CM X PROF. 10 CM. DEMAIS CARACTERÍSTICAS: DOBRADO EM FORMA DE L.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 641.7,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:40:00",
+                "idCompra": "15845206000212018",
+                "idCompraItem": "1584520600021201800001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

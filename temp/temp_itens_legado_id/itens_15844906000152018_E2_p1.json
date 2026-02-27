@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15844906000152018",
+        "data_extracao": "2026-02-13 09:47:34",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 42135942,
+                "numeroLicitacao": "158449061520181",
+                "uasg": 158449,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.C.GRANDE",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 152018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 3557,
+                "nomeServico": "INSTALACAO / MANUTENCAO - ELEVADORES, ESCADAS ROLANTES,  MONTA - CARGAS / PLATAFORMA / ESCADAS",
+                "cnpjFornecedor": "27555840000177",
+                "nomeFornecedor": "SULLIFT ELEVADORES LTDA",
+                "quantidade": null,
+                "unidade": "Serviço",
+                "descricaoItem": "REPARO DO MODULO VVVF4+ DO OPERADOR DE PORTA DA CABINE",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 480.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:27:00",
+                "idCompra": "15844906000152018",
+                "idCompraItem": "1584490600015201800001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

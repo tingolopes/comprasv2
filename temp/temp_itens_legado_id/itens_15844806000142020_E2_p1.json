@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15844806000142020",
+        "data_extracao": "2026-02-13 09:40:29",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 48176087,
+                "numeroLicitacao": "158448061420202",
+                "uasg": 158448,
+                "nomeUasg": "INST.FED.DE ED.,CIENT.E TEC.DE MS/C.AQUIDAUAN",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 142020,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": 418300,
+                "nomeMaterial": "FITA ADESIVA, MATERIAL POLIPROPILENO TRANSPARENTE  TIPO ROTULADORA  LARGURA 24 MM COMPRIMENTO 8 M COR BRANCA  APLICAÇÃO ROTULADOR ELETRÔNICO MARCA BROTHER  CARACTERÍSTICAS ADICIONAIS LAMINADA, IMPRESSÃO NA COR PRETA",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "27494420000128",
+                "nomeFornecedor": "SOARES COMERCIO E LICITACOES LTDA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 486.64,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-05-30T10:46:00",
+                "idCompra": "15844806000142020",
+                "idCompraItem": "1584480600014202000002"
+            },
+            {
+                "isnSidecResultadoCompra": 48176086,
+                "numeroLicitacao": "158448061420201",
+                "uasg": 158448,
+                "nomeUasg": "INST.FED.DE ED.,CIENT.E TEC.DE MS/C.AQUIDAUAN",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 142020,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 279197,
+                "nomeMaterial": "FITA ADESIVA, MATERIAL PLÁSTICO  TIPO ROTULADORA  LARGURA 12 MM COMPRIMENTO 8 M COR BRANCA  APLICAÇÃO ROTULADOR ELETRÔNICO MARCA BROTHER, MODELO P-TOUCH",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "27494420000128",
+                "nomeFornecedor": "SOARES COMERCIO E LICITACOES LTDA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 457.65,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-05-30T10:46:00",
+                "idCompra": "15844806000142020",
+                "idCompraItem": "1584480600014202000001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

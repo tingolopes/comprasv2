@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000982020",
+        "data_extracao": "2026-02-13 11:24:37",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 47786722,
+                "numeroLicitacao": "158132069820202",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 982020,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 26808,
+                "nomeServico": "OUTSOURCING DE IMPRESSAO  - LOCACAO DE EQUIPAMENTO - POLICROMATICO A3",
+                "cnpjFornecedor": "73505349000230",
+                "nomeFornecedor": "H2L EQUIPAMENTOS E SISTEMAS LTDA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Outsourcing de impressão  locação de equipamento 21 máquinas 10 Multifun cionais ECOSYS M3540idn 10 impressoras ECOSYS P6035cdn e 01 multifuncional c olorida A3 TASKalfa 3051ci",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 22791.72,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000982020",
+                "idCompraItem": "1581320600098202000002"
+            },
+            {
+                "isnSidecResultadoCompra": 47786721,
+                "numeroLicitacao": "158132069820201",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 982020,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 26700,
+                "nomeServico": "OUTSOURCING DE IMPRESSAO - PAGINAS A4 - POLICROMATICO - EXCEDENTE A FRANQUIA - COM PAPEL",
+                "cnpjFornecedor": "73505349000230",
+                "nomeFornecedor": "H2L EQUIPAMENTOS E SISTEMAS LTDA",
+                "quantidade": null,
+                "unidade": "Página",
+                "descricaoItem": "Outsourcing de impressão de 44.252 páginas monocromáticas e coloridas A4 e Col orida A3 pelo período máximo de 04 (quatro) meses",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 6205.5,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000982020",
+                "idCompraItem": "1581320600098202000001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

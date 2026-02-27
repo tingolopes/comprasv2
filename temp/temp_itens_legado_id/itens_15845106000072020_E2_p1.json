@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845106000072020",
+        "data_extracao": "2026-02-13 10:15:56",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 48134745,
+                "numeroLicitacao": "15845106720201",
+                "uasg": 158451,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.COXIM",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 72020,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 5789,
+                "nomeServico": "INSTALACAO/ MANUTENCAO DE VIDRO TEMPERADO/  LAMINADO/CRISTAL / ACRILICO /EM PORTA / JANELA / BOX",
+                "cnpjFornecedor": "17087031000124",
+                "nomeFornecedor": "J R C MORALES",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Serviços de vidraçaria para fins de manutenção em portas e janelas de vidro te mperado, bem como substituição de vidros danificados, contemplando o fornecime nto de todos os materiais, insumos, equipamentos e mão de obra necessários, vi sando atender as necessidades do IFMS Campus Coxim. Local de Execução: Coxim MS.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 3700.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-12-11T10:06:46",
+                "idCompra": "15845106000072020",
+                "idCompraItem": "1584510600007202000001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

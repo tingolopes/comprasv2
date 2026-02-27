@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813207000122019",
+        "data_extracao": "2026-02-13 11:23:40",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813207000122019",
+                "idCompraItem": "1581320700012201900001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 12,
+                "dtAnoAvisoLicitacao": 2019,
+                "nuInciso": "02",
+                "nuProcesso": "23347021290201928",
+                "vrEstimado": 25000.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 25º, Inciso II com Art. 13, Inciso VI da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Capacitação dos servidores que estão diretamente envolvidos na execução das apropriações/liquidações das despesas.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "HEBERTON LUIZ DUARTE RODRIGUES",
+                "noCargoRespDeclDisp": "Gestor Financeiro",
+                "noResponsavelRatificacao": "DELMIR DA COSTA FELIPE",
+                "noCargoRespRatificacao": "Ordenador de Despesa por Delegação",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 18821,
+                "noServico": "TREINAMENTO / CAPACITACAO - SEGURANCA INDUSTRIAL",
+                "dsDetalhada": "Capacitação de 13 servidores do IFMS no Curso de GESTÃO TRIBUTÁRIA DE CONTRATO S E CONVÊNIOS.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 25000.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "09094300000151",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "OPEN TREINAMENTOS EMPRESARIAIS E EDITORA LTDA",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00098%2F2025&unidadeGerenciadora=158132&numeroItem=00002&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:58:25",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00098/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00002",
+                "codigoPdm": "13850",
+                "descricaoItem": "PLÁSTICO ADESIVO, MATERIAL VINIL, LARGURA 1,40 M, CARACTERÍSTICAS ADICIONAIS IMPRESSÃO CONFORME MODELO, APLICAÇÃO VIDRO, TIPO AUTO ADESIVA, ALTURA 60 CM, IMPRESSÃO COLORIDA",
+                "fornecedor": "08726196000108 - RPR CRIACOES GRAFICAS LTDA",
+                "quantidadeRegistrada": 80.0,
+                "saldoAdesoes": 160.0,
+                "saldoRemanejamentoEmpenho": 80.0,
+                "qtdLimiteAdesao": 160.0,
+                "qtdLimiteInformadoCompra": 160.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2025-08-19T15:42:43",
+                "dataHoraAtualizacao": "2025-08-19T15:42:43",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

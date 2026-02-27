@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813206000182017",
+        "data_extracao": "2026-02-13 11:19:20",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000182017",
+                "idCompraItem": "1581320600018201700001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 18,
+                "dtAnoAvisoLicitacao": 2017,
+                "nuInciso": "02",
+                "nuProcesso": "23347017108201772",
+                "vrEstimado": 4000.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Compra de baixo vulto.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "DIEGO HENRIQUE PEREIRA DE VIVEIROS",
+                "noCargoRespDeclDisp": "Gestor Financeiro",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 150530,
+                "noConjuntoMateriais": null,
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "Folhetos, impressão offset, colorido frente e verso (4/4), papel couchê fosco 120g/m², tamanho 20,5cm x 20,5cm, mesma matriz para frente e verso dividido em  matrizes diferentes.",
+                "qtMaterialAlt": 42000,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 4000.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "N/A",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "07214945000155",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "ECKOGRAF SOLUCOES IMPRESSAS LTDA - ME",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

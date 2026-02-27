@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845406000042019",
+        "data_extracao": "2026-02-13 11:33:35",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845406000042019",
+                "idCompraItem": "1584540600004201900001",
+                "coUasg": 158454,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 4,
+                "dtAnoAvisoLicitacao": 2019,
+                "nuInciso": "02",
+                "nuProcesso": "23347005778201916",
+                "vrEstimado": 800.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Compra com valor inferior à R$17.600,00.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "APIO CARNIELO E SILVA",
+                "noCargoRespDeclDisp": "Ordenador de Despesa",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 17612,
+                "noServico": "LOCACAO GUARITA / CABINE SANITARIA",
+                "dsDetalhada": "Locação de cabine sanitária (com limpeza) construída em polietileno de alta de nsidade, com caixa de dejetos com assento e tampa, suporte para papel higiênic o (com papel higiênico), dispenser para álcool em gel (com álcool em gel), pis o antiderrapante, identificação(masc/fem), ponto de ventilação natural, sistem a de trava com chave. Com  instalação e retirada em local a ser indica da pela  contratante. São 2 banheiros masculinos e 2 banheiros femininos.",
+                "qtMaterialAlt": 4,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 800.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "09136712000107",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "LAERCIO CANDIDO",
+                "dtAlteracao": "2024-04-08T11:45:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

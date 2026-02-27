@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845105000012016",
+        "data_extracao": "2026-02-13 11:36:19",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 38474791,
+                "numeroLicitacao": "15845105120162",
+                "uasg": 158451,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.COXIM",
+                "modalidade": 5,
+                "nomeModalidade": "PREGÃO",
+                "numeroAviso": 12016,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": 40363,
+                "nomeMaterial": "ESTRUTURA PRÉ-FABRICADA - TORRE BÁSICA, ESTRUTURA TUBULAR PRE - FABRICADA NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": null,
+                "nomeFornecedor": null,
+                "quantidade": 89,
+                "unidade": "PEÇA",
+                "descricaoItem": "SUPORTE PARA BICICLETAS COM 5 VAGAS, DO TIPO PARACICLO DIAGONAL, PARA SER APAR AFUSADO AO CHÃO OU À PAREDE",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 26602.1,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:32:00",
+                "idCompra": "15845105000012016",
+                "idCompraItem": "1584510500001201600002"
+            },
+            {
+                "isnSidecResultadoCompra": 38474790,
+                "numeroLicitacao": "15845105120161",
+                "uasg": 158451,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.COXIM",
+                "modalidade": 5,
+                "nomeModalidade": "PREGÃO",
+                "numeroAviso": 12016,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 40363,
+                "nomeMaterial": "ESTRUTURA PRÉ-FABRICADA - TORRE BÁSICA, ESTRUTURA TUBULAR PRE - FABRICADA NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": null,
+                "nomeFornecedor": null,
+                "quantidade": 15,
+                "unidade": "PEÇA",
+                "descricaoItem": "PARACICLO CONJUGADO HORIZONTAL COM 6 VAGAS, MODELO U-INVERTIDO (SHEFFIELD), PA RA SER APARAFUSADO AO CHÃO",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 0.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:32:00",
+                "idCompra": "15845105000012016",
+                "idCompraItem": "1584510500001201600001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

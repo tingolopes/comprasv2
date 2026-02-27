@@ -1,0 +1,24 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/4_consultarEmpenhosSaldoItem?numeroAta=00104%2F2025&unidadeGerenciadora=158132&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-27 07:35:29",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroItem": "00016",
+                "unidade": "158132 - INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipo": "GERENCIADORA",
+                "quantidadeRegistrada": 16000.0,
+                "quantidadeEmpenhada": 16000.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-09-24T18:25:46"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

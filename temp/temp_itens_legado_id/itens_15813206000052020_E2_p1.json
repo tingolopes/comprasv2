@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000052020",
+        "data_extracao": "2026-02-13 11:23:46",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 46038793,
+                "numeroLicitacao": "15813206520201",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 52020,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 369672,
+                "nomeMaterial": "CONJUNTO ELÉTRICO, COMPONENTES CABOS E ADAPTADORES  APLICAÇÃO UTILIZAÇÃO NO ESTÚDIO NA LIGAÇÃO DA CÂMERA AO SWIT  TIPO LIGAÇÃO",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "15525934000114",
+                "nomeFornecedor": "ELETRICA ZAN LTDA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 13350.32,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-01-10T13:11:00",
+                "idCompra": "15813206000052020",
+                "idCompraItem": "1581320600005202000001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

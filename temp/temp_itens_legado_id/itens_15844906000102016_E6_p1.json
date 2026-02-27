@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15844906000102016",
+        "data_extracao": "2026-02-13 09:45:45",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15844906000102016",
+                "idCompraItem": "1584490600010201600001",
+                "coUasg": 158449,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 10,
+                "dtAnoAvisoLicitacao": 2016,
+                "nuInciso": "02",
+                "nuProcesso": "23347014112201606",
+                "vrEstimado": 1872.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Licitação para aquisição de bens de pequeno vulto.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "JOAO OTAVIO CENEDEZI PIMENTA",
+                "noCargoRespDeclDisp": "Diretor de Administração",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 41920,
+                "noConjuntoMateriais": "CABO COBRE FLEXIVEL",
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "Cabo flexível 10mm2 750V",
+                "qtMaterialAlt": 600,
+                "noUnidadeMedida": "Metros",
+                "vrEstimadoItem": 1872.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "Corfio",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "15525934000114",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "ELETRICA ZAN LTDA",
+                "dtAlteracao": "2024-04-08T11:27:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

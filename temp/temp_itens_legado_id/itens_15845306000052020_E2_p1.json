@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845306000052020",
+        "data_extracao": "2026-02-13 11:15:53",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 46510057,
+                "numeroLicitacao": "15845306520201",
+                "uasg": 158453,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MT/C.P.PORÃ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 52020,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 2020,
+                "nomeServico": "AR CONDICIONADO - INSTALACAO/MONTAGEM/DESMONATAGEM/REMOÇÃO -(PAREDE / SISTEMAS)",
+                "cnpjFornecedor": "12282201000108",
+                "nomeFornecedor": "J S AR CONDICIONADO EIRELI",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Ar condicionado Serviço de Instalação de condicionador ar split piso teto fr io 30.000 BTU/S. Com até 4metros de rede frigorigena aparente e drenagem em PV C até o solo, sem ponto elétrico e fornecimento de todos os materiais e mão de obra .ESPECIFICAÇÕES TÉCNICAS: Condicionador Ar tipo split piso teto; Capacid ade Refrigeração (Btu/h): 30.000; Ciclo: Frio; Tensão, Frequência, Fases (V, H Z, 0): 220/60/; Potência (Refrig) (W): 4.050; Corrente (Refrig) (A): 22,0; EER (Btu/h.W): 8,9; COP (W/W): 2,60; Resfriamento rápido; Reinicio Automático; Au to Diagnósti co; Timer; Controle Remoto; Filtro; Classificação energética: até D; Dimensões aproximadas (LxAxP) (mm): Unidade Interna: 1350x220x650; Unidade Externa: 870x1060x320; Peso Liquido (kg) Unidade Interna: 35; Unidade Externa :80",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 5400.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:41:00",
+                "idCompra": "15845306000052020",
+                "idCompraItem": "1584530600005202000001"
+            },
+            {
+                "isnSidecResultadoCompra": 46510058,
+                "numeroLicitacao": "15845306520202",
+                "uasg": 158453,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MT/C.P.PORÃ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 52020,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 3492,
+                "nomeServico": "AR CONDICIONADO - MANUTENCAO DE APARELHOS DE PAREDE",
+                "cnpjFornecedor": "12282201000108",
+                "nomeFornecedor": "J S AR CONDICIONADO EIRELI",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Ar condicionado Manutenção e Limpeza e revisão com trocas de peças e carga d e gás, ou seja, todo o material para o pleno funcionamento dos aparelhos.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 2100.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:41:00",
+                "idCompra": "15845306000052020",
+                "idCompraItem": "1584530600005202000002"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

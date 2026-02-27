@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845307000032020",
+        "data_extracao": "2026-02-13 11:16:44",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 46946227,
+                "numeroLicitacao": "15845307320201",
+                "uasg": 158453,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MT/C.P.PORÃ",
+                "modalidade": 7,
+                "nomeModalidade": "INEXIGIBILIDADE DE LICITAÇÃO",
+                "numeroAviso": 32020,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 17663,
+                "nomeServico": "CURSO APERFEICOAMENTO / ESPECIALIZACAO PROFISSIONAL",
+                "cnpjFornecedor": "11128083000115",
+                "nomeFornecedor": "SUPERCIA CAPACITACAO E MARKETING EIRELI",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Curso aperfeiçoamento, especialização profissional, Curso que trata sobre Estu dos Técnicos Preliminares (ETP) segundo a IN-ME 40/2020 Aquisição de bens, ser viços e obras de engenharia na administração direta e nas estatais.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 23520.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2025-02-26T11:45:34",
+                "idCompra": "15845307000032020",
+                "idCompraItem": "1584530700003202000001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

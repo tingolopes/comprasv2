@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/4.1_consultarItensPregoes_Id?id_compra=15813205000212015",
+        "data_extracao": "2026-02-13 11:42:10",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158132,
+                    "coItem": 16509986
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "Conjunto de mesa e quatro bancos de jardim, formato redondo, confeccionado em concreto, com pintura na cor  concreto . Mesa medindo 80x80cm (tampo), com tabuleiro (pintado) para jogo de xadrez med 40 x 40cm,  100 cm de altura e 10 mm de espessura, pé redondo maciço de 20cm de diâmetro. Bancos medindo 30x30cm (assento), 50 cm de altura e 10 mm de espessura, com pé redondo maciço de 15cm de diâmetro. Sistema de apoio com pés redondos maciços na base que dispensam outro tipo de fixação no solo. Devem atender às especificações da NBR 12655 e NBR 7212.",
+                "descricaoItem": "MOBILIARIO CONCRETO",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "299.99",
+                "quantidadeItem": "10",
+                "situacaoItem": "cancelado na adjudicação",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "Conjunto",
+                "valorHomologadoItem": null,
+                "valorEstimadoItem": "195.00",
+                "valorNegociado": null,
+                "idCompra": "15813205000212015",
+                "idCompraItem": "1581320500021201500002",
+                "noAdjudic": "ALFREDO GONCALVES BEDA",
+                "noHom": "LUIZ SIMAO STASZCZAK",
+                "dtEncerramento": "2016-02-15",
+                "dtAdjudic": "2016-02-15",
+                "dtHom": "2016-02-25",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            },
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158132,
+                    "coItem": 16509985
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "Banco de concreto armado, tipo universitário, ´namoradeira de praça´ com dimensões 1,30 m x 0,30 m x 0,40 m, confeccionado com estrutura de ferro armado. Com serviço de instalação incluído.",
+                "descricaoItem": "BANCO",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "500.00",
+                "quantidadeItem": "20",
+                "situacaoItem": "cancelado na adjudicação",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "Unidade",
+                "valorHomologadoItem": null,
+                "valorEstimadoItem": "259.00",
+                "valorNegociado": null,
+                "idCompra": "15813205000212015",
+                "idCompraItem": "1581320500021201500001",
+                "noAdjudic": "ALFREDO GONCALVES BEDA",
+                "noHom": "LUIZ SIMAO STASZCZAK",
+                "dtEncerramento": "2016-02-15",
+                "dtAdjudic": "2016-02-15",
+                "dtHom": "2016-02-25",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

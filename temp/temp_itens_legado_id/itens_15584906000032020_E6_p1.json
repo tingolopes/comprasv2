@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15584906000032020",
+        "data_extracao": "2026-02-13 11:10:11",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15584906000032020",
+                "idCompraItem": "1558490600003202000001",
+                "coUasg": 155849,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 3,
+                "dtAnoAvisoLicitacao": 2020,
+                "nuInciso": "02",
+                "nuProcesso": "23347001007202085",
+                "vrEstimado": 625.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Nem a dispensa, nem a soma anual das despesas na respectiva natureza de despesa ultrapassam o limite do art. 24, II.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "PEDRO JORGE CARDOSO DA SILVA RODRIGUES",
+                "noCargoRespDeclDisp": "Coordenador de Materiais",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 237384,
+                "noConjuntoMateriais": null,
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": null,
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 625.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "Desconhecida",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "20061633000117",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "L3 SOFTWARE LTDA",
+                "dtAlteracao": "2024-04-08T11:38:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

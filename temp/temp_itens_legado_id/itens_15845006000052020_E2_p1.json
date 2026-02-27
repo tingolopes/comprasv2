@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845006000052020",
+        "data_extracao": "2026-02-13 09:45:06",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 46133470,
+                "numeroLicitacao": "15845006520201",
+                "uasg": 158450,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.CORUMBÁ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 52020,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 456250,
+                "nomeMaterial": "GÁS COMPRIMIDO, NOME ARGÔNIO  ASPECTO FÍSICO INCOLOR, INODORO  FÓRMULA QUÍMICA AR  MASSA MOLECULAR 39,94 G/MOL GRAU DE PUREZA PUREZA MÍNIMA DE 99,997%  NÚMERO DE REFERÊNCIA QUÍMICA CAS 7440-37-1",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "17929916000123",
+                "nomeFornecedor": "OXI MORENA COMERCIO DE OXIGENIO EIRELI",
+                "quantidade": null,
+                "unidade": "Metro cúbico",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 3120.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-12-02T07:48:00",
+                "idCompra": "15845006000052020",
+                "idCompraItem": "1584500600005202000001"
+            },
+            {
+                "isnSidecResultadoCompra": 46133471,
+                "numeroLicitacao": "15845006520202",
+                "uasg": 158450,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.CORUMBÁ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 52020,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": 395368,
+                "nomeMaterial": "CILINDRO GÁS, MATERIAL AÇO  TIPO GÁS ARGÔNIO  VOLUME 10 M3",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "33618396000194",
+                "nomeFornecedor": "FABRICIO RACHADEL COSTA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1840.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-05-13T17:21:00",
+                "idCompra": "15845006000052020",
+                "idCompraItem": "1584500600005202000002"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

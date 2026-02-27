@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813207000272022",
+        "data_extracao": "2026-02-13 11:29:20",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813207000272022",
+                "idCompraItem": "1581320700027202200001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 27,
+                "dtAnoAvisoLicitacao": 2022,
+                "nuInciso": "02",
+                "nuProcesso": "23347007935202215",
+                "vrEstimado": 108625.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": "Objeto: Assinatura anual de ferramenta on-line                              - Banco de Preços - de pesquisa e comparação de                              preços praticados pela Administração Pública.",
+                "dsFundamentoLegal": "Fundamento Legal: Art. 25º, Inciso II da Lei nº 8.666 de 21º/06/1993.",
+                "dsJustificativa": "Justificativa: Contratação de serviço técnico de natureza singular.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "ELAINE BORGES MONTEIRO CASSIANO",
+                "noCargoRespDeclDisp": "Ordenadora de Despesas",
+                "noResponsavelRatificacao": "HEBERTON LUIZ DUARTE RODRIGUES",
+                "noCargoRespRatificacao": "Gestora Financeira",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 23108,
+                "noServico": "ASSINATURA DE JORNAIS E PERIODICOS / ACERVO BIBLIOGRÁFICO - COM ACESSO 0N-LINE",
+                "dsDetalhada": "Assinatura de Jornais e Periódicos / ACERVO BIBLIOGRÁFICO - com Acesso-On-Line . Assinatura anual de ferramenta on-line - Banco de Preços - de pesquisa e com paração de preços praticados pela Administração Pública. São 11 assinaturas pa ra atender o IFMS.",
+                "qtMaterialAlt": 11,
+                "noUnidadeMedida": "UNIDADE",
+                "vrEstimadoItem": 108625.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "07797967000195",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "NP TECNOLOGIA E GESTAO DE DADOS LTDA",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

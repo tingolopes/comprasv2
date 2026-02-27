@@ -1,0 +1,50 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/2_consultarARPItem?codigoUnidadeGerenciadora=158132&dataVigenciaInicialMin=2025-12-22&dataVigenciaInicialMax=2025-12-22&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:07:21",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAtaRegistroPreco": "00184/2025",
+                "codigoUnidadeGerenciadora": "158132",
+                "numeroCompra": "90149",
+                "anoCompra": "2025",
+                "codigoModalidadeCompra": "05",
+                "dataAssinatura": "2025-12-19T00:00:00",
+                "dataVigenciaInicial": "2025-12-22",
+                "dataVigenciaFinal": "2026-12-22",
+                "numeroItem": "00030",
+                "codigoItem": 453298,
+                "descricaoItem": "CORTINA AR, MATERIAL METAL E PLÁSTICO, COMPRIMENTO 90 CM, POTÊNCIA 190 W, TENSÃO 220 V, VAZÃO 1.400 M3",
+                "tipoItem": "Material",
+                "quantidadeHomologadaItem": 2.0,
+                "classificacaoFornecedor": "001",
+                "niFornecedor": "26930358000107",
+                "nomeRazaoSocialFornecedor": "FL SUPRIMENTOS DE INFORMATICA LTDA",
+                "quantidadeHomologadaVencedor": 2,
+                "valorUnitario": 776.0,
+                "valorTotal": 1552.0,
+                "maximoAdesao": 4.0,
+                "nomeUnidadeGerenciadora": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "nomeModalidadeCompra": "Pregão",
+                "idCompra": "15813205901492025",
+                "numeroControlePncpCompra": "10673078000120-1-000097/2025",
+                "dataHoraInclusao": "2025-12-22T18:26:08",
+                "dataHoraAtualizacao": "2025-12-22T18:26:08",
+                "quantidadeEmpenhada": 0.0,
+                "percentualMaiorDesconto": 0.0,
+                "situacaoSicaf": "1",
+                "dataHoraExclusao": null,
+                "itemExcluido": false,
+                "numeroControlePncpAta": "10673078000120-1-000097/2025-000006",
+                "codigoPdm": 15255,
+                "nomePdm": "CORTINA AR"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

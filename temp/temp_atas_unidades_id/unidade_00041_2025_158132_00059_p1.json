@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00041%2F2025&unidadeGerenciadora=158132&numeroItem=00059&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:38:12",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00041/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00059",
+                "codigoPdm": "00593",
+                "descricaoItem": "PNEU TRATOR RODAS TRAÇÃO, LARGURA SEÇÃO PNEU 7,50 POL, DIÂMETRO NOMINAL ARO 16 POL, QUANTIDADE LONAS 8 UN, TIPO ESTRUTURA CARCAÇA DIAGONAL, CARACTERÍSTICAS ADICIONAIS COM CÂMARA",
+                "fornecedor": "09026761000197 - MAURIVAN VICENTE E CIA LTDA",
+                "quantidadeRegistrada": 0.0,
+                "saldoAdesoes": 4.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 4.0,
+                "qtdLimiteInformadoCompra": 4.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2025-05-23T10:37:04",
+                "dataHoraAtualizacao": "2025-05-23T12:23:25",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            },
+            {
+                "numeroAta": "00041/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00059",
+                "codigoPdm": "00593",
+                "descricaoItem": "PNEU TRATOR RODAS TRAÇÃO, LARGURA SEÇÃO PNEU 7,50 POL, DIÂMETRO NOMINAL ARO 16 POL, QUANTIDADE LONAS 8 UN, TIPO ESTRUTURA CARCAÇA DIAGONAL, CARACTERÍSTICAS ADICIONAIS COM CÂMARA",
+                "fornecedor": "09026761000197 - MAURIVAN VICENTE E CIA LTDA",
+                "quantidadeRegistrada": 2.0,
+                "saldoAdesoes": 4.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 4.0,
+                "qtdLimiteInformadoCompra": 4.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2025-05-23T10:38:35",
+                "dataHoraAtualizacao": "2025-12-31T09:55:47",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158452",
+                "nomeUnidade": "INST. FED. DO MS/CAMPUS NOVA ANDRADINA",
+                "tipoUnidade": "PARTICIPANTE"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

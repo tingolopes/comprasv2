@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-material/5_consultarMaterialNaturezaDespesa?pagina=1&codigoPdm=13388",
+        "data_extracao": "2026-02-26 15:03:48",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "codigoPdm": 13388,
+                "codigoNaturezaDespesa": "33903205",
+                "nomeNaturezaDespesa": "MATERIAL, BEM OU SERVICO P/ DISTRIB. GRATUITA - MERCADORIAS PARA DOACAO",
+                "statusNaturezaDespesa": true
+            },
+            {
+                "codigoPdm": 13388,
+                "codigoNaturezaDespesa": "33903007",
+                "nomeNaturezaDespesa": "MATERIAL DE CONSUMO - GENEROS DE ALIMENTACAO",
+                "statusNaturezaDespesa": true
+            },
+            {
+                "codigoPdm": 13388,
+                "codigoNaturezaDespesa": "33903203",
+                "nomeNaturezaDespesa": "MATERIAL, BEM OU SERVICO P/ DISTRIB. GRATUITA - MATERIAL DESTINADO A ASSISTENCIA SOCIAL",
+                "statusNaturezaDespesa": true
+            }
+        ]
+    }
+}

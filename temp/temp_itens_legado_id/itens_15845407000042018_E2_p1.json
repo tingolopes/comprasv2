@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845407000042018",
+        "data_extracao": "2026-02-13 11:33:30",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 43306006,
+                "numeroLicitacao": "15845407420181",
+                "uasg": 158454,
+                "nomeUasg": "INST.F.ED.,CIENC.E TEC DE MS/C.TRÊS LAGOAS",
+                "modalidade": 7,
+                "nomeModalidade": "INEXIGIBILIDADE DE LICITAÇÃO",
+                "numeroAviso": 42018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 3808,
+                "nomeServico": "TREINAMENTO NA AREA DE ADMINISTRACAO",
+                "cnpjFornecedor": "02317176000105",
+                "nomeFornecedor": "ESCOLA DE ADMINISTRACAO FAZENDARIA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Taxa de Participação dos servidores no Curso  XV Semana de Administração Orçam entária, Financeira e de Contratações Públicas Etapa Brasília II , promovido pela Escola de Administração Fazendária-ESAF, que será realizado no período d e 27/11/2018 a 30/11/2018 em Brasília/DF.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1000.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:45:00",
+                "idCompra": "15845407000042018",
+                "idCompraItem": "1584540700004201800001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

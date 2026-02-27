@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000132021",
+        "data_extracao": "2026-02-13 11:24:57",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 49464062,
+                "numeroLicitacao": "158132061320212",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 132021,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 24660,
+                "nomeServico": "ESTUDOS E PROJETOS - BASE/TANCAGEM - MOVIMENTACAO PRODUTOS",
+                "cnpjFornecedor": "21849022000109",
+                "nomeFornecedor": "GEOTEC CONSULTORIA TOPOGRAFIA PROJETOS E OBRAS EIRELI",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Sondagem de solo",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 6879.6,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000132021",
+                "idCompraItem": "1581320600013202100002"
+            },
+            {
+                "isnSidecResultadoCompra": 49464061,
+                "numeroLicitacao": "158132061320211",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 132021,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 24660,
+                "nomeServico": "ESTUDOS E PROJETOS - BASE/TANCAGEM - MOVIMENTACAO PRODUTOS",
+                "cnpjFornecedor": "35009149000116",
+                "nomeFornecedor": "ANDRADE & LIMA LTDA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Levantamento planialtimétrico",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 5820.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000132021",
+                "idCompraItem": "1581320600013202100001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

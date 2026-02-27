@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15844805000022016",
+        "data_extracao": "2026-02-13 11:35:33",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 38786217,
+                "numeroLicitacao": "15844805220161",
+                "uasg": 158448,
+                "nomeUasg": "INST.FED.DE ED.,CIENT.E TEC.DE MS/C.AQUIDAUAN",
+                "modalidade": 5,
+                "nomeModalidade": "PREGÃO",
+                "numeroAviso": 22016,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 66257,
+                "nomeMaterial": "MATERIAL PEDAGÓGICO, MATERIAL PEDAGOGICO NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": null,
+                "nomeFornecedor": null,
+                "quantidade": 6,
+                "unidade": "KIT",
+                "descricaoItem": "KIT Laboratório de Matemática, contendo:  Conjunto com 20 Sólidos para armar Sólidos Planificados (10 unidades);  Kit para áreas e volumes (10 unidade s);  Prancha Trigonométrica (20 unidades);  Ciclo Trigonométrico com Triân gulosAluno (20 unidades);  Jogo: Mandala Trigonométrica (20 unidades);  Jogo: Roleta Matemática (10 unidades);  Jogo: Probabilidade (10 unidades); Jogo Trigominó (10 unidades);  Prancha para Gráficos (20 unidades);  Ge oplano Circular (20 unidades);  Sólidos Geométricos em Plástico 11 peças ( 10 unidades);  Jogando com a Álgebra (10 unidades);  Ciclo Trigonométrico com Triângulos Imantado (01 unidade);  Prancha para gráficosProfessor (01 unidade);  Prancha TrigonométricaProfessor (01 unidade);  Conjunto de Prismas e Pirâmides + Cilindro Transparente8 peças (01 unidade);  Relaçõe s Métricas nos Triângulos Retângulos Grande EVA Professor (01 unidade);  A postila completa com metodologia de aplicação dos materiais do Laboratório (01 unidade);  DVD de Capacitação (01 unidade).",
+                "beneficio": "Beneficio Tipo I - Participacao Exclusiva de ME/EPP/COOPERATIVA",
+                "valorEstimado": 42600.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-05-08T06:04:00",
+                "idCompra": "15844805000022016",
+                "idCompraItem": "1584480500002201600001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

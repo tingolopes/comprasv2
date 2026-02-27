@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15844906000122017",
+        "data_extracao": "2026-02-13 09:46:30",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 40176178,
+                "numeroLicitacao": "158449061220172",
+                "uasg": 158449,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.C.GRANDE",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 122017,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": 220986,
+                "nomeMaterial": "PLÁSTICO BOLHA, MATERIAL PLÁSTICO  LARGURA 1,30 M COMPRIMENTO 100 M APRESENTAÇÃO BOBINA",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "05264854000280",
+                "nomeFornecedor": "PLASTEL EMBALAGENS LTDA - ME",
+                "quantidade": null,
+                "unidade": "ROLO",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 354.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-04-11T08:11:00",
+                "idCompra": "15844906000122017",
+                "idCompraItem": "1584490600012201700002"
+            },
+            {
+                "isnSidecResultadoCompra": 40176177,
+                "numeroLicitacao": "158449061220171",
+                "uasg": 158449,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.C.GRANDE",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 122017,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 19178,
+                "nomeMaterial": "FITA ADESIVA EMBALAGEM, FITA ADESIVA TIPO EMBALAGEM NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "05264854000280",
+                "nomeFornecedor": "PLASTEL EMBALAGENS LTDA - ME",
+                "quantidade": null,
+                "unidade": "ROLO",
+                "descricaoItem": "FITA ADESIVA EMBALAGEM, MATERIAL RESINA E BORRACHA SINTÉTICA, COMPRIMENTO 100, LARGURA 45, APLICAÇÃO EMPACOTAMENTO GERAL E REFORÇO PACOTES, TIPO TUBETE PAPE LÃO.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 247.86,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:27:00",
+                "idCompra": "15844906000122017",
+                "idCompraItem": "1584490600012201700001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

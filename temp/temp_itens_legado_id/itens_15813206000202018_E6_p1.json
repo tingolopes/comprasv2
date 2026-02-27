@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813206000202018",
+        "data_extracao": "2026-02-13 11:21:22",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000202018",
+                "idCompraItem": "1581320600020201800001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 20,
+                "dtAnoAvisoLicitacao": 2018,
+                "nuInciso": "02",
+                "nuProcesso": "23347009573201811",
+                "vrEstimado": 6880.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Tendo em vista que se trata de contratação de serviços.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "DELMIR DA COSTA FELIPE",
+                "noCargoRespDeclDisp": "Ordenador de Despesa",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 12700,
+                "noServico": "INSTALACAO DE FORRO / PECA DECORATIVA DE GESSO - TETO / PAREDE",
+                "dsDetalhada": "Serviço de reparos em gesso acartonado com fornecimento de material, massa cor rida, tinta, lona plástica, andaimes, totalizando 55,42m² de área a ser repara da.",
+                "qtMaterialAlt": 55,
+                "noUnidadeMedida": "M²",
+                "vrEstimadoItem": 6880.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "29994335000154",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "VALDENIR SILVA SANTANA",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

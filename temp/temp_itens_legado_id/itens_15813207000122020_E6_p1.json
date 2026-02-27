@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813207000122020",
+        "data_extracao": "2026-02-13 11:24:49",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813207000122020",
+                "idCompraItem": "1581320700012202000001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 12,
+                "dtAnoAvisoLicitacao": 2020,
+                "nuInciso": "02",
+                "nuProcesso": "23347010767202083",
+                "vrEstimado": 79203.95,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 25º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Capacitação de Servidores Públicos Federais",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "HEBERTON LUIZ DUARTE RODRIGUES",
+                "noCargoRespDeclDisp": "Gestor Financeiro",
+                "noResponsavelRatificacao": "ELAINE BORGES MONTEIRO CASSIANO",
+                "noCargoRespRatificacao": "Ordenadora de Despesa",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 37494,
+                "noConjuntoMateriais": "CONTAINER",
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "Treinamento (8h) da equipe de manutenção sobre todo o sistema solarfotovoltaic o instalado e Suporte técnico, com visita técnica mensal para manutenção preve ntiva (6 meses)",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 79203.95,
+                "dsFabricante": null,
+                "noMarcaMaterial": "Capua",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "02359209000171",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "CAPUA PROJETOS E CONSTRUCOES LTDA",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

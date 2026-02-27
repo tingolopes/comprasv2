@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000022021",
+        "data_extracao": "2026-02-13 11:24:49",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 48547318,
+                "numeroLicitacao": "15813206220212",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 22021,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 26808,
+                "nomeServico": "OUTSOURCING DE IMPRESSAO  - LOCACAO DE EQUIPAMENTO - POLICROMATICO A3",
+                "cnpjFornecedor": "73505349000230",
+                "nomeFornecedor": "H2L EQUIPAMENTOS E SISTEMAS LTDA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Outsourcing de impressão  locação de equipamento pelo período de 60 (sesse nta) dias",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 3102.76,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000022021",
+                "idCompraItem": "1581320600002202100002"
+            },
+            {
+                "isnSidecResultadoCompra": 48547317,
+                "numeroLicitacao": "15813206220211",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 22021,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 26700,
+                "nomeServico": "OUTSOURCING DE IMPRESSAO - PAGINAS A4 - POLICROMATICO - EXCEDENTE A FRANQUIA - COM PAPEL",
+                "cnpjFornecedor": "73505349000230",
+                "nomeFornecedor": "H2L EQUIPAMENTOS E SISTEMAS LTDA",
+                "quantidade": null,
+                "unidade": "Página",
+                "descricaoItem": "Outsourcing de impressão páginas a4 policromático excedente a franquia com papel pelo período de 60 (sessenta) dias",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 11395.86,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000022021",
+                "idCompraItem": "1581320600002202100001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

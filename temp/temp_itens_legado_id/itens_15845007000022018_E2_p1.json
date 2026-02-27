@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845007000022018",
+        "data_extracao": "2026-02-13 09:42:49",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 41780953,
+                "numeroLicitacao": "15845007220181",
+                "uasg": 158450,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.CORUMBÁ",
+                "modalidade": 7,
+                "nomeModalidade": "INEXIGIBILIDADE DE LICITAÇÃO",
+                "numeroAviso": 22018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 150333,
+                "nomeMaterial": "CORREIA TRANSMISSÃO, CORREIA TRANSMISSÃO NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "12849965000132",
+                "nomeFornecedor": "ALCRISA COMERCIO DE MAQUINAS E LOCACOES LTDA",
+                "quantidade": null,
+                "unidade": "UNI",
+                "descricaoItem": "CORREIA TRANSMISSÃO, CORREIA PERFIL \"V\" 822MM POLITRIZ RECLAGO",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1230.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-05-16T14:01:00",
+                "idCompra": "15845007000022018",
+                "idCompraItem": "1584500700002201800001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

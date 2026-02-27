@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-contratacoes/2.1_consultarItensContratacoes_PNCP_14133_Id?tipo=idCompra&codigo=15813206002092024&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-13 10:50:22",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206002092024",
+                "idCompraItem": "1581320600209202400001",
+                "idContratacaoPNCP": "10673078000120-1-000029/2024",
+                "unidadeOrgaoCodigoUnidade": "158132",
+                "orgaoEntidadeCnpj": "10673078000120",
+                "numeroItemPncp": 1,
+                "numeroItemCompra": 1,
+                "numeroGrupo": 0,
+                "descricaoResumida": "Decoração - Eventos / Solenidades Decoração - Eventos / Solenidades",
+                "materialOuServico": "S",
+                "materialOuServicoNome": "Serviço",
+                "codigoClasse": null,
+                "codigoGrupo": 969,
+                "codItemCatalogo": 17019,
+                "descricaodetalhada": "Decoração - Eventos / Solenidades Decoração - Eventos / Solenidades",
+                "unidadeMedida": "UNIDADE",
+                "orcamentoSigiloso": false,
+                "itemCategoriaIdPncp": 3,
+                "itemCategoriaNome": "Informática (TIC)",
+                "criterioJulgamentoIdPncp": 7,
+                "criterioJulgamentoNome": "Não se aplica",
+                "situacaoCompraItem": "2",
+                "situacaoCompraItemNome": "Homologado",
+                "tipoBeneficio": "5",
+                "tipoBeneficioNome": "Não se aplica",
+                "incentivoProdutivoBasico": false,
+                "quantidade": 1.0,
+                "valorUnitarioEstimado": 11948.2,
+                "valorTotal": 11948.2,
+                "temResultado": true,
+                "codFornecedor": "36790038000152",
+                "nomeFornecedor": "BEBI FESTAS LOCACAO E SERVICOS PARA FESTAS LTDA",
+                "quantidadeResultado": 1.0,
+                "valorUnitarioResultado": 11948.2,
+                "valorTotalResultado": 11948.2,
+                "dataInclusaoPncp": "2024-05-17T10:02:27",
+                "dataAtualizacaoPncp": "2024-05-17T10:02:30",
+                "dataResultado": "2024-05-17 00:00:00.0000000",
+                "margemPreferenciaNormal": false,
+                "percentualMargemPreferenciaNormal": null,
+                "margemPreferenciaAdicional": false,
+                "percentualMargemPreferenciaAdicional": null,
+                "codigoNCM": null,
+                "descricaoNCM": null,
+                "numeroControlePNCPCompra": "10673078000120-1-000029/2024"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

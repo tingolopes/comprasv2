@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00167%2F2025&unidadeGerenciadora=158132&numeroItem=00023&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:30:42",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00167/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00023",
+                "codigoPdm": "13768",
+                "descricaoItem": "APARELHO AR CONDICIONADO, CAPACIDADE REFRIGERAÇÃO 60.000 BTU/H, TENSÃO 220 V, FREQÜÊNCIA 60 HZ, TIPO SPLIT",
+                "fornecedor": "62636961000144 - R L ELETRO COMERCIO DE ELETRODOMESTICO LTDA",
+                "quantidadeRegistrada": 0.0,
+                "saldoAdesoes": 4.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 4.0,
+                "qtdLimiteInformadoCompra": 4.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2025-12-04T15:51:30",
+                "dataHoraAtualizacao": "2025-12-04T15:51:30",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            },
+            {
+                "numeroAta": "00167/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00023",
+                "codigoPdm": "13768",
+                "descricaoItem": "APARELHO AR CONDICIONADO, CAPACIDADE REFRIGERAÇÃO 60.000 BTU/H, TENSÃO 220 V, FREQÜÊNCIA 60 HZ, TIPO SPLIT",
+                "fornecedor": "62636961000144 - R L ELETRO COMERCIO DE ELETRODOMESTICO LTDA",
+                "quantidadeRegistrada": 2.0,
+                "saldoAdesoes": 4.0,
+                "saldoRemanejamentoEmpenho": 2.0,
+                "qtdLimiteAdesao": 4.0,
+                "qtdLimiteInformadoCompra": 4.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2025-12-04T15:51:46",
+                "dataHoraAtualizacao": "2025-12-04T15:51:46",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158453",
+                "nomeUnidade": "INST. FED. DO MS/CAMPUS PONTA PORA",
+                "tipoUnidade": "PARTICIPANTE"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15844906000042016",
+        "data_extracao": "2026-02-13 09:45:28",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 37254271,
+                "numeroLicitacao": "15844906420161",
+                "uasg": 158449,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.C.GRANDE",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 42016,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 2020,
+                "nomeServico": "AR CONDICIONADO - INSTALACAO/MONTAGEM/DESMONATAGEM/REMOÇÃO -(PAREDE / SISTEMAS)",
+                "cnpjFornecedor": "15009116000169",
+                "nomeFornecedor": "MAEDA & SAMPAIO CLIMATIZACAO LTDA - ME",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "Instalação de aparelho de ar condicionado Piso-Teto Marca Komeco potência 48.0 00BTUs modelo KOP48QC G2 UE220 quente/frio Tensão 220 em local distante aproxi madamente 15 metros do quadro disponível para ligação na rede elétrica existen te. Oferecendo, metragem suficiente de:  1) tubos em cobre ou alumínio (também chamado de tubulação frigorífica), com bitolas e espessuras adequadas à carga térmica; 2) tubulação com fiação elétrica, com cabos dimensionados conforme a carga do condicionador e um disjuntor exclusivo para cada aparelho de ar cond icionado; 3) tubos de PVC para drenagem da água, ligados à rede pluvial do pré dio. Também deverão estar inclusos no serviço de instalação: 1) Disjuntor de 3 0ª trifásico adequado à ligação do aparelho na rede elétrica existente, confor me vistoriado pelo técnico responsável pela elaboração da proposta ou por ele designado; 2) Suporte completo para a unidade externa; 3) Parafusos adequados para fixação do suporte existente para a unidade interna.A unidade externa deverá ficar distante aproximadamente 5m da unidade interna, na parte externa do prédio, distante a partir de 40cm do chão. Para elaboração de proposta exig e-se a vistoria no local.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 650.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:27:00",
+                "idCompra": "15844906000042016",
+                "idCompraItem": "1584490600004201600001"
+            },
+            {
+                "isnSidecResultadoCompra": 37254272,
+                "numeroLicitacao": "15844906420162",
+                "uasg": 158449,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.C.GRANDE",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 42016,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 3492,
+                "nomeServico": "AR CONDICIONADO - MANUTENCAO DE APARELHOS DE PAREDE",
+                "cnpjFornecedor": "15009116000169",
+                "nomeFornecedor": "MAEDA & SAMPAIO CLIMATIZACAO LTDA - ME",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "Manutenção de aparelho de ar condicionado Piso-Teto Marca Komeco potência 48.0 00BTUs modelo KOP48QC G2 UE220 quente/frio Tensão 220 incluindo os serviços de limpeza do aparelho e reposição de gás R22",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 300.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:27:00",
+                "idCompra": "15844906000042016",
+                "idCompraItem": "1584490600004201600002"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

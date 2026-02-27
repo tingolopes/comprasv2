@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-contratacoes/2.1_consultarItensContratacoes_PNCP_14133_Id?tipo=idCompra&codigo=15813207003382024&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-13 11:43:21",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813207003382024",
+                "idCompraItem": "1581320700338202400001",
+                "idContratacaoPNCP": "10673078000120-1-000099/2024",
+                "unidadeOrgaoCodigoUnidade": "158132",
+                "orgaoEntidadeCnpj": "10673078000120",
+                "numeroItemPncp": 1,
+                "numeroItemCompra": 1,
+                "numeroGrupo": 0,
+                "descricaoResumida": "Locação Sala / Auditório Locação de imóvel destinado à unidade urbana do IFMS Campus Nova Andradina.",
+                "materialOuServico": "S",
+                "materialOuServicoNome": "Serviço",
+                "codigoClasse": null,
+                "codigoGrupo": 732,
+                "codItemCatalogo": 22721,
+                "descricaodetalhada": "Locação Sala / Auditório Locação de imóvel destinado à unidade urbana do IFMS Campus Nova Andradina.",
+                "unidadeMedida": "UNIDADE",
+                "orcamentoSigiloso": false,
+                "itemCategoriaIdPncp": 3,
+                "itemCategoriaNome": "Informática (TIC)",
+                "criterioJulgamentoIdPncp": 7,
+                "criterioJulgamentoNome": "Não se aplica",
+                "situacaoCompraItem": "2",
+                "situacaoCompraItemNome": "Homologado",
+                "tipoBeneficio": "5",
+                "tipoBeneficioNome": "Não se aplica",
+                "incentivoProdutivoBasico": false,
+                "quantidade": 60.0,
+                "valorUnitarioEstimado": 9999.99,
+                "valorTotal": 599999.4,
+                "temResultado": true,
+                "codFornecedor": "57395396000130",
+                "nomeFornecedor": "GF NEGOCIO IMOBILIARIOS LTDA",
+                "quantidadeResultado": 60.0,
+                "valorUnitarioResultado": 9999.99,
+                "valorTotalResultado": 599999.4,
+                "dataInclusaoPncp": "2024-12-09T15:09:15",
+                "dataAtualizacaoPncp": "2024-12-09T15:12:23",
+                "dataResultado": "2024-12-09 00:00:00.0000000",
+                "margemPreferenciaNormal": false,
+                "percentualMargemPreferenciaNormal": null,
+                "margemPreferenciaAdicional": false,
+                "percentualMargemPreferenciaAdicional": null,
+                "codigoNCM": null,
+                "descricaoNCM": null,
+                "numeroControlePNCPCompra": "10673078000120-1-000099/2024"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813206000402023",
+        "data_extracao": "2026-02-13 11:30:13",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000402023",
+                "idCompraItem": "1581320600040202300001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 40,
+                "dtAnoAvisoLicitacao": 2023,
+                "nuInciso": "02",
+                "nuProcesso": "23347007338202371",
+                "vrEstimado": 21251.7,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": "Objeto: Contratação, sob demanda, de capina, ro                             çagem manual e mecanizada em solo natural e gra                             mado, para atender o Instituto Federal de Educa                             ção, Ciência e Tecnologia de Mato Grosso do Sul                              (IFMS) Campus Corumbá.",
+                "dsFundamentoLegal": "Fundamento Legal: Art. 75º, Inciso II da Lei nº 14.133 de 1º/04/2021.",
+                "dsJustificativa": "Justificativa: Art. 75º, Inciso II da Lei nº 14.133 de 1º/04/2021.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "WANDERSON DA SILVA BATISTA",
+                "noCargoRespDeclDisp": "Diretor Geral",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 14044,
+                "noServico": "ROÇADA / LIMPEZA DE AREA - MECANIZADA / MANUAL",
+                "dsDetalhada": "Execução de roçada mecanizada com o emprego de roçadeira costal na área circun dante aos blocos do campus Corumbá. O  serviço deve compreender a remoção da c amada vegetal e descarte em local apropriado do material proveniente da roçada . Os custos devem incluir o fornecimento da equipe especializada, equipamentos  e insumos necessários. Área  unitária mínima por requisição da roçada: 20.835 ,11 m²",
+                "qtMaterialAlt": 125010,
+                "noUnidadeMedida": "METRO QUADRADO",
+                "vrEstimadoItem": 21251.7,
+                "dsFabricante": null,
+                "noMarcaMaterial": "",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "14509513000137",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "REZENDE E CARVALHO LTDA",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

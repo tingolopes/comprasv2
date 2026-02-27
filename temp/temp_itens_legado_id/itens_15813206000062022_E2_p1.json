@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000062022",
+        "data_extracao": "2026-02-13 11:27:18",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 51606619,
+                "numeroLicitacao": "15813206620221",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 62022,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 19399,
+                "nomeServico": "PRESTACAO DE SERVICOS DE COZINHEIRO",
+                "cnpjFornecedor": "25318823000190",
+                "nomeFornecedor": "RESULT SOLUCOES E EMPREENDIMENTOS EIRELI",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "Prestação de Serviços de  Auxiliar de cozinhaposto de serviço com 44h seman ais, período de 90 dias de contratação. Valor total estimado se refere a 02 po stos de auxiliar de cozinha, pelo período de 90 dias de contratação.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 19990.62,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000062022",
+                "idCompraItem": "1581320600006202200001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

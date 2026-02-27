@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845206000152018",
+        "data_extracao": "2026-02-13 11:05:56",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845206000152018",
+                "idCompraItem": "1584520600015201800001",
+                "coUasg": 158452,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 15,
+                "dtAnoAvisoLicitacao": 2018,
+                "nuInciso": "02",
+                "nuProcesso": "23347017550201880",
+                "vrEstimado": 16506.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Em razão do valor a ser pago.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "SERGIO PAULO DE SOUZA",
+                "noCargoRespDeclDisp": "Diretor de Administração",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 150684,
+                "noConjuntoMateriais": null,
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "Central telefônica ISION IP 1500 e demais periféricos acoplados sendo: Placa d e tronco 8TA-1-A, placa de interface E1 TD-1-A, placa midia gateway 16MG-1-A, placa de ramal analógia primaria 8RAP-1-A, 150 Mts de cabo UTP CAT5E multi 24 AWG X 4P AZ CMX FURUKAWA, 30 conectores RJ45, 15 licenças de software ramal IP  ISION, 5 licenças de software tronco IP e Serviço de instalação e configuraçã o.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "UN",
+                "vrEstimadoItem": 16506.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "INDEFINIDA",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "15309955000100",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "CARLOS E. B. COLUCCI",
+                "dtAlteracao": "2024-04-08T11:40:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

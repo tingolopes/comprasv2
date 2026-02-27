@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845205000042019",
+        "data_extracao": "2026-02-13 11:37:29",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 45764275,
+                "numeroLicitacao": "15845205420191",
+                "uasg": 158452,
+                "nomeUasg": "INST.F.DE ED.,CIENC.E TEC.DO MS/C.N ANDRADINA",
+                "modalidade": 5,
+                "nomeModalidade": "PREGÃO",
+                "numeroAviso": 42019,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 3239,
+                "nomeServico": "TRANSPORTE RODOVIARIO - PESSOAL POR AUTOMOVEIS",
+                "cnpjFornecedor": "09290616000119",
+                "nomeFornecedor": "S A PICOLI TRANSPORTES - EIRELI",
+                "quantidade": 92800,
+                "unidade": "Unidade",
+                "descricaoItem": "Serviço de transporte escolar Unidade de medida: KM",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 6.25,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:40:00",
+                "idCompra": "15845205000042019",
+                "idCompraItem": "1584520500004201900001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

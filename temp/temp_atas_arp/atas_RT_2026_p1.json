@@ -1,0 +1,41 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/1_consultarARP?pagina=1&tamanhoPagina=500&codigoUnidadeGerenciadora=158132&dataVigenciaInicialMin=2026-01-01&dataVigenciaInicialMax=2026-12-31",
+        "data_extracao": "2026-02-13 15:04:16",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAtaRegistroPreco": "00001/2026",
+                "codigoUnidadeGerenciadora": "158132",
+                "nomeUnidadeGerenciadora": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "codigoOrgao": 26415,
+                "nomeOrgao": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "linkAtaPNCP": "https://pncp.gov.br/app/atas/10673078000120/2024/80/4",
+                "linkCompraPNCP": "https://pncp.gov.br/app/editais/10673078000120/2024/000080",
+                "numeroCompra": "90014",
+                "anoCompra": "2026",
+                "codigoModalidadeCompra": "05",
+                "nomeModalidadeCompra": "Pregão",
+                "dataAssinatura": "2026-01-05T00:00:00",
+                "dataVigenciaInicial": "2026-01-06",
+                "dataVigenciaFinal": "2027-01-06",
+                "valorTotal": 779961.6,
+                "statusAta": "Ata de Registro de Preços",
+                "objeto": "Contratação de empresa especializada na prestação de serviço terceirizado de vigilância e segurança patrirmonial",
+                "quantidadeItens": null,
+                "dataHoraAtualizacao": "2026-01-06T14:34:49",
+                "dataHoraInclusao": "2026-01-05T11:54:02",
+                "dataHoraExclusao": null,
+                "ataExcluido": false,
+                "numeroControlePncpAta": "10673078000120-1-000080/2024-000004",
+                "numeroControlePncpCompra": "10673078000120-1-000080/2024",
+                "idCompra": "15813205900142024"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

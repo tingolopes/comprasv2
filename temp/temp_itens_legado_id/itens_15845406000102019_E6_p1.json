@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845406000102019",
+        "data_extracao": "2026-02-13 11:34:11",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845406000102019",
+                "idCompraItem": "1584540600010201900001",
+                "coUasg": 158454,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 10,
+                "dtAnoAvisoLicitacao": 2019,
+                "nuInciso": "02",
+                "nuProcesso": "23347.006896.2019",
+                "vrEstimado": 2070.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Valor inferior a R$17.600,00 e mais vantajoso para administração.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "APIO CARNIELO E SILVA",
+                "noCargoRespDeclDisp": "Ordenador de Despesa",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 74888,
+                "noConjuntoMateriais": "BARRACA DE ACAMPAMENTO",
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "Tenda montável, material polietileno, encaixe barraca camping, cor branca ou a zul, medida  minima 3x3 metros, estrutura articulada em aço carbono, pintura e póxi. Com kit de fixação.",
+                "qtMaterialAlt": 10,
+                "noUnidadeMedida": "UNIDADE",
+                "vrEstimadoItem": 2070.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "Sem marca",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "08087457000197",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "E.R COMERCIO DE ARTIGOS DE CACA E PESCA LTDA",
+                "dtAlteracao": "2024-04-08T11:45:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

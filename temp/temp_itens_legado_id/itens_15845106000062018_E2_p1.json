@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845106000062018",
+        "data_extracao": "2026-02-13 10:08:40",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 42168883,
+                "numeroLicitacao": "15845106620181",
+                "uasg": 158451,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.COXIM",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 62018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 19542,
+                "nomeServico": "PRESTACAO DE SERVICOS DE LAVANDERIA",
+                "cnpjFornecedor": "29538760000139",
+                "nomeFornecedor": "EBRAIM NARCISO CUNHA 71069216887",
+                "quantidade": null,
+                "unidade": "m²",
+                "descricaoItem": "Serviço de lavagem de cortinas, confeccionada  em tecido tipo blackout,  levem ente franzida em pregas, com argolas e varão, compreendendo sua a retirada, la vagem, passagem, bem como substituição de componentes danificados e reinstalaç ão no local de origem, totalizando 110 folhas equivalente a 820m².",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 6354.7,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:32:00",
+                "idCompra": "15845106000062018",
+                "idCompraItem": "1584510600006201800001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

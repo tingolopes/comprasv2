@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813207000302022",
+        "data_extracao": "2026-02-13 11:29:20",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 54075209,
+                "numeroLicitacao": "158132073020221",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 7,
+                "nomeModalidade": "INEXIGIBILIDADE DE LICITAÇÃO",
+                "numeroAviso": 302022,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 26069,
+                "nomeServico": "PLATAFORMA COMO SERVICO - PAAS",
+                "cnpjFornecedor": "13183749000163",
+                "nomeFornecedor": "MINHA BIBLIOTECA LTDA.",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "Plataforma como Servico Paas. Contratação de 7.314 licenças para atender a c omunidade acadêmica dos 10 campi do IFMS.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 149205.6,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2025-01-03T13:12:32",
+                "idCompra": "15813207000302022",
+                "idCompraItem": "1581320700030202200001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

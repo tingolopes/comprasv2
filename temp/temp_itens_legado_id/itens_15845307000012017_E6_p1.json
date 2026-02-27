@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845307000012017",
+        "data_extracao": "2026-02-13 11:13:59",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845307000012017",
+                "idCompraItem": "1584530700001201700001",
+                "coUasg": 158453,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 1,
+                "dtAnoAvisoLicitacao": 2017,
+                "nuInciso": "02",
+                "nuProcesso": "23347012644201781",
+                "vrEstimado": 3000.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 25º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Art. 25º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "EDISON SILVA SOSA",
+                "noCargoRespDeclDisp": "Diretor de Administração",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 3816,
+                "noServico": "TREINAMENTO NA AREA ECONOMICO - FINANCEIRA",
+                "dsDetalhada": "Pagamento da taxa de inscrição dos  servidores  Yan Silva Aires da paixão SIAP E  2232956 e da Servidora Vânia Ramos Ramires SIAPE  2108325, para participaçã o no Curso de capacitação em Gestão Tributária de Contratos e Convênios.",
+                "qtMaterialAlt": 2,
+                "noUnidadeMedida": "unidade",
+                "vrEstimadoItem": 3000.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "09094300000151",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "OPEN TREINAMENTOS EMPRESARIAIS E EDITORA LTDA - EPP",
+                "dtAlteracao": "2024-04-08T11:41:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

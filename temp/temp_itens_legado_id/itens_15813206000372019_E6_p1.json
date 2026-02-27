@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813206000372019",
+        "data_extracao": "2026-02-13 11:23:18",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000372019",
+                "idCompraItem": "1581320600037201900001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 37,
+                "dtAnoAvisoLicitacao": 2019,
+                "nuInciso": "02",
+                "nuProcesso": "23347022404201957",
+                "vrEstimado": 3055.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Compra de pequeno vulto",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "LUIZ SIMAO STASZCZAK",
+                "noCargoRespDeclDisp": "Ordenador de Despesa",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 64920,
+                "noConjuntoMateriais": "BUFFET",
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "Coffee Break para 260 pessoas contendo: Salgados Assados: esfirra de carne, Tr ouxinha de Frango, Enroladinho de Presunto e Queijo, Folhado de Queijo. Salgad o Frito: Coxinha de Frango,Bolinha de Queijo,Sanduiche pão arabe de peito de p eru,Sanduiche de Pão de Forma Presunto e Queijo. Doces: Bolo de Cenoura com Co bertura de Chocolate, Bolo de Coco, 01 Tipo de Petiti Four. Bebidas:02 tiipos  de Suco, refrigerante, café com e sem Açucar. Mais os materias descartaveis pa ra servir.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 3055.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "Prime",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "10426851000154",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "PRIME BUFFET MS LTDA",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

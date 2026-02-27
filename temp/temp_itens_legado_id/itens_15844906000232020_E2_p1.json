@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15844906000232020",
+        "data_extracao": "2026-02-13 09:57:02",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 47901017,
+                "numeroLicitacao": "158449062320202",
+                "uasg": 158449,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.C.GRANDE",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 232020,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": 455228,
+                "nomeMaterial": "MÁSCARA DESCARTÁVEL USO GERAL, MATERIAL TNT (TECIDO NÃO TECIDO)  TIPO FIXAÇÃO TRIPLA COM TIRAS E CLIPE NASAL  CARACTERÍSTICAS ADICIONAIS ESTERILIZÁVEL, HIPOALERGÊNICA, HIDROREPELENTE E NÃ",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "27494420000128",
+                "nomeFornecedor": "SOARES COMERCIO E LICITACOES LTDA",
+                "quantidade": null,
+                "unidade": "Caixa",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 161.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:27:00",
+                "idCompra": "15844906000232020",
+                "idCompraItem": "1584490600023202000002"
+            },
+            {
+                "isnSidecResultadoCompra": 47901016,
+                "numeroLicitacao": "158449062320201",
+                "uasg": 158449,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.C.GRANDE",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 232020,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 432291,
+                "nomeMaterial": "FITA ADESIVA, MATERIAL PVC  TIPO DEMARCAÇÃO  LARGURA 48 MM COMPRIMENTO 14 M COR VERMELHA  APLICAÇÃO PARA DEMARCAÇÃO",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": null,
+                "nomeFornecedor": null,
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": null,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-05-30T10:46:00",
+                "idCompra": "15844906000232020",
+                "idCompraItem": "1584490600023202000001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

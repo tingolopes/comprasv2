@@ -1,0 +1,50 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/2_consultarARPItem?codigoUnidadeGerenciadora=158132&dataVigenciaInicialMin=2025-07-24&dataVigenciaInicialMax=2025-07-24&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 10:56:58",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAtaRegistroPreco": "00059/2025",
+                "codigoUnidadeGerenciadora": "158132",
+                "numeroCompra": "00197",
+                "anoCompra": "2025",
+                "codigoModalidadeCompra": "06",
+                "dataAssinatura": "2025-07-23T00:00:00",
+                "dataVigenciaInicial": "2025-07-24",
+                "dataVigenciaFinal": "2026-07-23",
+                "numeroItem": "00001",
+                "codigoItem": 277138,
+                "descricaoItem": "Tampo Mobiliário Material: Aço, Cor: Cinza Claro, Comprimento: 480MM, Largura: 30MM, Espessura: 2,5MM, Características Adicionais: Com Suporte Para Fixação Painel Divisório.",
+                "tipoItem": "Material",
+                "quantidadeHomologadaItem": 20.0,
+                "classificacaoFornecedor": "001",
+                "niFornecedor": "09480223000178",
+                "nomeRazaoSocialFornecedor": "SL COMERCIO E REPRESENTACOES LTDA",
+                "quantidadeHomologadaVencedor": 20,
+                "valorUnitario": 439.9,
+                "valorTotal": 8798.0,
+                "maximoAdesao": 40.0,
+                "nomeUnidadeGerenciadora": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "nomeModalidadeCompra": "Dispensa",
+                "idCompra": "15813206001972025",
+                "numeroControlePncpCompra": "10673078000120-1-000065/2025",
+                "dataHoraInclusao": "2025-07-23T16:22:35",
+                "dataHoraAtualizacao": "2025-07-23T16:22:35",
+                "quantidadeEmpenhada": 0.0,
+                "percentualMaiorDesconto": 0.0,
+                "situacaoSicaf": "1",
+                "dataHoraExclusao": null,
+                "itemExcluido": false,
+                "numeroControlePncpAta": "10673078000120-1-000065/2025-000001",
+                "codigoPdm": 14428,
+                "nomePdm": "TAMPO MOBILIÁRIO"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845406000042019",
+        "data_extracao": "2026-02-13 11:33:51",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 44076079,
+                "numeroLicitacao": "15845406420191",
+                "uasg": 158454,
+                "nomeUasg": "INST.F.ED.,CIENC.E TEC DE MS/C.TRÊS LAGOAS",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 42019,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 17612,
+                "nomeServico": "LOCACAO GUARITA / CABINE SANITARIA",
+                "cnpjFornecedor": "09136712000107",
+                "nomeFornecedor": "LAERCIO CANDIDO",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Locação de cabine sanitária (com limpeza) construída em polietileno de alta de nsidade, com caixa de dejetos com assento e tampa, suporte para papel higiênic o (com papel higiênico), dispenser para álcool em gel (com álcool em gel), pis o antiderrapante, identificação(masc/fem), ponto de ventilação natural, sistem a de trava com chave. Com  instalação e retirada em local a ser indica da pela contratante. São 2 banheiros masculinos e 2 banheiros femininos.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 800.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:45:00",
+                "idCompra": "15845406000042019",
+                "idCompraItem": "1584540600004201900001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

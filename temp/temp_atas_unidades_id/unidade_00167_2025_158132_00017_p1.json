@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00167%2F2025&unidadeGerenciadora=158132&numeroItem=00017&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:30:19",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00167/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00017",
+                "codigoPdm": "13768",
+                "descricaoItem": "APARELHO AR CONDICIONADO, CAPACIDADE REFRIGERAÇÃO 18.000 BTU/H, TENSÃO 220 V, FREQÜÊNCIA 60 HZ, TIPO SPLIT",
+                "fornecedor": "62636961000144 - R L ELETRO COMERCIO DE ELETRODOMESTICO LTDA",
+                "quantidadeRegistrada": 18.0,
+                "saldoAdesoes": 36.0,
+                "saldoRemanejamentoEmpenho": 18.0,
+                "qtdLimiteAdesao": 36.0,
+                "qtdLimiteInformadoCompra": 36.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2025-12-04T15:51:28",
+                "dataHoraAtualizacao": "2025-12-04T15:51:28",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

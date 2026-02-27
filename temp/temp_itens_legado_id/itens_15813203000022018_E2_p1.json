@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813203000022018",
+        "data_extracao": "2026-02-13 11:38:06",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 42571116,
+                "numeroLicitacao": "15813203220181",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 3,
+                "nomeModalidade": "CONCORRÊNCIA",
+                "numeroAviso": 22018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 5622,
+                "nomeServico": "OBRAS CIVIS PUBLICAS ( CONSTRUCAO )",
+                "cnpjFornecedor": "14416381000107",
+                "nomeFornecedor": "B & G CONSTRUCOES EIRELI         -",
+                "quantidade": 1,
+                "unidade": "Obra",
+                "descricaoItem": "CONSTRUçãO DE UM BARRACãO EM ESTRUTURA PRé-FABRICADA COM FECHAMENTO EM ALVENAR ia e aço, para uso do campus do Instituto Federal de Mato Grosso do SulIFMS , localizado na rodovia BR463, km 14, s/n Sanga Puitã, Ponta Porã MS, 7990 9-000. Conforme Edital e seus Anexos.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 481353.74,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813203000022018",
+                "idCompraItem": "1581320300002201800001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

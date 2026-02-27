@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813202000042019",
+        "data_extracao": "2026-02-13 11:38:07",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 45776735,
+                "numeroLicitacao": "15813202420191",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 2,
+                "nomeModalidade": "TOMADA DE PREÇOS",
+                "numeroAviso": 42019,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 5622,
+                "nomeServico": "OBRAS CIVIS PUBLICAS ( CONSTRUCAO )",
+                "cnpjFornecedor": "22354902000169",
+                "nomeFornecedor": "GARCIA E TEIXEIRA CONSTRUCOES E  -SERVICOS LTDA",
+                "quantidade": 1,
+                "unidade": "Unidade",
+                "descricaoItem": "Contratação de empresa especializada para a execução de obra de engenharia par a construção de barracão em estrutura pré-fabricada, com fechamento em alvenar ia e aço, no Campus Coxim, localizado na Rua Salime Tanure, s/n, Bairro Santa Tereza, CEP: 79.400-000, na cidade de Coxim/MS",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 546046.84,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813202000042019",
+                "idCompraItem": "1581320200004201900001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,149 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/4.1_consultarItensPregoes_Id?id_compra=15845305000062020",
+        "data_extracao": "2026-02-13 11:42:09",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158453,
+                    "coItem": 24170754
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "MICROSCÓPIO, TIPO DE ANÁLISE ESTEREOSCÓPIO, TIPO BINOCULAR, AUMENTO C/        OBJETIVAS ATÉ 100X, OCULARES ATÉ 10X, COMPONENTES ILUMINAÇÃO EM LED, REFLETIDAE TRANSMITIDA, OUTROS COMPONENTES BASE CERCA DE 20 X 30 CM, ADICIONAL         INCLINAÇÃO ATÉ 30°",
+                "descricaoItem": "MICROSCÓPIO",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "1250.00",
+                "quantidadeItem": "60",
+                "situacaoItem": "homologado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "Unidade",
+                "valorHomologadoItem": "1250.00",
+                "valorEstimadoItem": "1683.42",
+                "valorNegociado": null,
+                "idCompra": "15845305000062020",
+                "idCompraItem": "1584530500006202000003",
+                "noAdjudic": "JOAO PAULO GONZALEZ GONCALVES",
+                "noHom": "IZIDRO DOS SANTOS DE LIMA JUNIOR",
+                "dtEncerramento": "2020-11-09",
+                "dtAdjudic": "2020-11-09",
+                "dtHom": "2020-11-10",
+                "dtAlteracao": "2024-04-08T11:41:00"
+            },
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158453,
+                    "coItem": 24170755
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "MICROSCÓPIO, TIPO DE ANÁLISE ESTEREOSCÓPIO, TIPO BINOCULAR, AUMENTO C/        OBJETIVAS ATÉ 100X, OCULARES ATÉ 10X, COMPONENTES ILUMINAÇÃO EM LED, REFLETIDAE TRANSMITIDA, OUTROS COMPONENTES BASE CERCA DE 20 X 30 CM, ADICIONAL         INCLINAÇÃO ATÉ 30°",
+                "descricaoItem": "MICROSCÓPIO",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "1180.00",
+                "quantidadeItem": "20",
+                "situacaoItem": "homologado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "Unidade",
+                "valorHomologadoItem": "1180.00",
+                "valorEstimadoItem": "1683.42",
+                "valorNegociado": null,
+                "idCompra": "15845305000062020",
+                "idCompraItem": "1584530500006202000004",
+                "noAdjudic": "JOAO PAULO GONZALEZ GONCALVES",
+                "noHom": "IZIDRO DOS SANTOS DE LIMA JUNIOR",
+                "dtEncerramento": "2020-11-09",
+                "dtAdjudic": "2020-11-09",
+                "dtHom": "2020-11-10",
+                "dtAlteracao": "2024-04-08T11:41:00"
+            },
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158453,
+                    "coItem": 24170756
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "BANQUETA, MATERIAL ESTRUTURA MADEIRA, TIPO ASSENTO FIXO, MATERIAL BASE ASSENTOMADEIRA BRUTA, ACABAMENTO ESTRUTURA ENVERNIZADO, ALTURA 70 CM, LARGURA 25 CM, DIÂMETRO ASSENTO 25X25 CM",
+                "descricaoItem": "BANQUETA",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "110.00",
+                "quantidadeItem": "400",
+                "situacaoItem": "homologado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "Unidade",
+                "valorHomologadoItem": "110.00",
+                "valorEstimadoItem": "124.27",
+                "valorNegociado": null,
+                "idCompra": "15845305000062020",
+                "idCompraItem": "1584530500006202000005",
+                "noAdjudic": "JOAO PAULO GONZALEZ GONCALVES",
+                "noHom": "IZIDRO DOS SANTOS DE LIMA JUNIOR",
+                "dtEncerramento": "2020-11-09",
+                "dtAdjudic": "2020-11-09",
+                "dtHom": "2020-11-10",
+                "dtAlteracao": "2024-04-08T11:41:00"
+            },
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158453,
+                    "coItem": 24170753
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "MICROSCÓPIO, TIPO DE ANÁLISE ÓTICO, VERTICAL, TIPO BINOCULAR, AUMENTO OCULAR  ATÉ 15X, COMPONENTES DIGITAL, AUTOMÁTICO, OUTROS COMPONENTES FOCALIZAÇÃO      COAXIAL, COMPATÍVEL C/ FLUORESCÊNCIA, ADICIONAL INCLINAÇÃO ATÉ 30°",
+                "descricaoItem": "MICROSCÓPIO",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "1240.00",
+                "quantidadeItem": "20",
+                "situacaoItem": "homologado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "Unidade",
+                "valorHomologadoItem": "1240.00",
+                "valorEstimadoItem": "1809.59",
+                "valorNegociado": null,
+                "idCompra": "15845305000062020",
+                "idCompraItem": "1584530500006202000002",
+                "noAdjudic": "JOAO PAULO GONZALEZ GONCALVES",
+                "noHom": "IZIDRO DOS SANTOS DE LIMA JUNIOR",
+                "dtEncerramento": "2020-11-09",
+                "dtAdjudic": "2020-11-09",
+                "dtHom": "2020-11-10",
+                "dtAlteracao": "2024-04-08T11:41:00"
+            },
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158453,
+                    "coItem": 24170752
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "MICROSCÓPIO, TIPO DE ANÁLISE ÓTICO, VERTICAL, TIPO BINOCULAR, AUMENTO OCULAR  ATÉ 15X, COMPONENTES DIGITAL, AUTOMÁTICO, OUTROS COMPONENTES FOCALIZAÇÃO      COAXIAL, COMPATÍVEL C/ FLUORESCÊNCIA, ADICIONAL INCLINAÇÃO ATÉ 30°",
+                "descricaoItem": "MICROSCÓPIO",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "1240.00",
+                "quantidadeItem": "60",
+                "situacaoItem": "homologado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "Unidade",
+                "valorHomologadoItem": "1240.00",
+                "valorEstimadoItem": "1809.59",
+                "valorNegociado": null,
+                "idCompra": "15845305000062020",
+                "idCompraItem": "1584530500006202000001",
+                "noAdjudic": "JOAO PAULO GONZALEZ GONCALVES",
+                "noHom": "IZIDRO DOS SANTOS DE LIMA JUNIOR",
+                "dtEncerramento": "2020-11-09",
+                "dtAdjudic": "2020-11-09",
+                "dtHom": "2020-11-10",
+                "dtAlteracao": "2024-04-08T11:41:00"
+            }
+        ],
+        "totalRegistros": 5,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

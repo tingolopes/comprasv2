@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00011%2F2024&unidadeGerenciadora=158132&numeroItem=00567&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:37:21",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00011/2024",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00567",
+                "codigoPdm": "04550",
+                "descricaoItem": "CARNE DE AVE IN NATURA, TIPO ANIMAL FRANGO, TIPO CORTE COXA E SOBRECOXA, APRESENTAÇÃO INTEIRO, ESTADO DE CONSERVAÇÃO CONGELADO(A), PROCESSAMENTO COM PELE, COM OSSO",
+                "fornecedor": "10144274000108 - ZELLITEC COMERCIO DE PRODUTOS ALIMENTICIOS LTDA",
+                "quantidadeRegistrada": 2668.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 2668.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": null,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2024-03-27T12:02:32",
+                "dataHoraAtualizacao": "2024-03-27T12:46:46",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "155850",
+                "nomeUnidade": "INST.FED.DO MS/CAMPUS JARDIM",
+                "tipoUnidade": "PARTICIPANTE"
+            },
+            {
+                "numeroAta": "00011/2024",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00567",
+                "codigoPdm": "04550",
+                "descricaoItem": "CARNE DE AVE IN NATURA, TIPO ANIMAL FRANGO, TIPO CORTE COXA E SOBRECOXA, APRESENTAÇÃO INTEIRO, ESTADO DE CONSERVAÇÃO CONGELADO(A), PROCESSAMENTO COM PELE, COM OSSO",
+                "fornecedor": "10144274000108 - ZELLITEC COMERCIO DE PRODUTOS ALIMENTICIOS LTDA",
+                "quantidadeRegistrada": 0.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": null,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2024-03-27T11:59:58",
+                "dataHoraAtualizacao": "2024-03-27T12:44:37",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

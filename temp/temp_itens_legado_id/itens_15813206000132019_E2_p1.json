@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000132019",
+        "data_extracao": "2026-02-13 11:22:49",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 43878433,
+                "numeroLicitacao": "158132061320191",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 132019,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 7196,
+                "nomeMaterial": "QUEIMADOR DE GÁS, QUEIMADOR DE GAS NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "02305987000188",
+                "nomeFornecedor": "IVANILSON INACIO DA SILVA",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "Compra de cilindros de gás refrigerante VRF/410a 11,3 Kg para utilização em se rviço de manutenção corretiva das linhas nº1, 3 e 5.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 9886.25,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000132019",
+                "idCompraItem": "1581320600013201900001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

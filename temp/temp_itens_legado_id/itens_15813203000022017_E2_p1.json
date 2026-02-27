@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813203000022017",
+        "data_extracao": "2026-02-13 11:38:05",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 40480142,
+                "numeroLicitacao": "15813203220171",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 3,
+                "nomeModalidade": "CONCORRÊNCIA",
+                "numeroAviso": 22017,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 1511,
+                "nomeServico": "OBRAS CIVIS DE ESTRUTURAS METALICAS",
+                "cnpjFornecedor": "20348723000193",
+                "nomeFornecedor": "CONSTRUTORA URBRASILIA EIRELI - ME",
+                "quantidade": 1,
+                "unidade": "Obra",
+                "descricaoItem": "Execução da obra de cobertura da área de convivência entre os Blocos A, B, C e D do Campus Campo Grande, localizado na Rua Taquari, nº 831, Bairro Santo Ant ônio, CEP 79100-510, Campo GrandeMS, conforme especificações constantes no Projeto BásicoANEXO II.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 333223.94,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813203000022017",
+                "idCompraItem": "1581320300002201700001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

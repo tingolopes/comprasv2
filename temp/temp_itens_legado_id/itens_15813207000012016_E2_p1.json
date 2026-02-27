@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813207000012016",
+        "data_extracao": "2026-02-13 11:18:50",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 37301112,
+                "numeroLicitacao": "15813207120161",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 7,
+                "nomeModalidade": "INEXIGIBILIDADE DE LICITAÇÃO",
+                "numeroAviso": 12016,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 5479,
+                "nomeServico": "MANUTENCAO - EQUIPAMENTOS GRAFICOS",
+                "cnpjFornecedor": "04730561000105",
+                "nomeFornecedor": "TOTAL CARD COMERCIO E IMPORTACAO LTDA - EPP",
+                "quantidade": null,
+                "unidade": "unidade",
+                "descricaoItem": "Marca Hiti modelo CS320 Substituição da placa de contato do chip. Cabeamento para placa mainboard. Calibração da bordas e do sensor do ribbon.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 310.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813207000012016",
+                "idCompraItem": "1581320700001201600001"
+            },
+            {
+                "isnSidecResultadoCompra": 37301113,
+                "numeroLicitacao": "15813207120162",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 7,
+                "nomeModalidade": "INEXIGIBILIDADE DE LICITAÇÃO",
+                "numeroAviso": 12016,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 5479,
+                "nomeServico": "MANUTENCAO - EQUIPAMENTOS GRAFICOS",
+                "cnpjFornecedor": "04730561000105",
+                "nomeFornecedor": "TOTAL CARD COMERCIO E IMPORTACAO LTDA - EPP",
+                "quantidade": null,
+                "unidade": "unidade",
+                "descricaoItem": "Marca Hiti modelo CS320 Substituição da placa de contato do chip. Calibração da bordas e do sensor do ribbon.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 285.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813207000012016",
+                "idCompraItem": "1581320700001201600002"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

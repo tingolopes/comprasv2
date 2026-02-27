@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845406000182020",
+        "data_extracao": "2026-02-13 11:35:16",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845406000182020",
+                "idCompraItem": "1584540600018202000001",
+                "coUasg": 158454,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 18,
+                "dtAnoAvisoLicitacao": 2020,
+                "nuInciso": "02",
+                "nuProcesso": "23347013021202021",
+                "vrEstimado": 30013.2,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Valor menor que o limite da dispensa",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "CINTIA LORENA DE CARVALHO FIGUEIREDO",
+                "noCargoRespDeclDisp": "Gestor Financeiro",
+                "noResponsavelRatificacao": "WALTERISIO GONCALVES CARNEIRO JUNIOR",
+                "noCargoRespRatificacao": "Ordenador de Despesas",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 27898,
+                "noConjuntoMateriais": "CESTA DOMESTICA",
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "Kit Cestas Básicas, embalados em fardo plásticos, impermeáveis, transparentes  e resistentes. Constituído dos elementos relacionados em Carta Contrato, os qu ais formam 01 Cesta Básica.",
+                "qtMaterialAlt": 140,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 30013.2,
+                "dsFabricante": null,
+                "noMarcaMaterial": "sem marca",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "12887219000133",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "NOVA ESTRELA COMERCIO DE ALIMENTOS S.A",
+                "dtAlteracao": "2024-04-08T11:45:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

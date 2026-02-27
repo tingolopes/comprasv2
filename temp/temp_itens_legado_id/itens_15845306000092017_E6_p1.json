@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845306000092017",
+        "data_extracao": "2026-02-13 11:13:56",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845306000092017",
+                "idCompraItem": "1584530600009201700001",
+                "coUasg": 158453,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 9,
+                "dtAnoAvisoLicitacao": 2017,
+                "nuInciso": "02",
+                "nuProcesso": "01037970178201709",
+                "vrEstimado": 2650.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.Necessidade urgente de adequação.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "EDISON SILVA SOSA",
+                "noCargoRespDeclDisp": "Gestor Financeiro",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 23086,
+                "noServico": "INSTALACAO / MANUTENCAO - REDE DISTRIBUICAO GAS",
+                "dsDetalhada": "Serviço de detecção de vazamento em rede GLP com interdição do local do vazame nto, instalação de novo trecho de 15 metros de rede com envelopamento total. D everá ser realizado o teste de Estanqueidade com Certificado de Rede Interna d e Gás: Aplicação de ar filtrado através de compressor com capacidade de 10 kgf /cm² diretamente das tubulações a partir da central de abastecimento de GLP at é os pontos de consumo passando pelo sistema de redução de pressão. Elevação e  manutenção de pressão conforme NRB 13932. Exame para detectar possíveis  vaza mentos. Deverá ser apresentada ART e laudo técnico.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "unidade",
+                "vrEstimadoItem": 2650.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "03721227000114",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "ITAIPU GAS & INSTALACOES - EIRELI - EPP",
+                "dtAlteracao": "2024-04-08T11:41:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

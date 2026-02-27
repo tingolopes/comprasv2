@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813206000732022",
+        "data_extracao": "2026-02-13 11:28:24",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000732022",
+                "idCompraItem": "1581320600073202200001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 73,
+                "dtAnoAvisoLicitacao": 2022,
+                "nuInciso": "02",
+                "nuProcesso": "23347.010624.2022",
+                "vrEstimado": 781.25,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": "Objeto: Aquisição de equipamento de som para sa                             la do CENID do campus TL e demais unidades do I                             FMS.",
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21º/06/1993.",
+                "dsJustificativa": "Justificativa: Aquisição de produtos e/ou serviços com valor inferior a R$ 17.600,00",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "WALTERISIO GONCALVES CARNEIRO JUNIOR",
+                "noCargoRespDeclDisp": "Ordenador de Despesa",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 602148,
+                "noConjuntoMateriais": null,
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": null,
+                "qtMaterialAlt": 16,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 781.25,
+                "dsFabricante": null,
+                "noMarcaMaterial": "LG",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "48358573000118",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "LUIZ ANTONIO NASCIMENTO CAMPELO 06926547394",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

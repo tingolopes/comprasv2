@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845306000012020",
+        "data_extracao": "2026-02-13 11:15:55",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845306000012020",
+                "idCompraItem": "1584530600001202000001",
+                "coUasg": 158453,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 1,
+                "dtAnoAvisoLicitacao": 2020,
+                "nuInciso": "02",
+                "nuProcesso": "23347000449202012",
+                "vrEstimado": 12240.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Lei nº 8.666/93, Art. 24º - Inciso II - 10% do valor da modalidade convite - até R$ 176.000,00.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "CRISTINA APARECIDA CORREA AJALA",
+                "noCargoRespDeclDisp": "Assistente em Administração",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 68608,
+                "noConjuntoMateriais": "BEBEDOURO DE AGUA REFRIGERADO FIXO",
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "BEBEDOURO ÁGUA TIPO INDUSTRIAL, VOLTAGEM 220, MATERIAL GABINETE AÇO INOXIDÁVEL , MATERIAL RESERVATÓRIO ÁGUA AÇO INOXIDÁVEL, CAPACIDADE ÁGUA 200 LITROS, COM 0 3 TORNEIRAS.",
+                "qtMaterialAlt": 4,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 12240.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "Bebedouro",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "05864763000102",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "AQUALAR DOURADOS EIRELI",
+                "dtAlteracao": "2024-04-08T11:41:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-contratacoes/2.1_consultarItensContratacoes_PNCP_14133_Id?tipo=idCompra&codigo=15813207000092023&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-13 11:43:15",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813207000092023",
+                "idCompraItem": "1581320700009202300001",
+                "idContratacaoPNCP": "10673078000120-1-000037/2023",
+                "unidadeOrgaoCodigoUnidade": "158132",
+                "orgaoEntidadeCnpj": "10673078000120",
+                "numeroItemPncp": 1,
+                "numeroItemCompra": 1,
+                "numeroGrupo": 0,
+                "descricaoResumida": "Treinamento Qualificação Profissional",
+                "materialOuServico": "S",
+                "materialOuServicoNome": "Serviço",
+                "codigoClasse": null,
+                "codigoGrupo": 929,
+                "codItemCatalogo": 21172,
+                "descricaodetalhada": "Treinamento Qualificação Profissional",
+                "unidadeMedida": "UNIDADE",
+                "orcamentoSigiloso": false,
+                "itemCategoriaIdPncp": 3,
+                "itemCategoriaNome": "Informática (TIC)",
+                "criterioJulgamentoIdPncp": 7,
+                "criterioJulgamentoNome": "Não se aplica",
+                "situacaoCompraItem": "2",
+                "situacaoCompraItemNome": "Homologado",
+                "tipoBeneficio": "4",
+                "tipoBeneficioNome": "Sem benefício",
+                "incentivoProdutivoBasico": false,
+                "quantidade": 1.0,
+                "valorUnitarioEstimado": 3290.0,
+                "valorTotal": 3290.0,
+                "temResultado": true,
+                "codFornecedor": "35963479000146",
+                "nomeFornecedor": "ESAFI - ESCOLA DE ADMINISTRACAO E TREINAMENTO LTDA",
+                "quantidadeResultado": 1.0,
+                "valorUnitarioResultado": 3290.0,
+                "valorTotalResultado": 3290.0,
+                "dataInclusaoPncp": "2023-09-06T13:21:11",
+                "dataAtualizacaoPncp": "2023-09-06T13:21:12",
+                "dataResultado": "2023-09-06 00:00:00.0000000",
+                "margemPreferenciaNormal": false,
+                "percentualMargemPreferenciaNormal": null,
+                "margemPreferenciaAdicional": false,
+                "percentualMargemPreferenciaAdicional": null,
+                "codigoNCM": null,
+                "descricaoNCM": null,
+                "numeroControlePNCPCompra": "10673078000120-1-000037/2023"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

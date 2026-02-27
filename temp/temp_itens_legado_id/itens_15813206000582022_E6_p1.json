@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813206000582022",
+        "data_extracao": "2026-02-13 11:28:17",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000582022",
+                "idCompraItem": "1581320600058202200001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 58,
+                "dtAnoAvisoLicitacao": 2022,
+                "nuInciso": "02",
+                "nuProcesso": "23347009557202212",
+                "vrEstimado": 1075.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": "Objeto: Publicação de E-Book a partir do Seminá                             rio I SEMPOG IFMS 2021.",
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21º/06/1993.",
+                "dsJustificativa": "Justificativa: Compra de pequeno vulto e baixa complexidade ensejaram a contratação neste Artigo da Lei 8.666/1993",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "ELAINE BORGES MONTEIRO CASSIANO",
+                "noCargoRespDeclDisp": "Ordenadora de Despesas",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 10049,
+                "noServico": "PUBLICACAO, IMPRESSAO DE JORNAL / REVISTA / LIVRO",
+                "dsDetalhada": "Publicação, Impressão de Jornal / Revista / Livro de E-Book a partir do Seminá rio I SEMPOG IFMS 2021",
+                "qtMaterialAlt": 43,
+                "noUnidadeMedida": "UNIDADE",
+                "vrEstimadoItem": 1075.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "35335163000100",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "JADER LUIS DA SILVEIRA 11726684695",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

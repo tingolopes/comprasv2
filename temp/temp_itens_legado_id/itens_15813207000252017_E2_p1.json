@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813207000252017",
+        "data_extracao": "2026-02-13 11:20:37",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 40611539,
+                "numeroLicitacao": "158132072520171",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 7,
+                "nomeModalidade": "INEXIGIBILIDADE DE LICITAÇÃO",
+                "numeroAviso": 252017,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 14729,
+                "nomeServico": "TREINAMENTO NA AREA DE ADMINISTRACAO PUBLICA",
+                "cnpjFornecedor": "00975548000157",
+                "nomeFornecedor": "ASSOCIACAO BRASILEIRA DE EDUCACAO A DISTANCIA - ABED",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "Participação da servidora Flávia Regina Grego no 23º CIAEDCongresso Internac ional ABED de Educação a Distância que acontecerá nos dias 17 a 21 de setembro de 2017 em Foz do Iguaçu PR.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 400.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813207000252017",
+                "idCompraItem": "1581320700025201700001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

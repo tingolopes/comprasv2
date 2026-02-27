@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15585006000132017",
+        "data_extracao": "2026-02-13 10:57:31",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 40255261,
+                "numeroLicitacao": "155850061320172",
+                "uasg": 155850,
+                "nomeUasg": "INSTITUTO FEDERAL DE MS/CAMPUS JARDIM",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 132017,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": 7013,
+                "nomeMaterial": "TAMPA VASO SANITÁRIO, TAMPA DE VASO SANITARIO NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "09538374000130",
+                "nomeFornecedor": "ML RODRIGUES COMERCIAL LTDA - ME",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "TAMPA VASO SANITÁRIO, NOME TAMPA DE VASO SANITARIO",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 559.8,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:36:00",
+                "idCompra": "15585006000132017",
+                "idCompraItem": "1558500600013201700002"
+            },
+            {
+                "isnSidecResultadoCompra": 40255260,
+                "numeroLicitacao": "155850061320171",
+                "uasg": 155850,
+                "nomeUasg": "INSTITUTO FEDERAL DE MS/CAMPUS JARDIM",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 132017,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 7013,
+                "nomeMaterial": "TAMPA VASO SANITÁRIO, TAMPA DE VASO SANITARIO NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "10942831000136",
+                "nomeFornecedor": "COMERCIAL VANGUARDEIRA EIRELI - ME",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Assento sanitário, plástico, branco gelo Dimensões: 445x355x55mm",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 198.99,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:36:00",
+                "idCompra": "15585006000132017",
+                "idCompraItem": "1558500600013201700001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

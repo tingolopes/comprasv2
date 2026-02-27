@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000162018",
+        "data_extracao": "2026-02-13 11:21:10",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 42023494,
+                "numeroLicitacao": "158132061620181",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 162018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 390473,
+                "nomeMaterial": "LONA, MATERIAL POLIPROPILENO  APLICAÇÃO BANNER  COR BRANCA  LARGURA 1,20 M TIPO IMPERMEÁVEL  COMPRIMENTO 0,90 M",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "05913187000138",
+                "nomeFornecedor": "GRAFICA PEX LTDA",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 810.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-04-07T08:07:00",
+                "idCompra": "15813206000162018",
+                "idCompraItem": "1581320600016201800001"
+            },
+            {
+                "isnSidecResultadoCompra": 42023495,
+                "numeroLicitacao": "158132061620182",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 162018,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": 335708,
+                "nomeMaterial": "PASTA EVENTOS, MATERIAL PAPEL CARTÃO SUPREMO  ALTURA 460 MM CARACTERÍSTICAS ADICIONAIS DOBRA VERTICAL, BRASÃO E BOLSO INTERNO DE 120MM  TIPO IMPRESSÃO 4/4 CORES  GRAMATURA 300 G/M2 LARGURA 320 MM APLICAÇÃO EVENTOS  ACABAMENTO PLASTIFICADO  QUANTIDADE BOLSOS 1 UN LOGOTIPO MPDFT",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "05913187000138",
+                "nomeFornecedor": "GRAFICA PEX LTDA",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 700.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-06-10T15:12:00",
+                "idCompra": "15813206000162018",
+                "idCompraItem": "1581320600016201800002"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

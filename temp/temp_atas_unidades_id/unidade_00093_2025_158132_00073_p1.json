@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00093%2F2025&unidadeGerenciadora=158132&numeroItem=00073&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:44:50",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00093/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00073",
+                "codigoPdm": "07405",
+                "descricaoItem": "FERRO PASSAR ROUPA, TIPO ELÉTRICO VAPOR E SPRAY, TENSÃO ALIMENTAÇÃO 110/220 V, CARACTERÍSTICAS ADICIONAIS ANTI-ADERENTE, AUTO LIMPANTE, LÂMPADA PILOTO E GA, CONSUMO 0,96 KW/H",
+                "fornecedor": "54638483000183 - M & J REFRIGERACAO LTDA",
+                "quantidadeRegistrada": 1.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 1.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": 0.0,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2025-09-01T15:09:25",
+                "dataHoraAtualizacao": "2025-09-01T16:23:46",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            },
+            {
+                "numeroAta": "00093/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00073",
+                "codigoPdm": "07405",
+                "descricaoItem": "FERRO PASSAR ROUPA, TIPO ELÉTRICO VAPOR E SPRAY, TENSÃO ALIMENTAÇÃO 110/220 V, CARACTERÍSTICAS ADICIONAIS ANTI-ADERENTE, AUTO LIMPANTE, LÂMPADA PILOTO E GA, CONSUMO 0,96 KW/H",
+                "fornecedor": "54638483000183 - M & J REFRIGERACAO LTDA",
+                "quantidadeRegistrada": 1.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 1.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": 0.0,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2025-09-01T15:10:25",
+                "dataHoraAtualizacao": "2025-09-01T16:23:53",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158448",
+                "nomeUnidade": "INST.FED.DO MS/CAMPUS AQUIDAUANA",
+                "tipoUnidade": "PARTICIPANTE"
+            },
+            {
+                "numeroAta": "00093/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00073",
+                "codigoPdm": "07405",
+                "descricaoItem": "FERRO PASSAR ROUPA, TIPO ELÉTRICO VAPOR E SPRAY, TENSÃO ALIMENTAÇÃO 110/220 V, CARACTERÍSTICAS ADICIONAIS ANTI-ADERENTE, AUTO LIMPANTE, LÂMPADA PILOTO E GA, CONSUMO 0,96 KW/H",
+                "fornecedor": "54638483000183 - M & J REFRIGERACAO LTDA",
+                "quantidadeRegistrada": 2.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 2.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": 0.0,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2025-09-01T15:10:25",
+                "dataHoraAtualizacao": "2025-09-01T16:23:54",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158452",
+                "nomeUnidade": "INST. FED. DO MS/CAMPUS NOVA ANDRADINA",
+                "tipoUnidade": "PARTICIPANTE"
+            }
+        ],
+        "totalRegistros": 3,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15585006000052020",
+        "data_extracao": "2026-02-13 11:01:54",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 46633576,
+                "numeroLicitacao": "15585006520201",
+                "uasg": 155850,
+                "nomeUasg": "INSTITUTO FEDERAL DE MS/CAMPUS JARDIM",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 52020,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 70874,
+                "nomeMaterial": "PLACA VEÍCULO AUTOMOTIVO, PLACA - VEICULO AUTOMOTIVO NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "15417949000169",
+                "nomeFornecedor": "EMBRASPLAKE INDUSTRIA DE ARTEFATOS DE METAIS LTDA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "PLACA VEICULO AUTOMOTIVO PAR DE PIV PLACA DE IDENTIFICAÇÃO VEICULAR MERCOS UL PARA VEÍCULOS OFICIAIS. FABRICADA E ESTAMPADA CONFORME RESOLUÇÃO N780, DE 2 6 DE JUNHO DE 2019 QUE DISPÕE SOBRE O NOVO SISTEMA DE PLACAS DE IDENTIFICAÇÃO VEICULAR -Renaut Sandero Placa NRL-8608",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 260.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:36:00",
+                "idCompra": "15585006000052020",
+                "idCompraItem": "1558500600005202000001"
+            },
+            {
+                "isnSidecResultadoCompra": 46633577,
+                "numeroLicitacao": "15585006520202",
+                "uasg": 155850,
+                "nomeUasg": "INSTITUTO FEDERAL DE MS/CAMPUS JARDIM",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 52020,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": 70874,
+                "nomeMaterial": "PLACA VEÍCULO AUTOMOTIVO, PLACA - VEICULO AUTOMOTIVO NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "15417949000169",
+                "nomeFornecedor": "EMBRASPLAKE INDUSTRIA DE ARTEFATOS DE METAIS LTDA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "PLACA VEICULO AUTOMOTIVO PAR DE PIV PLACA DE IDENTIFICAÇÃO VEICULAR MERCOS UL PARA VEÍCULOS OFICIAIS. FABRICADA E ESTAMPADA CONFORME RESOLUÇÃO N780, DE 2 6 DE JUNHO DE 2019 QUE DISPÕE SOBRE O NOVO SISTEMA DE PLACAS DE IDENTIFICAÇÃO VEICULAR Nissan Frontier Placa NRL-9623.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 260.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:36:00",
+                "idCompra": "15585006000052020",
+                "idCompraItem": "1558500600005202000002"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

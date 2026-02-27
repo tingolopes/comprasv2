@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813207000162018",
+        "data_extracao": "2026-02-13 11:22:42",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813207000162018",
+                "idCompraItem": "1581320700016201800001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 16,
+                "dtAnoAvisoLicitacao": 2018,
+                "nuInciso": "02",
+                "nuProcesso": "23347010817201816",
+                "vrEstimado": 6500.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 25º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Contratação para capacitação",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "LUIZ SIMAO STASZCZAK",
+                "noCargoRespDeclDisp": "Ordenador de Despesa",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 14729,
+                "noServico": "TREINAMENTO NA AREA DE ADMINISTRACAO PUBLICA",
+                "dsDetalhada": "Contratação do Curso  Comunicação Eficaz , promovido pelo Instituto Euvaldo Lo di - IEL, na modalidade in company, com carga horária de 24 horas, a ser reali zado no período previsto de 15 a 17 de outubro de 2018 na Reitoria do IFMS, pa ra até 30 servidores.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "Capacitação",
+                "vrEstimadoItem": 6500.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "15411218000106",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "INSTITUTO EUVALDO LODI",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

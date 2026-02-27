@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845006000242016",
+        "data_extracao": "2026-02-13 09:40:57",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 38567331,
+                "numeroLicitacao": "158450062420161",
+                "uasg": 158450,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.CORUMBÁ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 242016,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 25089,
+                "nomeServico": "LOCACAO DE VEICULOS - LEVES / PESADOS / COM MOTORISTA",
+                "cnpjFornecedor": "17505953000104",
+                "nomeFornecedor": "LADARIO EXPRESS LTDA - ME",
+                "quantidade": null,
+                "unidade": "Diária",
+                "descricaoItem": "locação de ônibus 48 lugares.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 6500.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:30:00",
+                "idCompra": "15845006000242016",
+                "idCompraItem": "1584500600024201600001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

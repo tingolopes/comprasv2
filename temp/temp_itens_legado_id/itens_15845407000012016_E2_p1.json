@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845407000012016",
+        "data_extracao": "2026-02-13 11:32:07",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 37208375,
+                "numeroLicitacao": "15845407120161",
+                "uasg": 158454,
+                "nomeUasg": "INST.F.ED.,CIENC.E TEC DE MS/C.TRÊS LAGOAS",
+                "modalidade": 7,
+                "nomeModalidade": "INEXIGIBILIDADE DE LICITAÇÃO",
+                "numeroAviso": 12016,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 892,
+                "nomeServico": "PROPAGANDA E PUBLICIDADE",
+                "cnpjFornecedor": "04196645000100",
+                "nomeFornecedor": "IMPRENSA NACIONAL",
+                "quantidade": null,
+                "unidade": "serviço",
+                "descricaoItem": "Publicação Legal de Materiais na Imprensa Nacional para atender ao Campus Três Lagoas do Instituto Federal do Mato Grosso do Sul no exercício de 2016.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 6750.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:45:00",
+                "idCompra": "15845407000012016",
+                "idCompraItem": "1584540700001201600001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

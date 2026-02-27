@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00057%2F2025&unidadeGerenciadora=158132&numeroItem=00051&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:55:44",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00057/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00051",
+                "codigoPdm": null,
+                "descricaoItem": "Hora extra Noturna (22h a 5h) -  50%+20%",
+                "fornecedor": "08720790000191 - POLO ADMINISTRACAO LTDA",
+                "quantidadeRegistrada": 0.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": 0.0,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2025-07-18T14:25:54",
+                "dataHoraAtualizacao": "2025-07-28T12:06:59",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            },
+            {
+                "numeroAta": "00057/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00051",
+                "codigoPdm": null,
+                "descricaoItem": "Hora extra Noturna (22h a 5h) -  50%+20%",
+                "fornecedor": "08720790000191 - POLO ADMINISTRACAO LTDA",
+                "quantidadeRegistrada": 264.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 228.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": 0.0,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2025-07-18T14:26:18",
+                "dataHoraAtualizacao": "2025-12-12T17:06:56",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158452",
+                "nomeUnidade": "INST. FED. DO MS/CAMPUS NOVA ANDRADINA",
+                "tipoUnidade": "PARTICIPANTE"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

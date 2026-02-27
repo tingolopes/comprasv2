@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15585006000122020",
+        "data_extracao": "2026-02-13 11:04:19",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15585006000122020",
+                "idCompraItem": "1558500600012202000001",
+                "coUasg": 155850,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 12,
+                "dtAnoAvisoLicitacao": 2020,
+                "nuInciso": "02",
+                "nuProcesso": "23347012677202027",
+                "vrEstimado": 14854.83,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Diante do preço, da natureza é necessário os prestadores do serviço estejam na localidade e estes não utilizam comprasnet",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "WELLINGTON MARTINS LOUVEIRA",
+                "noCargoRespDeclDisp": "Diretor de Administração",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 5622,
+                "noServico": "OBRAS CIVIS PUBLICAS ( CONSTRUCAO )",
+                "dsDetalhada": "Obras civis públicas ( construção ) - Contratação de serviço comum de engenhar ia para execução de Passeio (calçada) de acesso às novas salas modulares e pla ntio de grama, conforme projeto .",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 14854.83,
+                "dsFabricante": null,
+                "noMarcaMaterial": "",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "19613171000114",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "SALAZAR CONSTRUTORA LTDA",
+                "dtAlteracao": "2024-04-08T11:36:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

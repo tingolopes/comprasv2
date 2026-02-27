@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15844807000022016",
+        "data_extracao": "2026-02-13 09:38:10",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 37329295,
+                "numeroLicitacao": "15844807220161",
+                "uasg": 158448,
+                "nomeUasg": "INST.FED.DE ED.,CIENT.E TEC.DE MS/C.AQUIDAUAN",
+                "modalidade": 7,
+                "nomeModalidade": "INEXIGIBILIDADE DE LICITAÇÃO",
+                "numeroAviso": 22016,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 4227,
+                "nomeServico": "PUBLICACOES PROMOCIONAIS / EDITAIS",
+                "cnpjFornecedor": "04196645000100",
+                "nomeFornecedor": "IMPRENSA NACIONAL",
+                "quantidade": null,
+                "unidade": "unidade",
+                "descricaoItem": "Publicação no Diário Oficial da União (Imprensa Nacional) no período de 09 de março de 2016 a 08 de março de 2017.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 8000.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:20:00",
+                "idCompra": "15844807000022016",
+                "idCompraItem": "1584480700002201600001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

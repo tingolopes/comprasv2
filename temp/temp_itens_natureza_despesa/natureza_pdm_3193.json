@@ -1,0 +1,17 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-material/5_consultarMaterialNaturezaDespesa?pagina=1&codigoPdm=3193",
+        "data_extracao": "2026-02-26 15:01:31",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "codigoPdm": 3193,
+                "codigoNaturezaDespesa": "33903021",
+                "nomeNaturezaDespesa": "MATERIAL DE CONSUMO - MATERIAL DE COPA E COZINHA",
+                "statusNaturezaDespesa": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845406000372018",
+        "data_extracao": "2026-02-13 11:33:25",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845406000372018",
+                "idCompraItem": "1584540600037201800001",
+                "coUasg": 158454,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 37,
+                "dtAnoAvisoLicitacao": 2018,
+                "nuInciso": "02",
+                "nuProcesso": "23347012966201810",
+                "vrEstimado": 6250.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Valor abaixo de R$17.600,00.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "APIO CARNIELO E SILVA",
+                "noCargoRespDeclDisp": "Ordenador de Despesa",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 150482,
+                "noConjuntoMateriais": null,
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "Conjunto de longarinas e bandejas para porta paletes até 300 kg, cada conjunto  deve conter 2 longarinas e 5 bandejas com as seguinte especificações: Longari na para porta-palete 2300X400X650mm; Bandeja (chapa) de aço para porta-palete,  12mX41,5cmX23mm.",
+                "qtMaterialAlt": 4,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 6250.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "N.E.",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "02179274000115",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "MOVAP INDUSTRIA E COMERCIO DE MOVEIS EIRELI",
+                "dtAlteracao": "2024-04-08T11:45:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

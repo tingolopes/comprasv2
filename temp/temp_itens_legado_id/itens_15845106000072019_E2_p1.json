@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845106000072019",
+        "data_extracao": "2026-02-13 10:11:30",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 44054477,
+                "numeroLicitacao": "15845106720191",
+                "uasg": 158451,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.COXIM",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 72019,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 47678,
+                "nomeMaterial": "GÁS LIQUEFEITO DE PETRÓLEO - GLP, GAS ENGARRAFADO ( GLP ) NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "37195724000148",
+                "nomeFornecedor": "COXIM GAS COMERCIO LTDA",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "Recarga de Gás Liquefeito de PetróleoGLP P13 13 Kg.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 939.96,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:32:00",
+                "idCompra": "15845106000072019",
+                "idCompraItem": "1584510600007201900001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

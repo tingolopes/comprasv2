@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-contratacoes/2.1_consultarItensContratacoes_PNCP_14133_Id?tipo=idCompra&codigo=15813206902742023&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-13 10:47:32",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206902742023",
+                "idCompraItem": "1581320690274202300001",
+                "idContratacaoPNCP": "10673078000120-1-000073/2023",
+                "unidadeOrgaoCodigoUnidade": "158132",
+                "orgaoEntidadeCnpj": "10673078000120",
+                "numeroItemPncp": 1,
+                "numeroItemCompra": 1,
+                "numeroGrupo": 0,
+                "descricaoResumida": "Manutenção / Reforma - Instalação Prevenção Combate Incêndio Manutenção / Reforma - Instalação Prevenção Combate Incêndio Contratação de serviços técnicos de engenharia para adequação de projeto de bombeiros bloco C e barracão CRC, adequação de sistema de combate a incêndio e demais apontamentos do corpo de bombeiros para o Campus Dourados",
+                "materialOuServico": "S",
+                "materialOuServicoNome": "Serviço",
+                "codigoClasse": null,
+                "codigoGrupo": 872,
+                "codItemCatalogo": 21822,
+                "descricaodetalhada": "Manutenção / Reforma - Instalação Prevenção Combate Incêndio Manutenção / Reforma - Instalação Prevenção Combate Incêndio",
+                "unidadeMedida": "UNIDADE",
+                "orcamentoSigiloso": false,
+                "itemCategoriaIdPncp": 3,
+                "itemCategoriaNome": "Informática (TIC)",
+                "criterioJulgamentoIdPncp": 7,
+                "criterioJulgamentoNome": "Não se aplica",
+                "situacaoCompraItem": "2",
+                "situacaoCompraItemNome": "Homologado",
+                "tipoBeneficio": "5",
+                "tipoBeneficioNome": "Não se aplica",
+                "incentivoProdutivoBasico": false,
+                "quantidade": 1.0,
+                "valorUnitarioEstimado": 58850.0,
+                "valorTotal": 58850.0,
+                "temResultado": true,
+                "codFornecedor": "52302555000191",
+                "nomeFornecedor": "52.302.555 RAPHAEL DE OLIVEIRA MIGUEL",
+                "quantidadeResultado": 1.0,
+                "valorUnitarioResultado": 58850.0,
+                "valorTotalResultado": 58850.0,
+                "dataInclusaoPncp": "2023-12-06T09:55:12",
+                "dataAtualizacaoPncp": "2024-06-27T17:17:53",
+                "dataResultado": "2023-12-06 00:00:00.0000000",
+                "margemPreferenciaNormal": false,
+                "percentualMargemPreferenciaNormal": null,
+                "margemPreferenciaAdicional": false,
+                "percentualMargemPreferenciaAdicional": null,
+                "codigoNCM": null,
+                "descricaoNCM": null,
+                "numeroControlePNCPCompra": "10673078000120-1-000073/2023"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

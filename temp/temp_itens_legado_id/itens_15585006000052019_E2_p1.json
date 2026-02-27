@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15585006000052019",
+        "data_extracao": "2026-02-13 11:02:20",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 45277027,
+                "numeroLicitacao": "15585006520191",
+                "uasg": 155850,
+                "nomeUasg": "INSTITUTO FEDERAL DE MS/CAMPUS JARDIM",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 52019,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 973,
+                "nomeServico": "SONDAGENS TERRESTRES ROTATIVAS",
+                "cnpjFornecedor": "21849022000109",
+                "nomeFornecedor": "GEOTEC CONSULTORIA TOPOGRAFIA PROJETOS E OBRAS EIRELI",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Sondagens terrestres rotativas Serviço de Investigação Geotécnica através de Sondagem à Percussão (08 furos) destinada a Elaboração de Projetos Arquitet ônico e complementares relacionados ao Plano Diretor para o IFMS Campus Ja rdim.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 9235.85,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:36:00",
+                "idCompra": "15585006000052019",
+                "idCompraItem": "1558500600005201900001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

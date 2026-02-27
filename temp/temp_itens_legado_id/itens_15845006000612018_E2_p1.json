@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845006000612018",
+        "data_extracao": "2026-02-13 09:42:52",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 43200334,
+                "numeroLicitacao": "158450066120181",
+                "uasg": 158450,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.CORUMBÁ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 612018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 5240,
+                "nomeMaterial": "TOALHA DE PAPEL, TOALHA PAPEL - MAO NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "06345325000192",
+                "nomeFornecedor": "J. SALES DE OLIVEIRA",
+                "quantidade": null,
+                "unidade": "FARDO",
+                "descricaoItem": "TOALHA DE PAPEL, NOME TOALHA PAPEL MAO",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 438.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:30:00",
+                "idCompra": "15845006000612018",
+                "idCompraItem": "1584500600061201800001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

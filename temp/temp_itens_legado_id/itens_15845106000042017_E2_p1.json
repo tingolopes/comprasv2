@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845106000042017",
+        "data_extracao": "2026-02-13 10:05:35",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 39814634,
+                "numeroLicitacao": "15845106420172",
+                "uasg": 158451,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.COXIM",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 42017,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 1970,
+                "nomeServico": "INSTALACAO / MONTAGEM / MANUTENCAO - EQUIPAMENTOS ELETRICOS",
+                "cnpjFornecedor": "03472461000155",
+                "nomeFornecedor": "ELMI TERESINHA GUND - ME",
+                "quantidade": null,
+                "unidade": "serviço",
+                "descricaoItem": "Serviço de troca do micro motor do bebedouro patrimônio n. 76083",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 159.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:32:00",
+                "idCompra": "15845106000042017",
+                "idCompraItem": "1584510600004201700002"
+            },
+            {
+                "isnSidecResultadoCompra": 39814633,
+                "numeroLicitacao": "15845106420171",
+                "uasg": 158451,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.COXIM",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 42017,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 1970,
+                "nomeServico": "INSTALACAO / MONTAGEM / MANUTENCAO - EQUIPAMENTOS ELETRICOS",
+                "cnpjFornecedor": "03472461000155",
+                "nomeFornecedor": "ELMI TERESINHA GUND - ME",
+                "quantidade": null,
+                "unidade": "serviço",
+                "descricaoItem": "Serviço de troca do compressor, filtro e solda, gás e micro motor do bebedouro patrimônio nº. 76085.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 770.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:32:00",
+                "idCompra": "15845106000042017",
+                "idCompraItem": "1584510600004201700001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

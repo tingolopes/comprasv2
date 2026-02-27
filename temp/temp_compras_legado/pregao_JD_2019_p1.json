@@ -1,0 +1,38 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/3_consultarPregoes?pagina=1&tamanhoPagina=500&co_uasg=155850&dt_data_edital_inicial=2019-01-01&dt_data_edital_final=2019-12-31",
+        "data_extracao": "2026-02-05 16:03:47",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "id_compra": "15585005000012019",
+                "co_processo": "23347005532201936",
+                "co_portaria": "22-2019",
+                "co_uasg": 155850,
+                "no_ausg": "INSTITUTO FEDERAL DE MS/CAMPUS JARDIM",
+                "co_orgao": 26415,
+                "no_orgao": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "numero": 12019,
+                "ds_situacao_pregao": "homologado",
+                "ds_tipo_pregao": "eletronico",
+                "ds_tipo_pregao_compra": "SISRP",
+                "tx_objeto": "Objeto: Pregão Eletrônico -  Concessão administrativa de uso de área física para exploração dos serviços de cantina/lanchonete, por meio de instalação de trailer fixo (do tipo container ou food truck) situada no IFMS   Campus Jardim, com aproximadamente 24 m  (vinte e quatro metros quadrados), localizada no patio interno descoberto do Campus Jardim, situado à Rodovia BR 060   saída para Bela Vista   Jardim-MS tendo como finalidade específica a exploração de serviço de cantina/lanchonete.",
+                "valorEstimadoTotal": "97.09",
+                "valorHomologadoTotal": "55.30",
+                "dt_portaria": "2019-05-13T03:00:00.000+00:00",
+                "dt_data_edital": "2019-06-04",
+                "dt_inicio_proposta": "2019-06-05T11:00:00.000+00:00",
+                "dt_fim_proposta": "2019-07-01T12:30:00.000+00:00",
+                "dt_alteracao": "2024-04-08T11:36:00",
+                "dt_encerramento": "2019-07-02",
+                "dt_resultado": "2019-07-03",
+                "pertence14133": false
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

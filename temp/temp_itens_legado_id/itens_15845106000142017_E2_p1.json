@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845106000142017",
+        "data_extracao": "2026-02-13 10:05:31",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 41160202,
+                "numeroLicitacao": "158451061420172",
+                "uasg": 158451,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.COXIM",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 142017,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 2771,
+                "nomeServico": "AR CONDICIONADO - MANUTENCAO DE SISTEMAS / LIMPEZA",
+                "cnpjFornecedor": "05201042000104",
+                "nomeFornecedor": "MACIEL E GONCALVES LTDA  - ME",
+                "quantidade": null,
+                "unidade": "Metro",
+                "descricaoItem": "Serviços de manutenção corretiva com fornecimento e instalação de cabo blindad o AWG, trançado3x1,5mm",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1800.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:32:00",
+                "idCompra": "15845106000142017",
+                "idCompraItem": "1584510600014201700002"
+            },
+            {
+                "isnSidecResultadoCompra": 41160201,
+                "numeroLicitacao": "158451061420171",
+                "uasg": 158451,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.COXIM",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 142017,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 2771,
+                "nomeServico": "AR CONDICIONADO - MANUTENCAO DE SISTEMAS / LIMPEZA",
+                "cnpjFornecedor": "05201042000104",
+                "nomeFornecedor": "MACIEL E GONCALVES LTDA  - ME",
+                "quantidade": null,
+                "unidade": "Serviço",
+                "descricaoItem": "Serviços de manutenção corretiva com fornecimento, instalação e configuração d e placa eletrônica do motor ventilador (peça original), condensadora VRF, marc a: ToshibaModelo: MMY-MAP1204HT5P",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 5150.5,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:32:00",
+                "idCompra": "15845106000142017",
+                "idCompraItem": "1584510600014201700001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

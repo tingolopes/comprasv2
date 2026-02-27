@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/4_consultarEmpenhosSaldoItem?numeroAta=00008%2F2023&unidadeGerenciadora=158132&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-27 07:31:17",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroItem": "00015",
+                "unidade": "155849 - INST.FED.DO MS/CAMPUS NAVIRAI",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 124.0,
+                "quantidadeEmpenhada": 124.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-05T12:08:11"
+            },
+            {
+                "numeroItem": "00015",
+                "unidade": "155900 - HOSPITAL UNIVERSITARIO DA UFSCAR",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 156.0,
+                "quantidadeEmpenhada": 156.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00016",
+                "unidade": "155900 - HOSPITAL UNIVERSITARIO DA UFSCAR",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 6.0,
+                "quantidadeEmpenhada": 6.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00015",
+                "unidade": "158448 - INST.FED.DO MS/CAMPUS AQUIDAUANA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 100.0,
+                "quantidadeEmpenhada": 100.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-05T12:08:11"
+            },
+            {
+                "numeroItem": "00016",
+                "unidade": "158448 - INST.FED.DO MS/CAMPUS AQUIDAUANA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 6.0,
+                "quantidadeEmpenhada": 6.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-05T12:08:13"
+            },
+            {
+                "numeroItem": "00015",
+                "unidade": "158449 - INST. FED. DO MS/CAMPUS CAMPO GRANDE",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 116.0,
+                "quantidadeEmpenhada": 116.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-05T12:08:11"
+            },
+            {
+                "numeroItem": "00016",
+                "unidade": "158449 - INST. FED. DO MS/CAMPUS CAMPO GRANDE",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 6.0,
+                "quantidadeEmpenhada": 6.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-05T12:08:13"
+            },
+            {
+                "numeroItem": "00015",
+                "unidade": "158454 - INST. FED. DO MS/CAMPUS TRES LAGOAS",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 120.0,
+                "quantidadeEmpenhada": 76.0,
+                "saldoEmpenho": 44.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            }
+        ],
+        "totalRegistros": 8,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

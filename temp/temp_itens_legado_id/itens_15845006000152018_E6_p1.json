@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845006000152018",
+        "data_extracao": "2026-02-13 09:43:59",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845006000152018",
+                "idCompraItem": "1584500600015201800001",
+                "coUasg": 158450,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 15,
+                "dtAnoAvisoLicitacao": 2018,
+                "nuInciso": "22",
+                "nuProcesso": "01037990132201831",
+                "vrEstimado": 276000.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso XXII da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Em razão do objeto - fornecimento de energia elétrica",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "LAURA DE SOUZA FERNANDES RAMOS",
+                "noCargoRespDeclDisp": "Gestora Financeira",
+                "noResponsavelRatificacao": "SANDRO MOURA SANTOS",
+                "noCargoRespRatificacao": "Ordenador de Despesas",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 4120,
+                "noServico": "ENERGIA ELETRICA - FORNECIMENTO MERCADO REGULADO",
+                "dsDetalhada": "Fornecimento de energia elétrica para o IFMS Campus Corumbá",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "SERV",
+                "vrEstimadoItem": 276000.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "15413826000150",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "ENERGISA MATO GROSSO DO SUL - DISTRIBUIDORA DE ENERGIA S.A.",
+                "dtAlteracao": "2024-04-08T11:30:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

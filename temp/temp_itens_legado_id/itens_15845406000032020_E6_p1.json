@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845406000032020",
+        "data_extracao": "2026-02-13 11:34:46",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845406000032020",
+                "idCompraItem": "1584540600003202000001",
+                "coUasg": 158454,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 3,
+                "dtAnoAvisoLicitacao": 2020,
+                "nuInciso": "02",
+                "nuProcesso": "23347006038202022",
+                "vrEstimado": 13320.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Valor abaixo de R$ 17.600,00",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "WALTERISIO GONCALVES CARNEIRO JUNIOR",
+                "noCargoRespDeclDisp": "Ordenador de Despesas",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 19321,
+                "noServico": "CURSO / TREINAMENTO EDUCACAO - DISTANCIA",
+                "dsDetalhada": "Curso de Pregão Eletrônico de acordo com o Novo Decreto Federal N.º N.º 10.024 /19 e a Lei N.º 13.979/20 -- Incluindo módulos sobre SRP e benefícios para Mic ro e Pequenas Empresas.",
+                "qtMaterialAlt": 20,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 13320.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "23880650000174",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "INOVE SOLUCOES EM CAPACITACAO E EVENTOS LTDA",
+                "dtAlteracao": "2024-04-08T11:45:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

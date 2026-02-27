@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845406000202019",
+        "data_extracao": "2026-02-13 11:34:11",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845406000202019",
+                "idCompraItem": "1584540600020201900001",
+                "coUasg": 158454,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 20,
+                "dtAnoAvisoLicitacao": 2019,
+                "nuInciso": "02",
+                "nuProcesso": "23347019477201961",
+                "vrEstimado": 8091.53,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Aquisição de produtos e/ou serviços com valor inferior a R$ 17.600,00",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "APIO CARNIELO E SILVA",
+                "noCargoRespDeclDisp": "Ordenador de Despesas",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 14273,
+                "noConjuntoMateriais": "CADEIRA COMUM",
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "Cadeira Plástica (sem braço) ISO P r e t o , empilhável, com design anatômico,  estrutura em aço, com pintura epóxi eletrostática na cor preta, com capacidad e mínima de 120kg, altura 80 cm, largura 51 cm, com profundidade de 51 cm, com  garantia mínima de 6 meses. Qualidade similar as marcas: Só chair, Kas , Ecof lex Cadeiras.",
+                "qtMaterialAlt": 120,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 8091.53,
+                "dsFabricante": null,
+                "noMarcaMaterial": "Chair",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "09070369000145",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "ELUMI COMERCIO DE EQUIPAMENTOS EIRELI",
+                "dtAlteracao": "2024-04-08T11:45:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

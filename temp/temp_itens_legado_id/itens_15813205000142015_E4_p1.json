@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/4.1_consultarItensPregoes_Id?id_compra=15813205000142015",
+        "data_extracao": "2026-02-13 11:42:10",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158132,
+                    "coItem": 16475716
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "Kit educacional para montagem de robôs  Referência: LEGO EDUCACIONAL MINDSTORN EV3 ?   Conjunto didático de robótica com um processador ARM9 de 300MHz  e  o sistema operacional baseado em Linux,  memória de 64Mb RAM + 16Mb de memória Flash, com capacidade de adicionar até 32Gb via entrada micro-SD. display com resolução de 178 x 128 pixels, 4 portas de entradas e 3 portas de saída, Bluetooth, possibilidade de ligar o robô à internet por USB, 2 servos motores interativos grandes e 1 servo motor interativo médio, 4 sensores: Sensor de som, 2 sensores de toque e sensor de luz(colorido), Sensor colorido: capaz de distinguir 8 diferentes cores e detectar o estado ´sem cor. Software Easy-to-use baseado em programação de ícones arraste e use. Kit contendo no mínimo 541 peças de encaixe, instruções para construção de pelo menos 4 robôs, Editores de ícones. Memória RAM de 64 MB e memória  de armazenamento de 16 MB. Comunicação com  o equipamento através de uma rede WiFi. Compatível com sistemas iOS e Android. Uso de 6 pilhas AA com tampa da bateria com duas travas.",
+                "descricaoItem": "MATERIAL PEDAGÓGICO",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "18548.94",
+                "quantidadeItem": "8",
+                "situacaoItem": "homologado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "Kit",
+                "valorHomologadoItem": "2318.62",
+                "valorEstimadoItem": "26274.11",
+                "valorNegociado": null,
+                "idCompra": "15813205000142015",
+                "idCompraItem": "1581320500014201500001",
+                "noAdjudic": "ALFREDO GONCALVES BEDA",
+                "noHom": "LUIZ SIMAO STASZCZAK",
+                "dtEncerramento": "2016-02-05",
+                "dtAdjudic": "2016-02-05",
+                "dtHom": "2016-02-25",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            },
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158132,
+                    "coItem": 16475717
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "Carregador para pilha recarregável AA/AAA Com 4 pilhas AA , Amparagem de 2100 mAh. Carregadores rápidos. - carga total em até 3 horas . As 4 pilhas acompanham o carregador. Carrega até 1.000 vezes.",
+                "descricaoItem": "FONTE DE ENERGIA DE BATERIA",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "1000.00",
+                "quantidadeItem": "20",
+                "situacaoItem": "homologado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "Unidade",
+                "valorHomologadoItem": "50.00",
+                "valorEstimadoItem": "2442.00",
+                "valorNegociado": null,
+                "idCompra": "15813205000142015",
+                "idCompraItem": "1581320500014201500002",
+                "noAdjudic": "ALFREDO GONCALVES BEDA",
+                "noHom": "LUIZ SIMAO STASZCZAK",
+                "dtEncerramento": "2016-02-05",
+                "dtAdjudic": "2016-02-05",
+                "dtHom": "2016-02-25",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

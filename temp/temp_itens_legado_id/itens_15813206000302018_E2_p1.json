@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000302018",
+        "data_extracao": "2026-02-13 11:21:24",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 43345681,
+                "numeroLicitacao": "158132063020181",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 302018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 73814,
+                "nomeMaterial": "PLAQUETA DE IDENTIFICACAO PATRIMONIAL, PLAQUETA DE IDENTIFICACAO PATRIMONIAL NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": null,
+                "nomeFornecedor": null,
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "PLAQUETA DE IDENTIFICAÇÃO PATRIMONIAL EM ALUMÍNIO, GRAVAÇÃO EM BAIXO RELEVO (C ORROSÃO) E SERIGRAFADO CORES, COM FURO PARA REBITE, MEDIDAS 46 x 15 x 0,3 mm, COM BORDAS ARREDONDADAS, AUTOADESIVA, RESISTENTE A THINER, ÁLCOOL.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 0.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000302018",
+                "idCompraItem": "1581320600030201800001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845206000102019",
+        "data_extracao": "2026-02-13 11:06:25",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 44608893,
+                "numeroLicitacao": "158452061020191",
+                "uasg": 158452,
+                "nomeUasg": "INST.F.DE ED.,CIENC.E TEC.DO MS/C.N ANDRADINA",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 102019,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 27090,
+                "nomeServico": "OUTROS SERVICOS PARA A INFRAESTRUTURA DE TECNOLOGIA DA INFORMACAO E COMUNICACAO (TIC)",
+                "cnpjFornecedor": "21986368000140",
+                "nomeFornecedor": "NETVOX TECNOLOGIA EM TELECOMUNICACOES EIRELI",
+                "quantidade": null,
+                "unidade": "Serviço",
+                "descricaoItem": "Contratação de serviço de instalação de link ponto a ponto entre a UFMS e a FI NOVA, bem como correção no estaiamento nas torres de comunicação do IFMS e bal izamento noturno das torres.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 7808.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:40:00",
+                "idCompra": "15845206000102019",
+                "idCompraItem": "1584520600010201900001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

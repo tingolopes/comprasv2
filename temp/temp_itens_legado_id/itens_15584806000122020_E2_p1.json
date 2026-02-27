@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15584806000122020",
+        "data_extracao": "2026-02-13 10:56:27",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 46477534,
+                "numeroLicitacao": "155848061220202",
+                "uasg": 155848,
+                "nomeUasg": "IF - MS/ CAMPUS DOURADOS",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 122020,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 27219,
+                "nomeServico": "EMISSAO DE CERTIFICADO DIGITAL A3, SEM TOKEN PESSOA   FISICA",
+                "cnpjFornecedor": "11735236000192",
+                "nomeFornecedor": "OBJECTTI SOLUCOES LTDA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Emissão/Renovação de certificado digital e-CPF tipo A3 com validade de 36 mese s.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 6930.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:35:00",
+                "idCompra": "15584806000122020",
+                "idCompraItem": "1558480600012202000002"
+            },
+            {
+                "isnSidecResultadoCompra": 46477533,
+                "numeroLicitacao": "155848061220201",
+                "uasg": 155848,
+                "nomeUasg": "IF - MS/ CAMPUS DOURADOS",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 122020,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 27189,
+                "nomeServico": "EMISSAO DE CERTIFICADO DIGITAL A3, COM TOKEN PESSOA FISICA",
+                "cnpjFornecedor": "11735236000192",
+                "nomeFornecedor": "OBJECTTI SOLUCOES LTDA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Dispositivos para armazenamento de certificados digitais, tipo Token, compatív eis e-CPF e e-CNPJ. Modelo homologado conforme padrão ICP-Brasil.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 4250.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:35:00",
+                "idCompra": "15584806000122020",
+                "idCompraItem": "1558480600012202000001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

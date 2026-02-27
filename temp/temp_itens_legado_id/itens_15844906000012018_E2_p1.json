@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15844906000012018",
+        "data_extracao": "2026-02-13 09:46:46",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 41477411,
+                "numeroLicitacao": "15844906120181",
+                "uasg": 158449,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.C.GRANDE",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 12018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 16748,
+                "nomeServico": "DISTRIBUICAO / ENTREGA DE CONTA - LUZ, TELEFONE, AGUA, GAS",
+                "cnpjFornecedor": "15413826000150",
+                "nomeFornecedor": "ENERGISA MATO GROSSO DO SUL - DISTRIBUIDORA DE ENERGIA S.A.",
+                "quantidade": null,
+                "unidade": "Serviço.",
+                "descricaoItem": "Prestação do serviço de fornecimento de energia elétrica para a sede do Campus Campo Grande do IFMS, sito à Rua Taquari nº 831, bairro Santo Antonio. Pra zo da contratação: indeterminado, conforme ON-AGU nº 36/2011 publicada no DOU em 14.11.2012.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 660000.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:27:00",
+                "idCompra": "15844906000012018",
+                "idCompraItem": "1584490600001201800001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

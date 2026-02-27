@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845006000312019",
+        "data_extracao": "2026-02-13 09:44:33",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 45602848,
+                "numeroLicitacao": "158450063120191",
+                "uasg": 158450,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.CORUMBÁ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 312019,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 457175,
+                "nomeMaterial": "LÂMINA SERRA, MATERIAL AÇO RÁPIDO BI-METAL  COMPRIMENTO 2,36 M LARGURA 19 MM APLICAÇÃO SERRAS DE FITAS MANUAIS, GRAVITACIONAIS HIDÁULICAS  QUANTIDADE DENTES 6-10 POR POLEGADA  CARACTERÍSTICAS ADICIONAIS CORTES DE TUBOS E SÓLIDOS, DE AÇO CARBONO, LIGAS  ESPESSURA 0,9 MM TIPO SERRA FITA, PASSO VARIÁVEL",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "56994700000101",
+                "nomeFornecedor": "STARRETT INDUSTRIA E COMERCIO LTDA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 406.03,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-01-28T13:24:00",
+                "idCompra": "15845006000312019",
+                "idCompraItem": "1584500600031201900001"
+            },
+            {
+                "isnSidecResultadoCompra": 45602849,
+                "numeroLicitacao": "158450063120192",
+                "uasg": 158450,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.CORUMBÁ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 312019,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": 384469,
+                "nomeMaterial": "GÁS COMPRIMIDO, NOME NITROGÊNIO  ASPECTO FÍSICO INCOLOR, LIQUEFEITO, REFRIGERADO  FÓRMULA QUÍMICA N2  MASSA MOLECULAR 28,96 G/MOL GRAU DE PUREZA TEOR MÍNIMO DE 99,99%  CARACTERÍSTICA ADICIONAL GRAU ANALÍTICO  NÚMERO DE REFERÊNCIA QUÍMICA CAS 7727-37-9",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "35820448000136",
+                "nomeFornecedor": "WHITE MARTINS GASES INDUSTRIAIS LTDA",
+                "quantidade": null,
+                "unidade": "Metro cúbico",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 841.32,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-12-02T07:48:00",
+                "idCompra": "15845006000312019",
+                "idCompraItem": "1584500600031201900002"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

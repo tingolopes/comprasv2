@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15844906000112019",
+        "data_extracao": "2026-02-13 09:49:19",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 44027908,
+                "numeroLicitacao": "158449061120191",
+                "uasg": 158449,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.C.GRANDE",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 112019,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 3557,
+                "nomeServico": "INSTALACAO / MANUTENCAO - ELEVADORES, ESCADAS ROLANTES,  MONTA - CARGAS / PLATAFORMA / ESCADAS",
+                "cnpjFornecedor": "27555840000177",
+                "nomeFornecedor": "SULLIFT ELEVADORES LTDA",
+                "quantidade": null,
+                "unidade": "Serviço",
+                "descricaoItem": "Serviço ,com fornecimento de material, de manutenção do Elevador do Bloco A (B arreira Infra vermelha , Operador de porta VVVF, Placa ST15784JF36 do quadro d e comando principal, Placa FiF do quadro de comando, Galão de óleo hidráulico 15780, limpeza de cabine e comando completa) no IFMS Campus Campo Grande.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 7120.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:27:00",
+                "idCompra": "15844906000112019",
+                "idCompraItem": "1584490600011201900001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

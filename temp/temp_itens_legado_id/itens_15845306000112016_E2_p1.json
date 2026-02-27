@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845306000112016",
+        "data_extracao": "2026-02-13 11:13:07",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 38343643,
+                "numeroLicitacao": "158453061120162",
+                "uasg": 158453,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MT/C.P.PORÃ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 112016,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": 237375,
+                "nomeMaterial": "REATOR LÂMPADA, QUANTIDADE LÂMPADAS 2 UN POTÊNCIA LÂMPADA 40 W TENSÃO ALIMENTAÇÃO 127 V APLICAÇÃO LÂMPADAS FLUORESCENTES  CARACTERÍSTICAS ADICIONAIS PARTIDA ELETRÔNICA",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "09035549000196",
+                "nomeFornecedor": "MARCOS E BERTA LTDA - ME",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 688.8,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:41:00",
+                "idCompra": "15845306000112016",
+                "idCompraItem": "1584530600011201600002"
+            },
+            {
+                "isnSidecResultadoCompra": 38343642,
+                "numeroLicitacao": "158453061120161",
+                "uasg": 158453,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MT/C.P.PORÃ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 112016,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 22306,
+                "nomeMaterial": "LÂMPADA FLUORESCENTE, LAMPADA FLUORESCENTE NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "10428493000380",
+                "nomeFornecedor": "AIHA DO BRASIL IMPORTACAO E EXPORTACAO - EIRELI",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "LÂMPADA FLUORESCENTELâmpada fluorescente tubular, 1ª qualidade, bitola T10, Soquete G13, potência 40w, cor branca, uso interna, 110v ou bivolt, Dimensões 33 mm diâmetro x 1200 mm comprimento, luz do dia. Embalagem original do fabric ante com identificação do produto, marca do fabricante, data de fabricação. Ma rcas de referência Osram, Philips, ou outra de qualidade igual ou superior. Un idade.  Garantia: 1 ano",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1368.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:41:00",
+                "idCompra": "15845306000112016",
+                "idCompraItem": "1584530600011201600001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

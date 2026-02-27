@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-contratacoes/2.1_consultarItensContratacoes_PNCP_14133_Id?tipo=idCompra&codigo=15813206000572023&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-13 10:47:09",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000572023",
+                "idCompraItem": "1581320600057202300001",
+                "idContratacaoPNCP": "10673078000120-1-000071/2023",
+                "unidadeOrgaoCodigoUnidade": "158132",
+                "orgaoEntidadeCnpj": "10673078000120",
+                "numeroItemPncp": 1,
+                "numeroItemCompra": 1,
+                "numeroGrupo": 0,
+                "descricaoResumida": "Estudos e projetos - fontes alternativas de energia elétrica",
+                "materialOuServico": "S",
+                "materialOuServicoNome": "Serviço",
+                "codigoClasse": null,
+                "codigoGrupo": 835,
+                "codItemCatalogo": 24937,
+                "descricaodetalhada": "Contratação de empresa especializada em confecção de projeto elétrico, para ligação dos  aparelhos de ar condicionado do bloco de salas de aula do IFMS Campus Nova  Andradina.",
+                "unidadeMedida": "UNIDADE",
+                "orcamentoSigiloso": false,
+                "itemCategoriaIdPncp": 3,
+                "itemCategoriaNome": "Informática (TIC)",
+                "criterioJulgamentoIdPncp": 1,
+                "criterioJulgamentoNome": "Menor preço",
+                "situacaoCompraItem": "2",
+                "situacaoCompraItemNome": "Homologado",
+                "tipoBeneficio": "1",
+                "tipoBeneficioNome": "Participação exclusiva para ME/EPP",
+                "incentivoProdutivoBasico": false,
+                "quantidade": 1.0,
+                "valorUnitarioEstimado": 7226.67,
+                "valorTotal": 7226.67,
+                "temResultado": true,
+                "codFornecedor": "15696877000136",
+                "nomeFornecedor": "GOBRAZ COMERCIO E SERVICO LTDA",
+                "quantidadeResultado": 1.0,
+                "valorUnitarioResultado": 5590.0,
+                "valorTotalResultado": 5590.0,
+                "dataInclusaoPncp": "2023-12-04T15:47:12",
+                "dataAtualizacaoPncp": "2025-03-15T12:26:47",
+                "dataResultado": "2023-12-12 00:00:00.0000000",
+                "margemPreferenciaNormal": false,
+                "percentualMargemPreferenciaNormal": null,
+                "margemPreferenciaAdicional": false,
+                "percentualMargemPreferenciaAdicional": null,
+                "codigoNCM": null,
+                "descricaoNCM": null,
+                "numeroControlePNCPCompra": "10673078000120-1-000071/2023"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

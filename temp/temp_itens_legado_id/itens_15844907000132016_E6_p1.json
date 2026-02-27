@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15844907000132016",
+        "data_extracao": "2026-02-13 09:46:17",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15844907000132016",
+                "idCompraItem": "1584490700013201600001",
+                "coUasg": 158449,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 13,
+                "dtAnoAvisoLicitacao": 2016,
+                "nuInciso": "00",
+                "nuProcesso": "23347008866201619",
+                "vrEstimado": 418.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 25º, Caput da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Inviabilidade de competição.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "JOAO OTAVIO CENEDEZI PIMENTA",
+                "noCargoRespDeclDisp": "Diretor de Administração",
+                "noResponsavelRatificacao": "DEJAHYR LOPES JUNIOR",
+                "noCargoRespRatificacao": "Ordenador de Despesas Substituto",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 17965,
+                "noServico": "MANUTENCAO E REPARO - TACOGRAFO",
+                "dsDetalhada": "Pagamento de serviço de selagem e ensaio do tacógrafo dos veículos oficiais do  IFMS - Campus Campo Grande.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "UN",
+                "vrEstimadoItem": 418.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "36779965000171",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "CENTRO OESTE INSTRUMENTOS PARA PAINEIS LTDA - EPP",
+                "dtAlteracao": "2024-04-08T11:27:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

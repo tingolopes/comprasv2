@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-contratacoes/2.1_consultarItensContratacoes_PNCP_14133_Id?tipo=idCompra&codigo=15813206000612026&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-26 15:44:06",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000612026",
+                "idCompraItem": "1581320600061202600001",
+                "idContratacaoPNCP": "10673078000120-1-000008/2026",
+                "unidadeOrgaoCodigoUnidade": "158132",
+                "orgaoEntidadeCnpj": "10673078000120",
+                "numeroItemPncp": 1,
+                "numeroItemCompra": 1,
+                "numeroGrupo": 0,
+                "descricaoResumida": "Impressora Multifuncional tipo impressão: jato tinta, resolução impressão: 5760 x 1440, tensão alimentação: bivolt, resolução scanner: 1.200 x 2.400, conectividade: usb e wifi, características adicionais: color, sistema eco tank",
+                "materialOuServico": "M",
+                "materialOuServicoNome": "Material",
+                "codigoClasse": null,
+                "codigoGrupo": null,
+                "codItemCatalogo": null,
+                "descricaodetalhada": null,
+                "unidadeMedida": "Unidade",
+                "orcamentoSigiloso": false,
+                "itemCategoriaIdPncp": 3,
+                "itemCategoriaNome": "Informática (TIC)",
+                "criterioJulgamentoIdPncp": 1,
+                "criterioJulgamentoNome": "Menor preço",
+                "situacaoCompraItem": "1",
+                "situacaoCompraItemNome": "Em andamento",
+                "tipoBeneficio": "1",
+                "tipoBeneficioNome": "Participação exclusiva para ME/EPP",
+                "incentivoProdutivoBasico": false,
+                "quantidade": 1.0,
+                "valorUnitarioEstimado": 4303.42,
+                "valorTotal": 4303.42,
+                "temResultado": null,
+                "codFornecedor": null,
+                "nomeFornecedor": null,
+                "quantidadeResultado": null,
+                "valorUnitarioResultado": null,
+                "valorTotalResultado": null,
+                "dataInclusaoPncp": "2026-02-19T15:52:45",
+                "dataAtualizacaoPncp": "2026-02-19T15:55:45",
+                "dataResultado": null,
+                "margemPreferenciaNormal": false,
+                "percentualMargemPreferenciaNormal": null,
+                "margemPreferenciaAdicional": false,
+                "percentualMargemPreferenciaAdicional": null,
+                "codigoNCM": "84433111",
+                "descricaoNCM": null,
+                "numeroControlePNCPCompra": "10673078000120-1-000008/2026"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

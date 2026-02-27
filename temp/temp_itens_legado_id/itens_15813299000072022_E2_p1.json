@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813299000072022",
+        "data_extracao": "2026-02-13 11:39:02",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 53907854,
+                "numeroLicitacao": "15813299720221",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 99,
+                "nomeModalidade": "RDC",
+                "numeroAviso": 72022,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 5622,
+                "nomeServico": "OBRAS CIVIS PUBLICAS ( CONSTRUCAO )",
+                "cnpjFornecedor": "18727597000136",
+                "nomeFornecedor": "JM COMERCIO, CONSTRUCAO E SERVICOS LTDA",
+                "quantidade": 1,
+                "unidade": "UNIDADE",
+                "descricaoItem": "Obras Civis Públicasconstrução de módulos em estrutura metálica com telhamen to em aço/alumínio que servirão como passarelas cobertas entre blocos com elab oração do projeto executivo, para o  IFMS, Campus Ponta Porã/MS. As duas cober turas somam 240m² de área cobertas a serem construídas, conforme condições, qu antidades e exigências estabelecidas neste Edital e seus anexos.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 158489.01,
+                "decreto7174": "false",
+                "criterioJulgamento": "Maior Desconto",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813299000072022",
+                "idCompraItem": "1581329900007202200001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

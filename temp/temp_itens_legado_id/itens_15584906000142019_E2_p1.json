@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15584906000142019",
+        "data_extracao": "2026-02-13 11:09:55",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 44370246,
+                "numeroLicitacao": "155849061420191",
+                "uasg": 155849,
+                "nomeUasg": "INSTITUTO FEDERAL DE MS/CAMPUS NAVIRAÍ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 142019,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 14826,
+                "nomeServico": "INSTALACAO / MANUTENCAO / MONITORIZACAO - SISTEMA ALARME /  SEGURANCA",
+                "cnpjFornecedor": "18717282000108",
+                "nomeFornecedor": "SEGURANCA ELETRONICA NAVIRAI LTDA",
+                "quantidade": null,
+                "unidade": "serviço",
+                "descricaoItem": "Serviços de instalação de sistema de alarme com os seguintes equipamentos: 01( UM) TROFO 1,5A 16V, 02(duas) baterias 12V7A, sirene 12V teto/parede, 01(uma) c aixa metálica universal grande, 30(trinta) cabo CC3 pares 6x50 ,  06 (seis)sen sor DSC WS490 passivo 433,01(um) sensor magnético com fio xas sobrepor, 01(uma ) central de alarme,01(um) Teclado  DSC c/ receptor sem fio, 01 (um) transmiss or c/ cabo e antena, 01(um) carregador de bateria.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 159.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:38:00",
+                "idCompra": "15584906000142019",
+                "idCompraItem": "1558490600014201900001"
+            },
+            {
+                "isnSidecResultadoCompra": 44370247,
+                "numeroLicitacao": "155849061420192",
+                "uasg": 155849,
+                "nomeUasg": "INSTITUTO FEDERAL DE MS/CAMPUS NAVIRAÍ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 142019,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 14826,
+                "nomeServico": "INSTALACAO / MANUTENCAO / MONITORIZACAO - SISTEMA ALARME /  SEGURANCA",
+                "cnpjFornecedor": "18717282000108",
+                "nomeFornecedor": "SEGURANCA ELETRONICA NAVIRAI LTDA",
+                "quantidade": null,
+                "unidade": "MÊS",
+                "descricaoItem": "Serviços de monitoramento de alarme 24 h com  fornecimento de todos os materia is necessário em comodato.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 3576.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:38:00",
+                "idCompra": "15584906000142019",
+                "idCompraItem": "1558490600014201900002"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

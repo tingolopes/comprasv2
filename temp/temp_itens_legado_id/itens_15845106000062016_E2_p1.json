@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845106000062016",
+        "data_extracao": "2026-02-13 10:03:59",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 37323382,
+                "numeroLicitacao": "15845106620162",
+                "uasg": 158451,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.COXIM",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 62016,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": 132039,
+                "nomeMaterial": "DESCANSO PÉS, DESCANSO PARA PES NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "00708768000114",
+                "nomeFornecedor": "START UP COMERCIO E SERVICOS LTDA  - ME",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Descanso/apoio para pés, com 16 regulagens para altura, ajustável, altura míni ma de 110mm e altura máxima 450mm, estrutura em aço tubular pintado com tinta epóxi na cor preta, com plataforma antiderrapante com medidas aproximadas 30cm de comprimento e 39cm de largura, com sapatas de borracha para não escorregar .",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 516.12,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-03-17T20:27:00",
+                "idCompra": "15845106000062016",
+                "idCompraItem": "1584510600006201600002"
+            },
+            {
+                "isnSidecResultadoCompra": 37323381,
+                "numeroLicitacao": "15845106620161",
+                "uasg": 158451,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.COXIM",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 62016,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 20680,
+                "nomeMaterial": "CADEIRA ESCRITÓRIO, CADEIRA ESCRITORIO NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": null,
+                "nomeFornecedor": null,
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Cadeira palito multivisão, secretária, estrutura fixa com 4 pés em aço em pint ura Epóxi, assento e encosto preenchido com espuma laminada e revestido em nyl on, capacidade de peso até 120 Kg distribuídos, cor preta, acabamento feito em PVC rígido. Medidas aproximadas: 90cm x 39cm x 52cm.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 0.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-02-11T16:59:00",
+                "idCompra": "15845106000062016",
+                "idCompraItem": "1584510600006201600001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

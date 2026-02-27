@@ -1,0 +1,50 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/2_consultarARPItem?codigoUnidadeGerenciadora=158132&dataVigenciaInicialMin=2024-12-30&dataVigenciaInicialMax=2024-12-30&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 10:51:52",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAtaRegistroPreco": "00097/2024",
+                "codigoUnidadeGerenciadora": "158132",
+                "numeroCompra": "90259",
+                "anoCompra": "2024",
+                "codigoModalidadeCompra": "05",
+                "dataAssinatura": "2024-12-28T00:00:00",
+                "dataVigenciaInicial": "2024-12-30",
+                "dataVigenciaFinal": "2025-12-30",
+                "numeroItem": "00005",
+                "codigoItem": 614131,
+                "descricaoItem": "CINTO VESTUÁRIO, MATERIAL NÁILON, COR PRETA, MATERIAL FIVELA PLÁSTICO, TAMANHO SOB MEDIDA, CARACTERÍSTICAS ADICIONAIS CORREIAS AJUSTÁVEIS, USO UNISSEX, TIPO TÁTICO",
+                "tipoItem": "Material",
+                "quantidadeHomologadaItem": 400.0,
+                "classificacaoFornecedor": "001",
+                "niFornecedor": "51414411000164",
+                "nomeRazaoSocialFornecedor": "BRUMO ESPORTES LTDA",
+                "quantidadeHomologadaVencedor": 400,
+                "valorUnitario": 37.38,
+                "valorTotal": 14952.0,
+                "maximoAdesao": 800.0,
+                "nomeUnidadeGerenciadora": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "nomeModalidadeCompra": "Pregão",
+                "idCompra": "15813205902592024",
+                "numeroControlePncpCompra": "10673078000120-1-000070/2024",
+                "dataHoraInclusao": "2025-01-08T09:29:35",
+                "dataHoraAtualizacao": "2025-01-08T09:29:35",
+                "quantidadeEmpenhada": 0.0,
+                "percentualMaiorDesconto": 0.0,
+                "situacaoSicaf": "1",
+                "dataHoraExclusao": null,
+                "itemExcluido": false,
+                "numeroControlePncpAta": "10673078000120-1-000070/2024-000007",
+                "codigoPdm": 5025,
+                "nomePdm": "CINTO VESTUÁRIO"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

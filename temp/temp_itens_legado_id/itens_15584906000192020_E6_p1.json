@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15584906000192020",
+        "data_extracao": "2026-02-13 11:11:27",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15584906000192020",
+                "idCompraItem": "1558490600019202000001",
+                "coUasg": 155849,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 19,
+                "dtAnoAvisoLicitacao": 2020,
+                "nuInciso": "02",
+                "nuProcesso": "23347007232202025",
+                "vrEstimado": 18482.4,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Nem a dispensa, nem a soma anual das despesas na respectiva natureza de despesa ultrapassam o limite do art. 24, II.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "PEDRO JORGE CARDOSO DA SILVA RODRIGUES",
+                "noCargoRespDeclDisp": "Coordenador de Materiais",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 465326,
+                "noConjuntoMateriais": null,
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": null,
+                "qtMaterialAlt": 360,
+                "noUnidadeMedida": "Quilograma",
+                "vrEstimadoItem": 18482.4,
+                "dsFabricante": null,
+                "noMarcaMaterial": "DESCONHECIDA",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "06813685000414",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "JCHAGAS ALIMENTOS LTDA",
+                "dtAlteracao": "2024-04-08T11:38:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

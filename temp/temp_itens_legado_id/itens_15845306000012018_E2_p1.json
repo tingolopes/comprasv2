@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845306000012018",
+        "data_extracao": "2026-02-13 11:14:06",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 41388660,
+                "numeroLicitacao": "15845306120181",
+                "uasg": 158453,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MT/C.P.PORÃ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 12018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 18570,
+                "nomeServico": "CONFECCAO PASTA - ARQUIVO / PROCESSO",
+                "cnpjFornecedor": "05766870000190",
+                "nomeFornecedor": "J. R. DA MOTTA & CIA LTDA - ME",
+                "quantidade": null,
+                "unidade": "unidade",
+                "descricaoItem": "Pasta de estudante: pasta 32 cm x 46 cm(tamanho aberto), 1 lâmina em papel car tão massa única (pode ser também supremo ou duo design), gramatura 250g/m², co res 4/0 (colorido frente), 01 dobra e vinco no meio, refile. Deve conter na fr ente da pasta no cabeçalho o brasão da república federativa do Brasil, o símbo lo do IFMS e os dizeres em caixa alta MINISTÉRIO DA EDUCAÇÃO, Secretária de Ed ucação Profissional e Tecnológica e Instituto Federal de Educação, Ciências e Tecnologia de Mato Grosso do Sul, abaixo PASTA DO ESTUDANTE campo delimitado e com indicação para escrever o nome do estudante, o código do estudante, o cur so, ingresso/ ano/ semestre e um campo Observações já no verso da pasta do est udante deve conter a escrita PASTA DO ESTUDANTE o e-mail do IFMS e centralizad o na parte inferior da pasta o símbolo do IFMS.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 2880.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:41:00",
+                "idCompra": "15845306000012018",
+                "idCompraItem": "1584530600001201800001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

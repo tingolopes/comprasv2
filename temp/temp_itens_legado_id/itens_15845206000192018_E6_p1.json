@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845206000192018",
+        "data_extracao": "2026-02-13 11:06:08",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845206000192018",
+                "idCompraItem": "1584520600019201800001",
+                "coUasg": 158452,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 19,
+                "dtAnoAvisoLicitacao": 2018,
+                "nuInciso": "02",
+                "nuProcesso": "2334.019584201817",
+                "vrEstimado": 1750.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Aquisição de produtos e/ou serviços com valor inferior a R$ 17.600,00",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "CLAUDIO ZARATE SANAVRIA",
+                "noCargoRespDeclDisp": "Diretor Geral",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 150364,
+                "noConjuntoMateriais": null,
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "Máquina  de  tosquia  para  Ovinos  220V  com  potência  de   380W e 2500 R  M P.  Seu   motor   é  resfriado   a  ar   e   a   tensão   das   lâminas   é    facilmente   ajustável.   Sua   empunhadura   é   confortável   e   possui  ac abamento  antiderrapante.  Produto  certificado  pelo   INMETRO",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "UN",
+                "vrEstimadoItem": 1750.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "WalMur",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "26401583000156",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "IBERCON CONSULTORIA E INTERMEDIACAO DE NEGOCIOS EIRELI",
+                "dtAlteracao": "2024-04-08T11:40:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

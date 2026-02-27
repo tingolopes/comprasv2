@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15584806000282020",
+        "data_extracao": "2026-02-13 10:57:19",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 48183652,
+                "numeroLicitacao": "155848062820202",
+                "uasg": 155848,
+                "nomeUasg": "IF - MS/ CAMPUS DOURADOS",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 282020,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": 380962,
+                "nomeMaterial": "CONEXÃO HIDRÁULICA, MATERIAL PVC RÍGIDO  TIPO ADAPTADOR  TIPO FIXAÇÃO SOLDÁVEL  COR MARROM  BITOLA I 25 MM X 3/4 POL CARACTERÍSTICAS ADICIONAIS 1 FLANGE E ANEL",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "05766941000154",
+                "nomeFornecedor": "RODRIGUES DA SILVA & CIA. LTDA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 10.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-05-14T18:25:00",
+                "idCompra": "15584806000282020",
+                "idCompraItem": "1558480600028202000002"
+            },
+            {
+                "isnSidecResultadoCompra": 48183651,
+                "numeroLicitacao": "155848062820201",
+                "uasg": 155848,
+                "nomeUasg": "IF - MS/ CAMPUS DOURADOS",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 282020,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 396880,
+                "nomeMaterial": "TORNEIRA, MATERIAL CORPO METAL  TIPO BÓIA CAIXA-D'ÁGUA  DIÂMETRO 3/4 POL CARACTERISTICAS ADICIONAIS BOTÃO PLÁSTICO  APLICAÇÃO CAIXA DÁGUA",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "05766941000154",
+                "nomeFornecedor": "RODRIGUES DA SILVA & CIA. LTDA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 155.56,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-04-13T13:28:00",
+                "idCompra": "15584806000282020",
+                "idCompraItem": "1558480600028202000001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

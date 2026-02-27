@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00019%2F2024&unidadeGerenciadora=158132&numeroItem=00092&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:40:09",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00019/2024",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00092",
+                "codigoPdm": "14398",
+                "descricaoItem": "PALMAR, MATERIAL CORPO POLIPROPILENO E SILICONE, CARACTERÍSTICAS ADICIONAIS ANATÔMICO, COM ALÇAS, COMPRIMENTO 16 CM, LARGURA 14 CM, ESPESSURA 3 MM, APLICAÇÃO NATAÇÃO",
+                "fornecedor": "02966083000101 - BRESCHIGLIARI & CIA LTDA",
+                "quantidadeRegistrada": 0.0,
+                "saldoAdesoes": 20.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 20.0,
+                "qtdLimiteInformadoCompra": 20.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2024-08-15T15:36:22",
+                "dataHoraAtualizacao": "2024-10-16T13:02:15",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            },
+            {
+                "numeroAta": "00019/2024",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00092",
+                "codigoPdm": "14398",
+                "descricaoItem": "PALMAR, MATERIAL CORPO POLIPROPILENO E SILICONE, CARACTERÍSTICAS ADICIONAIS ANATÔMICO, COM ALÇAS, COMPRIMENTO 16 CM, LARGURA 14 CM, ESPESSURA 3 MM, APLICAÇÃO NATAÇÃO",
+                "fornecedor": "02966083000101 - BRESCHIGLIARI & CIA LTDA",
+                "quantidadeRegistrada": 10.0,
+                "saldoAdesoes": 20.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 20.0,
+                "qtdLimiteInformadoCompra": 20.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2024-08-15T15:38:43",
+                "dataHoraAtualizacao": "2024-12-30T18:21:08",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158450",
+                "nomeUnidade": "INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipoUnidade": "PARTICIPANTE"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813207000142021",
+        "data_extracao": "2026-02-13 11:26:52",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 49648475,
+                "numeroLicitacao": "158132071420211",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 7,
+                "nomeModalidade": "INEXIGIBILIDADE DE LICITAÇÃO",
+                "numeroAviso": 142021,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 25232,
+                "nomeServico": "PAGAMENTO INSCRICAO EVENTOS",
+                "cnpjFornecedor": "14087594000124",
+                "nomeFornecedor": "MMP CURSOS  CAPACITACAO E TREINAMENTO LTDA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Inscrição para servidores do Campus Aquidauana em Curso de Conformidade de Reg istro de Gestão ofertado pela MMP Cursos.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 2380.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813207000142021",
+                "idCompraItem": "1581320700014202100001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

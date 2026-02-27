@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000492021",
+        "data_extracao": "2026-02-13 11:25:53",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 50949000,
+                "numeroLicitacao": "158132064920211",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 492021,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 269108,
+                "nomeMaterial": "PLACA IDENTIFICAÇÃO, MATERIAL CHAPA GALVANIZADA  COMPRIMENTO 100 CM ALTURA 60 CM CARACTERÍSTICAS ADICIONAIS REVESTIMENTO EM VINIL AUTO-ADESIVO/DUPLA FACE/SU -  APLICAÇÃO IDENTIFICAÇÃO",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "28237825000143",
+                "nomeFornecedor": "ART MIX COMUNICACOES VISUAIS EIRELI",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 5582.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-05-28T10:41:00",
+                "idCompra": "15813206000492021",
+                "idCompraItem": "1581320600049202100001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

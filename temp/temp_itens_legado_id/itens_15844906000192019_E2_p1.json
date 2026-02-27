@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15844906000192019",
+        "data_extracao": "2026-02-13 09:50:04",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 44339511,
+                "numeroLicitacao": "158449061920191",
+                "uasg": 158449,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.C.GRANDE",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 192019,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 4316,
+                "nomeServico": "LOCACAO DE IMOVEL",
+                "cnpjFornecedor": "33087259000170",
+                "nomeFornecedor": "DIEGO FERNANDO SEBASTIAO DE MATTOS 02256209105",
+                "quantidade": null,
+                "unidade": "Locação/Mês",
+                "descricaoItem": "Locação de imóvel, quadra poliesportiva, por carga horária e sob demanda, para atender as necessidades de treinamento dos atletas do IFMS-CG",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 26208.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:27:00",
+                "idCompra": "15844906000192019",
+                "idCompraItem": "1584490600019201900001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

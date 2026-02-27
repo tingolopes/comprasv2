@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813206000862022",
+        "data_extracao": "2026-02-13 11:28:25",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000862022",
+                "idCompraItem": "1581320600086202200001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 86,
+                "dtAnoAvisoLicitacao": 2022,
+                "nuInciso": "13",
+                "nuProcesso": "23347011161202227",
+                "vrEstimado": 1514038.8,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": "Objeto: Contratação de Fundação de Apoio para a                             poiar o Instituto Federal de Mato Grosso do Sul                              (IFMS) na gestão administrativa e financeira d                             o projeto de extensão  Manutenção do Centro de                              Recondicionamento de Computadores Dourados como                              ferramenta para Inclusão Digital e Desenvolvim                             ento Social  desenvolvido pelo IFMS Campus Dour                             ados.",
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso XIII da Lei nº 8.666 de 21º/06/1993.",
+                "dsJustificativa": "Justificativa: Art. 24º, Inciso XIII da Lei nº 8.666 de 21º/06/1993.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "ELAINE BORGES MONTEIRO CASSIANO",
+                "noCargoRespDeclDisp": "Ordenadora de Despesa",
+                "noResponsavelRatificacao": "HEBERTON LUIZ DUARTE RODRIGUES",
+                "noCargoRespRatificacao": "Gestor Financeiro",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 24759,
+                "noServico": "PESQUISA E DESENVOLVIMENTO TECNOLOGICO",
+                "dsDetalhada": "Pesquisa e Desenvolvimento Tecnológico",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "UNIDADE",
+                "vrEstimadoItem": 1514038.8,
+                "dsFabricante": null,
+                "noMarcaMaterial": "",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "03832178000197",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "FUNDACAO DE APOIO AO DESENVOLVIMENTO DA CIENCIA E TECNOLOGIA-FACTO",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

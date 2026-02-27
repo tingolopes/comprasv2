@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845306000052017",
+        "data_extracao": "2026-02-13 11:13:50",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 40295608,
+                "numeroLicitacao": "15845306520172",
+                "uasg": 158453,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MT/C.P.PORÃ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 52017,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 21040,
+                "nomeServico": "ASSINATURA - PUBLICACAO INFORMATIZADA",
+                "cnpjFornecedor": "33683111000107",
+                "nomeFornecedor": "SERVICO FEDERAL DE PROCESSAMENTO DE DADOS (SERPRO)",
+                "quantidade": null,
+                "unidade": "unidade",
+                "descricaoItem": "A3 PFCertificado digital para pessoas físicas com fornecimento de token.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 957.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:41:00",
+                "idCompra": "15845306000052017",
+                "idCompraItem": "1584530600005201700002"
+            },
+            {
+                "isnSidecResultadoCompra": 40295607,
+                "numeroLicitacao": "15845306520171",
+                "uasg": 158453,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MT/C.P.PORÃ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 52017,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 21040,
+                "nomeServico": "ASSINATURA - PUBLICACAO INFORMATIZADA",
+                "cnpjFornecedor": "33683111000107",
+                "nomeFornecedor": "SERVICO FEDERAL DE PROCESSAMENTO DE DADOS (SERPRO)",
+                "quantidade": null,
+                "unidade": "unidade",
+                "descricaoItem": "A3 PFCertificado digital para pessoas físicas, em dispositivo criptográfico homologado pela ICP-Brasil. Características adicionais sem fornecimento de to ken",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1760.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:41:00",
+                "idCompra": "15845306000052017",
+                "idCompraItem": "1584530600005201700001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

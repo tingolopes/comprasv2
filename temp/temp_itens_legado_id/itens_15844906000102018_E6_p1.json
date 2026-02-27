@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15844906000102018",
+        "data_extracao": "2026-02-13 09:47:22",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15844906000102018",
+                "idCompraItem": "1584490600010201800001",
+                "coUasg": 158449,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 10,
+                "dtAnoAvisoLicitacao": 2018,
+                "nuInciso": "02",
+                "nuProcesso": "00944290933201788",
+                "vrEstimado": 320.34,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Aquisição de produtos e/ou serviços com valor inferior a R$ 8.000,00",
+                "nuCpfRespDeclDisp": "01116291100",
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "ROSANE DE BRITO FERNANDEZ GARCIA",
+                "noCargoRespDeclDisp": "Ordenadora de Despesas",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 16128,
+                "noConjuntoMateriais": "BANDEIRA DISTINTIVA",
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "Bandeira do Município de Campo Grande, estado de Mato Grosso do Sul, 02 panos,  confeccionada em 100% poliéster, com fio de alta resistência e malha bloquead a indesmalhável, para uso externo, com letras e estrelas bordadas em ambas as faces.",
+                "qtMaterialAlt": 2,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 320.34,
+                "dsFabricante": null,
+                "noMarcaMaterial": "SO BANDEIRAS",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "28319914000139",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "L A MARTINS INDUSTRIA COMERCIO E SERVICOS EIRELI",
+                "dtAlteracao": "2024-04-08T11:27:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

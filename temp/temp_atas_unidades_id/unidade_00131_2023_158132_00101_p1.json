@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00131%2F2023&unidadeGerenciadora=158132&numeroItem=00101&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:29:31",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00131/2023",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00101",
+                "codigoPdm": "06942",
+                "descricaoItem": "ESCOVA DE DESENHISTA, TIPO CERDAS JUBA, TAMANHO 25 CM, CARACTERÍSTICAS ADICIONAIS CABO MADEIRA COM ORIFÍCIO, MATERIAL CERDAS CRINA ANIMAL",
+                "fornecedor": "30041676000194 - VIVO LICITACOES LTDA",
+                "quantidadeRegistrada": 40.0,
+                "saldoAdesoes": 80.0,
+                "saldoRemanejamentoEmpenho": 40.0,
+                "qtdLimiteAdesao": 80.0,
+                "qtdLimiteInformadoCompra": 80.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2024-05-08T15:25:42",
+                "dataHoraAtualizacao": "2024-05-08T15:25:42",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "155850",
+                "nomeUnidade": "INST.FED.DO MS/CAMPUS JARDIM",
+                "tipoUnidade": "PARTICIPANTE"
+            },
+            {
+                "numeroAta": "00131/2023",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00101",
+                "codigoPdm": "06942",
+                "descricaoItem": "ESCOVA DE DESENHISTA, TIPO CERDAS JUBA, TAMANHO 25 CM, CARACTERÍSTICAS ADICIONAIS CABO MADEIRA COM ORIFÍCIO, MATERIAL CERDAS CRINA ANIMAL",
+                "fornecedor": "30041676000194 - VIVO LICITACOES LTDA",
+                "quantidadeRegistrada": 0.0,
+                "saldoAdesoes": 80.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 80.0,
+                "qtdLimiteInformadoCompra": 80.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2024-05-08T15:23:35",
+                "dataHoraAtualizacao": "2024-05-08T15:23:35",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

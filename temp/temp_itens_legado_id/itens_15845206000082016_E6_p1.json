@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845206000082016",
+        "data_extracao": "2026-02-13 11:03:49",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845206000082016",
+                "idCompraItem": "1584520600008201600001",
+                "coUasg": 158452,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 8,
+                "dtAnoAvisoLicitacao": 2016,
+                "nuInciso": "02",
+                "nuProcesso": "23347013071201622",
+                "vrEstimado": 2687.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Tendo em vista que não atende ao limite dos valores descritos na legislação.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "EDSON ALVES DE SOUZA",
+                "noCargoRespDeclDisp": "Analista de Tecnologia de Informação",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 2712,
+                "noServico": "MANUTENCAO DE EQUIPAMENTOS DE COMUNICACAO DE DADOS",
+                "dsDetalhada": "Serviço de realinhamento de rádios da marca Alvarion e manutenção preventiva e  corretiva do sistema de balizamento noturno e estaiamento das cordoalhas de a ço das torres, sendo que uma das torres se encontra no Campus da UFMS e outra na Rod MS 473 KM 23, Fazenda Santa Bárbara, S/N - IFMS.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "SERV",
+                "vrEstimadoItem": 2687.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "21986368000140",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "NETVOX TECNOLOGIA EM TELECOMUNICACOES EIRELI - EPP",
+                "dtAlteracao": "2024-04-08T11:40:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

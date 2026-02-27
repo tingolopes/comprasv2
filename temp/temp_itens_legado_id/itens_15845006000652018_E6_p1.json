@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845006000652018",
+        "data_extracao": "2026-02-13 09:43:54",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845006000652018",
+                "idCompraItem": "1584500600065201800003",
+                "coUasg": 158450,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 65,
+                "dtAnoAvisoLicitacao": 2018,
+                "nuInciso": "02",
+                "nuProcesso": "23347016406201826",
+                "vrEstimado": 98.33,
+                "qtTotalItem": 3,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Aquisição de produtos e/ou serviços com valor inferior a R$ 17.600,00",
+                "nuCpfRespDeclDisp": "04137049122",
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "SANDRO MOURA SANTOS",
+                "noCargoRespDeclDisp": "Ordenador de Despesa",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 3,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 15415,
+                "noConjuntoMateriais": "VENTILADOR DE REFRIGERACAO DE MOTOR AUTOMOTIVO",
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "MICRO VENTILADOR 1/40HP PARA BEBEDOURO.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "uni",
+                "vrEstimadoItem": 98.33,
+                "dsFabricante": null,
+                "noMarcaMaterial": "embrar",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "03343938000100",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "EMBRAR - EQUIPAMENTOS E COMPONENTES LTDA",
+                "dtAlteracao": "2024-04-08T11:30:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

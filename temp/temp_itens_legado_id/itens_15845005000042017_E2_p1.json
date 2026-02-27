@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845005000042017",
+        "data_extracao": "2026-02-13 11:35:32",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 41214329,
+                "numeroLicitacao": "15845005420171",
+                "uasg": 158450,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.CORUMBÁ",
+                "modalidade": 5,
+                "nomeModalidade": "PREGÃO",
+                "numeroAviso": 42017,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 15210,
+                "nomeServico": "CANTINA / BAR / LANCHONETE / REFEICAO RAPIDA / RESTAURANTE",
+                "cnpjFornecedor": "27413481000113",
+                "nomeFornecedor": "SIRLEIDE ROSENEIA TOMICHA 49507133100",
+                "quantidade": 1,
+                "unidade": "UND",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 39.73,
+                "decreto7174": "false",
+                "criterioJulgamento": "Maior Desconto",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-09-09T10:17:28",
+                "idCompra": "15845005000042017",
+                "idCompraItem": "1584500500004201700001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

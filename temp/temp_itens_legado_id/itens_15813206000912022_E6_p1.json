@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813206000912022",
+        "data_extracao": "2026-02-13 11:28:49",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000912022",
+                "idCompraItem": "1581320600091202200001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 91,
+                "dtAnoAvisoLicitacao": 2022,
+                "nuInciso": "11",
+                "nuProcesso": "23347014747202243",
+                "vrEstimado": 1758758.46,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": "Objeto: Contratação de empresa especializada pa                             ra construção de quadra poliesportiva para o ca                             mpus Jardim.",
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso XI da Lei nº 8.666 de 21º/06/1993.",
+                "dsJustificativa": "Justificativa: Remanescente de Obra do campus Jardim.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "DIEGO HENRIQUE PEREIRA DE VIVEIROS",
+                "noCargoRespDeclDisp": "Ordenador de Despesa por Delegação",
+                "noResponsavelRatificacao": "ELAINE BORGES MONTEIRO CASSIANO",
+                "noCargoRespRatificacao": "Reitora",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 5622,
+                "noServico": "OBRAS CIVIS PUBLICAS ( CONSTRUCAO )",
+                "dsDetalhada": "Contratação de Empresa para Remanescente de Obra de construção de quadra polie sportiva para o campus Jardim",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "UNIDADE",
+                "vrEstimadoItem": 1758758.46,
+                "dsFabricante": null,
+                "noMarcaMaterial": "",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "26397556000157",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "DMP ENGENHARIA E REPRESENTACAO COMERCIAL LTDA",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

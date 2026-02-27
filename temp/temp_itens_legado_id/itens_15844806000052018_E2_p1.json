@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15844806000052018",
+        "data_extracao": "2026-02-13 09:38:58",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 42188964,
+                "numeroLicitacao": "15844806520181",
+                "uasg": 158448,
+                "nomeUasg": "INST.FED.DE ED.,CIENT.E TEC.DE MS/C.AQUIDAUAN",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 52018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 47678,
+                "nomeMaterial": "GÁS LIQUEFEITO DE PETRÓLEO - GLP, GAS ENGARRAFADO ( GLP ) NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "00462645000146",
+                "nomeFornecedor": "CLAUDINEI ALMEIDA DE ANDRADE",
+                "quantidade": null,
+                "unidade": "botijão",
+                "descricaoItem": "Gás Liquefeito de petróleo (GLP) fornecido mediante sistema de troca de botijõ es botijão de 13 Kg P13.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 840.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:20:00",
+                "idCompra": "15844806000052018",
+                "idCompraItem": "1584480600005201800001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

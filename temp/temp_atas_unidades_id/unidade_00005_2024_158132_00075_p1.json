@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00005%2F2024&unidadeGerenciadora=158132&numeroItem=00075&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:11:12",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00005/2024",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00075",
+                "codigoPdm": "02020",
+                "descricaoItem": "ÁCIDO PÍCRICO, COMPOSIÇÃO QUÍMICA 2,4,6-(NO2)3C6H2OH, ASPECTO FÍSICO PÓ CRISTALINO AMARELO, INODORO, PESO MOLECULAR 229,11 G/MOL, GRAU DE PUREZA PUREZA MÍNIMA DE 99% EM BASE ANIDRA, CARACTERÍSTICA ADICIONAL REAGENTE P.A., NÚMERO DE REFERÊNCIA QUÍMICA CAS 88-89-1",
+                "fornecedor": "37771209000169 - ERINALDO FIGUEIREDO DA SILVA",
+                "quantidadeRegistrada": 0.0,
+                "saldoAdesoes": 4.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 4.0,
+                "qtdLimiteInformadoCompra": 4.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2024-02-22T15:57:53",
+                "dataHoraAtualizacao": "2024-03-04T15:17:58",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            },
+            {
+                "numeroAta": "00005/2024",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00075",
+                "codigoPdm": "02020",
+                "descricaoItem": "ÁCIDO PÍCRICO, COMPOSIÇÃO QUÍMICA 2,4,6-(NO2)3C6H2OH, ASPECTO FÍSICO PÓ CRISTALINO AMARELO, INODORO, PESO MOLECULAR 229,11 G/MOL, GRAU DE PUREZA PUREZA MÍNIMA DE 99% EM BASE ANIDRA, CARACTERÍSTICA ADICIONAL REAGENTE P.A., NÚMERO DE REFERÊNCIA QUÍMICA CAS 88-89-1",
+                "fornecedor": "37771209000169 - ERINALDO FIGUEIREDO DA SILVA",
+                "quantidadeRegistrada": 1.0,
+                "saldoAdesoes": 4.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 4.0,
+                "qtdLimiteInformadoCompra": 4.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2024-02-22T15:58:42",
+                "dataHoraAtualizacao": "2024-12-31T10:27:16",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158449",
+                "nomeUnidade": "INST. FED. DO MS/CAMPUS CAMPO GRANDE",
+                "tipoUnidade": "PARTICIPANTE"
+            },
+            {
+                "numeroAta": "00005/2024",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00075",
+                "codigoPdm": "02020",
+                "descricaoItem": "ÁCIDO PÍCRICO, COMPOSIÇÃO QUÍMICA 2,4,6-(NO2)3C6H2OH, ASPECTO FÍSICO PÓ CRISTALINO AMARELO, INODORO, PESO MOLECULAR 229,11 G/MOL, GRAU DE PUREZA PUREZA MÍNIMA DE 99% EM BASE ANIDRA, CARACTERÍSTICA ADICIONAL REAGENTE P.A., NÚMERO DE REFERÊNCIA QUÍMICA CAS 88-89-1",
+                "fornecedor": "37771209000169 - ERINALDO FIGUEIREDO DA SILVA",
+                "quantidadeRegistrada": 1.0,
+                "saldoAdesoes": 4.0,
+                "saldoRemanejamentoEmpenho": 1.0,
+                "qtdLimiteAdesao": 4.0,
+                "qtdLimiteInformadoCompra": 4.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2024-02-22T15:58:43",
+                "dataHoraAtualizacao": "2024-03-04T15:18:57",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158453",
+                "nomeUnidade": "INST. FED. DO MS/CAMPUS PONTA PORA",
+                "tipoUnidade": "PARTICIPANTE"
+            }
+        ],
+        "totalRegistros": 3,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

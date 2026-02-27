@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15584806000212020",
+        "data_extracao": "2026-02-13 10:57:11",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 46535481,
+                "numeroLicitacao": "155848062120202",
+                "uasg": 155848,
+                "nomeUasg": "IF - MS/ CAMPUS DOURADOS",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 212020,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 13595,
+                "nomeServico": "MANUTENCAO / HIGIENIZACAO DE RESERVATORIO DE AGUA POTAVEL",
+                "cnpjFornecedor": "17469851000180",
+                "nomeFornecedor": "DOURALIMPA SERVICOS LTDA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Prestação de serviço de limpeza de caixa d`água com capacidade de 10.000 litro s, incluindo o fornecimento de todo o material e equipamento necessário para a execução do serviço nas dependências do Instituto Federal de Mato Grosso do S ul Campus Dourados, com periodicidade semestral, totalizando duas limpezas a nuais.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1800.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:35:00",
+                "idCompra": "15584806000212020",
+                "idCompraItem": "1558480600021202000002"
+            },
+            {
+                "isnSidecResultadoCompra": 46535480,
+                "numeroLicitacao": "155848062120201",
+                "uasg": 155848,
+                "nomeUasg": "IF - MS/ CAMPUS DOURADOS",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 212020,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 13595,
+                "nomeServico": "MANUTENCAO / HIGIENIZACAO DE RESERVATORIO DE AGUA POTAVEL",
+                "cnpjFornecedor": "17469851000180",
+                "nomeFornecedor": "DOURALIMPA SERVICOS LTDA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Prestação de serviço de limpeza de caixa d`água com capacidade de 500 litros, incluindo o fornecimento de todo o material e equipamento necessário para a ex ecução do serviço nas dependências do Instituto Federal de Mato Grosso do Sul Campus Dourados, com periodicidade semestral, totalizando duas limpezas anua is.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 280.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:35:00",
+                "idCompra": "15584806000212020",
+                "idCompraItem": "1558480600021202000001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845106000042018",
+        "data_extracao": "2026-02-13 10:07:25",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 41971784,
+                "numeroLicitacao": "15845106420181",
+                "uasg": 158451,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.COXIM",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 42018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 5789,
+                "nomeServico": "INSTALACAO/ MANUTENCAO DE VIDRO TEMPERADO/  LAMINADO/CRISTAL / ACRILICO /EM PORTA / JANELA / BOX",
+                "cnpjFornecedor": "24542515000181",
+                "nomeFornecedor": "WAGNER DINIZ FERREIRA 97543764172",
+                "quantidade": null,
+                "unidade": "Serviço",
+                "descricaoItem": "Serviço de mão de obra com instalação e regulagem de kit porta pivotante com f ornecimento do material necessário em uma porta a ser indicada pela administra ção e serviço de mão de obra manutenção e regulagem de três portas de vidro te mperado.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 450.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-12-11T10:06:46",
+                "idCompra": "15845106000042018",
+                "idCompraItem": "1584510600004201800001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

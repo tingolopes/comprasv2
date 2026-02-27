@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813206000132019",
+        "data_extracao": "2026-02-13 11:22:48",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000132019",
+                "idCompraItem": "1581320600013201900001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 13,
+                "dtAnoAvisoLicitacao": 2019,
+                "nuInciso": "02",
+                "nuProcesso": "23347004561201981",
+                "vrEstimado": 9886.25,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Compra de pequeno vulto",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "LUIZ SIMAO STASZCZAK",
+                "noCargoRespDeclDisp": "Ordenador de Despesa",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 7196,
+                "noConjuntoMateriais": "QUEIMADOR DE GAS",
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "Compra de cilindros de gás refrigerante VRF/410a 11,3 Kg para utilização em se rviço de manutenção corretiva das linhas nº1, 3 e 5.",
+                "qtMaterialAlt": 25,
+                "noUnidadeMedida": "UNIDADE",
+                "vrEstimadoItem": 9886.25,
+                "dsFabricante": null,
+                "noMarcaMaterial": "Gas Industrial",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "02305987000188",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "IVANILSON INACIO DA SILVA",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845306000072018",
+        "data_extracao": "2026-02-13 11:14:26",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 42284339,
+                "numeroLicitacao": "15845306720181",
+                "uasg": 158453,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MT/C.P.PORÃ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 72018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 2011,
+                "nomeServico": "INSTALACAO E MONTAGEM DE SISTEMAS - PROTECAO CONTRA INCENDIO",
+                "cnpjFornecedor": "28529854000189",
+                "nomeFornecedor": "MAICON FRANCISCO A. DE OLIVEIRA - EIRELI",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "Contratação de Empresa Especializada para a Instalação de Sistema de Alarme de Incêndio e sistema de acionamento de bomba de incêndio com realização de manu tenção geral do quadro de comando da bomba de incêndio, nas Edificações do IFM SCampus Ponta Porã, com fornecimento de Mão-de Obra qualificada e Material. A Empresa deverá executar toda a instalação, configuração, configuração e test es dos equipamentos para que o sistema de alarme e sistema da bomba de incêndi o possa ser utilizado pela Instituição. A Instalação do Sistema será nas edifi cações do Campus Ponta Porã, localizado na Rodovia BR 463Km 14Sanga PuitãPonta PorãMS. Lista de materiais constantes no Edital.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 31995.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:41:00",
+                "idCompra": "15845306000072018",
+                "idCompraItem": "1584530600007201800001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

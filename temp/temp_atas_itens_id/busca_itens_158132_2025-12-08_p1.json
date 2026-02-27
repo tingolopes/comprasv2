@@ -1,0 +1,50 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/2_consultarARPItem?codigoUnidadeGerenciadora=158132&dataVigenciaInicialMin=2025-12-08&dataVigenciaInicialMax=2025-12-08&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:05:54",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAtaRegistroPreco": "00169/2025",
+                "codigoUnidadeGerenciadora": "158132",
+                "numeroCompra": "90149",
+                "anoCompra": "2025",
+                "codigoModalidadeCompra": "05",
+                "dataAssinatura": "2025-12-05T00:00:00",
+                "dataVigenciaInicial": "2025-12-08",
+                "dataVigenciaFinal": "2026-12-08",
+                "numeroItem": "00020",
+                "codigoItem": 480929,
+                "descricaoItem": "APARELHO AR CONDICIONADO, CAPACIDADE REFRIGERAÇÃO 60.000 BTU/H, TENSÃO 220 V, FREQÜÊNCIA 60 HZ, TIPO SPLIT",
+                "tipoItem": "Material",
+                "quantidadeHomologadaItem": 1.0,
+                "classificacaoFornecedor": "001",
+                "niFornecedor": "21613975000165",
+                "nomeRazaoSocialFornecedor": "TECNOBLU COMERCIO DE REFRIGERACAO LTDA",
+                "quantidadeHomologadaVencedor": 1,
+                "valorUnitario": 9799.99,
+                "valorTotal": 9799.99,
+                "maximoAdesao": 2.0,
+                "nomeUnidadeGerenciadora": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "nomeModalidadeCompra": "Pregão",
+                "idCompra": "15813205901492025",
+                "numeroControlePncpCompra": "10673078000120-1-000097/2025",
+                "dataHoraInclusao": "2025-12-05T15:09:26",
+                "dataHoraAtualizacao": "2025-12-05T15:09:26",
+                "quantidadeEmpenhada": 0.0,
+                "percentualMaiorDesconto": 0.0,
+                "situacaoSicaf": "1",
+                "dataHoraExclusao": null,
+                "itemExcluido": false,
+                "numeroControlePncpAta": "10673078000120-1-000097/2025-000002",
+                "codigoPdm": 13768,
+                "nomePdm": "APARELHO AR CONDICIONADO"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

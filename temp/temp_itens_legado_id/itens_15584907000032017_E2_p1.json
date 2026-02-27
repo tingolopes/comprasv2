@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15584907000032017",
+        "data_extracao": "2026-02-13 11:08:51",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 40453652,
+                "numeroLicitacao": "15584907320171",
+                "uasg": 155849,
+                "nomeUasg": "INSTITUTO FEDERAL DE MS/CAMPUS NAVIRAÍ",
+                "modalidade": 7,
+                "nomeModalidade": "INEXIGIBILIDADE DE LICITAÇÃO",
+                "numeroAviso": 32017,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 14729,
+                "nomeServico": "TREINAMENTO NA AREA DE ADMINISTRACAO PUBLICA",
+                "cnpjFornecedor": "02317176000105",
+                "nomeFornecedor": "ESCOLA DE ADMINISTRACAO FAZENDARIA",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "Pagamento de inscrição dos Servidores Michell Martins Lopes e João Batista de Morais na XIV Semana Orçamentária Etapa Brasília I, a realizar-se no perío do de 25 à 28 de setembro de 2017, na cidade de BrasíliaDF em conformidade c om Plano de Capacitação Institucional.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 800.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:38:00",
+                "idCompra": "15584907000032017",
+                "idCompraItem": "1558490700003201700001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

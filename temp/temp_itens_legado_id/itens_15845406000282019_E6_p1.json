@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845406000282019",
+        "data_extracao": "2026-02-13 11:34:19",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845406000282019",
+                "idCompraItem": "1584540600028201900001",
+                "coUasg": 158454,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 28,
+                "dtAnoAvisoLicitacao": 2019,
+                "nuInciso": "02",
+                "nuProcesso": "23347.020505.2019",
+                "vrEstimado": 10500.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Valor abaixo de R$17.600,00 (dezessete mil e seiscentos reais).",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "APIO CARNIELO E SILVA",
+                "noCargoRespDeclDisp": "Ordenador de Despesa",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 2771,
+                "noServico": "AR CONDICIONADO - MANUTENCAO DE SISTEMAS / LIMPEZA",
+                "dsDetalhada": "Contratação de empresa especializada para prestação de serviços técnicos de ma nutenção preventiva e corretiva/limpeza e higienização em sistema de climatiza ção do tipo Variable Refrigerante Flow (VRF),  condicionadores de ar do tipo s plit, SISTEMA DE CLIMATIZAÇÃO DO TIPO VRF, sistema múltiplo modular  e tecnolo gia totalmente inverter, com condensadora de velocidade variável, tipo High-Wa ll, Piso/Teto e Cassete, 60Hz, 220v. Marca/Modelo: TOSHIBA CARRIER / SMMS-i MM Y- (72 evaporadoras e 33 condensadores)",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 10500.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "33156472000197",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "ROBSON CARLOS CARVALHO",
+                "dtAlteracao": "2024-04-08T11:45:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

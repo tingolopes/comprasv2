@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15844806000142018",
+        "data_extracao": "2026-02-13 09:39:39",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 43121589,
+                "numeroLicitacao": "158448061420181",
+                "uasg": 158448,
+                "nomeUasg": "INST.FED.DE ED.,CIENT.E TEC.DE MS/C.AQUIDAUAN",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 142018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 69558,
+                "nomeMaterial": "GRAMA, GRAMA NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "05627418000147",
+                "nomeFornecedor": "PAULA GALEANO GARCIA",
+                "quantidade": null,
+                "unidade": "m²",
+                "descricaoItem": "PLANTIO DE GRAMA tipo esmeralda (Zoysia Japônica), fornecimento em leivas, com devida correção da acidez do solo, adubação e nivelamento superficial do terr eno e demais especificações previstas no Termo de Referência.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 17256.9,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:20:00",
+                "idCompra": "15844806000142018",
+                "idCompraItem": "1584480600014201800001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

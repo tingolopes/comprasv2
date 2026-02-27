@@ -1,0 +1,50 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/2_consultarARPItem?codigoUnidadeGerenciadora=158132&dataVigenciaInicialMin=2024-08-20&dataVigenciaInicialMax=2024-08-20&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 10:49:36",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAtaRegistroPreco": "00035/2024",
+                "codigoUnidadeGerenciadora": "158132",
+                "numeroCompra": "90005",
+                "anoCompra": "2024",
+                "codigoModalidadeCompra": "05",
+                "dataAssinatura": "2024-08-19T00:00:00",
+                "dataVigenciaInicial": "2024-08-20",
+                "dataVigenciaFinal": "2025-08-20",
+                "numeroItem": "00079",
+                "codigoItem": 392102,
+                "descricaoItem": "CARRINHO TRANSPORTE, MATERIAL TUBO AÇO, TRATAMENTO SUPERFICIAL ZINCAGEM ELETROLÍTICA E ANTIFERRUGEM, CAPACIDADE 200 L, ALTURA 950 MM, LARGURA 600 MM, QUANTIDADE RODAS 2 FIXAS E 2 GIRATÓRIAS, MATERIAL RODAS BORRACHA, TIPO CONDOMÍNIO, COMPRIMENTO 1.000 MM, PROFUNDIDADE 50 CM, COR CINZA",
+                "tipoItem": "Material",
+                "quantidadeHomologadaItem": 18.0,
+                "classificacaoFornecedor": "001",
+                "niFornecedor": "21559804000103",
+                "nomeRazaoSocialFornecedor": "GERBRA COMERCIO LTDA",
+                "quantidadeHomologadaVencedor": 18,
+                "valorUnitario": 890.0,
+                "valorTotal": 16020.0,
+                "maximoAdesao": 36.0,
+                "nomeUnidadeGerenciadora": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "nomeModalidadeCompra": "Pregão",
+                "idCompra": "15813205900052024",
+                "numeroControlePncpCompra": "10673078000120-1-000034/2024",
+                "dataHoraInclusao": "2024-08-23T19:46:22",
+                "dataHoraAtualizacao": "2024-08-23T19:46:22",
+                "quantidadeEmpenhada": 0.0,
+                "percentualMaiorDesconto": 0.0,
+                "situacaoSicaf": "1",
+                "dataHoraExclusao": null,
+                "itemExcluido": false,
+                "numeroControlePncpAta": "10673078000120-1-000034/2024-000016",
+                "codigoPdm": 4584,
+                "nomePdm": "CARRINHO TRANSPORTE"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845407000042018",
+        "data_extracao": "2026-02-13 11:33:30",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845407000042018",
+                "idCompraItem": "1584540700004201800001",
+                "coUasg": 158454,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 4,
+                "dtAnoAvisoLicitacao": 2018,
+                "nuInciso": "02",
+                "nuProcesso": "23347018618201848",
+                "vrEstimado": 1000.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 25º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Trata-se de escola de notória especialização no ensino dos temas relacionados à gestão das finanças públicas.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "SUELI ALVES DE ALMEIDA",
+                "noCargoRespDeclDisp": "Gestor Financeiro Substituto",
+                "noResponsavelRatificacao": "APIO CARNIELO E SILVA",
+                "noCargoRespRatificacao": "Odenador de Despesas",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 3808,
+                "noServico": "TREINAMENTO NA AREA DE ADMINISTRACAO",
+                "dsDetalhada": "Taxa de Participação dos servidores no Curso  XV Semana de Administração Orçam entária, Financeira e de Contratações Públicas - Etapa Brasília II , promovido  pela Escola de Administração Fazendária-ESAF, que será realizado no período d e 27/11/2018 a 30/11/2018 em Brasília/DF.",
+                "qtMaterialAlt": 2,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 1000.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "02317176000105",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "ESCOLA DE ADMINISTRACAO FAZENDARIA",
+                "dtAlteracao": "2024-04-08T11:45:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

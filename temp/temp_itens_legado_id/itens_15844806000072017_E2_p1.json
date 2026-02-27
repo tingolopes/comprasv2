@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15844806000072017",
+        "data_extracao": "2026-02-13 09:38:34",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 41119782,
+                "numeroLicitacao": "15844806720171",
+                "uasg": 158448,
+                "nomeUasg": "INST.FED.DE ED.,CIENT.E TEC.DE MS/C.AQUIDAUAN",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 72017,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 132071,
+                "nomeMaterial": "BOMBA CENTRÍFUGA - PEÇA / COMPONENTE, BOMBA CENTRIFUGA - PECA/COMPONENTE NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "21391561000210",
+                "nomeFornecedor": "JV TUBOS E ACABAMENTOS - EIRELI - EPP",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "Bomba centrífuga, 3cv/220v bifásica no mínimo 33 m.c.a. 14,8m³/h.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1500.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:20:00",
+                "idCompra": "15844806000072017",
+                "idCompraItem": "1584480600007201700001"
+            },
+            {
+                "isnSidecResultadoCompra": 41119783,
+                "numeroLicitacao": "15844806720172",
+                "uasg": 158448,
+                "nomeUasg": "INST.FED.DE ED.,CIENT.E TEC.DE MS/C.AQUIDAUAN",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 72017,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": 150807,
+                "nomeMaterial": "BOMBA CENTRÍFUGA, BOMBA CENTRÍFUGA NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "21391561000210",
+                "nomeFornecedor": "JV TUBOS E ACABAMENTOS - EIRELI - EPP",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "Quadro de automação de transferência automática contendo:  01 Quadro caixa metálica 500x400x200; 01 Disjuntor bipolar 25A; 02 Contatora 18A 220V; 02 Rele térmico 12,518A; 01 Rele falta de fase 220V;  01 Chave sele tora 03 posições liga/desliga/liga para painel; 01 chave 02 posições para p ainel; 03 Conectores Sak 16mm entrada trifásica 220V; 06 Conectores Sak 10mm; 06 Conectores Sak 6mm; 02 Contactor auxiliar 2NA+2NF; 02 Sinale iro led verde 22mm; 01 sinaleiro led amarelo 22mm; Trilho para DIN 1mts; Canaleta ventilada 50x50; 01 Pct terminal pré isolado 4-6mm amarelo; 10 Parafuso brocante 4,2x13mm.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 2000.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:20:00",
+                "idCompra": "15844806000072017",
+                "idCompraItem": "1584480600007201700002"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15844906000082016",
+        "data_extracao": "2026-02-13 09:45:36",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 37966011,
+                "numeroLicitacao": "15844906820161",
+                "uasg": 158449,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.C.GRANDE",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 82016,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 14044,
+                "nomeServico": "ROÇADA / LIMPEZA DE AREA - MECANIZADA / MANUAL",
+                "cnpjFornecedor": "14905950000170",
+                "nomeFornecedor": "LOCKER LOCACOES E SERVICOS  EIRELI - ME",
+                "quantidade": null,
+                "unidade": "SERVIÇO",
+                "descricaoItem": "Serviço de roçada de terreno, sem recolhimento do entulho, em área de aproxima damente 32.500 m2, localizada à Rua Taquari, nº 831 ? Bairro Santo Antônio ? C ampo Grande ? MS, sede do IFMS ? Campus Campo Grande.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 8000.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:27:00",
+                "idCompra": "15844906000082016",
+                "idCompraItem": "1584490600008201600001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845306000032017",
+        "data_extracao": "2026-02-13 11:14:03",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845306000032017",
+                "idCompraItem": "1584530600003201700001",
+                "coUasg": 158453,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 3,
+                "dtAnoAvisoLicitacao": 2017,
+                "nuInciso": "02",
+                "nuProcesso": "23347015279201767",
+                "vrEstimado": 3221.99,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Aquisição de produtos e/ou serviços com valor inferior a R$ 8.000,00",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "CRISTINA APARECIDA CORREA AJALA",
+                "noCargoRespDeclDisp": "Assistente em Administração",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 9725,
+                "noConjuntoMateriais": "CAFE",
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "CAFÉ TORRADO E MOÍDO (MOAGEM MÉDIA/FINA), COM ASPECTO HOMOGÊNEO, EMBALADO À VÁ CUO EM PACOTE DE 500 G, SABOR PREDOMINANTE DE CAFÉ ARÁBICA E O MÁXIMO DE 20% D E PVA (GRÃOS PRETOS, VERDES E ARDIDOS), TORRAGEM MÉDIA, COM NÍVEL MÍNIMO DE QU ALIDADE SENSORIAL IGUAL A 4,8 DE ACORDO COM A CLASSIFICAÇÃO OFICIAL BRASILEIRA  DE QUALIDADE TRADICIONAL, ATESTADO POR MEIO DE LAUDO VIGENTE À DATA DO CERTAM E, EMITIDO POR INSTITUIÇÃO QUE EXECUTE ENSAIOS ACREDITADOS PELO INMETRO E EM C ONFORMIDADE À NORMA ISO/IEC 17025. O PRODUTO DEVERÁ CONTER AS SEGUINTES INFORM AÇÕES ESTAMPADAS NOS PACOTES INDIVIDUAIS: SELOS DE QUALIDADE E DE PUREZA DA AB IC, TODAS AS INFORMAÇÕES PERTINENTES AO PRODUTO PREVISTO NA LEGISLAÇÃO VIGENTE , DATA DE EMBALAGEM E  VALIDADE DO PRODUTO. O PRODUTO DEVERÁ CONTER 18 MESES D E VALIDADE E NO MÁXIMO 06 MESES DE EMBALAGEM NOS MOMENTOS NAS EFETIVAS ENTREGA S.",
+                "qtMaterialAlt": 380,
+                "noUnidadeMedida": "PACOTE",
+                "vrEstimadoItem": 3221.99,
+                "dsFabricante": null,
+                "noMarcaMaterial": "brasil",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "23593687000111",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "COMERCIAL DE ALIMENTOS DIANA - EIRELI - ME",
+                "dtAlteracao": "2024-04-08T11:41:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

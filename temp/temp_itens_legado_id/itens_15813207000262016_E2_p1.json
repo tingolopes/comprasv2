@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813207000262016",
+        "data_extracao": "2026-02-13 11:18:53",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 39022859,
+                "numeroLicitacao": "158132072620161",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 7,
+                "nomeModalidade": "INEXIGIBILIDADE DE LICITAÇÃO",
+                "numeroAviso": 262016,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 20010,
+                "nomeServico": "RECOLHIMENTO CONTRIBUICAO / ANUIDADE",
+                "cnpjFornecedor": "15258821000108",
+                "nomeFornecedor": "FORUM NACIONAL DE GESTORES DE INOVACAO E TRANSFERENCIA DE TECNOLOGIA - FORTEC",
+                "quantidade": null,
+                "unidade": "Serviço",
+                "descricaoItem": "Anuidade do Fórum Nacional de Gestores de Inovação e Transferência de Tecnolog ia FORTEC, competência 2017.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1350.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813207000262016",
+                "idCompraItem": "1581320700026201600001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00005%2F2024&unidadeGerenciadora=158132&numeroItem=00008&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:10:44",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00005/2024",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00008",
+                "codigoPdm": "10703",
+                "descricaoItem": "PICNÔMETRO, MATERIAL VIDRO, CAPACIDADE 50 ML, CALIBRAGEM CALIBRADO",
+                "fornecedor": "35257760000163 - LAB VISION - COMERCIO DE PRODUTOS LABORATORIAIS LTDA",
+                "quantidadeRegistrada": 0.0,
+                "saldoAdesoes": 32.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 32.0,
+                "qtdLimiteInformadoCompra": 32.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2024-02-22T15:57:34",
+                "dataHoraAtualizacao": "2024-03-04T15:17:40",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            },
+            {
+                "numeroAta": "00005/2024",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00008",
+                "codigoPdm": "10703",
+                "descricaoItem": "PICNÔMETRO, MATERIAL VIDRO, CAPACIDADE 50 ML, CALIBRAGEM CALIBRADO",
+                "fornecedor": "35257760000163 - LAB VISION - COMERCIO DE PRODUTOS LABORATORIAIS LTDA",
+                "quantidadeRegistrada": 8.0,
+                "saldoAdesoes": 32.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 32.0,
+                "qtdLimiteInformadoCompra": 32.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2024-02-22T15:58:12",
+                "dataHoraAtualizacao": "2024-12-30T19:10:25",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158449",
+                "nomeUnidade": "INST. FED. DO MS/CAMPUS CAMPO GRANDE",
+                "tipoUnidade": "PARTICIPANTE"
+            },
+            {
+                "numeroAta": "00005/2024",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00008",
+                "codigoPdm": "10703",
+                "descricaoItem": "PICNÔMETRO, MATERIAL VIDRO, CAPACIDADE 50 ML, CALIBRAGEM CALIBRADO",
+                "fornecedor": "35257760000163 - LAB VISION - COMERCIO DE PRODUTOS LABORATORIAIS LTDA",
+                "quantidadeRegistrada": 8.0,
+                "saldoAdesoes": 32.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 32.0,
+                "qtdLimiteInformadoCompra": 32.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2024-02-22T15:58:12",
+                "dataHoraAtualizacao": "2024-06-11T11:49:07",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158454",
+                "nomeUnidade": "INST. FED. DO MS/CAMPUS TRES LAGOAS",
+                "tipoUnidade": "PARTICIPANTE"
+            }
+        ],
+        "totalRegistros": 3,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

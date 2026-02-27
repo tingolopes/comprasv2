@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00017%2F2025&unidadeGerenciadora=158132&numeroItem=00013&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:53:21",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00017/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00013",
+                "codigoPdm": "01407",
+                "descricaoItem": "ARADO, TIPO SUBSOLADOR HIDRÁULICO, PROFUNDIDADE SULCO 450 MM, POTÊNCIA REQUERIDA 100-125 CV, QUANTIDADE HASTES 5 UN, LARGURA ARADA 1.875 MM, CARACTERÍSTICAS ADICIONAIS COM DESARME AUTOMATICO DAS HASTER",
+                "fornecedor": "34124663000130 - ALBANI MATTE INDUSTRIA DE MAQUINAS AGRICOLAS LTDA",
+                "quantidadeRegistrada": 0.0,
+                "saldoAdesoes": 2.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 2.0,
+                "qtdLimiteInformadoCompra": 2.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2025-06-13T10:32:02",
+                "dataHoraAtualizacao": "2025-06-13T10:32:02",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            },
+            {
+                "numeroAta": "00017/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00013",
+                "codigoPdm": "01407",
+                "descricaoItem": "ARADO, TIPO SUBSOLADOR HIDRÁULICO, PROFUNDIDADE SULCO 450 MM, POTÊNCIA REQUERIDA 100-125 CV, QUANTIDADE HASTES 5 UN, LARGURA ARADA 1.875 MM, CARACTERÍSTICAS ADICIONAIS COM DESARME AUTOMATICO DAS HASTER",
+                "fornecedor": "34124663000130 - ALBANI MATTE INDUSTRIA DE MAQUINAS AGRICOLAS LTDA",
+                "quantidadeRegistrada": 1.0,
+                "saldoAdesoes": 2.0,
+                "saldoRemanejamentoEmpenho": 1.0,
+                "qtdLimiteAdesao": 2.0,
+                "qtdLimiteInformadoCompra": 2.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2025-06-13T10:32:14",
+                "dataHoraAtualizacao": "2025-06-13T10:32:14",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158453",
+                "nomeUnidade": "INST. FED. DO MS/CAMPUS PONTA PORA",
+                "tipoUnidade": "PARTICIPANTE"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

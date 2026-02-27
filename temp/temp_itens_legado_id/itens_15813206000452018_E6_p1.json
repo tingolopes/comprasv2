@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813206000452018",
+        "data_extracao": "2026-02-13 11:21:28",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000452018",
+                "idCompraItem": "1581320600045201800001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 45,
+                "dtAnoAvisoLicitacao": 2018,
+                "nuInciso": "02",
+                "nuProcesso": "23347017073201852",
+                "vrEstimado": 1989.95,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Aquisição de pequeno valor.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "DELMIR DA COSTA FELIPE",
+                "noCargoRespDeclDisp": "Ordenador de Despesa",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 20290,
+                "noConjuntoMateriais": "CONECTOR ELETRICO",
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "Tomada externa 220v, 20 âmperes (20 unidades); Rolo de cabo flexível 2,5mm pre to, 100M (1 unidade); Rolo de cabo flexível 2,5mm branco, 100M (1 unidade); Ro lo de cabo flexível 2,5mm verde, 100M (1 unidade); Rolo de cabo flexível 2,5mm  azul, 100M (1 unidade); Interruptor de tomada externa para ar-condicionado (6  unidades); Canaleta para 20x12 em PVC com cola dupla-face (60 unidades); Junç ão tipo T, 2,5mm (30 unidades); Luva cano pvc, 2,5mm (30 unidades); Fita isola nte 20m (10 unidades); Fita isolante auto-fusão 3m (5 unidades); Folha de lixa  nº 80 (50 unidades); Folha de lixa nº 100 (50 unidades); Disjuntor soprano 16  ampêres (5 unidades); Disjuntor soprano 20 ampêres (5 unidades); Disjuntor so prano 25 ampêres (5 unidades); Kit de brocas em aço para furadeira (1 kit).",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 1989.95,
+                "dsFabricante": null,
+                "noMarcaMaterial": "Concentro",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "01520667000420",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "CONCENTRO MARCAS LTDA.",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

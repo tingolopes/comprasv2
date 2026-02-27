@@ -1,0 +1,41 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/4.1_consultarItensPregoes_Id?id_compra=15845005000042017",
+        "data_extracao": "2026-02-13 11:40:16",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158450,
+                    "coItem": 19570126
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "",
+                "descricaoItem": "Cantina / Bar / Lanchonete / Refeição Rápida / Restaurante",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "2.60",
+                "quantidadeItem": "1",
+                "situacaoItem": "homologado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "UND",
+                "valorHomologadoItem": "2.60",
+                "valorEstimadoItem": "39.73",
+                "valorNegociado": null,
+                "idCompra": "15845005000042017",
+                "idCompraItem": "1584500500004201700001",
+                "noAdjudic": "ADRIANO SANTOS DO NASCIMENTO",
+                "noHom": "SANDRO MOURA SANTOS",
+                "dtEncerramento": "2018-01-03",
+                "dtAdjudic": "2018-01-03",
+                "dtHom": "2018-01-04",
+                "dtAlteracao": "2024-04-08T11:30:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

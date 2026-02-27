@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15585007000012018",
+        "data_extracao": "2026-02-13 10:58:27",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 41849115,
+                "numeroLicitacao": "15585007120181",
+                "uasg": 155850,
+                "nomeUasg": "INSTITUTO FEDERAL DE MS/CAMPUS JARDIM",
+                "modalidade": 7,
+                "nomeModalidade": "INEXIGIBILIDADE DE LICITAÇÃO",
+                "numeroAviso": 12018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 21040,
+                "nomeServico": "ASSINATURA - PUBLICACAO INFORMATIZADA",
+                "cnpjFornecedor": "04196645000100",
+                "nomeFornecedor": "IMPRENSA NACIONAL",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Realizar a publicação, no Diário Oficial da União, de Editais de Licitações, E xtratos de Contratos/Termos Aditivos, Inexigibilidades, Portarias e outros, re alizados pelo Instituto Federal de Mato Grosso do SulCampus Jardim bem como demais procedimentos que exigirem tal publicidade.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 5000.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:36:00",
+                "idCompra": "15585007000012018",
+                "idCompraItem": "1558500700001201800001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

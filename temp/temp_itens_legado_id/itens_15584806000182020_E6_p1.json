@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15584806000182020",
+        "data_extracao": "2026-02-13 10:56:48",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15584806000182020",
+                "idCompraItem": "1558480600018202000001",
+                "coUasg": 155848,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 18,
+                "dtAnoAvisoLicitacao": 2020,
+                "nuInciso": "02",
+                "nuProcesso": "23347003557202039",
+                "vrEstimado": 13850.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "DANILO SANCHES DANTAS",
+                "noCargoRespDeclDisp": "Gestor Financeiro",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 1627,
+                "noServico": "MANUTENCAO / REFORMA PREDIAL",
+                "dsDetalhada": "Confecção de mureta em alvenaria em blocos cerâmicos de 8 furos (meia vez) med indo 130 metros lineares por 60 cm de altura a ser edificada ao redor da quadr a poliesportiva do campus Dourados conforme croqui anexo. Em uma das laterais  da quadra, numa extensão de 46 metros lineares deverá ser realizada a abertura  de vala escavação para montagem de viga baldrame com 25 cm de profundidade e  10 cm de largura, construção de 78 m² de alvenaria que será travada por meio d e uma viga superior medindo 130 metros lineares 10 cm de profundidade e 15 cm  de altura e colunas medindo 20 cm de largura e 10 cm de profundidade armadas a  cada 2,5 metros uma da outra. O acabamento deve ser realizado por meio de cha pisco + reboco totalizando 156m² e 130 metros lineares de requadro.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 13850.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "05766941000154",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "RODRIGUES DA SILVA & CIA. LTDA",
+                "dtAlteracao": "2024-04-08T11:35:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

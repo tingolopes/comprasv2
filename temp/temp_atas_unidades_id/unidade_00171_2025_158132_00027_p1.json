@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00171%2F2025&unidadeGerenciadora=158132&numeroItem=00027&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:59:46",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00171/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00027",
+                "codigoPdm": "17382",
+                "descricaoItem": "CORTADOR GRAMA, TIPO MOTOR ELÉTRICO A BATERIA, TIPO SISTEMA CARRETA COM TRAÇAO MANUAL, MATERIAL LÂMINA AÇO, MATERIAL RODA POLIETILENO ALTA DENSIDADE, CARACTERÍSTICAS ADICIONAIS GUIDÃO DOBRÁVEL E AJUSTÁVEL, RECOLHEDOR DE RESÍDU O , LARGURA DO CORTE 37,50 CM, ALTURA DE CORTE 2,50 A 7,50 CM",
+                "fornecedor": "52476533000148 - BOSS COMERCIO LTDA",
+                "quantidadeRegistrada": 2.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 2.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": 0.0,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2025-12-17T11:08:24",
+                "dataHoraAtualizacao": "2025-12-17T11:26:24",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "155849",
+                "nomeUnidade": "INST.FED.DO MS/CAMPUS NAVIRAI",
+                "tipoUnidade": "PARTICIPANTE"
+            },
+            {
+                "numeroAta": "00171/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00027",
+                "codigoPdm": "17382",
+                "descricaoItem": "CORTADOR GRAMA, TIPO MOTOR ELÉTRICO A BATERIA, TIPO SISTEMA CARRETA COM TRAÇAO MANUAL, MATERIAL LÂMINA AÇO, MATERIAL RODA POLIETILENO ALTA DENSIDADE, CARACTERÍSTICAS ADICIONAIS GUIDÃO DOBRÁVEL E AJUSTÁVEL, RECOLHEDOR DE RESÍDU O , LARGURA DO CORTE 37,50 CM, ALTURA DE CORTE 2,50 A 7,50 CM",
+                "fornecedor": "52476533000148 - BOSS COMERCIO LTDA",
+                "quantidadeRegistrada": 0.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": 0.0,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2025-12-17T11:07:50",
+                "dataHoraAtualizacao": "2025-12-17T11:26:13",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

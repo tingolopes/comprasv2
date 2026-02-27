@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000312021",
+        "data_extracao": "2026-02-13 11:25:29",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 50315057,
+                "numeroLicitacao": "158132063120211",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 312021,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 14826,
+                "nomeServico": "INSTALACAO / MANUTENCAO / MONITORIZACAO - SISTEMA ALARME /  SEGURANCA",
+                "cnpjFornecedor": "17772398000187",
+                "nomeFornecedor": "VILMAR GOMES SANDIM",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Instalação do sistema eletrônico de segurança e monitoramento Conforme Termo de Referência e Anexo I COM FORNECIMENTO DE MATERIAL INCLUSO",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 2379.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000312021",
+                "idCompraItem": "1581320600031202100001"
+            },
+            {
+                "isnSidecResultadoCompra": 50315058,
+                "numeroLicitacao": "158132063120212",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 312021,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 14826,
+                "nomeServico": "INSTALACAO / MANUTENCAO / MONITORIZACAO - SISTEMA ALARME /  SEGURANCA",
+                "cnpjFornecedor": "17772398000187",
+                "nomeFornecedor": "VILMAR GOMES SANDIM",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Serviço de sistema eletrônico de segurança e monitoramento PELO PERÍODO DE 12( DOZE) MESES Conforme Termo de Referência e Anexo I COM FORNECIMENTO DE MATER IAL INCLUSO",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 12600.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000312021",
+                "idCompraItem": "1581320600031202100002"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

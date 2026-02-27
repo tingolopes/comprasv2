@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00103%2F2025&unidadeGerenciadora=158132&numeroItem=00021&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:30:03",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00103/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00021",
+                "codigoPdm": "08305",
+                "descricaoItem": "IMPRESSO PADRONIZADO, MATERIAL PAPEL COUCHÊ, TIPO REVISTA, GRAMATURA 90 G/M2, COMPRIMENTO 270 MM, LARGURA 195 MM, COR 4/4, APLICAÇÃO DIVULGAÇÃO INSTITUCIONAL, QUANTIDADE PÁGINAS 24, CAPA PAPEL COUCHÊ, GRAMATURA 170 G.M2, 4.4 CORES",
+                "fornecedor": "46565602000197 - JOCEAN INDUSTRIA GRAFICA LTDA",
+                "quantidadeRegistrada": 1000.0,
+                "saldoAdesoes": 2000.0,
+                "saldoRemanejamentoEmpenho": 1000.0,
+                "qtdLimiteAdesao": 2000.0,
+                "qtdLimiteInformadoCompra": 2000.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2025-08-19T15:42:52",
+                "dataHoraAtualizacao": "2025-08-20T09:34:10",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

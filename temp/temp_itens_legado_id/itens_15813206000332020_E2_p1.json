@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000332020",
+        "data_extracao": "2026-02-13 11:24:43",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 47756466,
+                "numeroLicitacao": "158132063320201",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 332020,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 15156,
+                "nomeServico": "ADMINISTRACAO / EXECUCAO PROJETO EDUCACIONAL / CONVENIO / ESTAGIO / UNIVERSITARIO / MONITOR",
+                "cnpjFornecedor": "03832178000197",
+                "nomeFornecedor": "FUNDACAO DE APOIO AO DESENVOLVIMENTO DA CIENCIA E TECNOLOGIA-FACTO",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Contratação de Fundação de Apoio para Gerenciamento e Execução de Projeto de I mplantação de Centro de Desenvolvimento do Programa Academia & Futebol com pra zo de execução de 24 (vinte e quatro) meses Fundação de Apoio ao Desenvolvim ento da Ciência e Tecnologia (FACTO).",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 275625.29,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000332020",
+                "idCompraItem": "1581320600033202000001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

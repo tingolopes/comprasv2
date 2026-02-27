@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845106000092018",
+        "data_extracao": "2026-02-13 10:09:40",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845106000092018",
+                "idCompraItem": "1584510600009201800001",
+                "coUasg": 158451,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 9,
+                "dtAnoAvisoLicitacao": 2018,
+                "nuInciso": "02",
+                "nuProcesso": "23347008193201869",
+                "vrEstimado": 1444.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: O valor se enquadra dentro do previsto na legislação",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "FRANCISCO XAVIER DA SILVA",
+                "noCargoRespDeclDisp": "Ordenador de Despesas",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 27472,
+                "noConjuntoMateriais": "CORTINA",
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "Cortina de ar em material metal e plástico, em cor clara, com no mínimo de 02 velocidades e possuir controle remoto.Voltagem 220v. Comprimento mínimo 1,50 m etros. Potência entre 240 a 280 W. Vazão de ar (m³/h) 2500 ou mais. Nível de r uído máximo 60 (db). Com garantia mínima de 12 meses do fabricante/fornecedor.",
+                "qtMaterialAlt": 2,
+                "noUnidadeMedida": "UNIDADE",
+                "vrEstimadoItem": 1444.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "SURYHA",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "10596399000179",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "ATLANTIS COMERCIO DE MAQUINAS E EQUIPAMENTOS EIRELI",
+                "dtAlteracao": "2024-04-08T11:32:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

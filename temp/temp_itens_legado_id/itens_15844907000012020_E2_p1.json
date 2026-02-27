@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15844907000012020",
+        "data_extracao": "2026-02-13 09:59:28",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 46093390,
+                "numeroLicitacao": "15844907120201",
+                "uasg": 158449,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.C.GRANDE",
+                "modalidade": 7,
+                "nomeModalidade": "INEXIGIBILIDADE DE LICITAÇÃO",
+                "numeroAviso": 12020,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 19682,
+                "nomeServico": "TREINAMENTO - ENERGIA",
+                "cnpjFornecedor": "12263789000152",
+                "nomeFornecedor": "ALISSON LUZ DO NASCIMENTO",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Curso Instalador de Energia Solar Fotovoltaica para os servidores: Angelo Cesa r de Lourenço, Marco Antonio de Arruda Cortez e David Denner Dias Quinelato.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 3300.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:27:00",
+                "idCompra": "15844907000012020",
+                "idCompraItem": "1584490700001202000001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

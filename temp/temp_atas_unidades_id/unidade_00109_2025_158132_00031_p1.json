@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00109%2F2025&unidadeGerenciadora=158132&numeroItem=00031&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:58:23",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00109/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00031",
+                "codigoPdm": "04400",
+                "descricaoItem": "CANECA, MATERIAL FIBRA DE COCO, CAPACIDADE 400 ML, USO COPA E COZINHA, CARACTERÍSTICAS ADICIONAIS COM ALÇA, IMPRESSÃO PERSONALIZADA",
+                "fornecedor": "53060237000124 - SUPERPLAS LTDA",
+                "quantidadeRegistrada": 10000.0,
+                "saldoAdesoes": 20000.0,
+                "saldoRemanejamentoEmpenho": 10000.0,
+                "qtdLimiteAdesao": 20000.0,
+                "qtdLimiteInformadoCompra": 20000.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2025-08-19T15:42:55",
+                "dataHoraAtualizacao": "2025-08-20T10:11:07",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

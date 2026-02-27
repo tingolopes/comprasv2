@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000212020",
+        "data_extracao": "2026-02-13 11:24:09",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 46659735,
+                "numeroLicitacao": "158132062120201",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 212020,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 151080,
+                "nomeMaterial": "IMPRESSORA 3D, IMPRESSORA 3D NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "27180373000148",
+                "nomeFornecedor": "SNSC BRASIL COMERCIO VAREJISTA DE IMPORTACAO DE EQUIPAMENTOS - EIRELI",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Impressora 3D  Equipamento com volume de  impressão  de  300  mm  x  300  mm x 200mm,  estrutura  em  perfil  de  alumínio 3030 com tecnologia eletrônica M KS GEN L, nivelamento automático, tela com leitor de cartão de memória e eixo Z com dois motores.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 87780.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-04-23T08:59:00",
+                "idCompra": "15813206000212020",
+                "idCompraItem": "1581320600021202000001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

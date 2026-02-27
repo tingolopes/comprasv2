@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000452018",
+        "data_extracao": "2026-02-13 11:21:26",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 43190009,
+                "numeroLicitacao": "158132064520181",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 452018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 20290,
+                "nomeMaterial": "CONECTOR ELÉTRICO, CONECTOR ELETRICO NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "01520667000420",
+                "nomeFornecedor": "CONCENTRO MARCAS LTDA.",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Tomada externa 220v, 20 âmperes (20 unidades); Rolo de cabo flexível 2,5mm pre to, 100M (1 unidade); Rolo de cabo flexível 2,5mm branco, 100M (1 unidade); Ro lo de cabo flexível 2,5mm verde, 100M (1 unidade); Rolo de cabo flexível 2,5mm azul, 100M (1 unidade); Interruptor de tomada externa para ar-condicionado (6 unidades); Canaleta para 20x12 em PVC com cola dupla-face (60 unidades); Junç ão tipo T, 2,5mm (30 unidades); Luva cano pvc, 2,5mm (30 unidades); Fita isola nte 20m (10 unidades); Fita isolante auto-fusão 3m (5 unidades); Folha de lixa nº 80 (50 unidades); Folha de lixa nº 100 (50 unidades); Disjuntor soprano 16 ampêres (5 unidades); Disjuntor soprano 20 ampêres (5 unidades); Disjuntor so prano 25 ampêres (5 unidades); Kit de brocas em aço para furadeira (1 kit).",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1989.95,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-26T08:09:00",
+                "idCompra": "15813206000452018",
+                "idCompraItem": "1581320600045201800001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

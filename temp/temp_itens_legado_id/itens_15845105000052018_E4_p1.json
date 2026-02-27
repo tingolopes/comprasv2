@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/4.1_consultarItensPregoes_Id?id_compra=15845105000052018",
+        "data_extracao": "2026-02-13 11:41:04",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158451,
+                    "coItem": 20499511
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "Serviços continuados de limpeza de caixas d água do IFMS Campus Coxim, com fornecimento de todos os materiais necessários para sua execução, podendo ser realizados em até duas limpezas anuais, sendo 44 m³ por limpeza, equivalente ao total de 88 m³ anuais.",
+                "descricaoItem": "Manutenção / Higienização de Reservatório de Água Potável",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "1700.00",
+                "quantidadeItem": "2",
+                "situacaoItem": "cancelado no julgamento",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "SERVIÇO",
+                "valorHomologadoItem": null,
+                "valorEstimadoItem": "3316.66",
+                "valorNegociado": null,
+                "idCompra": "15845105000052018",
+                "idCompraItem": "1584510500005201800002",
+                "noAdjudic": null,
+                "noHom": null,
+                "dtEncerramento": "2018-09-24",
+                "dtAdjudic": null,
+                "dtHom": null,
+                "dtAlteracao": "2024-04-08T11:32:00"
+            },
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158451,
+                    "coItem": 20499510
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "Serviços continuados de desinsetização, desratização e descupinização das áreas interna e externa do IFMS Campus Coxim, com  fornecimento de todos os materiais necessários para sua execução, podendo ser  realizados em até três aplicações anuais, sendo 12.499 m² por aplicação, equivalente ao total de 37.497 m² anuais.",
+                "descricaoItem": "Desinsetização / Desratização / Dedetização",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "3000.00",
+                "quantidadeItem": "3",
+                "situacaoItem": "cancelado no julgamento",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "SERVIÇO",
+                "valorHomologadoItem": null,
+                "valorEstimadoItem": "15065.88",
+                "valorNegociado": null,
+                "idCompra": "15845105000052018",
+                "idCompraItem": "1584510500005201800001",
+                "noAdjudic": null,
+                "noHom": null,
+                "dtEncerramento": "2018-09-24",
+                "dtAdjudic": null,
+                "dtHom": null,
+                "dtAlteracao": "2024-04-08T11:32:00"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

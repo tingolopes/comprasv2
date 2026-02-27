@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813206000082017",
+        "data_extracao": "2026-02-13 11:18:59",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000082017",
+                "idCompraItem": "1581320600008201700003",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 8,
+                "dtAnoAvisoLicitacao": 2017,
+                "nuInciso": "02",
+                "nuProcesso": "23347010696201713",
+                "vrEstimado": 1085.98,
+                "qtTotalItem": 8,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Aquisição de produtos e/ou serviços com valor inferior a R$ 8.000,00",
+                "nuCpfRespDeclDisp": "01003897169",
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "JOSE JORGE GUIMARAES GARCIA",
+                "noCargoRespDeclDisp": "Gestor Financeiro",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 3,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 22306,
+                "noConjuntoMateriais": "LAMPADA FLUORESCENTE",
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "Lâmpada LED PAR30 10W BIV dimerizável.",
+                "qtMaterialAlt": 12,
+                "noUnidadeMedida": "UNIDADE",
+                "vrEstimadoItem": 1085.98,
+                "dsFabricante": null,
+                "noMarcaMaterial": "led",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "14517117000151",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "ONE COMERCIAL LTDA - ME",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

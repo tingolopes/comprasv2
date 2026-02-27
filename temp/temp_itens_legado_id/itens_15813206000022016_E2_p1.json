@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000022016",
+        "data_extracao": "2026-02-13 11:16:46",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 37319890,
+                "numeroLicitacao": "15813206220161",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 22016,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 2020,
+                "nomeServico": "AR CONDICIONADO - INSTALACAO/MONTAGEM/DESMONATAGEM/REMOÇÃO -(PAREDE / SISTEMAS)",
+                "cnpjFornecedor": "22885346000157",
+                "nomeFornecedor": "GUSTAVO DOS REIS TEIXEIRA 35953880898",
+                "quantidade": null,
+                "unidade": "unidade",
+                "descricaoItem": "Instalação de aparelho condicionador de ar, tipo split, piso teto, 60000 btus.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1440.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000022016",
+                "idCompraItem": "1581320600002201600001"
+            },
+            {
+                "isnSidecResultadoCompra": 37319891,
+                "numeroLicitacao": "15813206220162",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 22016,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 2020,
+                "nomeServico": "AR CONDICIONADO - INSTALACAO/MONTAGEM/DESMONATAGEM/REMOÇÃO -(PAREDE / SISTEMAS)",
+                "cnpjFornecedor": "22885346000157",
+                "nomeFornecedor": "GUSTAVO DOS REIS TEIXEIRA 35953880898",
+                "quantidade": null,
+                "unidade": "unidade",
+                "descricaoItem": "Instalação de aparelho condicionador de ar, tipo split, piso teto, 30000 btus.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 390.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000022016",
+                "idCompraItem": "1581320600002201600002"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

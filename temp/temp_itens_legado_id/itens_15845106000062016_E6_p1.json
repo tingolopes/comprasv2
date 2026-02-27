@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845106000062016",
+        "data_extracao": "2026-02-13 10:04:09",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845106000062016",
+                "idCompraItem": "1584510600006201600002",
+                "coUasg": 158451,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 6,
+                "dtAnoAvisoLicitacao": 2016,
+                "nuInciso": "02",
+                "nuProcesso": "23347002165201676",
+                "vrEstimado": 516.12,
+                "qtTotalItem": 2,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Aquisição de produtos e/ou serviços com valor inferior a R$ 8.000,00",
+                "nuCpfRespDeclDisp": "04213707180",
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "JOAO OTAVIO CENEDEZI PIMENTA",
+                "noCargoRespDeclDisp": "Ordenador de Despesas",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 2,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 132039,
+                "noConjuntoMateriais": "DESCANSO PARA PES",
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "Descanso/apoio para pés, com 16 regulagens para altura, ajustável, altura míni ma de 110mm e altura máxima 450mm, estrutura em aço tubular pintado com tinta epóxi na cor preta, com plataforma antiderrapante com medidas aproximadas 30cm  de comprimento e 39cm de largura, com sapatas de borracha para não escorregar .",
+                "qtMaterialAlt": 3,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 516.12,
+                "dsFabricante": null,
+                "noMarcaMaterial": "D.V.S.",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "00708768000114",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "START UP COMERCIO E SERVICOS LTDA  - ME",
+                "dtAlteracao": "2024-04-08T11:32:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

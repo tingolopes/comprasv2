@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845006000152020",
+        "data_extracao": "2026-02-13 09:45:14",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 48177981,
+                "numeroLicitacao": "158450061520201",
+                "uasg": 158450,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.CORUMBÁ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 152020,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 3417,
+                "nomeServico": "DESINSETIZACAO / DESRATIZACAO / DEDETIZACAO",
+                "cnpjFornecedor": "02397025000104",
+                "nomeFornecedor": "PAULO HENRIQUE MARIN",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Desinsetização , desratização , dedetização",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 8000.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:30:00",
+                "idCompra": "15845006000152020",
+                "idCompraItem": "1584500600015202000001"
+            },
+            {
+                "isnSidecResultadoCompra": 48177982,
+                "numeroLicitacao": "158450061520202",
+                "uasg": 158450,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.CORUMBÁ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 152020,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 13595,
+                "nomeServico": "MANUTENCAO / HIGIENIZACAO DE RESERVATORIO DE AGUA POTAVEL",
+                "cnpjFornecedor": "02397025000104",
+                "nomeFornecedor": "PAULO HENRIQUE MARIN",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Manutenção , higienização de reservatório de água potável. Aplicação ao ano.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 7000.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:30:00",
+                "idCompra": "15845006000152020",
+                "idCompraItem": "1584500600015202000002"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

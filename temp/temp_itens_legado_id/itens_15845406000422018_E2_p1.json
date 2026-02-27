@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845406000422018",
+        "data_extracao": "2026-02-13 11:33:26",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 43574589,
+                "numeroLicitacao": "158454064220181",
+                "uasg": 158454,
+                "nomeUasg": "INST.F.ED.,CIENC.E TEC DE MS/C.TRÊS LAGOAS",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 422018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 150841,
+                "nomeMaterial": "TELESCÓPIO, TELESCÓPIO NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "06957683000156",
+                "nomeFornecedor": "DIBRAPO COMERCIO E IMPORTACAO LTDA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "TELESCÓPIO, Refletor 200mm 8\" RF BKP2001EQ5, tipo newtoniano Parabólico, Objet iva 203mm, montagem equatorial EQ5 com Motorização (acompanha motor) e porta S T4 para guiagem em astrofotografia, distância Focal 1000mm, luminosidade F/5, aumento efetivo 406X. Acessórios: CD Rom com Software de Astronomia, oculares 31,7mm, luneta buscadora e prateleira de acessórios.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 15300.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-03-20T09:04:00",
+                "idCompra": "15845406000422018",
+                "idCompraItem": "1584540600042201800001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

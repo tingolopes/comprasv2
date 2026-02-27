@@ -1,0 +1,1424 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/4_consultarEmpenhosSaldoItem?numeroAta=00001%2F2023&unidadeGerenciadora=158132&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-27 07:32:56",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroItem": "00001",
+                "unidade": "153164 - UNIVERSIDADE FEDERAL DE SANTA MARIA",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 190.0,
+                "quantidadeEmpenhada": 0.5,
+                "saldoEmpenho": 189.5,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00002",
+                "unidade": "153164 - UNIVERSIDADE FEDERAL DE SANTA MARIA",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 20.0,
+                "quantidadeEmpenhada": 0.5,
+                "saldoEmpenho": 19.5,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00003",
+                "unidade": "153164 - UNIVERSIDADE FEDERAL DE SANTA MARIA",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 20.0,
+                "quantidadeEmpenhada": 1.0,
+                "saldoEmpenho": 19.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-05-27T14:25:25"
+            },
+            {
+                "numeroItem": "00004",
+                "unidade": "153164 - UNIVERSIDADE FEDERAL DE SANTA MARIA",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 150.0,
+                "quantidadeEmpenhada": 1.0,
+                "saldoEmpenho": 149.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00001",
+                "unidade": "154628 - INST.FEDERAL FARROUPILHA CAMPUS JAGUARI",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 34.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 34.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00002",
+                "unidade": "154628 - INST.FEDERAL FARROUPILHA CAMPUS JAGUARI",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 2.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 2.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00003",
+                "unidade": "154628 - INST.FEDERAL FARROUPILHA CAMPUS JAGUARI",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 2.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 2.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00004",
+                "unidade": "154628 - INST.FEDERAL FARROUPILHA CAMPUS JAGUARI",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 30.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 30.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00001",
+                "unidade": "154773 - INST.FED.SUL-RIO-GRANDENSE/SANT.DO LIVRAMENTO",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 80.0,
+                "quantidadeEmpenhada": 5.0,
+                "saldoEmpenho": 75.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00002",
+                "unidade": "154773 - INST.FED.SUL-RIO-GRANDENSE/SANT.DO LIVRAMENTO",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 15.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 15.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00003",
+                "unidade": "154773 - INST.FED.SUL-RIO-GRANDENSE/SANT.DO LIVRAMENTO",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 15.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 15.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00004",
+                "unidade": "154773 - INST.FED.SUL-RIO-GRANDENSE/SANT.DO LIVRAMENTO",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 20.0,
+                "quantidadeEmpenhada": 6.0,
+                "saldoEmpenho": 14.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00005",
+                "unidade": "154773 - INST.FED.SUL-RIO-GRANDENSE/SANT.DO LIVRAMENTO",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 20.0,
+                "quantidadeEmpenhada": 10.0,
+                "saldoEmpenho": 10.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00001",
+                "unidade": "155570 - CAMPUS FREDERICO WESTPHALEN",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 30.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 30.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00004",
+                "unidade": "155570 - CAMPUS FREDERICO WESTPHALEN",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 30.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 30.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00001",
+                "unidade": "158122 - INST.FED.DE EDUC.,CIENC.E TEC.DE MINAS GERAIS",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 1040.0,
+                "quantidadeEmpenhada": 1.0,
+                "saldoEmpenho": 1039.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-05-27T14:25:36"
+            },
+            {
+                "numeroItem": "00002",
+                "unidade": "158122 - INST.FED.DE EDUC.,CIENC.E TEC.DE MINAS GERAIS",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 120.0,
+                "quantidadeEmpenhada": 1.0,
+                "saldoEmpenho": 119.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00003",
+                "unidade": "158122 - INST.FED.DE EDUC.,CIENC.E TEC.DE MINAS GERAIS",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 120.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 120.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00004",
+                "unidade": "158122 - INST.FED.DE EDUC.,CIENC.E TEC.DE MINAS GERAIS",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 400.0,
+                "quantidadeEmpenhada": 155.3199,
+                "saldoEmpenho": 244.6801,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00005",
+                "unidade": "158122 - INST.FED.DE EDUC.,CIENC.E TEC.DE MINAS GERAIS",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 400.0,
+                "quantidadeEmpenhada": 1.0,
+                "saldoEmpenho": 399.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-05-27T14:25:04"
+            },
+            {
+                "numeroItem": "00001",
+                "unidade": "158123 - INSTITUTO FED CIENCIA TECNOL SUDESTE MG",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 750.0,
+                "quantidadeEmpenhada": 124.0,
+                "saldoEmpenho": 626.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00002",
+                "unidade": "158123 - INSTITUTO FED CIENCIA TECNOL SUDESTE MG",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 61.0,
+                "quantidadeEmpenhada": 25.0,
+                "saldoEmpenho": 36.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00003",
+                "unidade": "158123 - INSTITUTO FED CIENCIA TECNOL SUDESTE MG",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 61.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 61.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00004",
+                "unidade": "158123 - INSTITUTO FED CIENCIA TECNOL SUDESTE MG",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 474.0,
+                "quantidadeEmpenhada": 87.0,
+                "saldoEmpenho": 387.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00005",
+                "unidade": "158123 - INSTITUTO FED CIENCIA TECNOL SUDESTE MG",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 88.0,
+                "quantidadeEmpenhada": 1.0,
+                "saldoEmpenho": 87.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00001",
+                "unidade": "158125 - INSTITUTO FEDERAL CATARINENSE - REITORIA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 720.0,
+                "quantidadeEmpenhada": 100.0,
+                "saldoEmpenho": 620.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-05-27T14:25:36"
+            },
+            {
+                "numeroItem": "00002",
+                "unidade": "158125 - INSTITUTO FEDERAL CATARINENSE - REITORIA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 120.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 120.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00003",
+                "unidade": "158125 - INSTITUTO FEDERAL CATARINENSE - REITORIA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 120.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 120.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00004",
+                "unidade": "158125 - INSTITUTO FEDERAL CATARINENSE - REITORIA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 500.0,
+                "quantidadeEmpenhada": 250.0,
+                "saldoEmpenho": 250.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00001",
+                "unidade": "158127 - INST.FED.DE EDUC.,CIENC.E TEC.FARROUPILHA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 360.0,
+                "quantidadeEmpenhada": 1.0,
+                "saldoEmpenho": 359.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00002",
+                "unidade": "158127 - INST.FED.DE EDUC.,CIENC.E TEC.FARROUPILHA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 30.0,
+                "quantidadeEmpenhada": 1.0,
+                "saldoEmpenho": 29.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00003",
+                "unidade": "158127 - INST.FED.DE EDUC.,CIENC.E TEC.FARROUPILHA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 30.0,
+                "quantidadeEmpenhada": 2.0,
+                "saldoEmpenho": 28.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00004",
+                "unidade": "158127 - INST.FED.DE EDUC.,CIENC.E TEC.FARROUPILHA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 300.0,
+                "quantidadeEmpenhada": 53.0,
+                "saldoEmpenho": 247.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00002",
+                "unidade": "158128 - INST.FED.DE EDUC.,CIENC.E TEC.DO MARANHAO",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 106.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 106.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00003",
+                "unidade": "158128 - INST.FED.DE EDUC.,CIENC.E TEC.DO MARANHAO",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 106.0,
+                "quantidadeEmpenhada": 109.0,
+                "saldoEmpenho": -3.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00004",
+                "unidade": "158128 - INST.FED.DE EDUC.,CIENC.E TEC.DO MARANHAO",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 495.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 495.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00001",
+                "unidade": "158132 - INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipo": "GERENCIADORA",
+                "quantidadeRegistrada": 790.0,
+                "quantidadeEmpenhada": 9.0,
+                "saldoEmpenho": 781.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00002",
+                "unidade": "158132 - INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipo": "GERENCIADORA",
+                "quantidadeRegistrada": 33.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 33.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00003",
+                "unidade": "158132 - INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipo": "GERENCIADORA",
+                "quantidadeRegistrada": 33.0,
+                "quantidadeEmpenhada": 5.0,
+                "saldoEmpenho": 28.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00004",
+                "unidade": "158132 - INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipo": "GERENCIADORA",
+                "quantidadeRegistrada": 421.0,
+                "quantidadeEmpenhada": 19.91218,
+                "saldoEmpenho": 401.08782,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00005",
+                "unidade": "158132 - INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipo": "GERENCIADORA",
+                "quantidadeRegistrada": 230.0,
+                "quantidadeEmpenhada": 1.5,
+                "saldoEmpenho": 228.5,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00001",
+                "unidade": "158135 - INST.FED.DE EDUC.,CIENC.E TEC.DO PARA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 2020.0,
+                "quantidadeEmpenhada": 1.0,
+                "saldoEmpenho": 2019.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00002",
+                "unidade": "158135 - INST.FED.DE EDUC.,CIENC.E TEC.DO PARA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 20.0,
+                "quantidadeEmpenhada": 1.0,
+                "saldoEmpenho": 19.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00003",
+                "unidade": "158135 - INST.FED.DE EDUC.,CIENC.E TEC.DO PARA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 20.0,
+                "quantidadeEmpenhada": 1.0,
+                "saldoEmpenho": 19.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00004",
+                "unidade": "158135 - INST.FED.DE EDUC.,CIENC.E TEC.DO PARA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 1980.0,
+                "quantidadeEmpenhada": 10.0,
+                "saldoEmpenho": 1970.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00001",
+                "unidade": "158139 - INST.FED.DE EDUC.,CIENC.E TEC.FLUMINENSE",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 294.0,
+                "quantidadeEmpenhada": 294.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00003",
+                "unidade": "158139 - INST.FED.DE EDUC.,CIENC.E TEC.FLUMINENSE",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 3.0,
+                "quantidadeEmpenhada": 3.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00004",
+                "unidade": "158139 - INST.FED.DE EDUC.,CIENC.E TEC.FLUMINENSE",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 210.0,
+                "quantidadeEmpenhada": 218.0,
+                "saldoEmpenho": -8.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00005",
+                "unidade": "158139 - INST.FED.DE EDUC.,CIENC.E TEC.FLUMINENSE",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 78.0,
+                "quantidadeEmpenhada": 2.0,
+                "saldoEmpenho": 76.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00001",
+                "unidade": "158141 - INST.FED.DE EDUC.,CIENC.E TEC.DO RS",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 240.0,
+                "quantidadeEmpenhada": 134.0,
+                "saldoEmpenho": 106.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00002",
+                "unidade": "158141 - INST.FED.DE EDUC.,CIENC.E TEC.DO RS",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 5.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 5.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00003",
+                "unidade": "158141 - INST.FED.DE EDUC.,CIENC.E TEC.DO RS",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 5.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 5.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00004",
+                "unidade": "158141 - INST.FED.DE EDUC.,CIENC.E TEC.DO RS",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 230.0,
+                "quantidadeEmpenhada": 212.63594,
+                "saldoEmpenho": 17.36406,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00001",
+                "unidade": "158144 - INST.FED.DE EDUC.,CIENC.E TEC.DO MATO GROSSO",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 498.0,
+                "quantidadeEmpenhada": 498.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00002",
+                "unidade": "158144 - INST.FED.DE EDUC.,CIENC.E TEC.DO MATO GROSSO",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 249.0,
+                "quantidadeEmpenhada": 249.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00003",
+                "unidade": "158144 - INST.FED.DE EDUC.,CIENC.E TEC.DO MATO GROSSO",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 249.0,
+                "quantidadeEmpenhada": 59.10614,
+                "saldoEmpenho": 189.89386,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00001",
+                "unidade": "158146 - INST.FED.DE EDUC.,CIENC.E TEC.DO PIAUI",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 620.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 620.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00002",
+                "unidade": "158146 - INST.FED.DE EDUC.,CIENC.E TEC.DO PIAUI",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 60.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 60.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00003",
+                "unidade": "158146 - INST.FED.DE EDUC.,CIENC.E TEC.DO PIAUI",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 60.0,
+                "quantidadeEmpenhada": 7.36723,
+                "saldoEmpenho": 52.63277,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00004",
+                "unidade": "158146 - INST.FED.DE EDUC.,CIENC.E TEC.DO PIAUI",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 300.0,
+                "quantidadeEmpenhada": 259.63759,
+                "saldoEmpenho": 40.36241,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00005",
+                "unidade": "158146 - INST.FED.DE EDUC.,CIENC.E TEC.DO PIAUI",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 200.0,
+                "quantidadeEmpenhada": 85.36822,
+                "saldoEmpenho": 114.63178,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00001",
+                "unidade": "158153 - INST.FED.DE EDUC.,CIENC.E TEC.DE GOIAS",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 400.0,
+                "quantidadeEmpenhada": 1.0,
+                "saldoEmpenho": 399.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00002",
+                "unidade": "158153 - INST.FED.DE EDUC.,CIENC.E TEC.DE GOIAS",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 50.0,
+                "quantidadeEmpenhada": 1.0,
+                "saldoEmpenho": 49.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00003",
+                "unidade": "158153 - INST.FED.DE EDUC.,CIENC.E TEC.DE GOIAS",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 50.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 50.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00004",
+                "unidade": "158153 - INST.FED.DE EDUC.,CIENC.E TEC.DE GOIAS",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 225.0,
+                "quantidadeEmpenhada": 101.93098,
+                "saldoEmpenho": 123.06902,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00005",
+                "unidade": "158153 - INST.FED.DE EDUC.,CIENC.E TEC.DE GOIAS",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 100.0,
+                "quantidadeEmpenhada": 1.0,
+                "saldoEmpenho": 99.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00001",
+                "unidade": "158266 - INST.FED.FARROUPILHA/CAMPUS SANTO AUGUSTO",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 30.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 30.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00004",
+                "unidade": "158266 - INST.FED.FARROUPILHA/CAMPUS SANTO AUGUSTO",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 30.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 30.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00001",
+                "unidade": "158267 - INST.FED.FARROUPILHA/CAMPUS DE ALEGRETE",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 40.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 40.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00004",
+                "unidade": "158267 - INST.FED.FARROUPILHA/CAMPUS DE ALEGRETE",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 40.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 40.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00001",
+                "unidade": "158268 - INST.FED.FARROUPILHA/CAMPUS SAO VICENTE SUL",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 50.0,
+                "quantidadeEmpenhada": 50.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00004",
+                "unidade": "158268 - INST.FED.FARROUPILHA/CAMPUS SAO VICENTE SUL",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 50.0,
+                "quantidadeEmpenhada": 15.0,
+                "saldoEmpenho": 35.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00001",
+                "unidade": "158269 - INST.FED.FARROUPILHA/CAMPUS JULIO CASTILHOS",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 32.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 32.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00002",
+                "unidade": "158269 - INST.FED.FARROUPILHA/CAMPUS JULIO CASTILHOS",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 2.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 2.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00003",
+                "unidade": "158269 - INST.FED.FARROUPILHA/CAMPUS JULIO CASTILHOS",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 2.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 2.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00004",
+                "unidade": "158269 - INST.FED.FARROUPILHA/CAMPUS JULIO CASTILHOS",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 28.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 28.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00003",
+                "unidade": "158283 - INST.FED.DO MARANHAO/CAMPUS BURITICUPU",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 10.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 10.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00004",
+                "unidade": "158283 - INST.FED.DO MARANHAO/CAMPUS BURITICUPU",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 40.0,
+                "quantidadeEmpenhada": 20.0,
+                "saldoEmpenho": 20.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00005",
+                "unidade": "158283 - INST.FED.DO MARANHAO/CAMPUS BURITICUPU",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 80.0,
+                "quantidadeEmpenhada": 4.0,
+                "saldoEmpenho": 76.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00001",
+                "unidade": "158284 - INST.FED.DO MARANHAO/CAMPUS BARRA DO CORDA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 30.0,
+                "quantidadeEmpenhada": 30.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00002",
+                "unidade": "158284 - INST.FED.DO MARANHAO/CAMPUS BARRA DO CORDA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 5.0,
+                "quantidadeEmpenhada": 5.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00003",
+                "unidade": "158284 - INST.FED.DO MARANHAO/CAMPUS BARRA DO CORDA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 5.0,
+                "quantidadeEmpenhada": 5.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00004",
+                "unidade": "158284 - INST.FED.DO MARANHAO/CAMPUS BARRA DO CORDA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 20.0,
+                "quantidadeEmpenhada": 4.92,
+                "saldoEmpenho": 15.08,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00001",
+                "unidade": "158292 - INST.FED.DO MARANHAO/CAMPUS ALCANTARA",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 140.0,
+                "quantidadeEmpenhada": 50.0,
+                "saldoEmpenho": 90.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-05-27T14:25:36"
+            },
+            {
+                "numeroItem": "00002",
+                "unidade": "158292 - INST.FED.DO MARANHAO/CAMPUS ALCANTARA",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 50.0,
+                "quantidadeEmpenhada": 50.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00003",
+                "unidade": "158292 - INST.FED.DO MARANHAO/CAMPUS ALCANTARA",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 10.0,
+                "quantidadeEmpenhada": 1.0,
+                "saldoEmpenho": 9.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-05-27T14:25:25"
+            },
+            {
+                "numeroItem": "00004",
+                "unidade": "158292 - INST.FED.DO MARANHAO/CAMPUS ALCANTARA",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 40.0,
+                "quantidadeEmpenhada": 8.0,
+                "saldoEmpenho": 32.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00005",
+                "unidade": "158292 - INST.FED.DO MARANHAO/CAMPUS ALCANTARA",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 30.0,
+                "quantidadeEmpenhada": 10.0,
+                "saldoEmpenho": 20.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-05-27T14:25:04"
+            },
+            {
+                "numeroItem": "00001",
+                "unidade": "158296 - INST.FED.DO MARANHAO/CAMPUS S.R.MANGABEIRAS",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 70.0,
+                "quantidadeEmpenhada": 1.0,
+                "saldoEmpenho": 69.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-05-27T14:25:36"
+            },
+            {
+                "numeroItem": "00002",
+                "unidade": "158296 - INST.FED.DO MARANHAO/CAMPUS S.R.MANGABEIRAS",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 10.0,
+                "quantidadeEmpenhada": 1.0,
+                "saldoEmpenho": 9.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00003",
+                "unidade": "158296 - INST.FED.DO MARANHAO/CAMPUS S.R.MANGABEIRAS",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 10.0,
+                "quantidadeEmpenhada": 1.0,
+                "saldoEmpenho": 9.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-05-27T14:25:25"
+            },
+            {
+                "numeroItem": "00004",
+                "unidade": "158296 - INST.FED.DO MARANHAO/CAMPUS S.R.MANGABEIRAS",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 30.0,
+                "quantidadeEmpenhada": 1.0,
+                "saldoEmpenho": 29.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00005",
+                "unidade": "158296 - INST.FED.DO MARANHAO/CAMPUS S.R.MANGABEIRAS",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 20.0,
+                "quantidadeEmpenhada": 1.0,
+                "saldoEmpenho": 19.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-05-27T14:25:04"
+            },
+            {
+                "numeroItem": "00001",
+                "unidade": "158308 - INST.FED.DO PARA/CAMPUS CASTANHAL",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 260.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 260.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00002",
+                "unidade": "158308 - INST.FED.DO PARA/CAMPUS CASTANHAL",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 20.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 20.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00003",
+                "unidade": "158308 - INST.FED.DO PARA/CAMPUS CASTANHAL",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 20.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 20.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00004",
+                "unidade": "158308 - INST.FED.DO PARA/CAMPUS CASTANHAL",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 200.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 200.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00005",
+                "unidade": "158308 - INST.FED.DO PARA/CAMPUS CASTANHAL",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 20.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 20.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00001",
+                "unidade": "158338 - INST.FED.SUL-RIO-GRANDENSE/CAMPUS PASSO FUNDO",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 68.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 68.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00002",
+                "unidade": "158338 - INST.FED.SUL-RIO-GRANDENSE/CAMPUS PASSO FUNDO",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 4.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 4.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00003",
+                "unidade": "158338 - INST.FED.SUL-RIO-GRANDENSE/CAMPUS PASSO FUNDO",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 4.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 4.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00004",
+                "unidade": "158338 - INST.FED.SUL-RIO-GRANDENSE/CAMPUS PASSO FUNDO",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 30.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 30.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00005",
+                "unidade": "158338 - INST.FED.SUL-RIO-GRANDENSE/CAMPUS PASSO FUNDO",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 30.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 30.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00001",
+                "unidade": "158457 - INST.FED.DO MARANHAO/CAMPUS TIMON",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 60.0,
+                "quantidadeEmpenhada": 8.0,
+                "saldoEmpenho": 52.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00004",
+                "unidade": "158457 - INST.FED.DO MARANHAO/CAMPUS TIMON",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 40.0,
+                "quantidadeEmpenhada": 14.23848,
+                "saldoEmpenho": 25.76152,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00001",
+                "unidade": "158503 - INSTITUTO FEDERAL FARROUPILH CAMPUS SAO BORJA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 78.0,
+                "quantidadeEmpenhada": 6.0,
+                "saldoEmpenho": 72.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00002",
+                "unidade": "158503 - INSTITUTO FEDERAL FARROUPILH CAMPUS SAO BORJA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 16.0,
+                "quantidadeEmpenhada": 6.0,
+                "saldoEmpenho": 10.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00003",
+                "unidade": "158503 - INSTITUTO FEDERAL FARROUPILH CAMPUS SAO BORJA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 16.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 16.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00004",
+                "unidade": "158503 - INSTITUTO FEDERAL FARROUPILH CAMPUS SAO BORJA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 46.0,
+                "quantidadeEmpenhada": 4.0,
+                "saldoEmpenho": 42.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00001",
+                "unidade": "158504 - CAMPUS DE SANTA ROSA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 90.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 90.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00002",
+                "unidade": "158504 - CAMPUS DE SANTA ROSA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 10.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 10.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00003",
+                "unidade": "158504 - CAMPUS DE SANTA ROSA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 10.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 10.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00004",
+                "unidade": "158504 - CAMPUS DE SANTA ROSA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 30.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 30.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00005",
+                "unidade": "158504 - CAMPUS DE SANTA ROSA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 40.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 40.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00001",
+                "unidade": "158505 - INST.FED.FARROUPILHA CAMPUS PANAMBI",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 40.0,
+                "quantidadeEmpenhada": 6.0,
+                "saldoEmpenho": 34.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00002",
+                "unidade": "158505 - INST.FED.FARROUPILHA CAMPUS PANAMBI",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 6.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 6.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00003",
+                "unidade": "158505 - INST.FED.FARROUPILHA CAMPUS PANAMBI",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 6.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 6.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00004",
+                "unidade": "158505 - INST.FED.FARROUPILHA CAMPUS PANAMBI",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 28.0,
+                "quantidadeEmpenhada": 9.0,
+                "saldoEmpenho": 19.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00001",
+                "unidade": "160155 - COMANDO DE FRONTEIRA JAURU / 66º BI MTZ",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 130.0,
+                "quantidadeEmpenhada": 130.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00002",
+                "unidade": "160155 - COMANDO DE FRONTEIRA JAURU / 66º BI MTZ",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 50.0,
+                "quantidadeEmpenhada": 50.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00004",
+                "unidade": "160155 - COMANDO DE FRONTEIRA JAURU / 66º BI MTZ",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 30.0,
+                "quantidadeEmpenhada": 10.32558,
+                "saldoEmpenho": 19.67442,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00005",
+                "unidade": "160155 - COMANDO DE FRONTEIRA JAURU / 66º BI MTZ",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 65.0,
+                "quantidadeEmpenhada": 9.426,
+                "saldoEmpenho": 55.574,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00003",
+                "unidade": "160224 - PARQUE REGIONAL DE MANUTENCAO/5",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 12.0,
+                "quantidadeEmpenhada": 10.12639,
+                "saldoEmpenho": 1.87361,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00001",
+                "unidade": "160354 - 10 BATALHAO LOGISTICO",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 3.0,
+                "quantidadeEmpenhada": 3.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00004",
+                "unidade": "160354 - 10 BATALHAO LOGISTICO",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 3.0,
+                "quantidadeEmpenhada": 2.01086,
+                "saldoEmpenho": 0.98914,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00001",
+                "unidade": "160380 - COMANDO 8 BRIGADA DE INFANTARIA MOTORIZADA",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 51.0,
+                "quantidadeEmpenhada": 3.0,
+                "saldoEmpenho": 48.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00004",
+                "unidade": "160380 - COMANDO 8 BRIGADA DE INFANTARIA MOTORIZADA",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 27.0,
+                "quantidadeEmpenhada": 1.86825,
+                "saldoEmpenho": 25.13175,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00001",
+                "unidade": "160421 - 9 BATALHAO LOGISTICO",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 7.0,
+                "quantidadeEmpenhada": 4.0,
+                "saldoEmpenho": 3.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00004",
+                "unidade": "160421 - 9 BATALHAO LOGISTICO",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 7.0,
+                "quantidadeEmpenhada": 4.97752,
+                "saldoEmpenho": 2.02248,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00001",
+                "unidade": "160422 - COMANDO 1 BRIGADA DE CAVALARIA MECANIZADA",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 39.0,
+                "quantidadeEmpenhada": 19.0,
+                "saldoEmpenho": 20.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00004",
+                "unidade": "160422 - COMANDO 1 BRIGADA DE CAVALARIA MECANIZADA",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 20.0,
+                "quantidadeEmpenhada": 10.83693,
+                "saldoEmpenho": 9.16307,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00005",
+                "unidade": "160422 - COMANDO 1 BRIGADA DE CAVALARIA MECANIZADA",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 17.0,
+                "quantidadeEmpenhada": 6.71396,
+                "saldoEmpenho": 10.28604,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00001",
+                "unidade": "160423 - HOSPITAL DE GUARNICAO DE SANTIAGO",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 2.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 2.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00004",
+                "unidade": "160423 - HOSPITAL DE GUARNICAO DE SANTIAGO",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 2.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 2.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00001",
+                "unidade": "193101 - IBAMA - SUPERINTENDENCIA DE ALAGOAS/AL",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 88.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 88.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00004",
+                "unidade": "193101 - IBAMA - SUPERINTENDENCIA DE ALAGOAS/AL",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 88.0,
+                "quantidadeEmpenhada": 4.70567,
+                "saldoEmpenho": 83.29433,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00001",
+                "unidade": "193115 - IBAMA - SUPERINTENDENCIA DA PARAIBA/PB",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 70.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 70.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00004",
+                "unidade": "193115 - IBAMA - SUPERINTENDENCIA DA PARAIBA/PB",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 70.0,
+                "quantidadeEmpenhada": 2.22818,
+                "saldoEmpenho": 67.77182,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00001",
+                "unidade": "193122 - IBAMA - SUPERINTENDENCIA DE RORAIMA/RR",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 350.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 350.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00004",
+                "unidade": "193122 - IBAMA - SUPERINTENDENCIA DE RORAIMA/RR",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 200.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 200.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-29T11:22:42"
+            },
+            {
+                "numeroItem": "00005",
+                "unidade": "193122 - IBAMA - SUPERINTENDENCIA DE RORAIMA/RR",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 150.0,
+                "quantidadeEmpenhada": 0.0,
+                "saldoEmpenho": 150.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            }
+        ],
+        "totalRegistros": 141,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813207000252018",
+        "data_extracao": "2026-02-13 11:22:42",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 43266502,
+                "numeroLicitacao": "158132072520181",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 7,
+                "nomeModalidade": "INEXIGIBILIDADE DE LICITAÇÃO",
+                "numeroAviso": 252018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 19321,
+                "nomeServico": "CURSO / TREINAMENTO EDUCACAO - DISTANCIA",
+                "cnpjFornecedor": "12465165000118",
+                "nomeFornecedor": "ASSOCIACAO NACIONAL DOS SERVIDORES INTEGRANTES DAS AUDITORIAS INTERNAS DO MINIST",
+                "quantidade": null,
+                "unidade": "Serv",
+                "descricaoItem": "Capacitação Técnica das Auditorias Internas do Ministério da Educação  parti cipação do servidor Angelo Borralho Hurtado no 49º FONAITec",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1000.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813207000252018",
+                "idCompraItem": "1581320700025201800001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

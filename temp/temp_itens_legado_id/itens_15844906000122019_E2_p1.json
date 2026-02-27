@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15844906000122019",
+        "data_extracao": "2026-02-13 09:49:22",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 44059685,
+                "numeroLicitacao": "158449061220191",
+                "uasg": 158449,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.C.GRANDE",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 122019,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 139920,
+                "nomeMaterial": "PLACA ACRÍLICA, PLACA ACRILICA NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "11550036000165",
+                "nomeFornecedor": "PATRICIA BARRETO DE MIRANDA EIRELI",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "Troféu em acrílico cristal na espessura de 4 mm,aplicado impressãodigital s obreoacrílico, no tamanho de 20,5cmA. x 10cm de L., colado sobre uma bas e transparente,  na  espessura  de  6  mm  no  tamanho  de 7 cm x 12 cm, lisa sem estampa.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1370.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-04-23T07:05:00",
+                "idCompra": "15844906000122019",
+                "idCompraItem": "1584490600012201900001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

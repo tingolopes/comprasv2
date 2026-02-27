@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845206000072019",
+        "data_extracao": "2026-02-13 11:06:31",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845206000072019",
+                "idCompraItem": "1584520600007201900001",
+                "coUasg": 158452,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 7,
+                "dtAnoAvisoLicitacao": 2019,
+                "nuInciso": "04",
+                "nuProcesso": "23347012061201912",
+                "vrEstimado": 3151.18,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso IV da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Manutenção de serviço essencial de abastecimento de água. Resolução de situação emergencial, calamitosa.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "SERGIO PAULO DE SOUZA",
+                "noCargoRespDeclDisp": "Diretor de Administração",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 24570,
+                "noServico": "MANUTENCAO - EQUIPAMENTOS DE POCOS",
+                "dsDetalhada": "Manutenção corretiva no painel e motor elétrico do poço artesiano",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "Serviço",
+                "vrEstimadoItem": 3151.18,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "02814708000101",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "TONINHO POCOS ARTESIANOS LTDA",
+                "dtAlteracao": "2024-04-08T11:40:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

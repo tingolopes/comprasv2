@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813207000112017",
+        "data_extracao": "2026-02-13 11:20:05",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813207000112017",
+                "idCompraItem": "1581320700011201700001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 11,
+                "dtAnoAvisoLicitacao": 2017,
+                "nuInciso": "02",
+                "nuProcesso": "23347011714201784",
+                "vrEstimado": 5000.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 25º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Capacitação de serviores",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "HEBERTON LUIZ DUARTE RODRIGUES",
+                "noCargoRespDeclDisp": "Gestor Financeiro",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 14729,
+                "noServico": "TREINAMENTO NA AREA DE ADMINISTRACAO PUBLICA",
+                "dsDetalhada": "Inscrição das servidoras Lenir Aparecida dos Santos e Liberalina Vieira Lemos no curso \"Gestão Tributária de Contratos e Convênios\" ofertada pela Open Trein amentos e Editora a ser realizado em Campo Grande/MS de 31/05 a 02/06 de 2017.",
+                "qtMaterialAlt": 2,
+                "noUnidadeMedida": "Inscrição",
+                "vrEstimadoItem": 5000.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "09094300000151",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "OPEN TREINAMENTOS EMPRESARIAIS E EDITORA LTDA - EPP",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

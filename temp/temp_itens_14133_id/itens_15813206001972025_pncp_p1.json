@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-contratacoes/2.1_consultarItensContratacoes_PNCP_14133_Id?tipo=idCompra&codigo=15813206001972025&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-13 10:53:59",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206001972025",
+                "idCompraItem": "1581320600197202500001",
+                "idContratacaoPNCP": "10673078000120-1-000065/2025",
+                "unidadeOrgaoCodigoUnidade": "158132",
+                "orgaoEntidadeCnpj": "10673078000120",
+                "numeroItemPncp": 1,
+                "numeroItemCompra": 1,
+                "numeroGrupo": 0,
+                "descricaoResumida": "Tampo Mobiliário Tampo Mobiliário Material: Aço, Cor: Cinza Claro, Comprimento: 480MM, Largura: 30MM, Espessura: 2,5MM, Características Adicionais: Com Suporte Para Fixação Painel Divisório.",
+                "materialOuServico": "M",
+                "materialOuServicoNome": "Material",
+                "codigoClasse": 7110,
+                "codigoGrupo": null,
+                "codItemCatalogo": 277138,
+                "descricaodetalhada": "Tampo Mobiliário Tampo Mobiliário Material: Aço, Cor: Cinza Claro, Comprimento: 480MM, Largura: 30MM, Espessura: 2,5MM, Características Adicionais: Com Suporte Para Fixação Painel Divisório.",
+                "unidadeMedida": "Unidade",
+                "orcamentoSigiloso": false,
+                "itemCategoriaIdPncp": 3,
+                "itemCategoriaNome": "Informática (TIC)",
+                "criterioJulgamentoIdPncp": 7,
+                "criterioJulgamentoNome": "Não se aplica",
+                "situacaoCompraItem": "2",
+                "situacaoCompraItemNome": "Homologado",
+                "tipoBeneficio": "5",
+                "tipoBeneficioNome": "Não se aplica",
+                "incentivoProdutivoBasico": false,
+                "quantidade": 20.0,
+                "valorUnitarioEstimado": 550.0,
+                "valorTotal": 11000.0,
+                "temResultado": true,
+                "codFornecedor": "09480223000178",
+                "nomeFornecedor": "SL COMERCIO E REPRESENTACOES LTDA",
+                "quantidadeResultado": 20.0,
+                "valorUnitarioResultado": 439.9,
+                "valorTotalResultado": 8798.0,
+                "dataInclusaoPncp": "2025-07-21T16:21:21",
+                "dataAtualizacaoPncp": "2025-07-21T16:24:26",
+                "dataResultado": "2025-05-29 00:00:00.0000000",
+                "margemPreferenciaNormal": false,
+                "percentualMargemPreferenciaNormal": null,
+                "margemPreferenciaAdicional": false,
+                "percentualMargemPreferenciaAdicional": null,
+                "codigoNCM": null,
+                "descricaoNCM": null,
+                "numeroControlePNCPCompra": "10673078000120-1-000065/2025"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

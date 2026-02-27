@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000012017",
+        "data_extracao": "2026-02-13 11:19:00",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 39397155,
+                "numeroLicitacao": "15813206120171",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 12017,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 5517,
+                "nomeServico": "LOCACAO, MANUTENCAO E REPARO DE EQUIPAMENTO AUDIO / VISUAL",
+                "cnpjFornecedor": "15559461000176",
+                "nomeFornecedor": "VERSAGE & CIA LTDA - ME",
+                "quantidade": null,
+                "unidade": "Serviço",
+                "descricaoItem": "Serviço de manutenção e reparo com substituição de peças em duas caixas de som de madeira da marca Belluc Mod cujo nº Patrimônial é 65421 e 65422",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 475.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2025-03-24T16:25:34",
+                "idCompra": "15813206000012017",
+                "idCompraItem": "1581320600001201700001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

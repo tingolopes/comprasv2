@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-contratacoes/2.1_consultarItensContratacoes_PNCP_14133_Id?tipo=idCompra&codigo=15813203903132024&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-13 10:44:00",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813203903132024",
+                "idCompraItem": "1581320390313202400001",
+                "idContratacaoPNCP": "10673078000120-1-000103/2024",
+                "unidadeOrgaoCodigoUnidade": "158132",
+                "orgaoEntidadeCnpj": "10673078000120",
+                "numeroItemPncp": 1,
+                "numeroItemCompra": 1,
+                "numeroGrupo": 0,
+                "descricaoResumida": "Obras Civis de Edificação Prediais",
+                "materialOuServico": "S",
+                "materialOuServicoNome": "Serviço",
+                "codigoClasse": null,
+                "codigoGrupo": 541,
+                "codItemCatalogo": 1619,
+                "descricaodetalhada": "FOGUETA, NOME: FOGUETA ",
+                "unidadeMedida": "UNIDADE",
+                "orcamentoSigiloso": false,
+                "itemCategoriaIdPncp": 3,
+                "itemCategoriaNome": "Informática (TIC)",
+                "criterioJulgamentoIdPncp": 2,
+                "criterioJulgamentoNome": "Maior desconto",
+                "situacaoCompraItem": "3",
+                "situacaoCompraItemNome": "Anulado/Revogado/Cancelado",
+                "tipoBeneficio": "5",
+                "tipoBeneficioNome": "Não se aplica",
+                "incentivoProdutivoBasico": false,
+                "quantidade": 1.0,
+                "valorUnitarioEstimado": 3207806.94,
+                "valorTotal": 3207806.94,
+                "temResultado": null,
+                "codFornecedor": null,
+                "nomeFornecedor": null,
+                "quantidadeResultado": null,
+                "valorUnitarioResultado": null,
+                "valorTotalResultado": null,
+                "dataInclusaoPncp": "2024-12-10T07:09:46",
+                "dataAtualizacaoPncp": "2025-04-02T18:40:21",
+                "dataResultado": null,
+                "margemPreferenciaNormal": false,
+                "percentualMargemPreferenciaNormal": null,
+                "margemPreferenciaAdicional": false,
+                "percentualMargemPreferenciaAdicional": null,
+                "codigoNCM": null,
+                "descricaoNCM": null,
+                "numeroControlePNCPCompra": "10673078000120-1-000103/2024"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

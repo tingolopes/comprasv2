@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-material/5_consultarMaterialNaturezaDespesa?pagina=1&codigoPdm=16936",
+        "data_extracao": "2026-02-26 15:04:51",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "codigoPdm": 16936,
+                "codigoNaturezaDespesa": "33903025",
+                "nomeNaturezaDespesa": "MATERIAL DE CONSUMO - MATERIAL P/ MANUTENCAO DE BENS MOVEIS",
+                "statusNaturezaDespesa": true
+            },
+            {
+                "codigoPdm": 16936,
+                "codigoNaturezaDespesa": "44905212",
+                "nomeNaturezaDespesa": "EQUIPAMENTOS E MATERIAL PERMANENTE - APARELHOS E UTENSILIOS DOMESTICOS",
+                "statusNaturezaDespesa": true
+            },
+            {
+                "codigoPdm": 16936,
+                "codigoNaturezaDespesa": "33903026",
+                "nomeNaturezaDespesa": "MATERIAL DE CONSUMO - MATERIAL ELETRICO E ELETRONICO",
+                "statusNaturezaDespesa": true
+            }
+        ]
+    }
+}

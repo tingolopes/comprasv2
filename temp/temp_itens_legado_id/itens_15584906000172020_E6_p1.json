@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15584906000172020",
+        "data_extracao": "2026-02-13 11:10:39",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15584906000172020",
+                "idCompraItem": "1558490600017202000001",
+                "coUasg": 155849,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 17,
+                "dtAnoAvisoLicitacao": 2020,
+                "nuInciso": "02",
+                "nuProcesso": "23347008477202070",
+                "vrEstimado": 8600.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: O valor do processo e a soma anual das despesas nesta natureza não ultrapassa o limite do art. 24, II da Lei de Licitações.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "PEDRO JORGE CARDOSO DA SILVA RODRIGUES",
+                "noCargoRespDeclDisp": "Coordenador de Materiais",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 27499,
+                "noServico": "LICENCIAMENTO DE OUTROS DIREITOS PERMANENTES SOBRE PROGRAMASDE COMPUTADOR",
+                "dsDetalhada": "Licenciamento de outros direitos permanentes sobre programasde computador. Lic ença CAL para windows server 2016 standard, licença de dispositivo, licença pe rpétua, WinSvrCAL 2019 SNGL OLP NL Acdmc DvcCAL.",
+                "qtMaterialAlt": 200,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 8600.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "10242721000161",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "BUYSOFT DO BRASIL LTDA",
+                "dtAlteracao": "2024-04-08T11:38:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

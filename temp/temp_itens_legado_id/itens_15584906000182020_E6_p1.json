@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15584906000182020",
+        "data_extracao": "2026-02-13 11:10:33",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15584906000182020",
+                "idCompraItem": "1558490600018202000001",
+                "coUasg": 155849,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 18,
+                "dtAnoAvisoLicitacao": 2020,
+                "nuInciso": "02",
+                "nuProcesso": "23347008478202014",
+                "vrEstimado": 31083.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: A soma anual das despesas nesta natureza não ultrapassa o limite estabelecido na Lei de Licitações alterada pela MP 961/20",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "PEDRO JORGE CARDOSO DA SILVA RODRIGUES",
+                "noCargoRespDeclDisp": "Coordenador de Materiais",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 27456,
+                "noServico": "LICENCIAMENTO DE DIREITOS PERMANENTES  DE  USO  DE  SOFTWAREPARA ESTACAO DE TRABALHO",
+                "dsDetalhada": "Licenciamento de direitos permanentes  de  uso  de  software para estação de t rabalho, Licença microsoft office 2019 pro, licença perpetua, idioma PT-BR, in clui os programas Word, Excel, PowerPoint, Outlook, Publisher e Access.",
+                "qtMaterialAlt": 100,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 31083.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "10242721000161",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "BUYSOFT DO BRASIL LTDA",
+                "dtAlteracao": "2024-04-08T11:38:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

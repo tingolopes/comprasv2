@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845306000042016",
+        "data_extracao": "2026-02-13 11:12:07",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845306000042016",
+                "idCompraItem": "1584530600004201600001",
+                "coUasg": 158453,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 4,
+                "dtAnoAvisoLicitacao": 2016,
+                "nuInciso": "04",
+                "nuProcesso": "23347001629201627",
+                "vrEstimado": 275.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso IV da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Urgência em consertar pois, refrigera o ambiente no local onde ficam os servidores de informática.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "ROGERIO CARDOSO BATISTA",
+                "noCargoRespDeclDisp": "Ordenador de Despesas",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 3492,
+                "noServico": "AR CONDICIONADO - MANUTENCAO DE APARELHOS DE PAREDE",
+                "dsDetalhada": "Conserto de ar-condicionado tipo split da sala de processamento de dados, com retirada",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "un",
+                "vrEstimadoItem": 275.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "15506762000131",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "CLIMA SUL - AR CONDICIONADO E REFRIGERACAO LTDA - ME",
+                "dtAlteracao": "2024-04-08T11:41:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

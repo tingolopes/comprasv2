@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845306000042020",
+        "data_extracao": "2026-02-13 11:15:55",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 46435396,
+                "numeroLicitacao": "15845306420201",
+                "uasg": 158453,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MT/C.P.PORÃ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 42020,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 23868,
+                "nomeServico": "PRESTACAO DE SERVICO DE  VIGILANCIA E SEGURANCA - ELETRONICA24 HORAS DIUTURNAS",
+                "cnpjFornecedor": "11759984000105",
+                "nomeFornecedor": "SEGURANCA ELETRONICA PONTA PORA LTDA",
+                "quantidade": null,
+                "unidade": "Posto",
+                "descricaoItem": "Prestação de serviço de  vigilância e segurança eletrônica24 horas diuturnas .  Contratação de empresa especializada para prestação de serviços de ronda pe riódica monitorada com marcação eletrônica de visitas, conforme detalhamento a baixo:  1. Serão realizadas duas visitas diárias, de segunda-feira a domingo. 2. O controle eletrônico das visitas a ser fornecido pela contratada, deverá contemplar 2 (dois) pontos e permitir a emissão de relatório mensal de control e.  3. As visitas têm como objetivo verificar a integridade do patrimônio da E mbrapa e possíveis sinais de invasão, risco de incêndio, etc.  4. Caso o vigil ante perceba qualquer situação considerada anormal, este deverá comunicar imed iatamente à Embrapa e se for o caso, os órgãos de segurança competentes, para que tomem as providências necessárias.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 8160.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:41:00",
+                "idCompra": "15845306000042020",
+                "idCompraItem": "1584530600004202000001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

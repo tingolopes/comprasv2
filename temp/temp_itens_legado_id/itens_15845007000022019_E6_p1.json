@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845007000022019",
+        "data_extracao": "2026-02-13 09:44:54",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845007000022019",
+                "idCompraItem": "1584500700002201900001",
+                "coUasg": 158450,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 2,
+                "dtAnoAvisoLicitacao": 2019,
+                "nuInciso": "02",
+                "nuProcesso": "23347013215201993",
+                "vrEstimado": 7301.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 25º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Contratação de serviços técnicos enumerados no art. 13 desta Lei,  treinamento e aperfeiçoamento de pessoal.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "SANDRO MOURA SANTOS",
+                "noCargoRespDeclDisp": "Ordenador de Despesa",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 25232,
+                "noServico": "PAGAMENTO INSCRICAO EVENTOS",
+                "dsDetalhada": "Inscrição em capacitação em Instalação e Integração de sistemas fotovoltaicos  conectados à rede.",
+                "qtMaterialAlt": 7,
+                "noUnidadeMedida": "uni",
+                "vrEstimadoItem": 7301.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "49607336000106",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "FUNDACAO DE DESENVOLVIMENTO DA UNICAMP FUNCAMP",
+                "dtAlteracao": "2024-04-08T11:30:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

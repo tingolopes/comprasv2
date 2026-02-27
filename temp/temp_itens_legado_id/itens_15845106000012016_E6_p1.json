@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845106000012016",
+        "data_extracao": "2026-02-13 10:03:42",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845106000012016",
+                "idCompraItem": "1584510600001201600001",
+                "coUasg": 158451,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 1,
+                "dtAnoAvisoLicitacao": 2016,
+                "nuInciso": "02",
+                "nuProcesso": "23347000809201691",
+                "vrEstimado": 930.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: O valor da compra não ultrapassa o valor máximo previsto na legislação vigente.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "JOAO OTAVIO CENEDEZI PIMENTA",
+                "noCargoRespDeclDisp": "Gestor Financeiro",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 47678,
+                "noConjuntoMateriais": "GAS ENGARRAFADO ( GLP )",
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "Recarga de gás liquefeito de petróleo ? GLP P13  13 kg de gás propano-butano",
+                "qtMaterialAlt": 15,
+                "noUnidadeMedida": "Recarga de 13 kg",
+                "vrEstimadoItem": 930.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "Diversas",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "00864795000186",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "LAURO EBLING - EPP",
+                "dtAlteracao": "2024-04-08T11:32:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

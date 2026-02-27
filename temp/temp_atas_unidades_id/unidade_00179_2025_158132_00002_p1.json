@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00179%2F2025&unidadeGerenciadora=158132&numeroItem=00002&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:59:46",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00179/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00002",
+                "codigoPdm": "14083",
+                "descricaoItem": "CARRETA, MATERIAL CARROCERIA MADEIRA, QUANTIDADE RODA 2, TIPO AGRÍCOLA, COMPRIMENTO 2 M, LARGURA 1 M, USO TRANSPORTE CARGA, CARACTERÍSTICAS ADICIONAIS 1 EIXO, ADAPTADO P/ENGATE NO MICROTRATOR CULTIV A, TIPO PNEU ARO 16",
+                "fornecedor": "43065339000189 - QUATRO BARRAS COMERCIO DE MAQUINAS PECAS E EQUIPAMENTOS LTDA",
+                "quantidadeRegistrada": 0.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": 0.0,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2025-12-17T11:07:42",
+                "dataHoraAtualizacao": "2025-12-17T11:47:35",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            },
+            {
+                "numeroAta": "00179/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00002",
+                "codigoPdm": "14083",
+                "descricaoItem": "CARRETA, MATERIAL CARROCERIA MADEIRA, QUANTIDADE RODA 2, TIPO AGRÍCOLA, COMPRIMENTO 2 M, LARGURA 1 M, USO TRANSPORTE CARGA, CARACTERÍSTICAS ADICIONAIS 1 EIXO, ADAPTADO P/ENGATE NO MICROTRATOR CULTIV A, TIPO PNEU ARO 16",
+                "fornecedor": "43065339000189 - QUATRO BARRAS COMERCIO DE MAQUINAS PECAS E EQUIPAMENTOS LTDA",
+                "quantidadeRegistrada": 1.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 1.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": 0.0,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2025-12-17T11:07:53",
+                "dataHoraAtualizacao": "2025-12-17T11:47:38",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158451",
+                "nomeUnidade": "INST. FED. DO MS/CAMPUS COXIM",
+                "tipoUnidade": "PARTICIPANTE"
+            },
+            {
+                "numeroAta": "00179/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00002",
+                "codigoPdm": "14083",
+                "descricaoItem": "CARRETA, MATERIAL CARROCERIA MADEIRA, QUANTIDADE RODA 2, TIPO AGRÍCOLA, COMPRIMENTO 2 M, LARGURA 1 M, USO TRANSPORTE CARGA, CARACTERÍSTICAS ADICIONAIS 1 EIXO, ADAPTADO P/ENGATE NO MICROTRATOR CULTIV A, TIPO PNEU ARO 16",
+                "fornecedor": "43065339000189 - QUATRO BARRAS COMERCIO DE MAQUINAS PECAS E EQUIPAMENTOS LTDA",
+                "quantidadeRegistrada": 1.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 1.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": 0.0,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2025-12-17T11:07:55",
+                "dataHoraAtualizacao": "2025-12-17T11:47:38",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158452",
+                "nomeUnidade": "INST. FED. DO MS/CAMPUS NOVA ANDRADINA",
+                "tipoUnidade": "PARTICIPANTE"
+            }
+        ],
+        "totalRegistros": 3,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813207000092019",
+        "data_extracao": "2026-02-13 11:23:39",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 45413634,
+                "numeroLicitacao": "15813207920191",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 7,
+                "nomeModalidade": "INEXIGIBILIDADE DE LICITAÇÃO",
+                "numeroAviso": 92019,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 18821,
+                "nomeServico": "TREINAMENTO / CAPACITACAO - SEGURANCA INDUSTRIAL",
+                "cnpjFornecedor": "12465165000118",
+                "nomeFornecedor": "ASSOCIACAO NACIONAL DOS SERVIDORES INTEGRANTES DAS AUDITORIAS INTERNAS DO MINIST",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Capacitação do Servidor Angelo Boralho no 51º FONAITec Capacitação Técnica das Auditorias Internas do Ministério da Educação",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 800.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813207000092019",
+                "idCompraItem": "1581320700009201900001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

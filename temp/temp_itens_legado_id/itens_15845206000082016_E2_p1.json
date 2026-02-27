@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845206000082016",
+        "data_extracao": "2026-02-13 11:03:59",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 38066910,
+                "numeroLicitacao": "15845206820161",
+                "uasg": 158452,
+                "nomeUasg": "INST.F.DE ED.,CIENC.E TEC.DO MS/C.N ANDRADINA",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 82016,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 2712,
+                "nomeServico": "MANUTENCAO DE EQUIPAMENTOS DE COMUNICACAO DE DADOS",
+                "cnpjFornecedor": "21986368000140",
+                "nomeFornecedor": "NETVOX TECNOLOGIA EM TELECOMUNICACOES EIRELI - EPP",
+                "quantidade": null,
+                "unidade": "SERV",
+                "descricaoItem": "Serviço de realinhamento de rádios da marca Alvarion e manutenção preventiva e corretiva do sistema de balizamento noturno e estaiamento das cordoalhas de a ço das torres, sendo que uma das torres se encontra no Campus da UFMS e outra na Rod MS 473 KM 23, Fazenda Santa Bárbara, S/N IFMS.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 2687.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:40:00",
+                "idCompra": "15845206000082016",
+                "idCompraItem": "1584520600008201600001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

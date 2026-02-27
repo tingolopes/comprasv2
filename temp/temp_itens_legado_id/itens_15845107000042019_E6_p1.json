@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845107000042019",
+        "data_extracao": "2026-02-13 10:15:18",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845107000042019",
+                "idCompraItem": "1584510700004201900001",
+                "coUasg": 158451,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 4,
+                "dtAnoAvisoLicitacao": 2019,
+                "nuInciso": "00",
+                "nuProcesso": "23347000992201978",
+                "vrEstimado": 25000.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 25º, Caput da Lei nº 8.666/93.",
+                "dsJustificativa": "Justificativa: Trata-se de contratação com órgão cuja competência é  publicar e divulgar os atos oficiais da adm. pública federal\".",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "SANDRA DA SILVA COSTA",
+                "noCargoRespDeclDisp": "Gestor Financeiro",
+                "noResponsavelRatificacao": "FRANCISCO XAVIER DA SILVA",
+                "noCargoRespRatificacao": "Ordenador de Despesas",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 16152,
+                "noServico": "PUBLICACAO LIVRO / MATERIA - PERIODICA / OFICIAL",
+                "dsDetalhada": "Contratação do serviço de publicação no Diário Oficial da União de atos oficia is e demais matérias de interesse do Instituto Federal de Educação, Ciência e  Tecnologia de Mato Grosso do Sul   Campus Coxim, conforme estabelecido no Decr eto nº 9.215, de 29/11/2017, combinado com a Portaria nº 283, de 2/10/2018, al terações posteriores e demais cominações legais, por intermédio da IMPRENSA NA CIONAL, órgão específico, singular, integrante da estrutura regimental da Casa  Civil da Presidência da República.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "Serviço",
+                "vrEstimadoItem": 25000.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "04196645000100",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "IMPRENSA NACIONAL",
+                "dtAlteracao": "2024-04-08T11:32:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

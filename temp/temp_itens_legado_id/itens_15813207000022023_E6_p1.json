@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813207000022023",
+        "data_extracao": "2026-02-13 11:30:31",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813207000022023",
+                "idCompraItem": "1581320700002202300001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 2,
+                "dtAnoAvisoLicitacao": 2023,
+                "nuInciso": "00",
+                "nuProcesso": "23347003180202361",
+                "vrEstimado": 33000.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": "Objeto: Contratação da prestação do serviço par                             a o fornecimento de água, coleta e tratamento d                             e esgoto para o Campus Campo Grande - Rua Taqua                             ri 831- matrícula nº 17872558-7",
+                "dsFundamentoLegal": "Fundamento Legal: Art. 25º, Caput da Lei nº 8.666 de 21º/06/1993.",
+                "dsJustificativa": "Justificativa: Contratação de empresa para fornecimento de água.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "DEJAHYR LOPES JUNIOR",
+                "noCargoRespDeclDisp": "Ordenador de Despesas",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 22845,
+                "noServico": "FORNECIMENTO DE AGUA E COLETA DE ESGOTO SANITARIO",
+                "dsDetalhada": "Contratação da prestação do serviço para o fornecimento de água, coleta e trat amento de esgoto para o Campus Campo Grande - Rua Taquari 831- matrícula nº 17 872558-7",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "UNIDADE",
+                "vrEstimadoItem": 33000.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "04089570000150",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "AGUAS GUARIROBA SA",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

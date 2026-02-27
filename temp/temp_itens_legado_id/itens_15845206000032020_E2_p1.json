@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845206000032020",
+        "data_extracao": "2026-02-13 11:08:22",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 45911581,
+                "numeroLicitacao": "15845206320201",
+                "uasg": 158452,
+                "nomeUasg": "INST.F.DE ED.,CIENC.E TEC.DO MS/C.N ANDRADINA",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 32020,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 19356,
+                "nomeServico": "CONCESSAO USO - AREA / IMOVEL PUBLICO",
+                "cnpjFornecedor": "15283528000192",
+                "nomeFornecedor": "SILAS PEDROSO DE SOUZA 02423476140",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Concessão onerosa para serviços de cantina escolar, com fornecimento de materi ais e mão de obra para atendimento da comunidade acadêmica do IFMS Campus Nova Andradina.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 62.3,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:40:00",
+                "idCompra": "15845206000032020",
+                "idCompraItem": "1584520600003202000001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00011%2F2024&unidadeGerenciadora=158132&numeroItem=00266&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:29:24",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00011/2024",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00266",
+                "codigoPdm": "04550",
+                "descricaoItem": "CARNE DE AVE IN NATURA, TIPO ANIMAL FRANGO, TIPO CORTE COXA E SOBRECOXA, APRESENTAÇÃO INTEIRO, ESTADO DE CONSERVAÇÃO CONGELADO(A), PROCESSAMENTO COM PELE, COM OSSO",
+                "fornecedor": "10144274000108 - ZELLITEC COMERCIO DE PRODUTOS ALIMENTICIOS LTDA",
+                "quantidadeRegistrada": 0.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": null,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2024-03-27T11:59:09",
+                "dataHoraAtualizacao": "2024-03-27T12:44:07",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            },
+            {
+                "numeroAta": "00011/2024",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00266",
+                "codigoPdm": "04550",
+                "descricaoItem": "CARNE DE AVE IN NATURA, TIPO ANIMAL FRANGO, TIPO CORTE COXA E SOBRECOXA, APRESENTAÇÃO INTEIRO, ESTADO DE CONSERVAÇÃO CONGELADO(A), PROCESSAMENTO COM PELE, COM OSSO",
+                "fornecedor": "10144274000108 - ZELLITEC COMERCIO DE PRODUTOS ALIMENTICIOS LTDA",
+                "quantidadeRegistrada": 1728.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 1152.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": null,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2024-03-27T12:01:25",
+                "dataHoraAtualizacao": "2024-10-03T10:14:29",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158451",
+                "nomeUnidade": "INST. FED. DO MS/CAMPUS COXIM",
+                "tipoUnidade": "PARTICIPANTE"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

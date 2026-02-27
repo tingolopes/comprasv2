@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00169%2F2025&unidadeGerenciadora=158132&numeroItem=00020&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:30:25",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00169/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00020",
+                "codigoPdm": "13768",
+                "descricaoItem": "APARELHO AR CONDICIONADO, CAPACIDADE REFRIGERAÇÃO 60.000 BTU/H, TENSÃO 220 V, FREQÜÊNCIA 60 HZ, TIPO SPLIT",
+                "fornecedor": "21613975000165 - TECNOBLU COMERCIO DE REFRIGERACAO LTDA",
+                "quantidadeRegistrada": 0.0,
+                "saldoAdesoes": 2.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 2.0,
+                "qtdLimiteInformadoCompra": 2.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2025-12-04T15:51:29",
+                "dataHoraAtualizacao": "2025-12-05T15:08:28",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            },
+            {
+                "numeroAta": "00169/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00020",
+                "codigoPdm": "13768",
+                "descricaoItem": "APARELHO AR CONDICIONADO, CAPACIDADE REFRIGERAÇÃO 60.000 BTU/H, TENSÃO 220 V, FREQÜÊNCIA 60 HZ, TIPO SPLIT",
+                "fornecedor": "21613975000165 - TECNOBLU COMERCIO DE REFRIGERACAO LTDA",
+                "quantidadeRegistrada": 1.0,
+                "saldoAdesoes": 2.0,
+                "saldoRemanejamentoEmpenho": 1.0,
+                "qtdLimiteAdesao": 2.0,
+                "qtdLimiteInformadoCompra": 2.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2025-12-04T15:51:44",
+                "dataHoraAtualizacao": "2025-12-05T15:08:29",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158448",
+                "nomeUnidade": "INST.FED.DO MS/CAMPUS AQUIDAUANA",
+                "tipoUnidade": "PARTICIPANTE"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/1_consultarLicitacao?pagina=1&tamanhoPagina=500&uasg=158454&data_publicacao_inicial=2017-01-01&data_publicacao_final=2017-12-31",
+        "data_extracao": "2026-02-05 18:43:54",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "id_compra": "15845405000012017",
+                "identificador": "1584540512017",
+                "numero_processo": "23347008959201724",
+                "uasg": 158454,
+                "modalidade": 5,
+                "nome_modalidade": "PREGÃO",
+                "numero_aviso": 12017,
+                "situacao_aviso": "Publicado",
+                "tipo_pregao": "eletronico",
+                "tipo_recurso": "Nacional",
+                "nome_responsavel": "EDER SANTOS GOUVEIA",
+                "funcao_responsavel": "Pregoeiro",
+                "numero_itens": 34,
+                "valor_estimado_total": null,
+                "valor_homologado_total": 1442.56,
+                "informacoes_gerais": null,
+                "objeto": "Pregão Eletrônico Registro de Preços para a contratação de serviços de chaveiro que contemple a cópia de chaves (yale), confecção de chaves (yale), troca de fechaduras com mater ial (yale), troca de segredos de fechaduras com fornecimento de duas cópias (yale), abertura d e portas, gavetas, armários, quadros de avisos, cadeados, arquivos e portas de automóveis para atender as demandas do Instituto Federal de Ed ucação, Ciência e Tecnologia de Mato Grosso do Sul Campus Três Lagoas.",
+                "endereco_entrega_edital": "Rua Angelo Melão Nº 790 - Jardim Das Paineiras/MS",
+                "codigo_municipio_uasg": 91650,
+                "data_abertura_proposta": "2017-09-14",
+                "data_entrega_edital": "2017-08-29",
+                "data_entrega_proposta": "2017-08-29",
+                "data_publicacao": "2017-08-29",
+                "dt_alteracao": "2017-09-28T11:12:56",
+                "pertence14133": false
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-contratacoes/2.1_consultarItensContratacoes_PNCP_14133_Id?tipo=idCompra&codigo=15813206000312022&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-13 10:46:41",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000312022",
+                "idCompraItem": "1581320600031202200001",
+                "idContratacaoPNCP": "10673078000120-1-000013/2022",
+                "unidadeOrgaoCodigoUnidade": "158132",
+                "orgaoEntidadeCnpj": "10673078000120",
+                "numeroItemPncp": 1,
+                "numeroItemCompra": 1,
+                "numeroGrupo": 0,
+                "descricaoResumida": "Identificador Biométrico Digital",
+                "materialOuServico": "M",
+                "materialOuServicoNome": "Material",
+                "codigoClasse": 6350,
+                "codigoGrupo": null,
+                "codItemCatalogo": 326521,
+                "descricaodetalhada": "",
+                "unidadeMedida": "Unidade",
+                "orcamentoSigiloso": false,
+                "itemCategoriaIdPncp": 3,
+                "itemCategoriaNome": "Informática (TIC)",
+                "criterioJulgamentoIdPncp": 1,
+                "criterioJulgamentoNome": "Menor preço",
+                "situacaoCompraItem": "2",
+                "situacaoCompraItemNome": "Homologado",
+                "tipoBeneficio": "1",
+                "tipoBeneficioNome": "Participação exclusiva para ME/EPP",
+                "incentivoProdutivoBasico": false,
+                "quantidade": 53.0,
+                "valorUnitarioEstimado": 706.59,
+                "valorTotal": 37449.27,
+                "temResultado": true,
+                "codFornecedor": "34931447000104",
+                "nomeFornecedor": "DOMICIO DAVIDSSON RODRIGUES DA GUARDA 08769708622",
+                "quantidadeResultado": 53.0,
+                "valorUnitarioResultado": 514.9,
+                "valorTotalResultado": 27289.7,
+                "dataInclusaoPncp": "2022-06-27T14:48:47",
+                "dataAtualizacaoPncp": "2022-07-05T11:16:25",
+                "dataResultado": "2022-07-05 00:00:00.0000000",
+                "margemPreferenciaNormal": false,
+                "percentualMargemPreferenciaNormal": null,
+                "margemPreferenciaAdicional": false,
+                "percentualMargemPreferenciaAdicional": null,
+                "codigoNCM": null,
+                "descricaoNCM": null,
+                "numeroControlePNCPCompra": "10673078000120-1-000013/2022"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813207000152023",
+        "data_extracao": "2026-02-13 11:30:56",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813207000152023",
+                "idCompraItem": "1581320700015202300001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 15,
+                "dtAnoAvisoLicitacao": 2023,
+                "nuInciso": "24",
+                "nuProcesso": "23347009171202383",
+                "vrEstimado": 900.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": "Objeto: Ação de capacitação \"Seminário Nacional                              de Bibliotecas Universitárias .",
+                "dsFundamentoLegal": "Fundamento Legal: Art. 74º, Inciso III, f da Lei nº 14.133 de 1º/04/2021.",
+                "dsJustificativa": "Justificativa: Art. 74º, Inciso III, f da Lei nº 14.133 de 1º/04/2021.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "",
+                "noCargoRespDeclDisp": "",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 21172,
+                "noServico": "TREINAMENTO QUALIFICACAO PROFISSIONAL",
+                "dsDetalhada": "Contratação da empresa prestadora do serviço Seminário Nacional de Bibliotecas  Universitárias (XXII -  SNBU) para participação do servidor bibliotecário do  Campus Coxim - IFMS.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "UNIDADE",
+                "vrEstimadoItem": 900.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "44075687000108",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "FEDERACAO BRASILEIRA DE ASSOCIACOES DE BIBLIOTECARIOS, CIENTISTAS DA INFORMACAO",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

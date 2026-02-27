@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-contratacoes/2.1_consultarItensContratacoes_PNCP_14133_Id?tipo=idCompra&codigo=15813206000502022&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-13 10:45:50",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000502022",
+                "idCompraItem": "1581320600050202200001",
+                "idContratacaoPNCP": "10673078000120-1-000023/2022",
+                "unidadeOrgaoCodigoUnidade": "158132",
+                "orgaoEntidadeCnpj": "10673078000120",
+                "numeroItemPncp": 1,
+                "numeroItemCompra": 1,
+                "numeroGrupo": 0,
+                "descricaoResumida": "Suporte",
+                "materialOuServico": "M",
+                "materialOuServicoNome": "Material",
+                "codigoClasse": 7290,
+                "codigoGrupo": null,
+                "codItemCatalogo": 480202,
+                "descricaodetalhada": "",
+                "unidadeMedida": "Unidade ",
+                "orcamentoSigiloso": false,
+                "itemCategoriaIdPncp": 3,
+                "itemCategoriaNome": "Informática (TIC)",
+                "criterioJulgamentoIdPncp": 1,
+                "criterioJulgamentoNome": "Menor preço",
+                "situacaoCompraItem": "2",
+                "situacaoCompraItemNome": "Homologado",
+                "tipoBeneficio": "1",
+                "tipoBeneficioNome": "Participação exclusiva para ME/EPP",
+                "incentivoProdutivoBasico": false,
+                "quantidade": 80.0,
+                "valorUnitarioEstimado": 473.62,
+                "valorTotal": 37889.6,
+                "temResultado": true,
+                "codFornecedor": "09035549000196",
+                "nomeFornecedor": "MARCOS E BERTA LTDA",
+                "quantidadeResultado": 80.0,
+                "valorUnitarioResultado": 264.4387,
+                "valorTotalResultado": 21155.096,
+                "dataInclusaoPncp": "2022-07-27T18:06:03",
+                "dataAtualizacaoPncp": "2022-08-15T16:41:45",
+                "dataResultado": "2022-08-15 00:00:00.0000000",
+                "margemPreferenciaNormal": false,
+                "percentualMargemPreferenciaNormal": null,
+                "margemPreferenciaAdicional": false,
+                "percentualMargemPreferenciaAdicional": null,
+                "codigoNCM": null,
+                "descricaoNCM": null,
+                "numeroControlePNCPCompra": "10673078000120-1-000023/2022"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

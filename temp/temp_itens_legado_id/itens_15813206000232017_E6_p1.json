@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813206000232017",
+        "data_extracao": "2026-02-13 11:19:20",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000232017",
+                "idCompraItem": "1581320600023201700001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 23,
+                "dtAnoAvisoLicitacao": 2017,
+                "nuInciso": "02",
+                "nuProcesso": "23347020859201776",
+                "vrEstimado": 4200.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "LUIZ SIMAO STASZCZAK",
+                "noCargoRespDeclDisp": "Ordenador de Despesa",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 47805,
+                "noConjuntoMateriais": "TROFEU",
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "Troféu de participação, em acrilico cristal, impressão a cores, medindo 20x30 cm, espessura 8mm base em acrilico, Medalhas com fita; em acrilico com 65mm, 7 30 unidades. Arte fornecida pelo IFMS.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "unidade",
+                "vrEstimadoItem": 4200.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "Radra",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "11073532000175",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "RADRA INDUSTRIA, COMERCIO, SERVICOS E IMPORTACAO DE ACRILICOS LTDA  - ME",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

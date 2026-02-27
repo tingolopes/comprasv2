@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845006000232017",
+        "data_extracao": "2026-02-13 09:41:33",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 40740547,
+                "numeroLicitacao": "158450062320172",
+                "uasg": 158450,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.CORUMBÁ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 232017,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": 68446,
+                "nomeMaterial": "COADOR CAFÉ, COADOR DE TECIDO PARA CAFE NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "02602747000145",
+                "nomeFornecedor": "DIGISERVI TRADING LTDA - ME",
+                "quantidade": null,
+                "unidade": "UNI",
+                "descricaoItem": "COADOR CAFÉ PARA CAFETEIRA CONSERCAF CIP20",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 143.85,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-05-16T07:00:00",
+                "idCompra": "15845006000232017",
+                "idCompraItem": "1584500600023201700002"
+            },
+            {
+                "isnSidecResultadoCompra": 40740546,
+                "numeroLicitacao": "158450062320171",
+                "uasg": 158450,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.CORUMBÁ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 232017,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 386003,
+                "nomeMaterial": "CAFETEIRA ELÉTRICA, MATERIAL AÇO INOXIDÁVEL  APLICAÇÃO INDUSTRIAL  CAPACIDADE 20 L VOLTAGEM 220 V",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "02602747000145",
+                "nomeFornecedor": "DIGISERVI TRADING LTDA - ME",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1398.64,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-06-10T05:43:00",
+                "idCompra": "15845006000232017",
+                "idCompraItem": "1584500600023201700001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/4.1_consultarItensPregoes_Id?id_compra=15584805000052017",
+        "data_extracao": "2026-02-13 11:41:12",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 155848,
+                    "coItem": 18364862
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "Aquisição de película de controle solar (insulfilm), com instalação.  Película na cor FUMÊ (G5), de alta performance, do tipo profissional , anti-risco, proteção de no mínimo 90% (noventa por cento) contra raios U.V., para aplicação em edifício comercial. Garantia de 12 meses.",
+                "descricaoItem": "PELICULA FILTRO SOLAR",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "26.00",
+                "quantidadeItem": "800",
+                "situacaoItem": "homologado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "METROS QUADRADOS",
+                "valorHomologadoItem": "26.00",
+                "valorEstimadoItem": "49.99",
+                "valorNegociado": null,
+                "idCompra": "15584805000052017",
+                "idCompraItem": "1558480500005201700003",
+                "noAdjudic": "SEDENIR MARCOS DEPARIS",
+                "noHom": "CARLOS VINICIUS DA SILVA FIGUEIREDO",
+                "dtEncerramento": "2017-05-23",
+                "dtAdjudic": "2017-05-23",
+                "dtHom": "2017-05-26",
+                "dtAlteracao": "2024-04-08T11:35:00"
+            },
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 155848,
+                    "coItem": 18364861
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "Aquisição de película de controle solar (insulfilm), com instalação.  Película na cor FUMÊ (G5), de alta performance, do tipo profissional , anti-risco, proteção de no mínimo 90% (noventa por cento) contra raios U.V., para aplicação em edifício comercial. Garantia de 12 meses.",
+                "descricaoItem": "PELICULA FILTRO SOLAR",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "25.89",
+                "quantidadeItem": "407",
+                "situacaoItem": "homologado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "METROS QUADRADOS",
+                "valorHomologadoItem": "25.89",
+                "valorEstimadoItem": "49.99",
+                "valorNegociado": null,
+                "idCompra": "15584805000052017",
+                "idCompraItem": "1558480500005201700002",
+                "noAdjudic": "SEDENIR MARCOS DEPARIS",
+                "noHom": "CARLOS VINICIUS DA SILVA FIGUEIREDO",
+                "dtEncerramento": "2017-05-23",
+                "dtAdjudic": "2017-05-23",
+                "dtHom": "2017-05-26",
+                "dtAlteracao": "2024-04-08T11:35:00"
+            },
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 155848,
+                    "coItem": 18364860
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "Aquisição de película de controle solar (insulfilm), com instalação.  Película na cor FUMÊ (G5), de alta performance, do tipo profissional , anti-risco, proteção de no mínimo 90% (noventa por cento) contra raios U.V., para aplicação em edifício comercial. Garantia de 12 meses.",
+                "descricaoItem": "PELICULA FILTRO SOLAR",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "26.00",
+                "quantidadeItem": "407",
+                "situacaoItem": "homologado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "METROS QUADRADOS",
+                "valorHomologadoItem": "26.00",
+                "valorEstimadoItem": "49.99",
+                "valorNegociado": null,
+                "idCompra": "15584805000052017",
+                "idCompraItem": "1558480500005201700001",
+                "noAdjudic": "SEDENIR MARCOS DEPARIS",
+                "noHom": "CARLOS VINICIUS DA SILVA FIGUEIREDO",
+                "dtEncerramento": "2017-05-23",
+                "dtAdjudic": "2017-05-23",
+                "dtHom": "2017-05-26",
+                "dtAlteracao": "2024-04-08T11:35:00"
+            }
+        ],
+        "totalRegistros": 3,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

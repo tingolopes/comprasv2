@@ -1,0 +1,38 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/3_consultarPregoes?pagina=1&tamanhoPagina=500&co_uasg=158454&dt_data_edital_inicial=2017-01-01&dt_data_edital_final=2017-12-31",
+        "data_extracao": "2026-02-05 18:44:25",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "id_compra": "15845405000012017",
+                "co_processo": "23347008959201724",
+                "co_portaria": "Port 34",
+                "co_uasg": 158454,
+                "no_ausg": "INST.F.ED.,CIENC.E TEC DE MS/C.TRÊS LAGOAS",
+                "co_orgao": 26415,
+                "no_orgao": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "numero": 12017,
+                "ds_situacao_pregao": "deserto",
+                "ds_tipo_pregao": "eletronico",
+                "ds_tipo_pregao_compra": "SISRP",
+                "tx_objeto": "Objeto: Pregão Eletrônico -  Registro de Preços para a contratação de serviços de chaveiro que contemple a cópia de chaves (yale), confecção de chaves (yale), troca de fechaduras com material (yale), troca de segredos de fechaduras com fornecimento de duas cópias (yale), abertura de portas, gavetas, armários, quadros de avisos, cadeados, arquivos e portas de automóveis para atender as demandas do Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul Campus Três Lagoas.",
+                "valorEstimadoTotal": "28368.52",
+                "valorHomologadoTotal": "0.00",
+                "dt_portaria": "2017-03-29T03:00:00.000+00:00",
+                "dt_data_edital": "2017-08-29",
+                "dt_inicio_proposta": "2017-09-15T11:00:00.000+00:00",
+                "dt_fim_proposta": "2017-09-28T13:00:00.000+00:00",
+                "dt_alteracao": "2024-04-08T11:45:00",
+                "dt_encerramento": "2017-09-28",
+                "dt_resultado": null,
+                "pertence14133": false
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845206000122018",
+        "data_extracao": "2026-02-13 11:05:42",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 42872734,
+                "numeroLicitacao": "158452061220182",
+                "uasg": 158452,
+                "nomeUasg": "INST.F.DE ED.,CIENC.E TEC.DO MS/C.N ANDRADINA",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 122018,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": 8907,
+                "nomeMaterial": "TRENA, TRENA DE PRECISAO NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "24405818000152",
+                "nomeFornecedor": "ANDRE LUIS MILANEZ ENGENHEIRO EIRELI",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "Trena em fibra de vidro profissional, 50 metros, corpo em ABS injetado, fita e m fibra de vidro, empunhadura emborrachada, ponta para fixação no solo.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 598.87,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-03-28T06:51:00",
+                "idCompra": "15845206000122018",
+                "idCompraItem": "1584520600012201800002"
+            },
+            {
+                "isnSidecResultadoCompra": 42872733,
+                "numeroLicitacao": "158452061220181",
+                "uasg": 158452,
+                "nomeUasg": "INST.F.DE ED.,CIENC.E TEC.DO MS/C.N ANDRADINA",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 122018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 26131,
+                "nomeMaterial": "BÚSSOLA DE TOPOGRAFIA, BUSSOLA DE TOPOGRAFIA NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "18596838000155",
+                "nomeFornecedor": "MBG COMERCIAL LTDA",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "Bússola com visada com escala e lupa estilo militar, ideal para localizar posi ções em um mapa ou no campo.  2 escalas: graduação no azimute de 0 a  360 grau s em intervalos de 5º graduação em milhas na parte mais externa do disco (0-64 ) Ajuste de declinação.Corpo de alumínio, em cor preta.Resistente a água .  Lente de aumento (lupa) p/ visualização dos graus com mais precisão.  Leitu ra dos graus c/ Escala e Lupa.  Fio de visada Linha Mira e régua. Alça em me tal para dedo e transporte. Tampa protetora da bússola.  Altamente resistente. Tamanho altura 2,5 cm e diâmetro 5 cm . Peso 65 g.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 749.91,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:40:00",
+                "idCompra": "15845206000122018",
+                "idCompraItem": "1584520600012201800001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

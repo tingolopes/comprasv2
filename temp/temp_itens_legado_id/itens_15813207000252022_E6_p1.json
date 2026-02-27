@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813207000252022",
+        "data_extracao": "2026-02-13 11:29:19",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813207000252022",
+                "idCompraItem": "1581320700025202200001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 25,
+                "dtAnoAvisoLicitacao": 2022,
+                "nuInciso": "02",
+                "nuProcesso": "23347008983202221",
+                "vrEstimado": 14900.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": "Objeto: Contratação de empresa para capacitação                              de servidores da DIGEP por meio do Curso \"Prev                             idência dos Servidores Públicos\", na modalidade                              à distância, ao vivo, com carga horária total                              de 20 horas, para participação de até 30 servid                             ores.",
+                "dsFundamentoLegal": "Fundamento Legal: Art. 25º, Inciso II da Lei nº 8.666 de 21º/06/1993.",
+                "dsJustificativa": "Justificativa: Empresa contratada possui notória especialização na área de Previdência Social no Brasil.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "ELAINE BORGES MONTEIRO CASSIANO",
+                "noCargoRespDeclDisp": "Ordenadora de Despesas",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 21172,
+                "noServico": "TREINAMENTO QUALIFICACAO PROFISSIONAL",
+                "dsDetalhada": "Qualificação Profissional no curso  Previdência dos Servidores Públicos  a ser  ministrado para os servidores da DIGEP em setembro de 2022, na modalidade On- line a distância para até 30 servidores.",
+                "qtMaterialAlt": 30,
+                "noUnidadeMedida": "UNIDADE",
+                "vrEstimadoItem": 14900.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "33940486000105",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "ANABELA DE QUINTAL RODRIGUES 03819330836",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

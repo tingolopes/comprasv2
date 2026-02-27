@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845305000042018",
+        "data_extracao": "2026-02-13 11:37:55",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 42327054,
+                "numeroLicitacao": "15845305420181",
+                "uasg": 158453,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MT/C.P.PORÃ",
+                "modalidade": 5,
+                "nomeModalidade": "PREGÃO",
+                "numeroAviso": 42018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 15210,
+                "nomeServico": "CANTINA / BAR / LANCHONETE / REFEICAO RAPIDA / RESTAURANTE",
+                "cnpjFornecedor": "17962701000104",
+                "nomeFornecedor": "MARIANA LOPES VIEIRA",
+                "quantidade": 1,
+                "unidade": "Quilograma",
+                "descricaoItem": "Refeição servida conforme cardápio base constante no anexo VII do termo de ref erencia para 200 refeições (almoços) diários  a serem servidos aos Estudantes, servidores e visitantes do IFMS Campus Ponta Porã. Preço por Quilograma.",
+                "beneficio": "Beneficio Tipo I - Participacao Exclusiva de ME/EPP/COOPERATIVA",
+                "valorEstimado": 13.87,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-09-09T10:17:28",
+                "idCompra": "15845305000042018",
+                "idCompraItem": "1584530500004201800001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

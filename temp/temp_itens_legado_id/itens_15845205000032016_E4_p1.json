@@ -1,0 +1,122 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/4.1_consultarItensPregoes_Id?id_compra=15845205000032016",
+        "data_extracao": "2026-02-13 11:41:28",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158452,
+                    "coItem": 19563498
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "Ceia: café, chá, leite, pão doce ou francês, pão de queijo, bolo simples, chipas, biscoitos salgados ou doces, cereal matinal, margarina, requeijão, queijo, presunto, mortadela e geleia de fruta.",
+                "descricaoItem": "CARDÁPIO",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "41810.00",
+                "quantidadeItem": "7400",
+                "situacaoItem": "cancelado no julgamento",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "serviço",
+                "valorHomologadoItem": null,
+                "valorEstimadoItem": "41958.00",
+                "valorNegociado": null,
+                "idCompra": "15845205000032016",
+                "idCompraItem": "1584520500003201600004",
+                "noAdjudic": null,
+                "noHom": null,
+                "dtEncerramento": "2017-12-21",
+                "dtAdjudic": null,
+                "dtHom": null,
+                "dtAlteracao": "2024-04-08T11:40:00"
+            },
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158452,
+                    "coItem": 19563497
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "Jantar: duas ou mais saladas, prato principal (constituído por alimentos à base de proteínas), guarnição (hortaliças, pirão, macarrão e tortas),  acompanhamentos (arroz e feijão) e um copo de suco   200 ml + uma fruta.",
+                "descricaoItem": "CARDÁPIO",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "108040.00",
+                "quantidadeItem": "7400",
+                "situacaoItem": "cancelado no julgamento",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "serviço",
+                "valorHomologadoItem": null,
+                "valorEstimadoItem": "108558.00",
+                "valorNegociado": null,
+                "idCompra": "15845205000032016",
+                "idCompraItem": "1584520500003201600003",
+                "noAdjudic": null,
+                "noHom": null,
+                "dtEncerramento": "2017-12-21",
+                "dtAdjudic": null,
+                "dtHom": null,
+                "dtAlteracao": "2024-04-08T11:40:00"
+            },
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158452,
+                    "coItem": 19563496
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "Almoço: duas ou mais saladas, prato principal (constituído por alimentos à base de proteínas), guarnição (hortaliças, pirão, macarrão e tortas),  acompanhamentos (arroz e feijão) e um copo de suco   200 ml.",
+                "descricaoItem": "CARDÁPIO",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "108040.00",
+                "quantidadeItem": "7400",
+                "situacaoItem": "cancelado no julgamento",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "serviço",
+                "valorHomologadoItem": null,
+                "valorEstimadoItem": "108558.00",
+                "valorNegociado": null,
+                "idCompra": "15845205000032016",
+                "idCompraItem": "1584520500003201600002",
+                "noAdjudic": null,
+                "noHom": null,
+                "dtEncerramento": "2017-12-21",
+                "dtAdjudic": null,
+                "dtHom": null,
+                "dtAlteracao": "2024-04-08T11:40:00"
+            },
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158452,
+                    "coItem": 19563495
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "Café da manhã: café, chá, leite, pão doce ou francês, pão de queijo, bolo simples, chipas, biscoitos salgados ou doces, cereal matinal, margarina, requeijão, queijo, presunto, mortadela e geleia de fruta.",
+                "descricaoItem": "CARDÁPIO",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "41810.00",
+                "quantidadeItem": "7400",
+                "situacaoItem": "cancelado no julgamento",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "serviço",
+                "valorHomologadoItem": null,
+                "valorEstimadoItem": "41958.00",
+                "valorNegociado": null,
+                "idCompra": "15845205000032016",
+                "idCompraItem": "1584520500003201600001",
+                "noAdjudic": null,
+                "noHom": null,
+                "dtEncerramento": "2017-12-21",
+                "dtAdjudic": null,
+                "dtHom": null,
+                "dtAlteracao": "2024-04-08T11:40:00"
+            }
+        ],
+        "totalRegistros": 4,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845006000342019",
+        "data_extracao": "2026-02-13 09:44:51",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 45610007,
+                "numeroLicitacao": "158450063420191",
+                "uasg": 158450,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.CORUMBÁ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 342019,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 12750,
+                "nomeServico": "MANUTENCAO/ REPARO DE CARRO DE TRANSPORTE DE CARGA / PORTA /PORTA DE FERRO/ GRADE DE FERRO/ COLETOR DE LIXO",
+                "cnpjFornecedor": "00632384000165",
+                "nomeFornecedor": "A.F. DE BULHOES",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Manutenção, reparo de carro de transporte de carga , porta ,porta de ferro, gr ade de ferro, coletor de lixo",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 10000.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:30:00",
+                "idCompra": "15845006000342019",
+                "idCompraItem": "1584500600034201900001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

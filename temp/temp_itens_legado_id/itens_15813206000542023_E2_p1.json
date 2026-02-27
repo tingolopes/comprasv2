@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000542023",
+        "data_extracao": "2026-02-13 11:30:29",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 56534246,
+                "numeroLicitacao": "158132065420231",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 542023,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 20060,
+                "nomeServico": "ELABORACAO / ANALISE PROJETO - ENGENHARIA",
+                "cnpjFornecedor": "13426206000120",
+                "nomeFornecedor": "SOAGRO ENGENHARIA LTDA",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "Projeto e autorização para Supressão Vegetal (67 ha): (I. Levantamento e quant ificação da área para Autorização Ambiental; II. Inventário florestal e levant amentos pertinentes à Autorização; III. Elaboração dos Mapas pertinentes; IV. Elaboração dos Arquivos Shape File; V. ART; VI. Projeto Técnico Ambiental; VII . Termo de Compromisso para Espécies protegidas; VIII. Plano de manejo de Solo e Água e afins; IX. Autorização para Sapeca das leiras e aproveitamento inici al da madeira; X. Impressão e formalização dos pedidos;) Atualização do CAR/MS : (I. Readequação do CAR/MS, seguindo as diretrizes das Resoluções 642/2017, 6 51/2017, 679/2019, 687/2019 e 689/2020, todas do IMASUL; II. Elaboração dos Ma pas e quantificações; III. Elaboração dos Arquivos Shape File; IV. ART; V. Imp ressão do Mapa, CAR e SICAR;",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 18600.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000542023",
+                "idCompraItem": "1581320600054202300001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

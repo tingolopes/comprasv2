@@ -1,0 +1,314 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/4_consultarEmpenhosSaldoItem?numeroAta=00020%2F2023&unidadeGerenciadora=158132&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-27 07:32:58",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroItem": "00001",
+                "unidade": "158132 - INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipo": "GERENCIADORA",
+                "quantidadeRegistrada": 315855.0,
+                "quantidadeEmpenhada": 36378.0,
+                "saldoEmpenho": 279477.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-06-26T11:19:30"
+            },
+            {
+                "numeroItem": "00002",
+                "unidade": "158132 - INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipo": "GERENCIADORA",
+                "quantidadeRegistrada": 60.0,
+                "quantidadeEmpenhada": 31.0,
+                "saldoEmpenho": 29.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-06-26T11:19:30"
+            },
+            {
+                "numeroItem": "00003",
+                "unidade": "158132 - INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipo": "GERENCIADORA",
+                "quantidadeRegistrada": 120.0,
+                "quantidadeEmpenhada": 47.0,
+                "saldoEmpenho": 73.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-06-26T11:19:30"
+            },
+            {
+                "numeroItem": "00004",
+                "unidade": "158132 - INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipo": "GERENCIADORA",
+                "quantidadeRegistrada": 60.0,
+                "quantidadeEmpenhada": 3.0,
+                "saldoEmpenho": 57.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-06-26T11:19:31"
+            },
+            {
+                "numeroItem": "00005",
+                "unidade": "158132 - INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipo": "GERENCIADORA",
+                "quantidadeRegistrada": 20.0,
+                "quantidadeEmpenhada": 1.0,
+                "saldoEmpenho": 19.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-06-26T11:19:31"
+            },
+            {
+                "numeroItem": "00006",
+                "unidade": "158132 - INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipo": "GERENCIADORA",
+                "quantidadeRegistrada": 20.0,
+                "quantidadeEmpenhada": 1.0,
+                "saldoEmpenho": 19.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-06-26T11:19:31"
+            },
+            {
+                "numeroItem": "00007",
+                "unidade": "158132 - INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipo": "GERENCIADORA",
+                "quantidadeRegistrada": 20.0,
+                "quantidadeEmpenhada": 1.0,
+                "saldoEmpenho": 19.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-06-26T11:19:31"
+            },
+            {
+                "numeroItem": "00008",
+                "unidade": "158132 - INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipo": "GERENCIADORA",
+                "quantidadeRegistrada": 210000.0,
+                "quantidadeEmpenhada": 35000.0,
+                "saldoEmpenho": 175000.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-06-26T11:19:32"
+            },
+            {
+                "numeroItem": "00009",
+                "unidade": "158132 - INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipo": "GERENCIADORA",
+                "quantidadeRegistrada": 306484.0,
+                "quantidadeEmpenhada": 32605.0,
+                "saldoEmpenho": 273879.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-06-26T11:19:32"
+            },
+            {
+                "numeroItem": "00011",
+                "unidade": "158132 - INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipo": "GERENCIADORA",
+                "quantidadeRegistrada": 625998.0,
+                "quantidadeEmpenhada": 45482.6,
+                "saldoEmpenho": 580515.4,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00012",
+                "unidade": "158132 - INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipo": "GERENCIADORA",
+                "quantidadeRegistrada": 10.0,
+                "quantidadeEmpenhada": 1.0,
+                "saldoEmpenho": 9.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00013",
+                "unidade": "158132 - INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipo": "GERENCIADORA",
+                "quantidadeRegistrada": 10.0,
+                "quantidadeEmpenhada": 1.0,
+                "saldoEmpenho": 9.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00014",
+                "unidade": "158132 - INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipo": "GERENCIADORA",
+                "quantidadeRegistrada": 10.0,
+                "quantidadeEmpenhada": 1.0,
+                "saldoEmpenho": 9.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00015",
+                "unidade": "158132 - INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipo": "GERENCIADORA",
+                "quantidadeRegistrada": 200.0,
+                "quantidadeEmpenhada": 1.0,
+                "saldoEmpenho": 199.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00016",
+                "unidade": "158132 - INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipo": "GERENCIADORA",
+                "quantidadeRegistrada": 200.0,
+                "quantidadeEmpenhada": 1.0,
+                "saldoEmpenho": 199.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00017",
+                "unidade": "158132 - INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipo": "GERENCIADORA",
+                "quantidadeRegistrada": 100.0,
+                "quantidadeEmpenhada": 1.0,
+                "saldoEmpenho": 99.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-11-20T04:41:00"
+            },
+            {
+                "numeroItem": "00018",
+                "unidade": "158132 - INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipo": "GERENCIADORA",
+                "quantidadeRegistrada": 314000.0,
+                "quantidadeEmpenhada": 67000.0,
+                "saldoEmpenho": 247000.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-06-26T11:19:40"
+            },
+            {
+                "numeroItem": "00019",
+                "unidade": "158132 - INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipo": "GERENCIADORA",
+                "quantidadeRegistrada": 30.0,
+                "quantidadeEmpenhada": 10.0,
+                "saldoEmpenho": 20.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-06-26T11:19:33"
+            },
+            {
+                "numeroItem": "00020",
+                "unidade": "158132 - INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipo": "GERENCIADORA",
+                "quantidadeRegistrada": 30.0,
+                "quantidadeEmpenhada": 10.0,
+                "saldoEmpenho": 20.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-06-26T11:19:34"
+            },
+            {
+                "numeroItem": "00021",
+                "unidade": "158132 - INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipo": "GERENCIADORA",
+                "quantidadeRegistrada": 10.0,
+                "quantidadeEmpenhada": 1.0,
+                "saldoEmpenho": 9.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-06-26T11:19:34"
+            },
+            {
+                "numeroItem": "00022",
+                "unidade": "158132 - INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipo": "GERENCIADORA",
+                "quantidadeRegistrada": 10.0,
+                "quantidadeEmpenhada": 1.0,
+                "saldoEmpenho": 9.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-06-26T11:19:34"
+            },
+            {
+                "numeroItem": "00023",
+                "unidade": "158132 - INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipo": "GERENCIADORA",
+                "quantidadeRegistrada": 10.0,
+                "quantidadeEmpenhada": 1.0,
+                "saldoEmpenho": 9.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-06-26T11:19:34"
+            },
+            {
+                "numeroItem": "00024",
+                "unidade": "158132 - INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipo": "GERENCIADORA",
+                "quantidadeRegistrada": 10.0,
+                "quantidadeEmpenhada": 1.0,
+                "saldoEmpenho": 9.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-06-26T11:19:35"
+            },
+            {
+                "numeroItem": "00025",
+                "unidade": "158132 - INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipo": "GERENCIADORA",
+                "quantidadeRegistrada": 240000.0,
+                "quantidadeEmpenhada": 30000.0,
+                "saldoEmpenho": 210000.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-06-26T11:19:35"
+            },
+            {
+                "numeroItem": "00026",
+                "unidade": "158132 - INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipo": "GERENCIADORA",
+                "quantidadeRegistrada": 20.0,
+                "quantidadeEmpenhada": 2.0,
+                "saldoEmpenho": 18.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-06-26T11:19:35"
+            },
+            {
+                "numeroItem": "00027",
+                "unidade": "158132 - INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipo": "GERENCIADORA",
+                "quantidadeRegistrada": 144800.0,
+                "quantidadeEmpenhada": 5000.0,
+                "saldoEmpenho": 139800.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-06-26T11:19:36"
+            },
+            {
+                "numeroItem": "00034",
+                "unidade": "158132 - INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipo": "GERENCIADORA",
+                "quantidadeRegistrada": 110000.0,
+                "quantidadeEmpenhada": 18333.0,
+                "saldoEmpenho": 91667.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-06-26T11:19:37"
+            },
+            {
+                "numeroItem": "00035",
+                "unidade": "158132 - INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipo": "GERENCIADORA",
+                "quantidadeRegistrada": 200.0,
+                "quantidadeEmpenhada": 45.0,
+                "saldoEmpenho": 155.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-06-26T11:19:38"
+            },
+            {
+                "numeroItem": "00036",
+                "unidade": "158132 - INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipo": "GERENCIADORA",
+                "quantidadeRegistrada": 120.0,
+                "quantidadeEmpenhada": 12.0,
+                "saldoEmpenho": 108.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-06-26T11:19:38"
+            },
+            {
+                "numeroItem": "00037",
+                "unidade": "158132 - INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipo": "GERENCIADORA",
+                "quantidadeRegistrada": 20.0,
+                "quantidadeEmpenhada": 1.0,
+                "saldoEmpenho": 19.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-06-26T11:19:38"
+            }
+        ],
+        "totalRegistros": 30,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

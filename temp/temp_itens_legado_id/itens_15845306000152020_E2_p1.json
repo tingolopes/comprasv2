@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845306000152020",
+        "data_extracao": "2026-02-13 11:16:34",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 47275278,
+                "numeroLicitacao": "158453061520201",
+                "uasg": 158453,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MT/C.P.PORÃ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 152020,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 876,
+                "nomeServico": "PERICIA, LAUDO E AVALIACAO",
+                "cnpjFornecedor": "18275274000159",
+                "nomeFornecedor": "M.S. EXTINTORES E EQUIPAMENTOS DE SEGURANCA LTDA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Laudo e avaliação Elaboração do laudo elétrico, RRT (registro de responsabilid ade técnica, honorário mais elaboração de pedido de alvará, para fins de renov ação do Certificado de Vistoria do Instituto Federal de Educação, Ciência e Te cnologia de Mato Grosso do SulCampus Ponta Porã/MS .",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1800.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2025-03-12T14:15:01",
+                "idCompra": "15845306000152020",
+                "idCompraItem": "1584530600015202000001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

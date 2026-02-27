@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15584906000132018",
+        "data_extracao": "2026-02-13 11:09:50",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15584906000132018",
+                "idCompraItem": "1558490600013201800001",
+                "coUasg": 155849,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 13,
+                "dtAnoAvisoLicitacao": 2018,
+                "nuInciso": "02",
+                "nuProcesso": "23347010112201891",
+                "vrEstimado": 800.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Valor abaixo do limite legal, não justifica os custos com licitação, não há outros materiais semelhantes a ser adquiridos",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "PAULA RENATA CAMESCHI DE SOUZA",
+                "noCargoRespDeclDisp": "Coordenadora de Materiais",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 29815,
+                "noConjuntoMateriais": "EQUIPAMENTO DE BASQUETEBOL",
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "Placa de vidro temperado, retangular, incolor, espessura 10 mm, medidas 1.035 x 1.795 mm, com recorte na parte central inferior medindo 190 x 220 mm, aplica ção em tabela de basquetebol.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "unidade",
+                "vrEstimadoItem": 800.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "SEM MARCA",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "70361951000171",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "VALDECIR BIDOIA ZANCANARO",
+                "dtAlteracao": "2024-04-08T11:38:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

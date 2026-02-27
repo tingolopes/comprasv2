@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00010%2F2024&unidadeGerenciadora=158132&numeroItem=00042&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:11:57",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00010/2024",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00042",
+                "codigoPdm": null,
+                "descricaoItem": "Prestação de Serviços de Motorista, Diária no país, Nova Andradina.",
+                "fornecedor": "08720790000191 - POLO ADMINISTRACAO LTDA",
+                "quantidadeRegistrada": 0.0,
+                "saldoAdesoes": 192.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 192.0,
+                "qtdLimiteInformadoCompra": 192.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2024-03-15T16:07:33",
+                "dataHoraAtualizacao": "2024-03-15T16:07:34",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            },
+            {
+                "numeroAta": "00010/2024",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00042",
+                "codigoPdm": null,
+                "descricaoItem": "Prestação de Serviços de Motorista, Diária no país, Nova Andradina.",
+                "fornecedor": "08720790000191 - POLO ADMINISTRACAO LTDA",
+                "quantidadeRegistrada": 96.0,
+                "saldoAdesoes": 192.0,
+                "saldoRemanejamentoEmpenho": 32.0,
+                "qtdLimiteAdesao": 192.0,
+                "qtdLimiteInformadoCompra": 192.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2024-03-15T16:08:34",
+                "dataHoraAtualizacao": "2024-03-18T17:26:13",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158452",
+                "nomeUnidade": "INST. FED. DO MS/CAMPUS NOVA ANDRADINA",
+                "tipoUnidade": "PARTICIPANTE"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

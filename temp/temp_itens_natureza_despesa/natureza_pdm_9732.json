@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-material/5_consultarMaterialNaturezaDespesa?pagina=1&codigoPdm=9732",
+        "data_extracao": "2026-02-26 15:06:18",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "codigoPdm": 9732,
+                "codigoNaturezaDespesa": "33903030",
+                "nomeNaturezaDespesa": "MATERIAL DE CONSUMO - MATERIAL PARA COMUNICACOES",
+                "statusNaturezaDespesa": true
+            },
+            {
+                "codigoPdm": 9732,
+                "codigoNaturezaDespesa": "44905233",
+                "nomeNaturezaDespesa": "EQUIPAMENTOS E MATERIAL PERMANENTE - EQUIPAMENTOS PARA AUDIO, VIDEO E FOTO",
+                "statusNaturezaDespesa": true
+            }
+        ]
+    }
+}

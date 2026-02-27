@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845006000312016",
+        "data_extracao": "2026-02-13 09:41:24",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 39261343,
+                "numeroLicitacao": "158450063120162",
+                "uasg": 158450,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.CORUMBÁ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 312016,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": 297315,
+                "nomeMaterial": "VENTILADOR, TIPO PAREDE  POTÊNCIA MOTOR 200 W TENSÃO ALIMENTAÇÃO 220 V CARACTERÍSTICAS ADICIONAIS GRADE REMOVÍVEL/CONTROLE GRADUAL DE VELOCIDADE  TIPO HÉLICE 03 PÁS  DIÂMETRO 60 CM COR BRANCA/PRETA  ROTAÇÃO 1350 RPM",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "86896529000150",
+                "nomeFornecedor": "PALMEIRA & DARMANCEFF LTDA - ME",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 260.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:30:00",
+                "idCompra": "15845006000312016",
+                "idCompraItem": "1584500600031201600002"
+            },
+            {
+                "isnSidecResultadoCompra": 39261342,
+                "numeroLicitacao": "158450063120161",
+                "uasg": 158450,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.CORUMBÁ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 312016,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 296766,
+                "nomeMaterial": "ARQUIVO ESCRITÓRIO, MATERIAL AÇO  QUANTIDADE GAVETAS 4 UN TIPO FECHAMENTO GAVETAS COM FECHADURA  CARACTERÍSTICAS ADICIONAIS CORREDIÇAS GAVETAS COMUM, SUPORTES P/PASTAS SUSPEN",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "12706257000142",
+                "nomeFornecedor": "STS COMERCIO VAREJISTA LTDA - EPP",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 593.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:30:00",
+                "idCompra": "15845006000312016",
+                "idCompraItem": "1584500600031201600001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

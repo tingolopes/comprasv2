@@ -1,0 +1,41 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/4.1_consultarItensPregoes_Id?id_compra=15584805000092017",
+        "data_extracao": "2026-02-13 11:41:14",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 155848,
+                    "coItem": 18819027
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "Plataforma Cabinada de 02 para-das e acesso único. Especificações Mínimas:  Plataforma elevadora   PNE   acionamento hidráulico; A plataforma deve atender as normas da NBR 13994 e NBR 9050. Capacidade de carga: mínimo 350 kg. Número de paradas: 02 (duas); Velocidade da plataforma: 15 m/min (10cm/s) ou 7,5m/min (12,5cm/s). Percurso estimado: 6,00m; Alimentação/ Frequência: 220V / 60Hz Trifasico. Potência mínima: motor de 2,5 HP. Entrada e saída unilateral. Cabine enclausurada, com as se-guintes dimensões: Largura: 1.200cm - Comprimento: 400cm. Botão de chamada/envio acionado por pressão constante, com alarme, chave liga/desliga e Braille; Acionamento: Hidráulico. Piso antiderrapante.Máquina da Torre: fabricada em chapa de aço. Armação básica: fabricada com tubulação estrutural. Torre da plataforma: Confeccionada em chapa de aço laminada à frio de 1,9mm. Cobertura da torre: Em chapa de aço laminada a quente. Painéis laterais de segurança: Painéis confeccionados em chapa de aço e estrutura de aço tubular de 25mm x 51mm x 11mm. Painel Frontal: Fabricado em chapa de aço. Carro da plataforma: Fabricado em chapa de aço com superfície resistente a deslizamento.",
+                "descricaoItem": "ELEVADOR PASSAGEIRO",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "57500.00",
+                "quantidadeItem": "2",
+                "situacaoItem": "homologado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "UN",
+                "valorHomologadoItem": "57500.00",
+                "valorEstimadoItem": "69800.00",
+                "valorNegociado": null,
+                "idCompra": "15584805000092017",
+                "idCompraItem": "1558480500009201700001",
+                "noAdjudic": null,
+                "noHom": "CARLOS VINICIUS DA SILVA FIGUEIREDO",
+                "dtEncerramento": "2017-08-17",
+                "dtAdjudic": null,
+                "dtHom": "2017-09-08",
+                "dtAlteracao": "2024-04-08T11:35:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

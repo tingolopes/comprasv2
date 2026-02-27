@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15844806000242018",
+        "data_extracao": "2026-02-13 09:39:47",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15844806000242018",
+                "idCompraItem": "1584480600024201800001",
+                "coUasg": 158448,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 24,
+                "dtAnoAvisoLicitacao": 2018,
+                "nuInciso": "02",
+                "nuProcesso": "23347018084201850",
+                "vrEstimado": 12100.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Urgência em proporcionar qualidade no ambiente de aulas práticas no galpão de edificações.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "HILDA RIBEIRO ROMERO",
+                "noCargoRespDeclDisp": "Ordenadora de Despesas",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 150691,
+                "noConjuntoMateriais": null,
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "Climatizador / Umidificador  Vazão de ar: 55.000 m³/h (ou maior);  Motor: 3cv;   Consumo: 2,4 kWh (ou menor);  OBS.: - é necessário que empresa faça uma vist oria prévia no local antes da execução dos serviços.  - todos os itens deverão  ser fornecidas e instalados pela contratada.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "UNIDADE",
+                "vrEstimadoItem": 12100.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "s/m",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "05351665000163",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "ECOCLIMAS COMERCIO DE CLIMATIZADORES EIRELI",
+                "dtAlteracao": "2024-04-08T11:20:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

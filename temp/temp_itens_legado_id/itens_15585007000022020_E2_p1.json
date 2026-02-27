@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15585007000022020",
+        "data_extracao": "2026-02-13 11:03:17",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 46846301,
+                "numeroLicitacao": "15585007220201",
+                "uasg": 155850,
+                "nomeUasg": "INSTITUTO FEDERAL DE MS/CAMPUS JARDIM",
+                "modalidade": 7,
+                "nomeModalidade": "INEXIGIBILIDADE DE LICITAÇÃO",
+                "numeroAviso": 22020,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 18821,
+                "nomeServico": "TREINAMENTO / CAPACITACAO - SEGURANCA INDUSTRIAL",
+                "cnpjFornecedor": "10498974000109",
+                "nomeFornecedor": "INSTITUTO NEGOCIOS PUBLICOS DO BRASIL - ESTUDOS E PESQUISAS NA ADMNIISTRACAO PUB",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Contratação de inscrições para participação do Seminário Nacional de Obras Púb licas e Manutenção Predial a ser realizado do dia 22 a 24 de julho pela empres a Instituto Negócios Públicos.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 15300.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:36:00",
+                "idCompra": "15585007000022020",
+                "idCompraItem": "1558500700002202000001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

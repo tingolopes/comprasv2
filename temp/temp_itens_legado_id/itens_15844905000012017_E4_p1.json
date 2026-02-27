@@ -1,0 +1,149 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/4.1_consultarItensPregoes_Id?id_compra=15844905000012017",
+        "data_extracao": "2026-02-13 11:40:23",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158449,
+                    "coItem": 18310092
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "Recolhimento, transporte e descarte de entulhos e a desova em aterro licenciado. Tudo conforme item 2.5 deste Anexo e demais especificações deste Edital.   Quantidade estimada de detritos: 500 m3",
+                "descricaoItem": "Incineração / Aterramento - Resíduos Industriais / Lixo Especial",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "22.80",
+                "quantidadeItem": "500",
+                "situacaoItem": "homologado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "Metro Cúbico",
+                "valorHomologadoItem": "22.80",
+                "valorEstimadoItem": "31.08",
+                "valorNegociado": null,
+                "idCompra": "15844905000012017",
+                "idCompraItem": "1584490500001201700005",
+                "noAdjudic": "CARLOS GRACINDO PEREIRA LANDIVAR",
+                "noHom": "ROSANE DE BRITO FERNANDEZ GARCIA",
+                "dtEncerramento": "2017-03-29",
+                "dtAdjudic": "2017-03-29",
+                "dtHom": "2017-03-30",
+                "dtAlteracao": "2024-04-08T11:27:00"
+            },
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158449,
+                    "coItem": 18310091
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "Fornecimento e plantio de grama tipo esmeralda em placas, incluindo os serviços e cuidados necessários. Tudo conforme item 2.4 deste Anexo e demais  especificações deste Edital.   Área a ser plantada: 10.000 m2",
+                "descricaoItem": "Prestação de Serviço de Jardinagem - Gramados - Outras Necessidades - Outra Produtividade",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "11.99",
+                "quantidadeItem": "10000",
+                "situacaoItem": "homologado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "Metro quadrado",
+                "valorHomologadoItem": "11.99",
+                "valorEstimadoItem": "14.16",
+                "valorNegociado": null,
+                "idCompra": "15844905000012017",
+                "idCompraItem": "1584490500001201700004",
+                "noAdjudic": "CARLOS GRACINDO PEREIRA LANDIVAR",
+                "noHom": "ROSANE DE BRITO FERNANDEZ GARCIA",
+                "dtEncerramento": "2017-03-29",
+                "dtAdjudic": "2017-03-29",
+                "dtHom": "2017-03-30",
+                "dtAlteracao": "2024-04-08T11:27:00"
+            },
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158449,
+                    "coItem": 18310090
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "Manutenção preventiva e corretiva das cercas compostas por mourões de concreto e alambrado. Tudo conforme subitem 2.3 deste Anexo e demais especificações contidas no Edital.  Metragem: 1.066 metros",
+                "descricaoItem": "Instalação Cerca / Alambrado / Tela",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "9.59",
+                "quantidadeItem": "1066",
+                "situacaoItem": "homologado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "Metro",
+                "valorHomologadoItem": "9.59",
+                "valorEstimadoItem": "28.26",
+                "valorNegociado": null,
+                "idCompra": "15844905000012017",
+                "idCompraItem": "1584490500001201700003",
+                "noAdjudic": "CARLOS GRACINDO PEREIRA LANDIVAR",
+                "noHom": "ROSANE DE BRITO FERNANDEZ GARCIA",
+                "dtEncerramento": "2017-03-29",
+                "dtAdjudic": "2017-03-29",
+                "dtHom": "2017-03-30",
+                "dtAlteracao": "2024-04-08T11:27:00"
+            },
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158449,
+                    "coItem": 18310089
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "Serviço de execução de aceiro no terreno do IFMS Campus Campo. Tudo conforme item 2.2 deste  Anexo e demais especificações e deste Edital.   Área total: 2.191 m2",
+                "descricaoItem": "Roçada / Limpeza de Área - Mecanizada / Manual",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "2.19",
+                "quantidadeItem": "2191",
+                "situacaoItem": "homologado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "Metro quadrado",
+                "valorHomologadoItem": "2.19",
+                "valorEstimadoItem": "3.27",
+                "valorNegociado": null,
+                "idCompra": "15844905000012017",
+                "idCompraItem": "1584490500001201700002",
+                "noAdjudic": "CARLOS GRACINDO PEREIRA LANDIVAR",
+                "noHom": "ROSANE DE BRITO FERNANDEZ GARCIA",
+                "dtEncerramento": "2017-03-29",
+                "dtAdjudic": "2017-03-29",
+                "dtHom": "2017-03-30",
+                "dtAlteracao": "2024-04-08T11:27:00"
+            },
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158449,
+                    "coItem": 18310088
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "Serviço de roçagem, capina e gradagem do terreno do IFMS Campus Campo Grande do IFMS. Tudo conforme item 2.1 deste Anexo e demais especificações e anexos deste Edital.                         Área total: 41.144 m2",
+                "descricaoItem": "Roçada / Limpeza de Área - Mecanizada / Manual",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "0.35",
+                "quantidadeItem": "123432",
+                "situacaoItem": "homologado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "Metro quadrado",
+                "valorHomologadoItem": "0.35",
+                "valorEstimadoItem": "0.84",
+                "valorNegociado": null,
+                "idCompra": "15844905000012017",
+                "idCompraItem": "1584490500001201700001",
+                "noAdjudic": "CARLOS GRACINDO PEREIRA LANDIVAR",
+                "noHom": "ROSANE DE BRITO FERNANDEZ GARCIA",
+                "dtEncerramento": "2017-03-29",
+                "dtAdjudic": "2017-03-29",
+                "dtHom": "2017-03-30",
+                "dtAlteracao": "2024-04-08T11:27:00"
+            }
+        ],
+        "totalRegistros": 5,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00068%2F2025&unidadeGerenciadora=158132&numeroItem=00049&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:57:03",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00068/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00049",
+                "codigoPdm": "12485",
+                "descricaoItem": "TALABARTE DE BANDEIRA, MODELO COM PONTEIRA NIQUELADA., MATERIAL TERGAL VERGÃO, ALTURA 13,50 CM, FORRAÇÃO VELUDO AMARELO, CARACTERÍSTICAS ADICIONAIS CONFORME MODELO DO ÓRGÃO",
+                "fornecedor": "18047657000170 - ALESSANDRA B. TONIETTI INSTRUMENTOS MUSICAIS",
+                "quantidadeRegistrada": 0.0,
+                "saldoAdesoes": 48.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 48.0,
+                "qtdLimiteInformadoCompra": 48.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2025-08-14T11:57:52",
+                "dataHoraAtualizacao": "2025-08-15T09:23:54",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            },
+            {
+                "numeroAta": "00068/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00049",
+                "codigoPdm": "12485",
+                "descricaoItem": "TALABARTE DE BANDEIRA, MODELO COM PONTEIRA NIQUELADA., MATERIAL TERGAL VERGÃO, ALTURA 13,50 CM, FORRAÇÃO VELUDO AMARELO, CARACTERÍSTICAS ADICIONAIS CONFORME MODELO DO ÓRGÃO",
+                "fornecedor": "18047657000170 - ALESSANDRA B. TONIETTI INSTRUMENTOS MUSICAIS",
+                "quantidadeRegistrada": 24.0,
+                "saldoAdesoes": 48.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 48.0,
+                "qtdLimiteInformadoCompra": 48.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2025-08-14T11:59:26",
+                "dataHoraAtualizacao": "2025-09-25T20:41:26",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158453",
+                "nomeUnidade": "INST. FED. DO MS/CAMPUS PONTA PORA",
+                "tipoUnidade": "PARTICIPANTE"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

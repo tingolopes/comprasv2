@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000152023",
+        "data_extracao": "2026-02-13 11:29:34",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 55213311,
+                "numeroLicitacao": "158132061520232",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 152023,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 17019,
+                "nomeServico": "DECORACAO - EVENTOS / SOLENIDADES",
+                "cnpjFornecedor": "48704185000141",
+                "nomeFornecedor": "ELNATA DOS SANTOS GEDRO 05578023185",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "DECORAÇÃO DE ESTANDE NA SHOWTEC 2023.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 13820.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000152023",
+                "idCompraItem": "1581320600015202300002"
+            },
+            {
+                "isnSidecResultadoCompra": 55213310,
+                "numeroLicitacao": "158132061520231",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 152023,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 21164,
+                "nomeServico": "LOCACAO COBERTURA DESMONTAVEL",
+                "cnpjFornecedor": "11523714000109",
+                "nomeFornecedor": "SO FESTAS LOCACAO DE TENDAS LTDA",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "LOCAÇÃO/ MONTANGEM/ DESMONTAGEM DE ESTANDE NA SHOWTEC 2023",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 6600.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2025-03-07T16:17:52",
+                "idCompra": "15813206000152023",
+                "idCompraItem": "1581320600015202300001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

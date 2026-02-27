@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845206000212018",
+        "data_extracao": "2026-02-13 11:05:59",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845206000212018",
+                "idCompraItem": "1584520600021201800001",
+                "coUasg": 158452,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 21,
+                "dtAnoAvisoLicitacao": 2018,
+                "nuInciso": "02",
+                "nuProcesso": "23347.017549.2018",
+                "vrEstimado": 641.7,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Aquisição de produtos e/ou serviços com valor inferior a R$ 17.600,00",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "CLAUDIO ZARATE SANAVRIA",
+                "noCargoRespDeclDisp": "Diretor Geral",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 68330,
+                "noConjuntoMateriais": "BIBLIOCANTO",
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "BIBLIOCANTO  EM  AÇO.  MATERIAL:  CHAPA  DE  AÇO  DE  BAIXO TEOR  DE  CARBONO   COM  ESPESSURA  MÍNIMA  DE  0,90  MM. COR:  CINZA.  ACABAMENTO:  PINTURA  ELE TROSTÁTICA  A  PÓ, SOL  DAS  DEVEM  POSSUIR  SUPERFÍCIE  LISA  E  HOMOGÊNEA, N ÃO     DEVENDO     APRESENTAR     PONTOS     CORTANTES, SUPERFÍCIES ÁSPERAS OU  ESCÓRIAS, ELIMINAR RESPINGOS E  VOLUMES  DE  SOL  DA,  REBARBAS,  ESMERILHAR   JUNTAS  E ARREDONDAR  QUINAS  AGUDAS,  TRATAMENTO  QUÍMICO  DA CHAPA  (ANTI-F ERRUGINOSO  E  FOSFOTIZANTE).  DIMENSÕES MÍNIMAS: ALT. 17 CM X L ARG. 10 CM X  PROF. 10 CM. DEMAIS CARACTERÍSTICAS: DOBRADO EM FORMA DE L.",
+                "qtMaterialAlt": 40,
+                "noUnidadeMedida": "UN",
+                "vrEstimadoItem": 641.7,
+                "dsFabricante": null,
+                "noMarcaMaterial": "Vegel",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "16765103000182",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "THAISA FREITAS CANHESTRO 08002101669",
+                "dtAlteracao": "2024-04-08T11:40:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

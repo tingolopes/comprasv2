@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845306000162020",
+        "data_extracao": "2026-02-13 11:16:23",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 47499522,
+                "numeroLicitacao": "158453061620201",
+                "uasg": 158453,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MT/C.P.PORÃ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 162020,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 1538,
+                "nomeServico": "INSTALACOES PREDIAIS ELETRICAS",
+                "cnpjFornecedor": "12282201000108",
+                "nomeFornecedor": "J S AR CONDICIONADO EIRELI",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Serviço de instalação elétrica para aparelhos de ar condicionados de 60.000BTU s. Com o  fornecimento dos seguintes materiais: 110 metros de tubo 2 ; 20 cond uletes de 2 ; 40 unidade de 2 ;  5 curva de 2 ; 70 abraçadeira tipo 2 ; 110 pa rafusos 8; 110 bucha 8; 16,5 metros de cabo 70mm  preto; 5 metros de cabo 50mm verde; 15 rolos de cabo de 6mm preto; 2 rolos de cabo de 6mm  verde; 2 rolo d e cabo de 2,5mm; 6 terminal de pressão 70 mm; 2 terminal de pressão 50 mm; 50 terminal de 6mm pino; 10 disjuntores de 25 amperes trifásico; 1 disjuntor de 150 amperes trifásico; 1 quadro de distribuição; 6 fitas isolantes p44; 3 Spli t Bolt de 70mm e 1 Split Bolt de 50mm. Com  interligação a rede elétrica do IF MS.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 26734.05,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:41:00",
+                "idCompra": "15845306000162020",
+                "idCompraItem": "1584530600016202000001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

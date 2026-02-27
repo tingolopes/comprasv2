@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845206000152017",
+        "data_extracao": "2026-02-13 11:05:08",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 40970005,
+                "numeroLicitacao": "158452061520171",
+                "uasg": 158452,
+                "nomeUasg": "INST.F.DE ED.,CIENC.E TEC.DO MS/C.N ANDRADINA",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 152017,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 19143,
+                "nomeServico": "ANALISE FISICO - QUIMICA AGUA",
+                "cnpjFornecedor": "02814708000101",
+                "nomeFornecedor": "TONINHO POCOS ARTESIANOS LTDA - EPP",
+                "quantidade": null,
+                "unidade": "serviço",
+                "descricaoItem": "Análise físico-químicas e bacteriológicas; laudo com as interpretações dos res ultados de acordo com os padrões de potabilidade estabelecidos pela Portaria 2 .914/2011 do Ministério de saúde, (alterações/substitui), bem como a resolução CONOMA 396/2008, firmada por laboratório idôneo creditado pela INMETRO, mínim o dos seguintes parâmetros: temperatura da água, pH, S´lidos totais dissolvido s, Turbidez, cor, dureza total, alcalinidade total, nitrato ( NO3) nitrito, fl uoreto, sulfato, cloro rresidual livre, cloraminas, dióxido de cloro, sódio, c loreto, ferro total, condutividade elétrica, coliformes termotolerante, colifo rmes totais e E. Coli. Obs: poderão ser solicitados outros parãmetros dependen do do ponto de captação e finalidade de uso. A análise deverá ser realizada no prazo máximo de 3 (três) meses do requerimento de outorga. Parâmetros específ icos para empreendimentos que possuam em suas instalações, depósitos de armaze namentos de substãncias do grupo BTEX (gasolina) ou oficinas de manutenção de equipamentos com uso de  substãncias:benzeno,tolueno,etilbenzeno e xileno e in stalações e depósitos de armazeno ou oficinas de manutenção de equipamentos no óleo diesel: benzeno (a) pireno.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1100.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:40:00",
+                "idCompra": "15845206000152017",
+                "idCompraItem": "1584520600015201700001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

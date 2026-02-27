@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813299000102022",
+        "data_extracao": "2026-02-13 11:38:57",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 53905371,
+                "numeroLicitacao": "158132991020221",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 99,
+                "nomeModalidade": "RDC",
+                "numeroAviso": 102022,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 5622,
+                "nomeServico": "OBRAS CIVIS PUBLICAS ( CONSTRUCAO )",
+                "cnpjFornecedor": "13777340000175",
+                "nomeFornecedor": "RENOVA CONSTRUCOES E PAISAGISMO LTDA ME",
+                "quantidade": 1,
+                "unidade": "UNIDADE",
+                "descricaoItem": "Obras Civis Públicas Execução de Obra de engenharia para contratação de empr esa especializada para execução de passarelas cobertas de acesso aos blocos e elaboração do projeto executivo, com área de aproximadamente 207,40m ², Campus Corumbá do Instituto Federal de Mato Grosso do Sul",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 156977.83,
+                "decreto7174": "false",
+                "criterioJulgamento": "Maior Desconto",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813299000102022",
+                "idCompraItem": "1581329900010202200001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

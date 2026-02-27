@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15844906000212018",
+        "data_extracao": "2026-02-13 09:47:39",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 42484980,
+                "numeroLicitacao": "158449062120181",
+                "uasg": 158449,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.C.GRANDE",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 212018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 2356,
+                "nomeMaterial": "CANTONEIRA METAL FERROSO, CANTONEIRA DE ACO NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "24608192000181",
+                "nomeFornecedor": "PAFEMAQ PARAFUSOS FERRAMENTAS E MÁQUINAS LTDA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "SUPORTE EM l PARA TRILHO 04X04 CM (APLICAÇÃO: REFORÇO NA FIXAÇÃO DE JANELAS DO S BLOCOS ADMINISTRATIVO E PEDAGÓGICOS DO IFMS CAMPUS CAMPO GRANDE)",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 390.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:27:00",
+                "idCompra": "15844906000212018",
+                "idCompraItem": "1584490600021201800001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

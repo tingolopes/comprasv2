@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845006000322019",
+        "data_extracao": "2026-02-13 09:44:23",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845006000322019",
+                "idCompraItem": "1584500600032201900001",
+                "coUasg": 158450,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 32,
+                "dtAnoAvisoLicitacao": 2019,
+                "nuInciso": "12",
+                "nuProcesso": "23347014621201973",
+                "vrEstimado": 639.54,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 14 da Lei nº 11.947 de 16/06/2009.",
+                "dsJustificativa": "Justificativa: Devido ao baixo valor, e para atendimento da lei 11.947/09.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "LAURA DE SOUZA FERNANDES RAMOS",
+                "noCargoRespDeclDisp": "Gestora Financeira",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 96563,
+                "noConjuntoMateriais": "ABOBORA IN - NATURA",
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "ABÓBORA, cabotiã, de 1ª qualidade, in natura, tamanho e coloração uniforme, po lpa firme, livre de sujidades, parasitas, larvas, resíduo de fertilizante. Dev erá estar em perfeito estado para consumo, madura, sem defeitos graves como po dridão, amassado, murcho, deformado, descolorado, queimado de sol, com manchas , rachaduras, injúrias por pragas ou doenças. Embalada em sacos de polietileno , transparentes, atóxico e intacto.",
+                "qtMaterialAlt": 209,
+                "noUnidadeMedida": "Quilograma",
+                "vrEstimadoItem": 639.54,
+                "dsFabricante": null,
+                "noMarcaMaterial": "Não se aplica.",
+                "inTipoFornecedorVencedor": "PF",
+                "nuCnpjVencedor": null,
+                "nuCpfVencedor": "***929841**",
+                "noFornecedorVencedor": "MATIAS SOARES PEREIRA NETO",
+                "dtAlteracao": "2024-04-08T11:30:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

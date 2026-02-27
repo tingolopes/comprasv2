@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845406000282019",
+        "data_extracao": "2026-02-13 11:34:19",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 45580724,
+                "numeroLicitacao": "158454062820191",
+                "uasg": 158454,
+                "nomeUasg": "INST.F.ED.,CIENC.E TEC DE MS/C.TRÊS LAGOAS",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 282019,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 2771,
+                "nomeServico": "AR CONDICIONADO - MANUTENCAO DE SISTEMAS / LIMPEZA",
+                "cnpjFornecedor": "33156472000197",
+                "nomeFornecedor": "ROBSON CARLOS CARVALHO",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Contratação de empresa especializada para prestação de serviços técnicos de ma nutenção preventiva e corretiva/limpeza e higienização em sistema de climatiza ção do tipo Variable Refrigerante Flow (VRF),  condicionadores de ar do tipo s plit, SISTEMA DE CLIMATIZAÇÃO DO TIPO VRF, sistema múltiplo modular  e tecnolo gia totalmente inverter, com condensadora de velocidade variável, tipo High-Wa ll, Piso/Teto e Cassete, 60Hz, 220v. Marca/Modelo: TOSHIBA CARRIER / SMMS-i MM Y(72 evaporadoras e 33 condensadores)",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 10500.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:45:00",
+                "idCompra": "15845406000282019",
+                "idCompraItem": "1584540600028201900001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

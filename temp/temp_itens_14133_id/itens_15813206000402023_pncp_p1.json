@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-contratacoes/2.1_consultarItensContratacoes_PNCP_14133_Id?tipo=idCompra&codigo=15813206000402023&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-13 10:46:57",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000402023",
+                "idCompraItem": "1581320600040202300001",
+                "idContratacaoPNCP": "10673078000120-1-000043/2023",
+                "unidadeOrgaoCodigoUnidade": "158132",
+                "orgaoEntidadeCnpj": "10673078000120",
+                "numeroItemPncp": 1,
+                "numeroItemCompra": 1,
+                "numeroGrupo": 0,
+                "descricaoResumida": "Roçada / Limpeza de Área - Mecanizada / Manual",
+                "materialOuServico": "S",
+                "materialOuServicoNome": "Serviço",
+                "codigoClasse": null,
+                "codigoGrupo": 853,
+                "codItemCatalogo": 14044,
+                "descricaodetalhada": "Execução de roçada mecanizada com o emprego de roçadeira costal na área circundante aos blocos do campus Corumbá. O  serviço deve compreender a remoção da camada vegetal e descarte em local apropriado do material proveniente da roçada. Os custos devem incluir o fornecimento da equipe especializada, equipamentos e insumos necessários. Área  unitária mínima por requisição da roçada: 20.835,11 m²",
+                "unidadeMedida": "METRO QUADRADO",
+                "orcamentoSigiloso": false,
+                "itemCategoriaIdPncp": 3,
+                "itemCategoriaNome": "Informática (TIC)",
+                "criterioJulgamentoIdPncp": 1,
+                "criterioJulgamentoNome": "Menor preço",
+                "situacaoCompraItem": "2",
+                "situacaoCompraItemNome": "Homologado",
+                "tipoBeneficio": "1",
+                "tipoBeneficioNome": "Participação exclusiva para ME/EPP",
+                "incentivoProdutivoBasico": false,
+                "quantidade": 125010.0,
+                "valorUnitarioEstimado": 0.24,
+                "valorTotal": 30002.4,
+                "temResultado": true,
+                "codFornecedor": "14509513000137",
+                "nomeFornecedor": "REZENDE E CARVALHO LTDA",
+                "quantidadeResultado": 125010.0,
+                "valorUnitarioResultado": 0.17,
+                "valorTotalResultado": 21251.7,
+                "dataInclusaoPncp": "2023-09-26T16:32:17",
+                "dataAtualizacaoPncp": "2025-03-12T22:53:48",
+                "dataResultado": "2023-10-31 00:00:00.0000000",
+                "margemPreferenciaNormal": false,
+                "percentualMargemPreferenciaNormal": null,
+                "margemPreferenciaAdicional": false,
+                "percentualMargemPreferenciaAdicional": null,
+                "codigoNCM": null,
+                "descricaoNCM": null,
+                "numeroControlePNCPCompra": "10673078000120-1-000043/2023"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

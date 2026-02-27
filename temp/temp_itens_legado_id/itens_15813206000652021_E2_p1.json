@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000652021",
+        "data_extracao": "2026-02-13 11:26:36",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 51004928,
+                "numeroLicitacao": "158132066520212",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 652021,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 3212,
+                "nomeServico": "TRANSPORTE DE MUDANCA - LOCAL",
+                "cnpjFornecedor": "10214253000111",
+                "nomeFornecedor": "A SENNA TRANSPORTE & TURISMO LTDA",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "Contratação de empresa especializada para execução de serviços de transporte ( mudança) de mobiliário e demais bens, com disponibilização de mão de obra, da sede provisória da Reitoria, localizada à Rua 13 de maio, 3439, para nova sede provisória, localizada à rua Jornalista Belizário de Lima 236.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 15999.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000652021",
+                "idCompraItem": "1581320600065202100002"
+            },
+            {
+                "isnSidecResultadoCompra": 51004927,
+                "numeroLicitacao": "158132066520211",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 652021,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 3212,
+                "nomeServico": "TRANSPORTE DE MUDANCA - LOCAL",
+                "cnpjFornecedor": "29968037000190",
+                "nomeFornecedor": "CVE TRANSPORTE E SERVICOS DE MUDANCAS EIRELI",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "Execução de serviços de transporte (mudança) de mobiliário e demais bens, com disponibilização de mão de obra, da sede definitiva da Reitoria, localizada à Av. Ceará,972, para nova sede provisória, localizada à rua Jornalista Belizári o de Lima 236.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 17000.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000652021",
+                "idCompraItem": "1581320600065202100001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

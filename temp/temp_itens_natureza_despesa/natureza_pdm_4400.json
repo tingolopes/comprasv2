@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-material/5_consultarMaterialNaturezaDespesa?pagina=1&codigoPdm=4400",
+        "data_extracao": "2026-02-26 15:01:39",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "codigoPdm": 4400,
+                "codigoNaturezaDespesa": "33903205",
+                "nomeNaturezaDespesa": "MATERIAL, BEM OU SERVICO P/ DISTRIB. GRATUITA - MERCADORIAS PARA DOACAO",
+                "statusNaturezaDespesa": true
+            },
+            {
+                "codigoPdm": 4400,
+                "codigoNaturezaDespesa": "33903021",
+                "nomeNaturezaDespesa": "MATERIAL DE CONSUMO - MATERIAL DE COPA E COZINHA",
+                "statusNaturezaDespesa": true
+            }
+        ]
+    }
+}

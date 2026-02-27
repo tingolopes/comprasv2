@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00116%2F2025&unidadeGerenciadora=158132&numeroItem=00002&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:44:52",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00116/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00002",
+                "codigoPdm": null,
+                "descricaoItem": "Material Aplicado paradidático: Livro Digital - Volume 02 - \" CULTURA 10 DIGIT AL - MEIO AMBIENTE\" ISBN: 978-65-85882-48-4",
+                "fornecedor": "15695672000136 - ASX PARTICIPACOES & TECNOLOGIA LTDA",
+                "quantidadeRegistrada": 5000.0,
+                "saldoAdesoes": 15000.0,
+                "saldoRemanejamentoEmpenho": 5000.0,
+                "qtdLimiteAdesao": 15000.0,
+                "qtdLimiteInformadoCompra": 15000.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2025-09-12T10:21:16",
+                "dataHoraAtualizacao": "2025-12-19T12:18:44",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            },
+            {
+                "numeroAta": "00116/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00002",
+                "codigoPdm": null,
+                "descricaoItem": "Material Aplicado paradidático: Livro Digital - Volume 02 - \" CULTURA 10 DIGIT AL - MEIO AMBIENTE\" ISBN: 978-65-85882-48-4",
+                "fornecedor": "15695672000136 - ASX PARTICIPACOES & TECNOLOGIA LTDA",
+                "quantidadeRegistrada": 2500.0,
+                "saldoAdesoes": 15000.0,
+                "saldoRemanejamentoEmpenho": 2500.0,
+                "qtdLimiteAdesao": 15000.0,
+                "qtdLimiteInformadoCompra": 15000.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2025-09-12T10:21:24",
+                "dataHoraAtualizacao": "2025-09-12T10:21:24",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "981837",
+                "nomeUnidade": "PREF.MUN.DE SAO GONCALO DO AMARANTE",
+                "tipoUnidade": "PARTICIPANTE"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

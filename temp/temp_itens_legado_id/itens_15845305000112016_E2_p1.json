@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845305000112016",
+        "data_extracao": "2026-02-13 11:37:53",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 39189595,
+                "numeroLicitacao": "158453051120161",
+                "uasg": 158453,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MT/C.P.PORÃ",
+                "modalidade": 5,
+                "nomeModalidade": "PREGÃO",
+                "numeroAviso": 112016,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 19160,
+                "nomeServico": "MANUTENCAO DE REDES - AGUA / ESGOTO",
+                "cnpjFornecedor": "02595980000148",
+                "nomeFornecedor": "SANAGUA TECNOLOGIA EM ANALISE AMBIENTAL E DERIVADOS DE",
+                "quantidade": 12,
+                "unidade": "mensal",
+                "descricaoItem": ":a)Operação e Manutenção da ETE: 01 (um)Operador de ETE 44(quarenta) horas s emanais qualificado para o serviço.b)Limpeza da area de gradeamanto;c)Cole ta e transporte e condicionamento de material gradeado;d)Limpeza dos desaren adores;e)Assepsia das instalações da ETE;f)Manutenção e recuperação das estr uturas da ETE;g)Manutenção de válvula, comportas e tubulações da ETE;h)Lim peza das áreas, poda das árvores, corte de gramíneas, aplicação de inseticidas , sinalização do local;i)Manutenção das estruturas para minimização de odore s;j)Descarte de lodo utilizando caminhões limpa-fossa em local adequado;k)-R etirada dos resíduos sólidos retirados no gradeamento e caixa de areia em caça mbas estacionárias;l)Manutenção da pintura da unidade da ETE;m)Manutenção dos motores dos equipamentos eletrônicos, elétricos, mecânicos e hidráulicos;n );o)Desinfecção e controle rotineiro de odores; p)Atividades de controle ; q)Coleta de amostras para medição de pH com apresentação de laudos, temperat ura, sólidos sedimentáveis; s)Controles para efeito de descarte de lodo dige ridos dos reatores; t)Mistura e dosagem de produtos químicos, tais como: clo ro e cal e demais em edital.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 192000.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:41:00",
+                "idCompra": "15845305000112016",
+                "idCompraItem": "1584530500011201600001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

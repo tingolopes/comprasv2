@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00006%2F2024&unidadeGerenciadora=158132&numeroItem=00007&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:12:18",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00006/2024",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00007",
+                "codigoPdm": "11505",
+                "descricaoItem": "REDE PESCA, MATERIAL MALHA, TIPO ARRASTO, ALTURA 1,50 M, TAMANHO MALHA 1 MM, MATERIAL FIO PANAGEM EM FILÓ MULTIFILAMENTO, CARACTERÍSTICAS ADICIONAIS COM SACO E SEM NÓ, COMPRIMENTO 5 M, APLICAÇÃO ESTAÇÃO DE PISCICULTURA",
+                "fornecedor": "51950917000198 - D.FEDERAL - COMERCIAL DE MATERIAIS E EQUIPAMENTOS LTDA",
+                "quantidadeRegistrada": 0.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": null,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2024-03-22T09:32:38",
+                "dataHoraAtualizacao": "2024-03-22T09:39:53",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            },
+            {
+                "numeroAta": "00006/2024",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00007",
+                "codigoPdm": "11505",
+                "descricaoItem": "REDE PESCA, MATERIAL MALHA, TIPO ARRASTO, ALTURA 1,50 M, TAMANHO MALHA 1 MM, MATERIAL FIO PANAGEM EM FILÓ MULTIFILAMENTO, CARACTERÍSTICAS ADICIONAIS COM SACO E SEM NÓ, COMPRIMENTO 5 M, APLICAÇÃO ESTAÇÃO DE PISCICULTURA",
+                "fornecedor": "51950917000198 - D.FEDERAL - COMERCIAL DE MATERIAIS E EQUIPAMENTOS LTDA",
+                "quantidadeRegistrada": 1.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": null,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2024-03-22T09:32:43",
+                "dataHoraAtualizacao": "2024-12-07T16:43:06",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158451",
+                "nomeUnidade": "INST. FED. DO MS/CAMPUS COXIM",
+                "tipoUnidade": "PARTICIPANTE"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

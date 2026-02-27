@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00113%2F2025&unidadeGerenciadora=158132&numeroItem=00017&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:57:09",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00113/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00017",
+                "codigoPdm": "19789",
+                "descricaoItem": "FRUTA, TIPO LIMÃO TAITI, APRESENTAÇÃO NATURAL",
+                "fornecedor": "54167555000151 - MS LICITACOES, COMERCIO E SERVICOS LTDA",
+                "quantidadeRegistrada": 0.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": 0.0,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2025-08-08T10:09:50",
+                "dataHoraAtualizacao": "2025-08-14T11:09:01",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            },
+            {
+                "numeroAta": "00113/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00017",
+                "codigoPdm": "19789",
+                "descricaoItem": "FRUTA, TIPO LIMÃO TAITI, APRESENTAÇÃO NATURAL",
+                "fornecedor": "54167555000151 - MS LICITACOES, COMERCIO E SERVICOS LTDA",
+                "quantidadeRegistrada": 978.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 977.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": 0.0,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2025-08-08T10:10:49",
+                "dataHoraAtualizacao": "2025-09-11T12:23:24",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158448",
+                "nomeUnidade": "INST.FED.DO MS/CAMPUS AQUIDAUANA",
+                "tipoUnidade": "PARTICIPANTE"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

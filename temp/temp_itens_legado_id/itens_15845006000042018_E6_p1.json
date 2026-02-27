@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845006000042018",
+        "data_extracao": "2026-02-13 09:43:26",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845006000042018",
+                "idCompraItem": "1584500600004201800001",
+                "coUasg": 158450,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 4,
+                "dtAnoAvisoLicitacao": 2018,
+                "nuInciso": "02",
+                "nuProcesso": "000003117/2017-16",
+                "vrEstimado": 1850.72,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: A necessidade da compra por dispensa é devido ao caráter do objeto e a urgência da compra devido a fatos não previstos.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "WANDERSON DA SILVA BATISTA",
+                "noCargoRespDeclDisp": "Ordenador de Despesa",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 49689,
+                "noConjuntoMateriais": "EQUIPAMENTO DE SOLDA CONTINUA",
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "MÁQUINA SOLDA INVERSORA, 200A",
+                "qtMaterialAlt": 2,
+                "noUnidadeMedida": "UNI",
+                "vrEstimadoItem": 1850.72,
+                "dsFabricante": null,
+                "noMarcaMaterial": "DIVERSOS",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "02226278000530",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "CENTRAL BORRACHAS E FERRAMENTAS LTDA",
+                "dtAlteracao": "2024-04-08T11:30:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

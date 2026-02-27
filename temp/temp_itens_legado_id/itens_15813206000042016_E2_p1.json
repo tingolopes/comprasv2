@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000042016",
+        "data_extracao": "2026-02-13 11:17:01",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 37426333,
+                "numeroLicitacao": "15813206420161",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 42016,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 5584,
+                "nomeServico": "INSTALACAO DE PELICULA DE PROTECAO",
+                "cnpjFornecedor": "23089577000117",
+                "nomeFornecedor": "CELSA HELENA DE ARRUDA 94980870163",
+                "quantidade": null,
+                "unidade": "INSTALAÇÃO",
+                "descricaoItem": "Instalação de Película Adesiva tipo Insulfilme, cor verde espelhada, sendo 4 t amanhos de 1,00 X 2,33 m cada.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 600.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000042016",
+                "idCompraItem": "1581320600004201600001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

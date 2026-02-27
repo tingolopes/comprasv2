@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15585007000012018",
+        "data_extracao": "2026-02-13 10:59:31",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15585007000012018",
+                "idCompraItem": "1558500700001201800001",
+                "coUasg": 155850,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 1,
+                "dtAnoAvisoLicitacao": 2018,
+                "nuInciso": "00",
+                "nuProcesso": "23347001372201875",
+                "vrEstimado": 5000.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 25º, Caput da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Artigo 5o do decreto 4520/02, que dispõe sobre a publicação do D. O. U. pela Imprensa Nacional da Casa Civil da PR.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "GUILHERME SEMIONATO GALICIO",
+                "noCargoRespDeclDisp": "Diretor de Administração",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 21040,
+                "noServico": "ASSINATURA - PUBLICACAO INFORMATIZADA",
+                "dsDetalhada": "Realizar a publicação, no Diário Oficial da União, de Editais de Licitações, E xtratos de Contratos/Termos Aditivos, Inexigibilidades, Portarias e outros, re alizados pelo Instituto Federal de Mato Grosso do Sul   Campus Jardim bem como  demais procedimentos que exigirem tal publicidade.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 5000.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "04196645000100",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "IMPRENSA NACIONAL",
+                "dtAlteracao": "2024-04-08T11:36:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

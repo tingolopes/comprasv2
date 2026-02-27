@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/4_consultarEmpenhosSaldoItem?numeroAta=00039%2F2024&unidadeGerenciadora=158132&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-27 07:33:57",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroItem": "00006",
+                "unidade": "153015 - CENTRO FEDERAL DE EDUCACAO TECNOLOGICA DE MG",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 12.0,
+                "quantidadeEmpenhada": 12.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-12-30T21:27:38"
+            },
+            {
+                "numeroItem": "00006",
+                "unidade": "155848 - INST.FED.DO MS/CAMPUS DOURADOS",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 20.0,
+                "quantidadeEmpenhada": 20.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-12-30T21:27:38"
+            },
+            {
+                "numeroItem": "00006",
+                "unidade": "155849 - INST.FED.DO MS/CAMPUS NAVIRAI",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 9.0,
+                "quantidadeEmpenhada": 9.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-12-30T21:27:38"
+            },
+            {
+                "numeroItem": "00006",
+                "unidade": "155850 - INST.FED.DO MS/CAMPUS JARDIM",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 40.0,
+                "quantidadeEmpenhada": 40.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-12-30T21:27:38"
+            },
+            {
+                "numeroItem": "00006",
+                "unidade": "158124 - INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA GOIANO",
+                "tipo": "NÃO PARTICIPANTE",
+                "quantidadeRegistrada": 22.0,
+                "quantidadeEmpenhada": 22.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-12-30T21:27:38"
+            },
+            {
+                "numeroItem": "00006",
+                "unidade": "158449 - INST. FED. DO MS/CAMPUS CAMPO GRANDE",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 35.0,
+                "quantidadeEmpenhada": 35.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2026-01-16T09:13:10"
+            },
+            {
+                "numeroItem": "00006",
+                "unidade": "158450 - INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 15.0,
+                "quantidadeEmpenhada": 15.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-12-30T21:27:38"
+            },
+            {
+                "numeroItem": "00006",
+                "unidade": "158451 - INST. FED. DO MS/CAMPUS COXIM",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 40.0,
+                "quantidadeEmpenhada": 40.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-12-30T21:27:38"
+            },
+            {
+                "numeroItem": "00006",
+                "unidade": "158452 - INST. FED. DO MS/CAMPUS NOVA ANDRADINA",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 20.0,
+                "quantidadeEmpenhada": 20.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-12-30T21:27:38"
+            },
+            {
+                "numeroItem": "00006",
+                "unidade": "158454 - INST. FED. DO MS/CAMPUS TRES LAGOAS",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 10.0,
+                "quantidadeEmpenhada": 10.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-12-30T21:29:04"
+            },
+            {
+                "numeroItem": "00006",
+                "unidade": "158955 - CAMPUS JAGUARIBE/IFCE",
+                "tipo": "PARTICIPANTE",
+                "quantidadeRegistrada": 15.0,
+                "quantidadeEmpenhada": 15.0,
+                "saldoEmpenho": 0.0,
+                "dataHoraInclusao": null,
+                "dataHoraAtualizacao": "2025-12-30T21:27:38"
+            }
+        ],
+        "totalRegistros": 11,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

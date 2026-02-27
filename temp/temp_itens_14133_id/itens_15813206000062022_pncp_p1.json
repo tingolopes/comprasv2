@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-contratacoes/2.1_consultarItensContratacoes_PNCP_14133_Id?tipo=idCompra&codigo=15813206000062022&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-13 10:46:36",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000062022",
+                "idCompraItem": "1581320600006202200001",
+                "idContratacaoPNCP": "10673078000120-1-000001/2022",
+                "unidadeOrgaoCodigoUnidade": "158132",
+                "orgaoEntidadeCnpj": "10673078000120",
+                "numeroItemPncp": 1,
+                "numeroItemCompra": 1,
+                "numeroGrupo": 0,
+                "descricaoResumida": "Prestação de Serviços de Cozinheiro",
+                "materialOuServico": "S",
+                "materialOuServicoNome": "Serviço",
+                "codigoClasse": null,
+                "codigoGrupo": 851,
+                "codItemCatalogo": 19399,
+                "descricaodetalhada": "Prestação de Serviços de  Auxiliar de cozinha   posto de serviço com 44h semanais, período de 90 dias de contratação. Valor total estimado se refere a 02 postos de auxiliar de cozinha, pelo período de 90 dias de contratação.",
+                "unidadeMedida": "UNIDADE",
+                "orcamentoSigiloso": false,
+                "itemCategoriaIdPncp": 3,
+                "itemCategoriaNome": "Informática (TIC)",
+                "criterioJulgamentoIdPncp": 1,
+                "criterioJulgamentoNome": "Menor preço",
+                "situacaoCompraItem": "2",
+                "situacaoCompraItemNome": "Homologado",
+                "tipoBeneficio": "1",
+                "tipoBeneficioNome": "Participação exclusiva para ME/EPP",
+                "incentivoProdutivoBasico": false,
+                "quantidade": 2.0,
+                "valorUnitarioEstimado": 10020.45,
+                "valorTotal": 20040.9,
+                "temResultado": true,
+                "codFornecedor": "25318823000190",
+                "nomeFornecedor": "RESULT SOLUCOES E EMPREENDIMENTOS EIRELI",
+                "quantidadeResultado": 2.0,
+                "valorUnitarioResultado": 9995.31,
+                "valorTotalResultado": 19990.62,
+                "dataInclusaoPncp": "2022-02-24T17:52:09",
+                "dataAtualizacaoPncp": "2022-03-17T12:31:30",
+                "dataResultado": "2022-03-17 00:00:00.0000000",
+                "margemPreferenciaNormal": false,
+                "percentualMargemPreferenciaNormal": null,
+                "margemPreferenciaAdicional": false,
+                "percentualMargemPreferenciaAdicional": null,
+                "codigoNCM": null,
+                "descricaoNCM": null,
+                "numeroControlePNCPCompra": "10673078000120-1-000001/2022"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000172020",
+        "data_extracao": "2026-02-13 11:23:57",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 46557933,
+                "numeroLicitacao": "158132061720202",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 172020,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": 52345,
+                "nomeMaterial": "CONJUNTO GERADOR ELETRICO - ACIONADO POR TURBINA, CONJUNTO GERADOR ELETRICO - ACIONADO POR NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "04114479000148",
+                "nomeFornecedor": "GIL PAPELARIA LTDA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Nobreak Equipamento  com  potência  de 2200 Va, entrada e saída bivolt, 8 toma das de  saída,  proteção  contra  sobrecarga  e forma de onda senoidal.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 26760.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000172020",
+                "idCompraItem": "1581320600017202000002"
+            },
+            {
+                "isnSidecResultadoCompra": 46557932,
+                "numeroLicitacao": "158132061720201",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 172020,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 111449,
+                "nomeMaterial": "CONJUNTO PARA PLOTTER, CONJUNTO ( KIT ) MANUTENCAO COPIADORA / NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "24797131000100",
+                "nomeFornecedor": "DUE LASER MAQUINAS LTDA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Cortadora  a  laser Máquina  CNC  Router Laser com área de trabalho de 60 cm x 40 cm, potência do laser de 60 W.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 54000.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-06-07T08:08:00",
+                "idCompra": "15813206000172020",
+                "idCompraItem": "1581320600017202000001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

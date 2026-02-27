@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15844906000212020",
+        "data_extracao": "2026-02-13 09:56:08",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 47748486,
+                "numeroLicitacao": "158449062120201",
+                "uasg": 158449,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.C.GRANDE",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 212020,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 18422,
+                "nomeServico": "GRAFICO - IMPRESSOS / PLASTIFICACAO / ACABAMENTO",
+                "cnpjFornecedor": "15046017000157",
+                "nomeFornecedor": "FINO TRACO COMUNICACAO VISUAL EIRELI",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Serviço de impressão em vinil adesivo de 90x35cm, contendo o texto \"Inscrições prorrogadas até 04/nov\", conforme modelo, na quantidade de 5 unidades",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 87.5,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:27:00",
+                "idCompra": "15844906000212020",
+                "idCompraItem": "1584490600021202000001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

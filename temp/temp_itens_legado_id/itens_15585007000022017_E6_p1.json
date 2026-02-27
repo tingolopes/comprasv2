@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15585007000022017",
+        "data_extracao": "2026-02-13 10:57:32",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15585007000022017",
+                "idCompraItem": "1558500700002201700001",
+                "coUasg": 155850,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 2,
+                "dtAnoAvisoLicitacao": 2017,
+                "nuInciso": "02",
+                "nuProcesso": "23347004056201774",
+                "vrEstimado": 5000.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 25º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: A legislação estabelece que seja inexigível a licitação quando houver inviabilidade de competição entre empresas.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "GUILHERME SEMIONATO GALICIO",
+                "noCargoRespDeclDisp": "Diretor de Administração",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 4227,
+                "noServico": "PUBLICACOES PROMOCIONAIS / EDITAIS",
+                "dsDetalhada": "Publicação, no Diário Oficial da União, de Editais de Licitações, Extratos de Contratos/Termos Aditivos, Inexigibilidades e Portarias de processos realizado s pelo IFMS - Campus Jardim e demais procedimentos que exijam tal publicação",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "un",
+                "vrEstimadoItem": 5000.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "04196645000100",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "IMPRENSA NACIONAL",
+                "dtAlteracao": "2024-04-08T11:36:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

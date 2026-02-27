@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206900012024",
+        "data_extracao": "2026-02-13 11:30:58",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 57244417,
+                "numeroLicitacao": "158132069000120241",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 900012024,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 27758,
+                "nomeServico": "SERVICOS ESPECIALIZADOS DE  DISPONIBILIZACAO DE COPIAS DE SEGURANÇA DE DADOS (BACKUP COMO SERVICO)",
+                "cnpjFornecedor": "23090165000105",
+                "nomeFornecedor": "PRONTOGOV PRODUTOS E SERVICOS LTDA",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "Instalação/habilitação de serviço de internet fibra óptica empresarial com ca pacidade de transmissão de 300Mbps na cidade de Jardim (Campus Jardim) com vel ocidade  média garantida de pelo menos 80% conforme resolução da Anatel n° 717 /2019, sem franquia de dados, com IP fixo.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 12480.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206900012024",
+                "idCompraItem": "1581320690001202400001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

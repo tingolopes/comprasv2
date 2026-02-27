@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00043%2F2024&unidadeGerenciadora=158132&numeroItem=00348&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:49:19",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00043/2024",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00348",
+                "codigoPdm": "19772",
+                "descricaoItem": "LEGUME IN NATURA, TIPO PEPINO",
+                "fornecedor": "30553576000147 - D. DA SILVA DUARTE TRANSPORTE LTDA",
+                "quantidadeRegistrada": 534.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 534.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": 0.0,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2024-08-20T16:33:58",
+                "dataHoraAtualizacao": "2024-10-25T16:43:20",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "155850",
+                "nomeUnidade": "INST.FED.DO MS/CAMPUS JARDIM",
+                "tipoUnidade": "PARTICIPANTE"
+            },
+            {
+                "numeroAta": "00043/2024",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00348",
+                "codigoPdm": "19772",
+                "descricaoItem": "LEGUME IN NATURA, TIPO PEPINO",
+                "fornecedor": "30553576000147 - D. DA SILVA DUARTE TRANSPORTE LTDA",
+                "quantidadeRegistrada": 0.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": 0.0,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2024-08-20T16:31:24",
+                "dataHoraAtualizacao": "2024-10-25T16:40:33",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

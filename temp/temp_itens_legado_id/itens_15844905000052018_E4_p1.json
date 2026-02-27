@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/4.1_consultarItensPregoes_Id?id_compra=15844905000052018",
+        "data_extracao": "2026-02-13 11:40:30",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158449,
+                    "coItem": 20068396
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "Lupa eletrônica portátil. Características: Tela de 7,0  LCD; Nível de ampliação de mínimo 1,4x a 25x; Permite visualizar a distância; Possui opções de contraste, brilho e cor; mínimo 28 modos de visualização; Foco automático ou manual; Possui teclas táteis; Congela a imagem e permite aumentar e mudar os modos de visualização; Possui opção de salvar imagem e descarregar no seu computador; Permite conectar a um monitor ou TV para aumentar sua visualização; Rápida leitura sem distorção, evitando fadiga; Funções: Congelar a imagem, alterar modo de cor, Zoom in/out; Possui luz opção desligar/ligar; Acompanha capa protetora para a Lupa; Bateria recarregável com vida útil de 3 a 5 horas; Dimensões mínimas: 11 x 6 x 2 cm.",
+                "descricaoItem": "LUPA ELETRÔNICA",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "5989.39",
+                "quantidadeItem": "2",
+                "situacaoItem": "homologado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "Unidade",
+                "valorHomologadoItem": "5989.39",
+                "valorEstimadoItem": "14293.33",
+                "valorNegociado": null,
+                "idCompra": "15844905000052018",
+                "idCompraItem": "1584490500005201800003",
+                "noAdjudic": "CARLOS GRACINDO PEREIRA LANDIVAR",
+                "noHom": "ROSANE DE BRITO FERNANDEZ GARCIA",
+                "dtEncerramento": "2018-05-16",
+                "dtAdjudic": "2018-05-17",
+                "dtHom": "2018-05-23",
+                "dtAlteracao": "2024-04-08T11:27:00"
+            },
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158449,
+                    "coItem": 20068395
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "Lupa eletrônica portátil. Características: Tela de 7,0  LCD; Nível de ampliação de mínimo 1,4x a 25x; Permite visualizar a distância; Possui opções de contraste, brilho e cor; mínimo 28 modos de visualização; Foco automático ou manual; Possui teclas táteis; Congela a imagem e permite aumentar e mudar os modos de visualização; Possui opção de salvar imagem e descarregar no seu computador; Permite conectar a um monitor ou TV para aumentar sua visualização; Rápida leitura sem distorção, evitando fadiga; Funções: Congelar a imagem, alterar modo de cor, Zoom in/out; Possui luz opção desligar/ligar; Acompanha capa protetora para a Lupa; Bateria recarregável com vida útil de 3 a 5 horas; Dimensões mínimas: 11 x 6 x 2 cm.",
+                "descricaoItem": "LUPA ELETRÔNICA",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "5949.84",
+                "quantidadeItem": "1",
+                "situacaoItem": "homologado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "Unidade",
+                "valorHomologadoItem": "5949.84",
+                "valorEstimadoItem": "14293.33",
+                "valorNegociado": null,
+                "idCompra": "15844905000052018",
+                "idCompraItem": "1584490500005201800002",
+                "noAdjudic": "CARLOS GRACINDO PEREIRA LANDIVAR",
+                "noHom": "ROSANE DE BRITO FERNANDEZ GARCIA",
+                "dtEncerramento": "2018-05-16",
+                "dtAdjudic": "2018-05-17",
+                "dtHom": "2018-05-23",
+                "dtAlteracao": "2024-04-08T11:27:00"
+            },
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158449,
+                    "coItem": 20068394
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "Lupa eletrônica portátil. Características: Tela de 7,0  LCD; Nível de ampliação de mínimo 1,4x a 25x; Permite visualizar a distância; Possui opções de contraste, brilho e cor; mínimo 28 modos de visualização; Foco automático ou manual; Possui teclas táteis; Congela a imagem e permite aumentar e mudar os modos de visualização; Possui opção de salvar imagem e descarregar no seu computador; Permite conectar a um monitor ou TV para aumentar sua visualização; Rápida leitura sem distorção, evitando fadiga; Funções: Congelar a imagem, alterar modo de cor, Zoom in/out; Possui luz opção desligar/ligar; Acompanha capa protetora para a Lupa; Bateria recarregável com vida útil de 3 a 5 horas; Dimensões mínimas: 11 x 6 x 2 cm.",
+                "descricaoItem": "LUPA ELETRÔNICA",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "5293.00",
+                "quantidadeItem": "2",
+                "situacaoItem": "homologado",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "Unidade",
+                "valorHomologadoItem": "5293.00",
+                "valorEstimadoItem": "14293.33",
+                "valorNegociado": null,
+                "idCompra": "15844905000052018",
+                "idCompraItem": "1584490500005201800001",
+                "noAdjudic": "CARLOS GRACINDO PEREIRA LANDIVAR",
+                "noHom": "ROSANE DE BRITO FERNANDEZ GARCIA",
+                "dtEncerramento": "2018-05-16",
+                "dtAdjudic": "2018-05-17",
+                "dtHom": "2018-05-23",
+                "dtAlteracao": "2024-04-08T11:27:00"
+            }
+        ],
+        "totalRegistros": 3,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

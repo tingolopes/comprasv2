@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15584906000172020",
+        "data_extracao": "2026-02-13 11:10:39",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 47128500,
+                "numeroLicitacao": "155849061720201",
+                "uasg": 155849,
+                "nomeUasg": "INSTITUTO FEDERAL DE MS/CAMPUS NAVIRAÍ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 172020,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 27499,
+                "nomeServico": "LICENCIAMENTO DE OUTROS DIREITOS PERMANENTES SOBRE PROGRAMASDE COMPUTADOR",
+                "cnpjFornecedor": "10242721000161",
+                "nomeFornecedor": "BUYSOFT DO BRASIL LTDA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Licenciamento de outros direitos permanentes sobre programasde computador. Lic ença CAL para windows server 2016 standard, licença de dispositivo, licença pe rpétua, WinSvrCAL 2019 SNGL OLP NL Acdmc DvcCAL.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 8600.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:38:00",
+                "idCompra": "15584906000172020",
+                "idCompraItem": "1558490600017202000001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

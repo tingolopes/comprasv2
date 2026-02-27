@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845006000762016",
+        "data_extracao": "2026-02-13 09:41:25",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 39275205,
+                "numeroLicitacao": "158450067620161",
+                "uasg": 158450,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.CORUMBÁ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 762016,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 139300,
+                "nomeMaterial": "CHAVE ESTRELA, CHAVE ESTRELA-MILIMETRADA NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "37534492000105",
+                "nomeFornecedor": "COMAGRAN CORUMBA MAQUINAS E EQUIPAMENTOS IND LTDA - EPP",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "CHAVE ELÉTRICA ESTRELADA TRIANGULAR 10HP ET 160  30A",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 870.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:30:00",
+                "idCompra": "15845006000762016",
+                "idCompraItem": "1584500600076201600001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

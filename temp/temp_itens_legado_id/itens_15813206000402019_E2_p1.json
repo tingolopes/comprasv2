@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000402019",
+        "data_extracao": "2026-02-13 11:23:17",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 45629715,
+                "numeroLicitacao": "158132064020192",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 402019,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 4316,
+                "nomeServico": "LOCACAO DE IMOVEL",
+                "cnpjFornecedor": "33178278000102",
+                "nomeFornecedor": "HOTEL VALE VERDE LTDA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Locação de sala/auditório que comportem 40 pessoas sentadas com  de sonorizaçã o e Ar condicionado por três dias",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1140.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000402019",
+                "idCompraItem": "1581320600040201900002"
+            },
+            {
+                "isnSidecResultadoCompra": 45629714,
+                "numeroLicitacao": "158132064020191",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 402019,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 4316,
+                "nomeServico": "LOCACAO DE IMOVEL",
+                "cnpjFornecedor": "33178278000102",
+                "nomeFornecedor": "HOTEL VALE VERDE LTDA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Locação de sala/auditório que comportem 150 pessoas sentadas com  de sonorizaç ão e Ar condicionado por 3 dias.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 2040.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000402019",
+                "idCompraItem": "1581320600040201900001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

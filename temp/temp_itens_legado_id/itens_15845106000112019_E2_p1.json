@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845106000112019",
+        "data_extracao": "2026-02-13 10:11:47",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 44261944,
+                "numeroLicitacao": "158451061120192",
+                "uasg": 158451,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.COXIM",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 112019,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": 1430,
+                "nomeMaterial": "FOLHA DE VIDRO, FOLHA DE VIDRO NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "19332823000142",
+                "nomeFornecedor": "DILSON DE MATOS CHERES 50066234115",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "CONJUNTO de Vidro comum (cristal) com dimensões totais de 6,15 m², COMPOSTO po r 11 folhas de vidro de espessura 4 mm, cada, para reposição de janelas quebra das, incluído todo material necessário e mão de obra para instalação, bem como acessório de fixação e película na cor verde. O conjunto é formado pelas segu intes peças: 01 (uma) folha de Vidro comum, com as seguintes dimensões: 0,82,5 m x 0,96,5 m; 01 (uma) folha de Vidro comum, com as seguintes dimensões: 0,73 ,5 m x 1,06 m; 01(uma) folha de Vidro comum, com as seguintes dimensões: 0,78 m x 0,60 m; 04 (quatro) folhas de Vidro comum, com as seguintes dimensões: 0,8 2,5 m x 0,42 m; 01(uma)  folha de Vidro comum, com as seguintes dimensões: 0,8 2 m x 1,07 m; 01 (uma) folha de Vidro comum, com as seguintes dimensões: 0,91, 5 m x 0,52 m; 01 (uma)  folha de Vidro comum, com as seguintes dimensões: 0,83 ,5 m x 0,56 m; 01 (uma) folha de Vidro comum, com as seguintes dimensões: 0,89 m x 0,55 m.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1650.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:32:00",
+                "idCompra": "15845106000112019",
+                "idCompraItem": "1584510600011201900002"
+            },
+            {
+                "isnSidecResultadoCompra": 44261943,
+                "numeroLicitacao": "158451061120191",
+                "uasg": 158451,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.COXIM",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 112019,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 1430,
+                "nomeMaterial": "FOLHA DE VIDRO, FOLHA DE VIDRO NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "19332823000142",
+                "nomeFornecedor": "DILSON DE MATOS CHERES 50066234115",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "CONJUNTO de Vidro temperado com dimensões totais de 25,23 m², COMPOSTO por 6 f olhas de vidro de espessura 8 mm, cada, incluído todo material necessário e mã o de obra para instalação, bem como ferragem de instalação e película na cor v erde. O conjunto é formado pelas seguintes peças: 01 (uma) folha de Vidro temp erado, com as seguintes dimensões: 7,26 m x 0,98 m; 02 (duas) folhas de Vidro temperado, com as seguintes dimensões: 3,53 m x 0,97 m; 01 (uma) folha de Vidr o temperado, com as seguintes dimensões: 5,90 m x 0,98 m; 01 (uma) folha de Vi dro temperado, com as seguintes dimensões: 2,84 m x 0,97 m; 01 (uma) folha Vid ro temperado, com as seguintes dimensões: 2,83 m x 0,97 m.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 8840.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:32:00",
+                "idCompra": "15845106000112019",
+                "idCompraItem": "1584510600011201900001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

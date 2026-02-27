@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000642018",
+        "data_extracao": "2026-02-13 11:21:52",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 43578097,
+                "numeroLicitacao": "158132066420182",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 642018,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": 150325,
+                "nomeMaterial": "CÂMERA DIGITAL, CÂMERA DIGITAL NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "28054896000100",
+                "nomeFornecedor": "J. A. COMERCIO DE ARTIGOS PARA ESCRITORIO EIRELI",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "CAMERA IP VIP S4020 G2 DOME HD/1MP/2.8MM INTELBRAS",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 690.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-03-24T12:28:00",
+                "idCompra": "15813206000642018",
+                "idCompraItem": "1581320600064201800002"
+            },
+            {
+                "isnSidecResultadoCompra": 43578096,
+                "numeroLicitacao": "158132066420181",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 642018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 11304,
+                "nomeMaterial": "MEMORIA EM DISCO, MEMORIA EM DISCO NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "28054896000100",
+                "nomeFornecedor": "J. A. COMERCIO DE ARTIGOS PARA ESCRITORIO EIRELI",
+                "quantidade": null,
+                "unidade": "unidade",
+                "descricaoItem": "HD Externo 2Tb, USB 3.0; Fonte e Dados em um único cabo.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1370.16,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000642018",
+                "idCompraItem": "1581320600064201800001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

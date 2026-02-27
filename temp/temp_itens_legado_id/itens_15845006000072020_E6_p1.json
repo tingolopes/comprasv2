@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845006000072020",
+        "data_extracao": "2026-02-13 09:44:58",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845006000072020",
+                "idCompraItem": "1584500600007202000001",
+                "coUasg": 158450,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 7,
+                "dtAnoAvisoLicitacao": 2020,
+                "nuInciso": "04",
+                "nuProcesso": "23347007435202011",
+                "vrEstimado": 28188.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso IV da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: A alimentação escolar é um direito constitucional, e IFMS possui estudantes em situação de vulnerablidade social",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "LAURA DE SOUZA FERNANDES RAMOS",
+                "noCargoRespDeclDisp": "Gestora Financeira",
+                "noResponsavelRatificacao": "WANDERSON DA SILVA BATISTA",
+                "noCargoRespRatificacao": "Ordenador de Despesas",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 113026,
+                "noConjuntoMateriais": "CESTA BASICA - GENEROS ALIMENTICIOS",
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "Cesta básica - gêneros alimentícios, cesta basica - generos alimenticios",
+                "qtMaterialAlt": 261,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 28188.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "N SE APLICA",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "12056337000108",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "T G GUEDES",
+                "dtAlteracao": "2024-04-08T11:30:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

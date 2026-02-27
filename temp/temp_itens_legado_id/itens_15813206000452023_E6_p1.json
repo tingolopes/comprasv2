@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813206000452023",
+        "data_extracao": "2026-02-13 11:30:26",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000452023",
+                "idCompraItem": "1581320600045202300001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 45,
+                "dtAnoAvisoLicitacao": 2023,
+                "nuInciso": "02",
+                "nuProcesso": "23347.010047.2023",
+                "vrEstimado": 14000.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": "Objeto: Contratação de serviço de locação de es                             trutura, compreendendo a montagem/desmontagem,                              para atender à exposição de trabalhos científic                             os durante a Fecintec (Feira de Ciência e Tecno                             logia) que ocorrerá no campus CG do IFMS no iní                             cio de outubro de 2023.",
+                "dsFundamentoLegal": "Fundamento Legal: Art. 75º, Inciso II da Lei nº 14.133 de 1º/04/2021.",
+                "dsJustificativa": "Justificativa: Contratação de pequeno vulto.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "",
+                "noCargoRespDeclDisp": "",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 13099,
+                "noServico": "LOCACAO / MONTAGEM / DESMONTAGEM DE STANDS E PROJETOS EM FEIRAS E EXPOSICOES",
+                "dsDetalhada": "Locação de bens móveis, compreendo a montagem e desmontagem, conforme segue:      - 65 unidades (estrutura) medindo 2,00 x 2,20m com 02 balcões (medidas: 1,0 0 x 1,00 x 0,50), montados em ilhas sem fechamento lateral;  - Revestimento de  Piso: Carpete grafite tipo forração medindo 2x1m;  - Paredes: painéis em TS e strutural de 3mm na cor branca;  - Estrutura: octanorme em alumínio anodizado  brilhante, pé direito de 2,20m.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "UNIDADE",
+                "vrEstimadoItem": 14000.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "05394356000170",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "MEGA STANDS LTDA",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

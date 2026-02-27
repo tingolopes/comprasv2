@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845306000012017",
+        "data_extracao": "2026-02-13 11:13:59",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 39656739,
+                "numeroLicitacao": "15845306120171",
+                "uasg": 158453,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MT/C.P.PORÃ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 12017,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 150756,
+                "nomeMaterial": "CAIXA D'ÁGUA, CAIXA D'ÁGUA NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "24653206000189",
+                "nomeFornecedor": "CASA BLANCA MATERIAIS DE CONSTRUCOES LTDA - EPP",
+                "quantidade": null,
+                "unidade": "unidade",
+                "descricaoItem": "NOME CAIXA D´ÁGUA: Caixa D`Agua fabricada em material Polietileno, cor Azul, C apacidade 2000 (Dois Mil Litros COM TAMPA).",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 767.65,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:41:00",
+                "idCompra": "15845306000012017",
+                "idCompraItem": "1584530600001201700001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

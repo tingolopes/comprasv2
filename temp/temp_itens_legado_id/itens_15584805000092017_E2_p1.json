@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15584805000092017",
+        "data_extracao": "2026-02-13 11:36:45",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 40206436,
+                "numeroLicitacao": "15584805920171",
+                "uasg": 155848,
+                "nomeUasg": "IF - MS/ CAMPUS DOURADOS",
+                "modalidade": 5,
+                "nomeModalidade": "PREGÃO",
+                "numeroAviso": 92017,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 47287,
+                "nomeMaterial": "ELEVADOR PASSAGEIRO, ELEVADOR / COMPONENTES - PASSAGEIRO NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": null,
+                "nomeFornecedor": null,
+                "quantidade": 2,
+                "unidade": "UN",
+                "descricaoItem": "Plataforma Cabinada de 02 para-das e acesso único. Especificações Mínimas:  Pl ataforma elevadoraPNEacionamento hidráulico; A plataforma deve atender a s normas da NBR 13994 e NBR 9050. Capacidade de carga: mínimo 350 kg. Número d e paradas: 02 (duas); Velocidade da plataforma: 15 m/min (10cm/s) ou 7,5m/min (12,5cm/s). Percurso estimado: 6,00m; Alimentação/ Frequência: 220V / 60Hz Tri fasico. Potência mínima: motor de 2,5 HP. Entrada e saída unilateral. Cabine e nclausurada, com as se-guintes dimensões: Largura: 1.200cm Comprimento: 400c m. Botão de chamada/envio acionado por pressão constante, com alarme, chave li ga/desliga e Braille; Acionamento: Hidráulico. Piso antiderrapante.Máquina da Torre: fabricada em chapa de aço. Armação básica: fabricada com tubulação estr utural. Torre da plataforma: Confeccionada em chapa de aço laminada à frio de 1,9mm. Cobertura da torre: Em chapa de aço laminada a quente. Painéis laterais de segurança: Painéis confeccionados em chapa de aço e estrutura de aço tubul ar de 25mm x 51mm x 11mm. Painel Frontal: Fabricado em chapa de aço. Carro da plataforma: Fabricado em chapa de aço com superfície resistente a deslizamento .",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 115000.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-07-09T10:09:00",
+                "idCompra": "15584805000092017",
+                "idCompraItem": "1558480500009201700001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

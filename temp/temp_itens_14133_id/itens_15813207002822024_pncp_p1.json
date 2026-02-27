@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-contratacoes/2.1_consultarItensContratacoes_PNCP_14133_Id?tipo=idCompra&codigo=15813207002822024&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-13 11:43:20",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813207002822024",
+                "idCompraItem": "1581320700282202400001",
+                "idContratacaoPNCP": "10673078000120-1-000069/2024",
+                "unidadeOrgaoCodigoUnidade": "158132",
+                "orgaoEntidadeCnpj": "10673078000120",
+                "numeroItemPncp": 1,
+                "numeroItemCompra": 1,
+                "numeroGrupo": 0,
+                "descricaoResumida": "Pagamento inscrição eventos Pagamento inscrição eventos",
+                "materialOuServico": "S",
+                "materialOuServicoNome": "Serviço",
+                "codigoClasse": null,
+                "codigoGrupo": 929,
+                "codItemCatalogo": 25232,
+                "descricaodetalhada": "Pagamento inscrição eventos Pagamento inscrição eventos",
+                "unidadeMedida": "UNIDADE",
+                "orcamentoSigiloso": false,
+                "itemCategoriaIdPncp": 3,
+                "itemCategoriaNome": "Informática (TIC)",
+                "criterioJulgamentoIdPncp": 7,
+                "criterioJulgamentoNome": "Não se aplica",
+                "situacaoCompraItem": "2",
+                "situacaoCompraItemNome": "Homologado",
+                "tipoBeneficio": "5",
+                "tipoBeneficioNome": "Não se aplica",
+                "incentivoProdutivoBasico": false,
+                "quantidade": 1.0,
+                "valorUnitarioEstimado": 4790.0,
+                "valorTotal": 4790.0,
+                "temResultado": true,
+                "codFornecedor": "36003671000153",
+                "nomeFornecedor": "CONSULTRE CONSULTORIA E TREINAMENTO LTDA",
+                "quantidadeResultado": 1.0,
+                "valorUnitarioResultado": 4790.0,
+                "valorTotalResultado": 4790.0,
+                "dataInclusaoPncp": "2024-09-30T17:19:16",
+                "dataAtualizacaoPncp": "2024-09-30T17:22:17",
+                "dataResultado": "2024-09-30 00:00:00.0000000",
+                "margemPreferenciaNormal": false,
+                "percentualMargemPreferenciaNormal": null,
+                "margemPreferenciaAdicional": false,
+                "percentualMargemPreferenciaAdicional": null,
+                "codigoNCM": null,
+                "descricaoNCM": null,
+                "numeroControlePNCPCompra": "10673078000120-1-000069/2024"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

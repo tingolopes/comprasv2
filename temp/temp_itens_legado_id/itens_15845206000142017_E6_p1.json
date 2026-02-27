@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845206000142017",
+        "data_extracao": "2026-02-13 11:04:58",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845206000142017",
+                "idCompraItem": "1584520600014201700001",
+                "coUasg": 158452,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 14,
+                "dtAnoAvisoLicitacao": 2017,
+                "nuInciso": "02",
+                "nuProcesso": "94425000000682017",
+                "vrEstimado": 6000.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Aquisição de produtos e/ou serviços com valor inferior a R$ 8.000,00",
+                "nuCpfRespDeclDisp": "08805442879",
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "SERGIO PAULO DE SOUZA",
+                "noCargoRespDeclDisp": "Diretor de Administração",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 193590,
+                "noConjuntoMateriais": null,
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "Autoclave 50 ( cinquenta) litros com caldeira vertical em aço inoxidável AI SI  304,tampa em bronze fundido, interna estanhada, externa polida e envernizada, guarnição de silicone para altas temperaturas. Válvula de controle , manípulos  para fechamento em baquelite , isolados contra o calor. Resistência elétrica de imersão de níquel como blindado em tubos de cobre cromado. Manômetro com 2 ( duas) escalas de pressão de 0 a 3 kgf/cm2 e correspondência em graus centígr ados de 100 a 143. Com 01 (um) cesto em aço inox AI SI 304 polido, totalmente perfurados para permitir a circulação do vapor, e dimensões de 37 cm de altura  x 33 cm de diâmetro. Gabinete construído em chapa de aço inox, montado sobre 04 ( quatro ) pés de borracha reguláveis. Painel com chave seletora de tempera tura com 03 posições, lâmpada piloto, . Registro esfera. Válvula de alívio de pressão igual ou superior a MOTA. Escoamento para limpeza e drenagem total,Sis tema eletrônico de segurança.Pressão máxima trabalho 1,5 kgf/cm2, corresponden te a 127 C. Pedal para auxiliar na abertura da tampa. Dimensões internas: altu ra 50 cm x 35 cm de diâmetro.externas: altura de 110 cm x 54 cm de largura x 6 0 cm de profundidade. Tensão 110/220 volts",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 6000.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "DIGITALE",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "15464751000136",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "JOVIC COMERCIAL E SERVICOS LTDA - EPP",
+                "dtAlteracao": "2024-04-08T11:40:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

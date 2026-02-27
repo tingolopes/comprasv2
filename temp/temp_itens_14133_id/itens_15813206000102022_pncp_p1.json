@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-contratacoes/2.1_consultarItensContratacoes_PNCP_14133_Id?tipo=idCompra&codigo=15813206000102022&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-13 10:45:55",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000102022",
+                "idCompraItem": "1581320600010202200001",
+                "idContratacaoPNCP": "10673078000120-1-000004/2022",
+                "unidadeOrgaoCodigoUnidade": "158132",
+                "orgaoEntidadeCnpj": "10673078000120",
+                "numeroItemPncp": 1,
+                "numeroItemCompra": 1,
+                "numeroGrupo": 0,
+                "descricaoResumida": "Tradução / Interpretação Simultânea / Consecutiva",
+                "materialOuServico": "S",
+                "materialOuServicoNome": "Serviço",
+                "codigoClasse": null,
+                "codigoGrupo": 839,
+                "codItemCatalogo": 12637,
+                "descricaodetalhada": "Posto de Serviço terceirizado de  Tradutor e intérprete de Libras   40 h parao IFMS campus Corumbá. (02) Dois Postos durantes 06 meses, com possibilidade de prorrogação no interesse da administração.",
+                "unidadeMedida": "UNIDADE",
+                "orcamentoSigiloso": false,
+                "itemCategoriaIdPncp": 3,
+                "itemCategoriaNome": "Informática (TIC)",
+                "criterioJulgamentoIdPncp": 1,
+                "criterioJulgamentoNome": "Menor preço",
+                "situacaoCompraItem": "2",
+                "situacaoCompraItemNome": "Homologado",
+                "tipoBeneficio": "4",
+                "tipoBeneficioNome": "Sem benefício",
+                "incentivoProdutivoBasico": false,
+                "quantidade": 2.0,
+                "valorUnitarioEstimado": 36609.18,
+                "valorTotal": 73218.36,
+                "temResultado": true,
+                "codFornecedor": "17067013000180",
+                "nomeFornecedor": "EGP SERVICOS LTDA",
+                "quantidadeResultado": 2.0,
+                "valorUnitarioResultado": 36609.0,
+                "valorTotalResultado": 73218.0,
+                "dataInclusaoPncp": "2022-04-05T09:44:31",
+                "dataAtualizacaoPncp": "2022-04-20T17:45:57",
+                "dataResultado": "2022-04-20 00:00:00.0000000",
+                "margemPreferenciaNormal": false,
+                "percentualMargemPreferenciaNormal": null,
+                "margemPreferenciaAdicional": false,
+                "percentualMargemPreferenciaAdicional": null,
+                "codigoNCM": null,
+                "descricaoNCM": null,
+                "numeroControlePNCPCompra": "10673078000120-1-000004/2022"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15584806000192020",
+        "data_extracao": "2026-02-13 10:57:12",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15584806000192020",
+                "idCompraItem": "1558480600019202000001",
+                "coUasg": 155848,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 19,
+                "dtAnoAvisoLicitacao": 2020,
+                "nuInciso": "02",
+                "nuProcesso": "23347006210202048",
+                "vrEstimado": 3200.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Valor inferior a R$ 17.600,00",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "CARLOS VINICIUS DA SILVA FIGUEIREDO",
+                "noCargoRespDeclDisp": "Ordenador de Despesas",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 20060,
+                "noServico": "ELABORACAO / ANALISE PROJETO - ENGENHARIA",
+                "dsDetalhada": "Realizar inspeção, elaborar laudos técnicos e fazer anotação de responsabilida de técnica visando a adequação:    1. Dos sistemas de prevenção e combate a in cêndio( (hidrantes, bombas, alarme, extintores, luminárias, sinalizações e rot a de fuga);      2. Das instalações elétricas de baixa tensão (quadros, comand os elétricos, disjuntores);    3. Dos sistemas de proteção contra descargas at mosféricas (SPDA).    4. Gerenciar a aquisição de licença junto as corpo de bo mbeiros (requerimento de vistoria, prorrogações de prazos e acompanhamento dos  bombeiros). Taxas por conta do IFMS.    OBS.: Todas as adequações, inspeções,  laudos técnicos, anotações de responsabilidade técnica e gerenciamento de lic ença deverá ser realizado para os dois blocos do IFMS Campus Dourados (blocos  A e B).",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "Unidade",
+                "vrEstimadoItem": 3200.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "35509071000107",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "CASA DO BOMBEIRO PREVENCAO CONTRA INCENDIO EIRELI",
+                "dtAlteracao": "2024-04-08T11:35:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

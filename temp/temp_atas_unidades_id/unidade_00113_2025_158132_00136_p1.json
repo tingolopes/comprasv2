@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00113%2F2025&unidadeGerenciadora=158132&numeroItem=00136&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:58:18",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00113/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00136",
+                "codigoPdm": "19588",
+                "descricaoItem": "IOGURTE NATURAL, TEOR GORDURA INTEGRAL, SABOR SORTIDOS, COMPONENTES COM POLPA OU PEDAÇOS DE FRUTA, CARACTERÍSTICAS ADICIONAIS TIPO GREGO",
+                "fornecedor": "54167555000151 - MS LICITACOES, COMERCIO E SERVICOS LTDA",
+                "quantidadeRegistrada": 0.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": 0.0,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2025-08-08T10:10:33",
+                "dataHoraAtualizacao": "2025-08-14T11:09:31",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            },
+            {
+                "numeroAta": "00113/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00136",
+                "codigoPdm": "19588",
+                "descricaoItem": "IOGURTE NATURAL, TEOR GORDURA INTEGRAL, SABOR SORTIDOS, COMPONENTES COM POLPA OU PEDAÇOS DE FRUTA, CARACTERÍSTICAS ADICIONAIS TIPO GREGO",
+                "fornecedor": "54167555000151 - MS LICITACOES, COMERCIO E SERVICOS LTDA",
+                "quantidadeRegistrada": 1000.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 998.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": 0.0,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2025-08-08T10:11:57",
+                "dataHoraAtualizacao": "2025-12-02T19:54:32",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158450",
+                "nomeUnidade": "INST. FED. DO MS/CAMPUS CORUMBA",
+                "tipoUnidade": "PARTICIPANTE"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

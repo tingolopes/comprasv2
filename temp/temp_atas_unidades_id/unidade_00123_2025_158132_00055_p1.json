@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00123%2F2025&unidadeGerenciadora=158132&numeroItem=00055&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:30:32",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00123/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00055",
+                "codigoPdm": "02265",
+                "descricaoItem": "ÁLCOOL METÍLICO, ASPECTO FÍSICO LÍQUIDO LÍMPIDO, INCOLOR, ODOR CARACTERÍSTICO, FÓRMULA QUÍMICA CH3OH, PESO MOLECULAR 32,04 G/MOL, GRAU DE PUREZA PUREZA MÍNIMA DE 99,9%, CARACTERÍSTICA ADICIONAL GRAU LC-MS, NÚMERO DE REFERÊNCIA QUÍMICA CAS 67-56-1",
+                "fornecedor": "49506242000140 - HALOGENN QUIMICA CIENTIFICA COMERCIO LTDA",
+                "quantidadeRegistrada": 0.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": 0.0,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2025-12-10T14:56:00",
+                "dataHoraAtualizacao": "2025-12-10T15:21:04",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            },
+            {
+                "numeroAta": "00123/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00055",
+                "codigoPdm": "02265",
+                "descricaoItem": "ÁLCOOL METÍLICO, ASPECTO FÍSICO LÍQUIDO LÍMPIDO, INCOLOR, ODOR CARACTERÍSTICO, FÓRMULA QUÍMICA CH3OH, PESO MOLECULAR 32,04 G/MOL, GRAU DE PUREZA PUREZA MÍNIMA DE 99,9%, CARACTERÍSTICA ADICIONAL GRAU LC-MS, NÚMERO DE REFERÊNCIA QUÍMICA CAS 67-56-1",
+                "fornecedor": "49506242000140 - HALOGENN QUIMICA CIENTIFICA COMERCIO LTDA",
+                "quantidadeRegistrada": 100.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 100.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": 0.0,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2025-12-10T14:56:46",
+                "dataHoraAtualizacao": "2025-12-10T15:21:29",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158451",
+                "nomeUnidade": "INST. FED. DO MS/CAMPUS COXIM",
+                "tipoUnidade": "PARTICIPANTE"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

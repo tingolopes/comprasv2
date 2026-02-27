@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-contratacoes/2.1_consultarItensContratacoes_PNCP_14133_Id?tipo=idCompra&codigo=15813206003162024&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-13 10:50:52",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206003162024",
+                "idCompraItem": "1581320600316202400001",
+                "idContratacaoPNCP": "10673078000120-1-000106/2024",
+                "unidadeOrgaoCodigoUnidade": "158132",
+                "orgaoEntidadeCnpj": "10673078000120",
+                "numeroItemPncp": 1,
+                "numeroItemCompra": 1,
+                "numeroGrupo": 0,
+                "descricaoResumida": "Software como Servico - Saas Software como Servico - Saas",
+                "materialOuServico": "S",
+                "materialOuServicoNome": "Serviço",
+                "codigoClasse": null,
+                "codigoGrupo": 131,
+                "codItemCatalogo": 26077,
+                "descricaodetalhada": "Software como Servico - Saas Software como Servico - Saas",
+                "unidadeMedida": "UNIDADE",
+                "orcamentoSigiloso": false,
+                "itemCategoriaIdPncp": 3,
+                "itemCategoriaNome": "Informática (TIC)",
+                "criterioJulgamentoIdPncp": 7,
+                "criterioJulgamentoNome": "Não se aplica",
+                "situacaoCompraItem": "2",
+                "situacaoCompraItemNome": "Homologado",
+                "tipoBeneficio": "5",
+                "tipoBeneficioNome": "Não se aplica",
+                "incentivoProdutivoBasico": false,
+                "quantidade": 1.0,
+                "valorUnitarioEstimado": 20840.9,
+                "valorTotal": 20840.9,
+                "temResultado": true,
+                "codFornecedor": "33402892000106",
+                "nomeFornecedor": "ASSOCIACAO BRASILEIRA DE NORMAS TECNICAS ABNT",
+                "quantidadeResultado": 1.0,
+                "valorUnitarioResultado": 20840.9,
+                "valorTotalResultado": 20840.9,
+                "dataInclusaoPncp": "2024-12-10T15:04:58",
+                "dataAtualizacaoPncp": "2024-12-10T15:12:16",
+                "dataResultado": "2024-12-10 00:00:00.0000000",
+                "margemPreferenciaNormal": false,
+                "percentualMargemPreferenciaNormal": null,
+                "margemPreferenciaAdicional": false,
+                "percentualMargemPreferenciaAdicional": null,
+                "codigoNCM": null,
+                "descricaoNCM": null,
+                "numeroControlePNCPCompra": "10673078000120-1-000106/2024"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

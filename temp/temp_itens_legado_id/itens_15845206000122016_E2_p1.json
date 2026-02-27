@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845206000122016",
+        "data_extracao": "2026-02-13 11:04:28",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 39280567,
+                "numeroLicitacao": "158452061220161",
+                "uasg": 158452,
+                "nomeUasg": "INST.F.DE ED.,CIENC.E TEC.DO MS/C.N ANDRADINA",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 122016,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 3565,
+                "nomeServico": "MANUTENCAO DE VEICULOS LEVES / PESADOS",
+                "cnpjFornecedor": "36821288000102",
+                "nomeFornecedor": "FALCAO TRATORES E EQUIPAMENTOS LTDA - ME",
+                "quantidade": null,
+                "unidade": "SERV",
+                "descricaoItem": "Manutenção e reparo do trator NHTT 4030 (revisão motor, vazamento de óleo e tr oca de peças).",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 920.8,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:40:00",
+                "idCompra": "15845206000122016",
+                "idCompraItem": "1584520600012201600001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15844806000022017",
+        "data_extracao": "2026-02-13 09:38:21",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 40722490,
+                "numeroLicitacao": "15844806220171",
+                "uasg": 158448,
+                "nomeUasg": "INST.FED.DE ED.,CIENT.E TEC.DE MS/C.AQUIDAUAN",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 22017,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 16748,
+                "nomeMaterial": "FRESADORA, MAQUINA INDUSTRIAL DE FRESAR ENGRENAGEM NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "17840736000170",
+                "nomeFornecedor": "VALTER TEIXEIRA ALVES 30333497813",
+                "quantidade": null,
+                "unidade": "unidade",
+                "descricaoItem": "MÁQUINA fresadora CNC (3 eixos) e/ou conjunto de fresas e/ou peças para reposi ção. Dentre as funções para confecção de placas de circuito impresso, trabalho s como escultura em relevo, cortes de chapas em mdf, fresagem de peças em acrí lico, alguns metais, entre outros materiais usados em projetos.  Configuração Padrão da Máquina:  Estrutura: toda em Aço;  Área útil aproximado: X=259mm, Y= 239, Z=50mm;  Transmissão: Fuso trapezoidal 8mm nos 3 eixos, xyz;  Motor de pa sso: Nema 17:  Motor Spindle: micro retifica 130w ou superior;  Interface de c ontrole: USBarduino;  Eixos retificados e temperados, pillow block com rola mento linear;  Após acionamento do botão de emergência o sistema para os motor es x,y,z;  Mesa em MDF;  Montada;  Com manual de instrução;  127V.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 3110.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:20:00",
+                "idCompra": "15844806000022017",
+                "idCompraItem": "1584480600002201700001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000282021",
+        "data_extracao": "2026-02-13 11:25:29",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 50342704,
+                "numeroLicitacao": "158132062820212",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 282021,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 3417,
+                "nomeServico": "DESINSETIZACAO / DESRATIZACAO / DEDETIZACAO",
+                "cnpjFornecedor": "16665794000142",
+                "nomeFornecedor": "INSETPRAG DESINSETIZACAO LTDA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Contratação de serviços de dedetização, descupinização, desratização e control e de formigas Campus Dourados.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 6420.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000282021",
+                "idCompraItem": "1581320600028202100002"
+            },
+            {
+                "isnSidecResultadoCompra": 50342703,
+                "numeroLicitacao": "158132062820211",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 282021,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 3417,
+                "nomeServico": "DESINSETIZACAO / DESRATIZACAO / DEDETIZACAO",
+                "cnpjFornecedor": "27183971000170",
+                "nomeFornecedor": "HIGIPLIM CONTROLE DE PRAGAS EIRELI",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Processo de contratação de empresa para Contratação de serviços de dedetização para o Campus Três Lagoas.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 2768.8,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000282021",
+                "idCompraItem": "1581320600028202100001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

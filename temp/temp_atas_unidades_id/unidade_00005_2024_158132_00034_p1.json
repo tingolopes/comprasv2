@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00005%2F2024&unidadeGerenciadora=158132&numeroItem=00034&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:29:03",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00005/2024",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00034",
+                "codigoPdm": "13114",
+                "descricaoItem": "TUBO LABORATÓRIO, TIPO ENSAIO, MATERIAL VIDRO, TIPO FUNDO FUNDO REDONDO, DIMENSÕES CERCA DE 25 X 250 MM, ACESSÓRIOS TAMPA ROSQUEÁVEL",
+                "fornecedor": "11301724000191 - QUALY COMERCIAL LTDA",
+                "quantidadeRegistrada": 0.0,
+                "saldoAdesoes": 120.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 120.0,
+                "qtdLimiteInformadoCompra": 120.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2024-02-22T15:57:46",
+                "dataHoraAtualizacao": "2024-03-04T15:17:51",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            },
+            {
+                "numeroAta": "00005/2024",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00034",
+                "codigoPdm": "13114",
+                "descricaoItem": "TUBO LABORATÓRIO, TIPO ENSAIO, MATERIAL VIDRO, TIPO FUNDO FUNDO REDONDO, DIMENSÕES CERCA DE 25 X 250 MM, ACESSÓRIOS TAMPA ROSQUEÁVEL",
+                "fornecedor": "11301724000191 - QUALY COMERCIAL LTDA",
+                "quantidadeRegistrada": 50.0,
+                "saldoAdesoes": 120.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 120.0,
+                "qtdLimiteInformadoCompra": 120.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2024-02-22T15:58:27",
+                "dataHoraAtualizacao": "2024-12-30T18:54:47",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158449",
+                "nomeUnidade": "INST. FED. DO MS/CAMPUS CAMPO GRANDE",
+                "tipoUnidade": "PARTICIPANTE"
+            },
+            {
+                "numeroAta": "00005/2024",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00034",
+                "codigoPdm": "13114",
+                "descricaoItem": "TUBO LABORATÓRIO, TIPO ENSAIO, MATERIAL VIDRO, TIPO FUNDO FUNDO REDONDO, DIMENSÕES CERCA DE 25 X 250 MM, ACESSÓRIOS TAMPA ROSQUEÁVEL",
+                "fornecedor": "11301724000191 - QUALY COMERCIAL LTDA",
+                "quantidadeRegistrada": 10.0,
+                "saldoAdesoes": 120.0,
+                "saldoRemanejamentoEmpenho": 10.0,
+                "qtdLimiteAdesao": 120.0,
+                "qtdLimiteInformadoCompra": 120.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2024-02-22T15:58:27",
+                "dataHoraAtualizacao": "2024-03-04T15:18:36",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158453",
+                "nomeUnidade": "INST. FED. DO MS/CAMPUS PONTA PORA",
+                "tipoUnidade": "PARTICIPANTE"
+            }
+        ],
+        "totalRegistros": 3,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

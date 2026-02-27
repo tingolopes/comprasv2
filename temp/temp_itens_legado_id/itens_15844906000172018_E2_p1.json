@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15844906000172018",
+        "data_extracao": "2026-02-13 09:47:36",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 42220060,
+                "numeroLicitacao": "158449061720182",
+                "uasg": 158449,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.C.GRANDE",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 172018,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 5436,
+                "nomeServico": "CHAVEIRO",
+                "cnpjFornecedor": "01088055000168",
+                "nomeFornecedor": "SOBRAL-CHAVES E CARIMBOS LTDA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Troca de fechadura (retirada da fechadura atual e instalação de fechadura mode lo maçaneta  (tipo  L ) design em curva",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 2550.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:27:00",
+                "idCompra": "15844906000172018",
+                "idCompraItem": "1584490600017201800002"
+            },
+            {
+                "isnSidecResultadoCompra": 42220059,
+                "numeroLicitacao": "158449061720181",
+                "uasg": 158449,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.C.GRANDE",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 172018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 5436,
+                "nomeServico": "CHAVEIRO",
+                "cnpjFornecedor": "01088055000168",
+                "nomeFornecedor": "SOBRAL-CHAVES E CARIMBOS LTDA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Confecção de cópias de chaves (modelos diversos)",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 2500.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:27:00",
+                "idCompra": "15844906000172018",
+                "idCompraItem": "1584490600017201800001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

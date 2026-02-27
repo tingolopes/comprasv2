@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000282022",
+        "data_extracao": "2026-02-13 11:27:25",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 52409567,
+                "numeroLicitacao": "158132062820221",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 282022,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 27022,
+                "nomeServico": "OUTROS SERVICOS DE  GERENCIAMENTO DE INFRAESTRUTURA DE TECNOLOGIA DA INFORMACAO E COMUNICACAO (TIC)",
+                "cnpjFornecedor": "13713890000120",
+                "nomeFornecedor": "DERLI TOBIAS DE OLIVEIRA",
+                "quantidade": null,
+                "unidade": "UND SERVIÇO TÉCNICO",
+                "descricaoItem": "Serviço de instalação de link de fibra óptica e pontos de rede Cat6 metálicos, com fornecimento de materiais que compreende os seguintes serviços:In stalação de infraestrutura para passagem de fibra óptica; Instalação de i nfraestrutura para passagem de pontos de rede; Instalação de um rack 05U; Lançamento de 150 metros de fibra; Instalação de 4 pontos de rede c at6; Identificação e certificação pontos de rede cat6. Lista minima de materiais a serem utilizados: Rack 5U; Régua de energia; Mangu eira 1 pol; Caixa condulet 1Pol/ com tampa cega; Unidut 1 Pol; Eletroduto zincado 1Pol; cabo de rede cat6; Conector fêmea cat6; Patch cord cat6 1,5m; Mídia converte para conector; Cabo optic dro p; Conector SC; Roseta; Cordão óptica; Caixa condulete par a dois Rj45",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 4288.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2025-03-12T14:27:22",
+                "idCompra": "15813206000282022",
+                "idCompraItem": "1581320600028202200001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

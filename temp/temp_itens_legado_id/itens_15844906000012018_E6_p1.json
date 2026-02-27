@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15844906000012018",
+        "data_extracao": "2026-02-13 09:46:47",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15844906000012018",
+                "idCompraItem": "1584490600001201800001",
+                "coUasg": 158449,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 1,
+                "dtAnoAvisoLicitacao": 2018,
+                "nuInciso": "22",
+                "nuProcesso": "00944290064201851",
+                "vrEstimado": 660000.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso XXII da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Determinada pelo Art. 24º, Inciso XXII da Lei nº 8.666 de 21/06/1993.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "JOAO OTAVIO CENEDEZI PIMENTA",
+                "noCargoRespDeclDisp": "Diretor de Administração",
+                "noResponsavelRatificacao": "DEJAHYR LOPES JUNIOR",
+                "noCargoRespRatificacao": "Ordenador de Despesas Substituto",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 16748,
+                "noServico": "DISTRIBUICAO / ENTREGA DE CONTA - LUZ, TELEFONE, AGUA, GAS",
+                "dsDetalhada": "Prestação do serviço de fornecimento de energia elétrica para a sede do Campus  Campo Grande do IFMS, sito à Rua Taquari nº 831, bairro Santo Antonio.    Pra zo da contratação: indeterminado, conforme ON-AGU nº 36/2011 publicada no DOU em 14.11.2012.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "Serviço.",
+                "vrEstimadoItem": 660000.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "15413826000150",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "ENERGISA MATO GROSSO DO SUL - DISTRIBUIDORA DE ENERGIA S.A.",
+                "dtAlteracao": "2024-04-08T11:27:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

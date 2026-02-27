@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000612018",
+        "data_extracao": "2026-02-13 11:21:49",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 43500500,
+                "numeroLicitacao": "158132066120181",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 612018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 11711,
+                "nomeMaterial": "FOTOCOMPOSITORA, FOTOCOMPOSITORA NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "33783341000130",
+                "nomeFornecedor": "RODRIGUES PUBLICIDADE LTDA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "GALERIA REITORES 01 (Uma) PLACA EM ACRÍLICO 5MM COM APLICAÇÃO DE ADESIVO REC ORTADO. FIXADA ATRAVÉS DE PROLONGADORES CROMADOS;  GALERIA DE DIRETORES GERAIS 10 (dez) PLACAS EM ACRÍLICO 5MM COM APLICAÇÃO DE ADESIVO RECORTADO. FIXADA ATRAVÉS DE PROLONGADORES CROMADOS.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1816.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000612018",
+                "idCompraItem": "1581320600061201800001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

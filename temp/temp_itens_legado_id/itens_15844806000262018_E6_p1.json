@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15844806000262018",
+        "data_extracao": "2026-02-13 09:39:49",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15844806000262018",
+                "idCompraItem": "1584480600026201800001",
+                "coUasg": 158448,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 26,
+                "dtAnoAvisoLicitacao": 2018,
+                "nuInciso": "02",
+                "nuProcesso": "23347018257201830",
+                "vrEstimado": 4690.3,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Atender as demandas de manutenção predial e também para aulas de edificações.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "HILDA RIBEIRO ROMERO",
+                "noCargoRespDeclDisp": "Ordenadora de Despesas",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 150513,
+                "noConjuntoMateriais": null,
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "Detector de Materiais Profissional (referência DTECT 150 Professional   Bosch,  ou de melhor qualidade).  DADOS TÉCNICOS:  Materiais detectáveis: Tubos de pl ástico, metais ferrosos, metais não-ferrosos, estruturas em madeira, condutore s eléctricos; Profundidade de detecção máx.: 150 mm; Profundidade de medição, aço, máx.: 150 mm; Precisão: ± 5 mm; Dispositivo de desligamento automático, a prox.: 5 min; Bateria: 4 pilhas x 1,5V LR6 (AA); Peso: 0,69 kg; Comprimento: 2 20 mm; Largura: 97 mm; Altura: 120 mm; Proteção contra pó e salpicos de água: IP 54; Precisão do centro do objeto: ± 0,5 cm; Precisão de profundidade do obj eto: ± 0,5 cm; Mínima distância entre 2 objetos: 4 cm; Duração da bateria: 5 h .",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "UNIDADE",
+                "vrEstimadoItem": 4690.3,
+                "dsFabricante": null,
+                "noMarcaMaterial": "s/m",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "15459431001160",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "SERTAO COMERCIAL DE EQUIPAMENTOS LTDA",
+                "dtAlteracao": "2024-04-08T11:20:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

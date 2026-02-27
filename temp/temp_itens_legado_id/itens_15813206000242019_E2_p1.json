@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000242019",
+        "data_extracao": "2026-02-13 11:22:50",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 44791690,
+                "numeroLicitacao": "158132062420191",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 242019,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 23973,
+                "nomeServico": "PRESTACAO DE SERVICO DE VIGILANCIA E  SEGURANCA - ORGANICA -12 HORAS NOTURNAS - SABADO / DOMINGO / FERIADOS",
+                "cnpjFornecedor": "04951122000114",
+                "nomeFornecedor": "MEGA SEGURANCA LTDA",
+                "quantidade": null,
+                "unidade": "Posto",
+                "descricaoItem": "Contratação temporária de Posto de Vigilância desarmado, para atuar 6 diárias no período noturno das 18:00 as 6:00.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1500.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000242019",
+                "idCompraItem": "1581320600024201900001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

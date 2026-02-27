@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845006000162020",
+        "data_extracao": "2026-02-13 09:45:24",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 48177189,
+                "numeroLicitacao": "158450061620201",
+                "uasg": 158450,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.CORUMBÁ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 162020,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 18180,
+                "nomeServico": "INSTALACAO / REMOCAO / MANUTENCAO - FORRO EM GERAL",
+                "cnpjFornecedor": "35779324000154",
+                "nomeFornecedor": "SM & P CONSTRUCAO E COMERCIO LTDA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Contratação de empresa especializada em instalação forro PVC para reparo na gu arita do  campus Corumbá. O serviço compreende a substituição da estrutu ra metálica danificada e instalação de novo revestimento em forro PVC em toda a extensão da guarita. A contratada deverá fornecer todos os insumos necessári os a execução do serviço.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 9600.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-12-10T09:32:02",
+                "idCompra": "15845006000162020",
+                "idCompraItem": "1584500600016202000001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

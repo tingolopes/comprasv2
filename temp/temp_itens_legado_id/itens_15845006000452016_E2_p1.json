@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845006000452016",
+        "data_extracao": "2026-02-13 09:41:13",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 38628769,
+                "numeroLicitacao": "158450064520161",
+                "uasg": 158450,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.CORUMBÁ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 452016,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 313929,
+                "nomeMaterial": "QUADRO AVISOS, MATERIAL MADEIRA ACARPETADA COM FELTRO VERDE  COMPRIMENTO 120 CM LARGURA 100 CM CARACTERÍSTICAS ADICIONAIS MOLDURA EM ALUMÍNIO 2 CM DE LARGURA",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "12706257000142",
+                "nomeFornecedor": "STS COMERCIO VAREJISTA LTDA - EPP",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 365.6,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-02-09T08:27:00",
+                "idCompra": "15845006000452016",
+                "idCompraItem": "1584500600045201600001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

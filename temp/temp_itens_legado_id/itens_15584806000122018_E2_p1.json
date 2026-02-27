@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15584806000122018",
+        "data_extracao": "2026-02-13 10:26:40",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 43161163,
+                "numeroLicitacao": "155848061220181",
+                "uasg": 155848,
+                "nomeUasg": "IF - MS/ CAMPUS DOURADOS",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 122018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 4170,
+                "nomeMaterial": "MOCHILA, MOCHILA NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "97371090000169",
+                "nomeFornecedor": "ARTE CAMISETAS LTDA",
+                "quantidade": null,
+                "unidade": "un",
+                "descricaoItem": "Bolsa cor preta, confeccionada em nylon 600, medindo 0,44 cm x 0,39 x 0,19, ac abamento em perfil vivo, abertura na parte superior, dois bolsos laterais tipo cargo, um bolso frontal com serigrafia, duas alças de mão de 40 mm e uma alça tira-colo de 40 mm com regulador e ombreira de polipropileno.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 3240.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-06-10T06:34:00",
+                "idCompra": "15584806000122018",
+                "idCompraItem": "1558480600012201800001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00010%2F2024&unidadeGerenciadora=158132&numeroItem=00021&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:11:50",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00010/2024",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00021",
+                "codigoPdm": null,
+                "descricaoItem": "Prestação de Serviços de Motorista, Hora extra finais de semana e feriados, Ca mpus Coxim.",
+                "fornecedor": "08720790000191 - POLO ADMINISTRACAO LTDA",
+                "quantidadeRegistrada": 0.0,
+                "saldoAdesoes": 96.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 96.0,
+                "qtdLimiteInformadoCompra": 96.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2024-03-15T16:07:14",
+                "dataHoraAtualizacao": "2024-03-15T16:07:14",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            },
+            {
+                "numeroAta": "00010/2024",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00021",
+                "codigoPdm": null,
+                "descricaoItem": "Prestação de Serviços de Motorista, Hora extra finais de semana e feriados, Ca mpus Coxim.",
+                "fornecedor": "08720790000191 - POLO ADMINISTRACAO LTDA",
+                "quantidadeRegistrada": 48.0,
+                "saldoAdesoes": 96.0,
+                "saldoRemanejamentoEmpenho": 48.0,
+                "qtdLimiteAdesao": 96.0,
+                "qtdLimiteInformadoCompra": 96.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2024-03-15T16:08:05",
+                "dataHoraAtualizacao": "2024-03-15T16:08:05",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158451",
+                "nomeUnidade": "INST. FED. DO MS/CAMPUS COXIM",
+                "tipoUnidade": "PARTICIPANTE"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

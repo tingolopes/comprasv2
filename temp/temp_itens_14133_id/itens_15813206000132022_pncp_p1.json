@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-contratacoes/2.1_consultarItensContratacoes_PNCP_14133_Id?tipo=idCompra&codigo=15813206000132022&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-13 10:44:54",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000132022",
+                "idCompraItem": "1581320600013202200001",
+                "idContratacaoPNCP": "10673078000120-1-000005/2022",
+                "unidadeOrgaoCodigoUnidade": "158132",
+                "orgaoEntidadeCnpj": "10673078000120",
+                "numeroItemPncp": 1,
+                "numeroItemCompra": 1,
+                "numeroGrupo": 0,
+                "descricaoResumida": "Serviço de vigilância armada",
+                "materialOuServico": "S",
+                "materialOuServicoNome": "Serviço",
+                "codigoClasse": null,
+                "codigoGrupo": null,
+                "codItemCatalogo": null,
+                "descricaodetalhada": null,
+                "unidadeMedida": "POSTO",
+                "orcamentoSigiloso": false,
+                "itemCategoriaIdPncp": 3,
+                "itemCategoriaNome": "Informática (TIC)",
+                "criterioJulgamentoIdPncp": 1,
+                "criterioJulgamentoNome": "Menor preço",
+                "situacaoCompraItem": "1",
+                "situacaoCompraItemNome": "Em andamento",
+                "tipoBeneficio": "1",
+                "tipoBeneficioNome": "Participação exclusiva para ME/EPP",
+                "incentivoProdutivoBasico": false,
+                "quantidade": 12.0,
+                "valorUnitarioEstimado": 880.0,
+                "valorTotal": 10560.0,
+                "temResultado": null,
+                "codFornecedor": null,
+                "nomeFornecedor": null,
+                "quantidadeResultado": null,
+                "valorUnitarioResultado": null,
+                "valorTotalResultado": null,
+                "dataInclusaoPncp": "2022-04-08T12:08:02",
+                "dataAtualizacaoPncp": "2022-04-08T12:08:02",
+                "dataResultado": null,
+                "margemPreferenciaNormal": false,
+                "percentualMargemPreferenciaNormal": null,
+                "margemPreferenciaAdicional": false,
+                "percentualMargemPreferenciaAdicional": null,
+                "codigoNCM": null,
+                "descricaoNCM": null,
+                "numeroControlePNCPCompra": "10673078000120-1-000005/2022"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

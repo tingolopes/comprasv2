@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15844906000212016",
+        "data_extracao": "2026-02-13 09:46:02",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 39252227,
+                "numeroLicitacao": "158449062120161",
+                "uasg": 158449,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.C.GRANDE",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 212016,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 1899,
+                "nomeServico": "OBRAS CIVIS DE SANEAMENTO - SISTEMA DE DRENAGEM PLUVIAL E INDUSTRIAL",
+                "cnpjFornecedor": "19993621000141",
+                "nomeFornecedor": "CLODOALDO VERNILLE ELIAS - ME",
+                "quantidade": null,
+                "unidade": "Serviço",
+                "descricaoItem": "Contração de serviço de mini retroescavadeira (aproximadamente 2.8 toneladas) com retro de 25-30 cm com pá carregadeira, para escavação de valas e deslocame nto de material removido, conforme projeto.-Deverão estar inclusos no servi ço a disponibilização dos  operadores da máquina e trabalhador para o serviço de remoção de paver intertravado (146m²); reassentamento de paver intertravado (146m²) e manta bidim e acomodação de pedra pulmão. Os profissionais que f orem executar os serviços deverão utilizar os Equipamentos de Proteção Individ ual EPIs pertinentes.  Tudo conforme projetos  drenagem de águas fluviais  e tabela com os quantitativos que acompanha esse Requerimento.  Obs.: não inclu sos pedra pulmão nem manta bidim.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 8000.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:27:00",
+                "idCompra": "15844906000212016",
+                "idCompraItem": "1584490600021201600001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

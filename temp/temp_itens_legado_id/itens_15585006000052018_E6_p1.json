@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15585006000052018",
+        "data_extracao": "2026-02-13 10:58:22",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15585006000052018",
+                "idCompraItem": "1558500600005201800001",
+                "coUasg": 155850,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 5,
+                "dtAnoAvisoLicitacao": 2018,
+                "nuInciso": "01",
+                "nuProcesso": "23347006655201811",
+                "vrEstimado": 31670.53,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso I da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Valor dentro do limite do inciso I do art. 24 da Lei 8.666",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "NILSON OLIVEIRA DA SILVA",
+                "noCargoRespDeclDisp": "Ordenador de Despesa",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 1627,
+                "noServico": "MANUTENCAO / REFORMA PREDIAL",
+                "dsDetalhada": "Construção de infraestrutura necessária para a instalação de salas modulares n o Campus Jardim do Instituto Federal de Mato Grosso do Sul (IFMS), conforme co ndições, quantidades, exigências e especificações discriminadas nos projetos e  demais documentos anexos.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "Obra",
+                "vrEstimadoItem": 31670.53,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "20348723000193",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "CONSTRUTORA URBRASILIA EIRELI",
+                "dtAlteracao": "2024-04-08T11:36:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

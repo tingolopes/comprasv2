@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845106000052020",
+        "data_extracao": "2026-02-13 10:15:46",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 47891732,
+                "numeroLicitacao": "15845106520201",
+                "uasg": 158451,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.COXIM",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 52020,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 19542,
+                "nomeServico": "PRESTACAO DE SERVICOS DE LAVANDERIA",
+                "cnpjFornecedor": "10870997000194",
+                "nomeFornecedor": "JJSR AR CONDICIONADO EIRELI",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Higienização de cortinas em tecido tipo blackout, franzida com pregas, contend o argolas, ilhós e varão. Os serviços deverão compreender ainda a desinstalaçã o e reinstalação nas respectivas salas, o transporte, a lavagem, a passadoria, o fornecimento, a substituição de acessórios/peças com defeitos ou faltantes, bem como reparos de costura que se fizerem necessários.UNIDADE DE MEDIDA: m²",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 10540.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:32:00",
+                "idCompra": "15845106000052020",
+                "idCompraItem": "1584510600005202000001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

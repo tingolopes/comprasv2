@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=90014%2F2024&unidadeGerenciadora=158132&numeroItem=00016&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:53:04",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "90014/2024",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00016",
+                "codigoPdm": null,
+                "descricaoItem": "Vigilância patrimonial, ARMADA, NOTURNO, em turnos de 12 (doze) x 36 (trinta e  seis) horas, de segunda-feira a domingo, inclusive feriados.(Campus Naviraí)",
+                "fornecedor": "33924772000330 - FUERZA SEGURANCA PRIVADA - VIGILANCIA PATRIMONIAL LTDA",
+                "quantidadeRegistrada": 1.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 1.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": 0.0,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2024-12-05T13:53:58",
+                "dataHoraAtualizacao": "2025-01-08T11:08:55",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "155849",
+                "nomeUnidade": "INST.FED.DO MS/CAMPUS NAVIRAI",
+                "tipoUnidade": "PARTICIPANTE"
+            },
+            {
+                "numeroAta": "90014/2024",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00016",
+                "codigoPdm": null,
+                "descricaoItem": "Vigilância patrimonial, ARMADA, NOTURNO, em turnos de 12 (doze) x 36 (trinta e  seis) horas, de segunda-feira a domingo, inclusive feriados.(Campus Naviraí)",
+                "fornecedor": "33924772000330 - FUERZA SEGURANCA PRIVADA - VIGILANCIA PATRIMONIAL LTDA",
+                "quantidadeRegistrada": 0.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": 0.0,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2024-12-05T13:53:52",
+                "dataHoraAtualizacao": "2025-01-08T11:08:47",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

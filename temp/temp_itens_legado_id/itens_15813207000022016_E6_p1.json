@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813207000022016",
+        "data_extracao": "2026-02-13 11:18:40",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813207000022016",
+                "idCompraItem": "1581320700002201600001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 2,
+                "dtAnoAvisoLicitacao": 2016,
+                "nuInciso": "00",
+                "nuProcesso": "23347005751201672",
+                "vrEstimado": 1500.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 25º, Caput da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Inviabilidade de competição, tendo em vista se tratar de associação específica.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "LUIZ SIMAO STASZCZAK",
+                "noCargoRespDeclDisp": "Ordenador de Despesas",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 20010,
+                "noServico": "RECOLHIMENTO CONTRIBUICAO / ANUIDADE",
+                "dsDetalhada": "Valor da anuidade para filiação institucional do IFMS junto ao Fórum Nacional de Gestores de Inovação e Transferência de Tecnologia - FORTEC, conhecido como  Associação FORTEC.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "ANUIDADE",
+                "vrEstimadoItem": 1500.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "15258821000108",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "FORUM NACIONAL DE GESTORES DE INOVACAO E TRANSFERENCIA DE TECNOLOGIA - FORTEC",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

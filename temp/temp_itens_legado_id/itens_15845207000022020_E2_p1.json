@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845207000022020",
+        "data_extracao": "2026-02-13 11:08:48",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 46121950,
+                "numeroLicitacao": "15845207220202",
+                "uasg": 158452,
+                "nomeUasg": "INST.F.DE ED.,CIENC.E TEC.DO MS/C.N ANDRADINA",
+                "modalidade": 7,
+                "nomeModalidade": "INEXIGIBILIDADE DE LICITAÇÃO",
+                "numeroAviso": 22020,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 22764,
+                "nomeServico": "PAGAMENTO COBERTURAS SEGURO VEÍCULO",
+                "cnpjFornecedor": "09248608000104",
+                "nomeFornecedor": "SEGURADORA LIDER DO CONSORCIO DO SEGURO DPVAT SA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Pagamento de guia referente ao seguro obrigatório, exec. 2020, dos veículos ôn ibus placas: HSH-0889, HSH-0891, HTO-2875, HTO-2876 e HTO-2877",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 40.4,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:40:00",
+                "idCompra": "15845207000022020",
+                "idCompraItem": "1584520700002202000002"
+            },
+            {
+                "isnSidecResultadoCompra": 46121949,
+                "numeroLicitacao": "15845207220201",
+                "uasg": 158452,
+                "nomeUasg": "INST.F.DE ED.,CIENC.E TEC.DO MS/C.N ANDRADINA",
+                "modalidade": 7,
+                "nomeModalidade": "INEXIGIBILIDADE DE LICITAÇÃO",
+                "numeroAviso": 22020,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 22764,
+                "nomeServico": "PAGAMENTO COBERTURAS SEGURO VEÍCULO",
+                "cnpjFornecedor": "09248608000104",
+                "nomeFornecedor": "SEGURADORA LIDER DO CONSORCIO DO SEGURO DPVAT SA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Pagamento de guia referente ao seguro obrigatório, exec. 2020, dos veículos pi ck-up/caminhonete placas: NRL-9602, NRL-9603, HSH-0883, NRL-8632, HSH-0884 e HSH-2327",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 34.56,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:40:00",
+                "idCompra": "15845207000022020",
+                "idCompraItem": "1584520700002202000001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

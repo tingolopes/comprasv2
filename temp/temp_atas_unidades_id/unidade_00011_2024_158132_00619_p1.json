@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00011%2F2024&unidadeGerenciadora=158132&numeroItem=00619&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:37:10",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00011/2024",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00619",
+                "codigoPdm": "19789",
+                "descricaoItem": "FRUTA, TIPO BANANA MAÇÃ, APRESENTAÇÃO NATURAL",
+                "fornecedor": "40572454000151 - V4 COMERCIO DE ALIMENTOS LTDA",
+                "quantidadeRegistrada": 0.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": null,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2024-03-27T12:00:11",
+                "dataHoraAtualizacao": "2024-03-27T12:44:46",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            },
+            {
+                "numeroAta": "00011/2024",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00619",
+                "codigoPdm": "19789",
+                "descricaoItem": "FRUTA, TIPO BANANA MAÇÃ, APRESENTAÇÃO NATURAL",
+                "fornecedor": "40572454000151 - V4 COMERCIO DE ALIMENTOS LTDA",
+                "quantidadeRegistrada": 522.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 522.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": null,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2024-03-27T12:02:55",
+                "dataHoraAtualizacao": "2024-10-30T13:43:58",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158448",
+                "nomeUnidade": "INST.FED.DO MS/CAMPUS AQUIDAUANA",
+                "tipoUnidade": "PARTICIPANTE"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845206000092018",
+        "data_extracao": "2026-02-13 11:05:42",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845206000092018",
+                "idCompraItem": "1584520600009201800001",
+                "coUasg": 158452,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 9,
+                "dtAnoAvisoLicitacao": 2018,
+                "nuInciso": "02",
+                "nuProcesso": "23347008190201825",
+                "vrEstimado": 910.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: De acordo com o Art. 24º, Inciso II da Lei nº 8.666 de 21/06/1993.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "MARIA JOSE VASCONCELOS PEREIRA",
+                "noCargoRespDeclDisp": "Tecnóloga em Gestão Pública",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "material",
+                "coConjuntoMateriais": 150600,
+                "noConjuntoMateriais": null,
+                "coServico": 0,
+                "noServico": null,
+                "dsDetalhada": "PEÇAS E ACESSÓRIOS FECHADURA, NOME PEÇAS E ACESSÓRIOS FECHADURA",
+                "qtMaterialAlt": 130,
+                "noUnidadeMedida": "UNIDADE",
+                "vrEstimadoItem": 910.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "NÃO FORNECIDA",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "12522396000116",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "FERNANDO DE BIASI",
+                "dtAlteracao": "2024-04-08T11:40:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

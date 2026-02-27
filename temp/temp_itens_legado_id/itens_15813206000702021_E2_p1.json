@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000702021",
+        "data_extracao": "2026-02-13 11:26:02",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 50913108,
+                "numeroLicitacao": "158132067020211",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 702021,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 22225,
+                "nomeServico": "SERVICO ENGENHARIA",
+                "cnpjFornecedor": "23245992000112",
+                "nomeFornecedor": "RADONI ENGENHARIA E CONSTRUCOES LTDA",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "Contratação de empresa para instalação de rede de proteção esportiva na quadra do IFMS Campus Campo Grande. Característica do material: corda trançada co nfeccionada em monofilamentos no material de polietileno de alta densidade com malhas formando Material de Polietileno tem tratamento contra a ação dos raio s ultravioleta. A durabilidade aproximada com a Rede exposta ao tempo é de 4 a 6 anos em condições normais de uso. Para este período não se considera danos causados após a instalação, tais como: corte, queimaduras com chamas ou produt os químicos. Nas laterais da quadra devem ser usadas rede na  malha 12x12 no f io 4mm e nos fundos a rede na malha 10x10 no fio 4mm. Para instalação das R edes de Proteção em volta da quadra, devem ser instalados 28 tubos redondos de duas polegadas e 170 metros de cabo de aço. Resumo da contratação Estruturas Metálicas. Serviço de instalação das estruturas metálicas. Redes de Proteção Serviço de instalação das Redes de Proteção Garantias na mão de obra e nos mat eriais.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 31000.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000702021",
+                "idCompraItem": "1581320600070202100001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

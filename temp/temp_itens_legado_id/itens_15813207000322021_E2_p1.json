@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813207000322021",
+        "data_extracao": "2026-02-13 11:27:10",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 50922375,
+                "numeroLicitacao": "158132073220211",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 7,
+                "nomeModalidade": "INEXIGIBILIDADE DE LICITAÇÃO",
+                "numeroAviso": 322021,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 150317,
+                "nomeMaterial": "SIMULADOR, SIMULADOR NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "11767097000189",
+                "nomeFornecedor": "G & G AUTOMACAO PARA EQUIPAMENTOS INDUSTRIAIS EIRELI",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Recursos de programação e operação que possibilitam o aprendizado e a simulaçã o de programas CNC através de um PC. Possui 78 comandos CNC, para Torno e Fres a e Centro de Usinagem; Destaque para os comandos Mach9Siemens 810/840 e 82 8Fanuc 0, 0i, 18 e 21i; Possui 180 painéis de operação (diversos fabricante s); As atualizações são gratuitas e vitalícias (Garantia Mínima de 12 meses no Suporte Técnico).Software e Material didático disponibilizado totalmente em p ortuguês.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 88830.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813207000322021",
+                "idCompraItem": "1581320700032202100001"
+            },
+            {
+                "isnSidecResultadoCompra": 50995439,
+                "numeroLicitacao": "158132073220212",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 7,
+                "nomeModalidade": "INEXIGIBILIDADE DE LICITAÇÃO",
+                "numeroAviso": 322021,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 27464,
+                "nomeServico": "LICENCIAMENTO DE DIREITOS PERMANENTES  DE  USO  DE  SOFTWAREPARA SERVIDOR",
+                "cnpjFornecedor": "11767097000189",
+                "nomeFornecedor": "G & G AUTOMACAO PARA EQUIPAMENTOS INDUSTRIAIS EIRELI",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "Recursos de programação e operação que possibilitam o aprendizado e a simulaçã o de programas CNC através de um PC. Possui 78 comandos CNC, para Torno e Fres a e Centro de Usinagem; Destaque para os comandos Mach9Siemens 810/840 e 82 8Fanuc 0, 0i, 18 e 21i; Possui 180 painéis de operação (diversos fabricante s); As atualizações são gratuitas e vitalícias (Garantia Mínima de 12 meses no Suporte Técnico).Software e Material didático disponibilizado totalmente em p ortuguês.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 88830.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813207000322021",
+                "idCompraItem": "1581320700032202100002"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

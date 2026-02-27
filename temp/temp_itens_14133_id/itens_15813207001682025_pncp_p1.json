@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-contratacoes/2.1_consultarItensContratacoes_PNCP_14133_Id?tipo=idCompra&codigo=15813207001682025&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-13 11:43:35",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813207001682025",
+                "idCompraItem": "1581320700168202500001",
+                "idContratacaoPNCP": "10673078000120-1-000024/2025",
+                "unidadeOrgaoCodigoUnidade": "158132",
+                "orgaoEntidadeCnpj": "10673078000120",
+                "numeroItemPncp": 1,
+                "numeroItemCompra": 1,
+                "numeroGrupo": 0,
+                "descricaoResumida": "Pagamento inscrição eventos Pagamento inscrição eventos",
+                "materialOuServico": "S",
+                "materialOuServicoNome": "Serviço",
+                "codigoClasse": null,
+                "codigoGrupo": 929,
+                "codItemCatalogo": 25232,
+                "descricaodetalhada": "Pagamento inscrição eventos Pagamento inscrição eventos",
+                "unidadeMedida": "UNIDADE",
+                "orcamentoSigiloso": false,
+                "itemCategoriaIdPncp": 3,
+                "itemCategoriaNome": "Informática (TIC)",
+                "criterioJulgamentoIdPncp": 7,
+                "criterioJulgamentoNome": "Não se aplica",
+                "situacaoCompraItem": "2",
+                "situacaoCompraItemNome": "Homologado",
+                "tipoBeneficio": "5",
+                "tipoBeneficioNome": "Não se aplica",
+                "incentivoProdutivoBasico": false,
+                "quantidade": 5.0,
+                "valorUnitarioEstimado": 4000.0,
+                "valorTotal": 20000.0,
+                "temResultado": true,
+                "codFornecedor": "27883894000161",
+                "nomeFornecedor": "INOVECAPACITACAO - CONSULTORIA E TREINAMENTOS LTDA",
+                "quantidadeResultado": 5.0,
+                "valorUnitarioResultado": 4000.0,
+                "valorTotalResultado": 20000.0,
+                "dataInclusaoPncp": "2025-03-21T08:24:46",
+                "dataAtualizacaoPncp": "2025-03-21T08:27:48",
+                "dataResultado": "2025-03-21 00:00:00.0000000",
+                "margemPreferenciaNormal": false,
+                "percentualMargemPreferenciaNormal": null,
+                "margemPreferenciaAdicional": false,
+                "percentualMargemPreferenciaAdicional": null,
+                "codigoNCM": null,
+                "descricaoNCM": null,
+                "numeroControlePNCPCompra": "10673078000120-1-000024/2025"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

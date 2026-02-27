@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845406000082016",
+        "data_extracao": "2026-02-13 11:31:52",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 38306353,
+                "numeroLicitacao": "15845406820161",
+                "uasg": 158454,
+                "nomeUasg": "INST.F.ED.,CIENC.E TEC DE MS/C.TRÊS LAGOAS",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 82016,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 16276,
+                "nomeServico": "EXECUCAO DE TESTE DE ESTANQUEIDADE",
+                "cnpjFornecedor": "10967399000138",
+                "nomeFornecedor": "SONAR SOLUCOES PRESTADORA DE SERVICOS LTDA - EPP",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Execução de Teste de Estanqueidade nas edificações do Campus Três Lagoas, com fornecimento de mão-de-obra qualificada e material, conforme condições, quanti dades, exigências e especificações técnicas estabelecidas no projeto. A empres a deverá executar todo o procedimento, configuração e testes dos equipamentos para que as tubulações de gás possam ser utilizadas pela Instituição. O serviç o deverá contemplar também a confecção do Laudo Técnico com ART mais a Taxa de ART.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1790.17,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:45:00",
+                "idCompra": "15845406000082016",
+                "idCompraItem": "1584540600008201600001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

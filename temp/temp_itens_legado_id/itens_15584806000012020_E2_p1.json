@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15584806000012020",
+        "data_extracao": "2026-02-13 10:37:43",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 45889381,
+                "numeroLicitacao": "15584806120202",
+                "uasg": 155848,
+                "nomeUasg": "IF - MS/ CAMPUS DOURADOS",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 12020,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 5231,
+                "nomeServico": "TRANSPORTE RODOVIARIO - CONTAINERS",
+                "cnpjFornecedor": "15439171000199",
+                "nomeFornecedor": "FASTLOC LOCACAO DE MAQUINAS E  EQUIPAMENTOS LTDA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Transporte rodoviário containers",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 800.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:35:00",
+                "idCompra": "15584806000012020",
+                "idCompraItem": "1558480600001202000002"
+            },
+            {
+                "isnSidecResultadoCompra": 45889380,
+                "numeroLicitacao": "15584806120201",
+                "uasg": 155848,
+                "nomeUasg": "IF - MS/ CAMPUS DOURADOS",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 12020,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 25640,
+                "nomeServico": "LOCACAO CONTEINER (CONTAINER)",
+                "cnpjFornecedor": "15439171000199",
+                "nomeFornecedor": "FASTLOC LOCACAO DE MAQUINAS E  EQUIPAMENTOS LTDA",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "Locação de container para almoxarifado / depósito, sem banheiro, com as seguin tes especificações: Fabricado em chapa de aço galvanizado, piso em compensado. Dimensões mínimas: largura 2,30 metros, comprimento 6,00 metros, altura 2,50 metros. Contratação para o período de 10 meses.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 16000.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:35:00",
+                "idCompra": "15584806000012020",
+                "idCompraItem": "1558480600001202000001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

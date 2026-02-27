@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15584806000182019",
+        "data_extracao": "2026-02-13 10:35:13",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 45578053,
+                "numeroLicitacao": "155848061820191",
+                "uasg": 155848,
+                "nomeUasg": "IF - MS/ CAMPUS DOURADOS",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 182019,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 463189,
+                "nomeMaterial": "LONA, MATERIAL ENCERADO 100% ALGODÃO  COR VERDE OLIVA  LARGURA 2 M TAMANHO Nº 10",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "23529171000108",
+                "nomeFornecedor": "RODRIGO ELIAS DOS SANTOS 02006606166",
+                "quantidade": null,
+                "unidade": "Unidade",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 380.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-04-07T08:07:00",
+                "idCompra": "15584806000182019",
+                "idCompraItem": "1558480600018201900001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

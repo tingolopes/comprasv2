@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00125%2F2025&unidadeGerenciadora=158132&numeroItem=00007&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:58:29",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00125/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00007",
+                "codigoPdm": null,
+                "descricaoItem": "Serviços contínuos de COZINHEIRO - 3 POSTOS, a serem executados com regime de dedicação exclusiva de mão de obra, para atendimento da alimentação escolar do  IFMS Campus Campo Grande.",
+                "fornecedor": "34421838000170 - SETORIAL TERCEIRIZADA LTDA",
+                "quantidadeRegistrada": 0.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": 0.0,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2025-12-01T16:45:46",
+                "dataHoraAtualizacao": "2025-12-04T08:41:29",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            },
+            {
+                "numeroAta": "00125/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00007",
+                "codigoPdm": null,
+                "descricaoItem": "Serviços contínuos de COZINHEIRO - 3 POSTOS, a serem executados com regime de dedicação exclusiva de mão de obra, para atendimento da alimentação escolar do  IFMS Campus Campo Grande.",
+                "fornecedor": "34421838000170 - SETORIAL TERCEIRIZADA LTDA",
+                "quantidadeRegistrada": 24.0,
+                "saldoAdesoes": 0.0,
+                "saldoRemanejamentoEmpenho": 24.0,
+                "qtdLimiteAdesao": 0.0,
+                "qtdLimiteInformadoCompra": 0.0,
+                "aceitaAdesao": false,
+                "dataHoraInclusao": "2025-12-01T16:45:54",
+                "dataHoraAtualizacao": "2025-12-04T08:41:58",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158449",
+                "nomeUnidade": "INST. FED. DO MS/CAMPUS CAMPO GRANDE",
+                "tipoUnidade": "PARTICIPANTE"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

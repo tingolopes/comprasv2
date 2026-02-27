@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15813206000582022",
+        "data_extracao": "2026-02-13 11:28:17",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 53226742,
+                "numeroLicitacao": "158132065820221",
+                "uasg": 158132,
+                "nomeUasg": "INST.FED.DE EDUC.,CIENC.E TEC DO MAT.G.DO SUL",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 582022,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 10049,
+                "nomeServico": "PUBLICACAO, IMPRESSAO DE JORNAL / REVISTA / LIVRO",
+                "cnpjFornecedor": "35335163000100",
+                "nomeFornecedor": "JADER LUIS DA SILVEIRA 11726684695",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "Publicação, Impressão de Jornal / Revista / Livro de E-Book a partir do Seminá rio I SEMPOG IFMS 2021",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 1075.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:17:00",
+                "idCompra": "15813206000582022",
+                "idCompraItem": "1581320600058202200001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

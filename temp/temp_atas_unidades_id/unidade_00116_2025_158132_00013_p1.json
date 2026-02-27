@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00116%2F2025&unidadeGerenciadora=158132&numeroItem=00013&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:44:53",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00116/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00013",
+                "codigoPdm": null,
+                "descricaoItem": "Prestação de serviços de gestão de conteúdos, com suporte técnico, manutenção corretiva, adaptativa e evolutiva da plataforma integrada em  nuvem de Realida de Aumentada",
+                "fornecedor": "15695672000136 - ASX PARTICIPACOES & TECNOLOGIA LTDA",
+                "quantidadeRegistrada": 12.0,
+                "saldoAdesoes": 48.0,
+                "saldoRemanejamentoEmpenho": 12.0,
+                "qtdLimiteAdesao": 48.0,
+                "qtdLimiteInformadoCompra": 48.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2025-09-12T10:21:19",
+                "dataHoraAtualizacao": "2025-12-19T12:18:44",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            },
+            {
+                "numeroAta": "00116/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00013",
+                "codigoPdm": null,
+                "descricaoItem": "Prestação de serviços de gestão de conteúdos, com suporte técnico, manutenção corretiva, adaptativa e evolutiva da plataforma integrada em  nuvem de Realida de Aumentada",
+                "fornecedor": "15695672000136 - ASX PARTICIPACOES & TECNOLOGIA LTDA",
+                "quantidadeRegistrada": 12.0,
+                "saldoAdesoes": 48.0,
+                "saldoRemanejamentoEmpenho": 12.0,
+                "qtdLimiteAdesao": 48.0,
+                "qtdLimiteInformadoCompra": 48.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2025-09-12T10:21:25",
+                "dataHoraAtualizacao": "2025-09-12T10:21:25",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "981837",
+                "nomeUnidade": "PREF.MUN.DE SAO GONCALO DO AMARANTE",
+                "tipoUnidade": "PARTICIPANTE"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

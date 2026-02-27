@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845105000062020",
+        "data_extracao": "2026-02-13 11:36:39",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 46997428,
+                "numeroLicitacao": "15845105620201",
+                "uasg": 158451,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.COXIM",
+                "modalidade": 5,
+                "nomeModalidade": "PREGÃO",
+                "numeroAviso": 62020,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 19542,
+                "nomeServico": "PRESTACAO DE SERVICOS DE LAVANDERIA",
+                "cnpjFornecedor": null,
+                "nomeFornecedor": null,
+                "quantidade": 3969,
+                "unidade": "Unidade",
+                "descricaoItem": "Contratação de serviços de lavanderia comum e manutenção corretiva com forneci mento de acessórios/peças, sob demanda, para higienização de cortinas em tecid o tipo blackout, compreendendo a desinstalação e reinstalação, transporte, lav agem, passadoria e reparos. UNIDADE DE MEDIDA: METRO QUADRADO (M²) . CATSER: 1 9542.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": null,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:32:00",
+                "idCompra": "15845105000062020",
+                "idCompraItem": "1584510500006202000001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

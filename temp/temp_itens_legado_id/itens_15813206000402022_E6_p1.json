@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813206000402022",
+        "data_extracao": "2026-02-13 11:27:43",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813206000402022",
+                "idCompraItem": "1581320600040202200001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 40,
+                "dtAnoAvisoLicitacao": 2022,
+                "nuInciso": "3A",
+                "nuProcesso": "23347010787202135",
+                "vrEstimado": 16890.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": "Objeto: Contratação de empresa para o transport                             e referentes à mudança das sedes definitiva e p                             rovisória da reitoria localizadas na Av. Ceará,                             972  para nova sede provisória, localizada na r                             ua Jornalista Belizário de Lima 236.",
+                "dsFundamentoLegal": "Fundamento Legal: Art. 75º, Inciso III, a da Lei nº 14.133 de 1º/04/2021.",
+                "dsJustificativa": "Justificativa: Dispensa 65/2021 fracassada por não apresentar interessados e realizado contratação direta com fornecedor local.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "",
+                "noCargoRespDeclDisp": "",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 3212,
+                "noServico": "TRANSPORTE DE MUDANCA - LOCAL",
+                "dsDetalhada": "Transporte de Mudança - mobiliário e demais bens, com disponibilização de mão  de obra, da sede defini&gt;va da Reitoria,  localizada à Av. Ceará,972, para nova  sede provisória, localizada à rua Jornalista Belizário de Lima 236",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "UNIDADE",
+                "vrEstimadoItem": 16890.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": "",
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "08576450000139",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "MULTICABLYNG INFORMATICA E SERVICOS EIRELI -",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

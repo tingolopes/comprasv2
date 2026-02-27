@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15844806000242018",
+        "data_extracao": "2026-02-13 09:39:47",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 43308530,
+                "numeroLicitacao": "158448062420181",
+                "uasg": 158448,
+                "nomeUasg": "INST.FED.DE ED.,CIENT.E TEC.DE MS/C.AQUIDAUAN",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 242018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 150691,
+                "nomeMaterial": "CLIMATIZADOR, CLIMATIZADOR NOME",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "05351665000163",
+                "nomeFornecedor": "ECOCLIMAS COMERCIO DE CLIMATIZADORES EIRELI",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "Climatizador / Umidificador  Vazão de ar: 55.000 m³/h (ou maior);  Motor: 3cv; Consumo: 2,4 kWh (ou menor);  OBS.: é necessário que empresa faça uma vist oria prévia no local antes da execução dos serviços.  todos os itens deverão ser fornecidas e instalados pela contratada.",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 12100.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": null,
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2025-05-20T06:48:00",
+                "idCompra": "15844806000242018",
+                "idCompraItem": "1584480600024201800001"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

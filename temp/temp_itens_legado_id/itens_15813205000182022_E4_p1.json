@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/4.1_consultarItensPregoes_Id?id_compra=15813205000182022",
+        "data_extracao": "2026-02-13 11:42:31",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158132,
+                    "coItem": 28853317
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "01 (um) colaborador de serviço gerais 44 (quarenta e quatro) horas semanais qualificado para a execução do serviço Limpeza e assepsia das instalações da ETE para evitar odores, descarte correto dos materiais e transporte adequado. (Com fornecimento de ferramentas, EPI, EPC, materiais e maquinários necessários para a realização dos serviços e pleno funcionamento da ETE).",
+                "descricaoItem": "Coleta de lixo - residencial / comercial / industrial",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "84900.00",
+                "quantidadeItem": "12",
+                "situacaoItem": "cancelado no julgamento",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "UNIDADE",
+                "valorHomologadoItem": null,
+                "valorEstimadoItem": "59135.28",
+                "valorNegociado": null,
+                "idCompra": "15813205000182022",
+                "idCompraItem": "1581320500018202200001",
+                "noAdjudic": null,
+                "noHom": null,
+                "dtEncerramento": "2022-09-19",
+                "dtAdjudic": null,
+                "dtHom": null,
+                "dtAlteracao": "2024-04-08T11:17:00"
+            },
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158132,
+                    "coItem": 28853318
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "Tipo: Kit Para Verificação De Sistema, Aplicação: Termociclador,",
+                "descricaoItem": "Peças / acessórios equipamentos especializados",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "99900.00",
+                "quantidadeItem": "24",
+                "situacaoItem": "cancelado no julgamento",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "Unidade",
+                "valorHomologadoItem": null,
+                "valorEstimadoItem": "100000.00",
+                "valorNegociado": null,
+                "idCompra": "15813205000182022",
+                "idCompraItem": "1581320500018202200002",
+                "noAdjudic": null,
+                "noHom": null,
+                "dtEncerramento": "2022-09-19",
+                "dtAdjudic": null,
+                "dtHom": null,
+                "dtAlteracao": "2024-04-08T11:17:00"
+            },
+            {
+                "tbVwItensPregaoId": {
+                    "coUasg": 158132,
+                    "coItem": 28853319
+                },
+                "decreto7174": "FALSE",
+                "descricaoDetalhadaItem": "Entrega de laudo de qualidade do tratamento dos efluentes (semestralmente) duas vezes ao ano. Sendo obrigação da contratada manter a eficiência do sistema de tratamento de efluentes, através de análises laboratoriais das amostras, que deverão ser coletadas mensalmente, na entrada e saída do sistema, contemplando os seguintes parâmetros: vazão, temperatura do ar e da água, pH, DBO5,20, DQO, óleos e Graxas, Fósforo Total, Nitrogênio Amoniacal Total, Cloreto, Sólidos Suspensos, Materiais Sedimentáveis, Coliformes Termotolerantes.",
+                "descricaoItem": "Perícia, laudo e avaliação",
+                "fornecedorVencedor": null,
+                "margemPreferencial": "FALSE",
+                "menorLance": "111000.00",
+                "quantidadeItem": "12",
+                "situacaoItem": "cancelado no julgamento",
+                "tratamentoDiferenciado": null,
+                "unidadeFornecimento": "UNIDADE",
+                "valorHomologadoItem": null,
+                "valorEstimadoItem": "114000.00",
+                "valorNegociado": null,
+                "idCompra": "15813205000182022",
+                "idCompraItem": "1581320500018202200003",
+                "noAdjudic": null,
+                "noHom": null,
+                "dtEncerramento": "2022-09-19",
+                "dtAdjudic": null,
+                "dtHom": null,
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 3,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

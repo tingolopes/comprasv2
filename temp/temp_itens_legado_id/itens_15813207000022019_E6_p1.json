@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15813207000022019",
+        "data_extracao": "2026-02-13 11:23:32",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15813207000022019",
+                "idCompraItem": "1581320700002201900001",
+                "coUasg": 158132,
+                "coModalidadeLicitacao": 7,
+                "noModalidadeLicitacao": "Inexigibilidade",
+                "nuAvisoLicitacao": 2,
+                "dtAnoAvisoLicitacao": 2019,
+                "nuInciso": "00",
+                "nuProcesso": "23347002009201958",
+                "vrEstimado": 224.8,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 25º, Caput da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Pagamento do Seguro Obrigatório da Frota da Reitoria do IFMS",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "HEBERTON LUIZ DUARTE RODRIGUES",
+                "noCargoRespDeclDisp": "Gestor Financeiro",
+                "noResponsavelRatificacao": "",
+                "noCargoRespRatificacao": "",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 22764,
+                "noServico": "PAGAMENTO COBERTURAS SEGURO VEÍCULO",
+                "dsDetalhada": "Pagamento de Seguro Obrigatório de 12 veículos pertencente a frota do IFMS",
+                "qtMaterialAlt": 12,
+                "noUnidadeMedida": "taxa",
+                "vrEstimadoItem": 224.8,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "09248608000104",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "SEGURADORA LIDER DO CONSORCIO DO SEGURO DPVAT SA",
+                "dtAlteracao": "2024-04-08T11:17:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

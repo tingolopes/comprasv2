@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/2.1_consultarItemLicitacao_Id?id_compra=15845006000362018",
+        "data_extracao": "2026-02-13 09:42:46",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "isnSidecResultadoCompra": 42106895,
+                "numeroLicitacao": "158450063620182",
+                "uasg": 158450,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.CORUMBÁ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 362018,
+                "numeroItemLicitacao": 2,
+                "codigoItemMaterial": null,
+                "nomeMaterial": null,
+                "codigoItemServico": 10111,
+                "nomeServico": "CONFECCAO DE CRACHAS",
+                "cnpjFornecedor": "28237825000143",
+                "nomeFornecedor": "ART MIX COMUNICACOES VISUAIS EIRELI",
+                "quantidade": null,
+                "unidade": "UN",
+                "descricaoItem": "Confecção de crachá em papel couché 300 g/m², 10x15 cm, 4/1 cores, com dois fu ros e cordão, com impressão conforme modelo anexo, para o JIFMS 2018",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 450.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": null,
+                "dtAlteracao": "2024-04-08T11:30:00",
+                "idCompra": "15845006000362018",
+                "idCompraItem": "1584500600036201800002"
+            },
+            {
+                "isnSidecResultadoCompra": 42106894,
+                "numeroLicitacao": "158450063620181",
+                "uasg": 158450,
+                "nomeUasg": "INST.FED.DE ED.,CIENC.E TEC.DE MS/C.CORUMBÁ",
+                "modalidade": 6,
+                "nomeModalidade": "DISPENSA DE LICITAÇÃO",
+                "numeroAviso": 362018,
+                "numeroItemLicitacao": 1,
+                "codigoItemMaterial": 369663,
+                "nomeMaterial": "GARRAFA, MATERIAL PLÁSTICO  CAPACIDADE 500 ML APLICAÇÃO ÁGUA  CARACTERÍSTICAS ADICIONAIS COM TAMPA ROSCÁVEL  COR BRANCA  TIPO SQUEEZE",
+                "codigoItemServico": null,
+                "nomeServico": null,
+                "cnpjFornecedor": "13293682000110",
+                "nomeFornecedor": "GRAFIKA IMPRESSAO RAPIDA LTDA",
+                "quantidade": null,
+                "unidade": "UNIDADE",
+                "descricaoItem": "",
+                "beneficio": "Nao possui tratamento diferenciado para ME/EPP/COOPERATIVA",
+                "valorEstimado": 3600.0,
+                "decreto7174": "false",
+                "criterioJulgamento": "Menor Valor",
+                "cpfVencedor": "",
+                "nomeVencedorPf": null,
+                "sustentavel": 0,
+                "dtAlteracao": "2024-05-14T18:55:00",
+                "idCompra": "15845006000362018",
+                "idCompraItem": "1584500600036201800001"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

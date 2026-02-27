@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/1_consultarLicitacao?pagina=1&tamanhoPagina=500&uasg=158448&data_publicacao_inicial=2016-01-01&data_publicacao_final=2016-12-31",
+        "data_extracao": "2026-02-05 13:48:01",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "id_compra": "15844805000022016",
+                "identificador": "1584480522016",
+                "numero_processo": "23347009833201696",
+                "uasg": 158448,
+                "modalidade": 5,
+                "nome_modalidade": "PREGÃO",
+                "numero_aviso": 22016,
+                "situacao_aviso": "Publicado",
+                "tipo_pregao": "eletronico",
+                "tipo_recurso": "Nacional",
+                "nome_responsavel": "DIONNY ANTONIO HEREDIA",
+                "funcao_responsavel": "Pregoeiro",
+                "numero_itens": 1,
+                "valor_estimado_total": 42600.0,
+                "valor_homologado_total": 7554.2,
+                "informacoes_gerais": null,
+                "objeto": "Pregão Eletrônico Aquisição de mater ial didático manipulável para aulas de Matemáti ca do IFMSCampus Aquidauana.",
+                "endereco_entrega_edital": "Rua José Tadao Arima, Nº 222 - Vila Ycaraí/MS",
+                "codigo_municipio_uasg": 90212,
+                "data_abertura_proposta": "2016-11-08",
+                "data_entrega_edital": "2016-10-24",
+                "data_entrega_proposta": "2016-10-24",
+                "data_publicacao": "2016-10-20",
+                "dt_alteracao": "2017-08-18T16:30:32",
+                "pertence14133": false
+            },
+            {
+                "id_compra": "15844805000012016",
+                "identificador": "1584480512016",
+                "numero_processo": "23347008428201651",
+                "uasg": 158448,
+                "modalidade": 5,
+                "nome_modalidade": "PREGÃO",
+                "numero_aviso": 12016,
+                "situacao_aviso": "Publicado",
+                "tipo_pregao": "eletronico",
+                "tipo_recurso": "Nacional",
+                "nome_responsavel": "DIONNY ANTONIO HEREDIA",
+                "funcao_responsavel": "Pregoeiro",
+                "numero_itens": 1,
+                "valor_estimado_total": 31255.0,
+                "valor_homologado_total": 1.805,
+                "informacoes_gerais": null,
+                "objeto": "Pregão Eletrônico Aquisição de pasta s de estudante para arquivamento de matrículas e documentos de estudantes da Central de Relaci onamento do IFMSCampus Aquidauana.",
+                "endereco_entrega_edital": "Rua José Tadao Arima, Nº 222 - Vila Ycaraí/MS",
+                "codigo_municipio_uasg": 90212,
+                "data_abertura_proposta": "2016-09-30",
+                "data_entrega_edital": "2016-09-20",
+                "data_entrega_proposta": "2016-09-20",
+                "data_publicacao": "2016-09-16",
+                "dt_alteracao": "2017-12-19T17:59:08",
+                "pertence14133": false
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

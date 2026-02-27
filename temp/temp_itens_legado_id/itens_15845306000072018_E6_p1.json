@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/6.1_consultarItensComprasSemLicitacao_Id?id_compra=15845306000072018",
+        "data_extracao": "2026-02-13 11:14:28",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "idCompra": "15845306000072018",
+                "idCompraItem": "1584530600007201800001",
+                "coUasg": 158453,
+                "coModalidadeLicitacao": 6,
+                "noModalidadeLicitacao": "Dispensa",
+                "nuAvisoLicitacao": 7,
+                "dtAnoAvisoLicitacao": 2018,
+                "nuInciso": "04",
+                "nuProcesso": "23347008882201873",
+                "vrEstimado": 31995.0,
+                "qtTotalItem": 1,
+                "dsObjetoLicitacao": null,
+                "dsFundamentoLegal": "Fundamento Legal: Art. 24º, Inciso IV da Lei nº 8.666 de 21/06/1993.",
+                "dsJustificativa": "Justificativa: Necessidade urgente na adequação do campus às normas do corpo de bombeiros de MS. Obtenção do alvará de funcionamento.",
+                "nuCpfRespDeclDisp": null,
+                "nuCpfRespRatificacao": null,
+                "nuCpfRespPublicacao": null,
+                "noResponsavelDeclDisp": "EDISON SILVA SOSA",
+                "noCargoRespDeclDisp": "Diretor de Administração",
+                "noResponsavelRatificacao": "MARCOS PINHEIRO VILHANUEVA",
+                "noCargoRespRatificacao": "Ordenador de Despesas",
+                "nuItemMaterial": 1,
+                "inMaterialServico": "servico",
+                "coConjuntoMateriais": 0,
+                "noConjuntoMateriais": null,
+                "coServico": 2011,
+                "noServico": "INSTALACAO E MONTAGEM DE SISTEMAS - PROTECAO CONTRA INCENDIO",
+                "dsDetalhada": "Contratação de Empresa Especializada para a Instalação de Sistema de Alarme de  Incêndio e sistema de acionamento de bomba de incêndio com realização de manu tenção geral do quadro de comando da bomba de incêndio, nas Edificações do IFM S- Campus Ponta Porã, com fornecimento de Mão-de Obra qualificada e Material. A Empresa deverá executar toda a instalação, configuração, configuração e test es dos equipamentos para que o sistema de alarme e sistema da bomba de incêndi o possa ser utilizado pela Instituição. A Instalação do Sistema será nas edifi cações do Campus Ponta Porã, localizado na Rodovia BR 463- Km 14- Sanga Puitã-  Ponta Porã- MS. Lista de materiais constantes no Edital.",
+                "qtMaterialAlt": 1,
+                "noUnidadeMedida": "UNIDADE",
+                "vrEstimadoItem": 31995.0,
+                "dsFabricante": null,
+                "noMarcaMaterial": null,
+                "inTipoFornecedorVencedor": "PJ",
+                "nuCnpjVencedor": "28529854000189",
+                "nuCpfVencedor": null,
+                "noFornecedorVencedor": "MAICON FRANCISCO A. DE OLIVEIRA - EIRELI",
+                "dtAlteracao": "2024-04-08T11:41:00"
+            }
+        ],
+        "totalRegistros": 1,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

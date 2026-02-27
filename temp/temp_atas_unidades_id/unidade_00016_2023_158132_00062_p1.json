@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00016%2F2023&unidadeGerenciadora=158132&numeroItem=00062&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:07:38",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00016/2023",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00062",
+                "codigoPdm": "16322",
+                "descricaoItem": "MESA PLÁSTICA, MATERIAL PLÁSTICO, FORMATO QUADRADO, COR BRANCA, COMPRIMENTO 70 CM, LARGURA 70 CM, ALTURA 72 CM",
+                "fornecedor": "36804979000106 - MARCONDES SERVICOS DE ESCRITORIO ADMINISTRATIVO E NEGOCIOS EMPRESARIAL LTDA",
+                "quantidadeRegistrada": 0.0,
+                "saldoAdesoes": 200.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 200.0,
+                "qtdLimiteInformadoCompra": 200.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2023-11-01T11:30:13",
+                "dataHoraAtualizacao": "2024-01-02T11:56:35",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            },
+            {
+                "numeroAta": "00016/2023",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00062",
+                "codigoPdm": "16322",
+                "descricaoItem": "MESA PLÁSTICA, MATERIAL PLÁSTICO, FORMATO QUADRADO, COR BRANCA, COMPRIMENTO 70 CM, LARGURA 70 CM, ALTURA 72 CM",
+                "fornecedor": "36804979000106 - MARCONDES SERVICOS DE ESCRITORIO ADMINISTRATIVO E NEGOCIOS EMPRESARIAL LTDA",
+                "quantidadeRegistrada": 100.0,
+                "saldoAdesoes": 200.0,
+                "saldoRemanejamentoEmpenho": 100.0,
+                "qtdLimiteAdesao": 200.0,
+                "qtdLimiteInformadoCompra": 200.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2023-11-01T11:30:33",
+                "dataHoraAtualizacao": "2024-01-02T11:57:31",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158449",
+                "nomeUnidade": "INST. FED. DO MS/CAMPUS CAMPO GRANDE",
+                "tipoUnidade": "PARTICIPANTE"
+            }
+        ],
+        "totalRegistros": 2,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}

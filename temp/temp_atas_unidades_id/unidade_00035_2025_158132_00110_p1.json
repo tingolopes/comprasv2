@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "url_consultada": "https://dadosabertos.compras.gov.br/modulo-arp/3_consultarUnidadesItem?numeroAta=00035%2F2025&unidadeGerenciadora=158132&numeroItem=00110&pagina=1&tamanhoPagina=500",
+        "data_extracao": "2026-02-20 11:54:25",
+        "status": "SUCESSO"
+    },
+    "respostas": {
+        "resultado": [
+            {
+                "numeroAta": "00035/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00110",
+                "codigoPdm": "08862",
+                "descricaoItem": "ALFINETE ENTOMOLÓGICO, MATERIAL AÇO INOX, DIMENSÕES CERCA DE 40 X 0,30 MM, ADICIONAL COM CABEÇA",
+                "fornecedor": "21707794000106 - FASTLABOR COMERCIAL LTDA",
+                "quantidadeRegistrada": 0.0,
+                "saldoAdesoes": 200.0,
+                "saldoRemanejamentoEmpenho": 0.0,
+                "qtdLimiteAdesao": 200.0,
+                "qtdLimiteInformadoCompra": 200.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2025-05-23T10:37:15",
+                "dataHoraAtualizacao": "2025-05-23T11:48:34",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158132",
+                "nomeUnidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO MAT.G.DO SUL",
+                "tipoUnidade": "GERENCIADORA"
+            },
+            {
+                "numeroAta": "00035/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00110",
+                "codigoPdm": "08862",
+                "descricaoItem": "ALFINETE ENTOMOLÓGICO, MATERIAL AÇO INOX, DIMENSÕES CERCA DE 40 X 0,30 MM, ADICIONAL COM CABEÇA",
+                "fornecedor": "21707794000106 - FASTLABOR COMERCIAL LTDA",
+                "quantidadeRegistrada": 50.0,
+                "saldoAdesoes": 200.0,
+                "saldoRemanejamentoEmpenho": 50.0,
+                "qtdLimiteAdesao": 200.0,
+                "qtdLimiteInformadoCompra": 200.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2025-05-23T10:39:07",
+                "dataHoraAtualizacao": "2025-05-23T11:48:40",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158452",
+                "nomeUnidade": "INST. FED. DO MS/CAMPUS NOVA ANDRADINA",
+                "tipoUnidade": "PARTICIPANTE"
+            },
+            {
+                "numeroAta": "00035/2025",
+                "unidadeGerenciadora": "158132",
+                "numeroItem": "00110",
+                "codigoPdm": "08862",
+                "descricaoItem": "ALFINETE ENTOMOLÓGICO, MATERIAL AÇO INOX, DIMENSÕES CERCA DE 40 X 0,30 MM, ADICIONAL COM CABEÇA",
+                "fornecedor": "21707794000106 - FASTLABOR COMERCIAL LTDA",
+                "quantidadeRegistrada": 50.0,
+                "saldoAdesoes": 200.0,
+                "saldoRemanejamentoEmpenho": 50.0,
+                "qtdLimiteAdesao": 200.0,
+                "qtdLimiteInformadoCompra": 200.0,
+                "aceitaAdesao": true,
+                "dataHoraInclusao": "2025-05-23T10:39:07",
+                "dataHoraAtualizacao": "2025-05-23T11:48:41",
+                "dataHoraExclusao": null,
+                "codigoUnidade": "158453",
+                "nomeUnidade": "INST. FED. DO MS/CAMPUS PONTA PORA",
+                "tipoUnidade": "PARTICIPANTE"
+            }
+        ],
+        "totalRegistros": 3,
+        "totalPaginas": 1,
+        "paginasRestantes": 0
+    }
+}
