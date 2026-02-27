@@ -182,9 +182,3 @@ Sugestões de melhoria são bem-vindas — especialmente para:
 - novos indicadores analíticos;
 - melhoria de qualidade de dados;
 - otimização de performance e custo de execução.
-
-Se quiser, posso também preparar uma versão deste README com:
-
-- **diagrama da arquitetura**,
-- **dicionário de dados inicial dos CSVs**,
-- e **guia de integração com Power BI**.
