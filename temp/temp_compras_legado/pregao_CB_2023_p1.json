@@ -1,7 +1,11 @@
 {
     "metadata": {
         "url_consultada": "https://dadosabertos.compras.gov.br/modulo-legado/3_consultarPregoes?pagina=1&tamanhoPagina=500&co_uasg=158450&dt_data_edital_inicial=2023-01-01&dt_data_edital_final=2023-12-31",
+<<<<<<< HEAD:temp/temp_compras_legado/pregao_CB_2023_p1.json
         "data_extracao": "2026-02-27 07:27:09",
+=======
+        "data_extracao": "2026-02-27 04:43:35",
+>>>>>>> 84b4a75785bd661ab97e911d0b7e6009527202fa:temp_compras_legado/pregao_CB_2023_p1.json
         "status": "FALHA"
     },
     "respostas": null
