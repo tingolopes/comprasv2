@@ -161,9 +161,24 @@ def gerar_banco_compras():
                 "unidadeOrgaoCodigoUnidade") or ""
         ).strip()
 
+        # Lógica para extrair o número do processo das diversas fontes
+        num_processo = (
+            # Prioridade 1: PNCP (Lei 14133)
+            m.get("processo") or
+            # Prioridade 2: Legado (Pregões/Outros)
+            m.get("nu_processo") or
+            # Prioridade 3: Legado (Variação de nome)
+            m.get("numero_processo") or
+            # Prioridade 4: Código de processo
+            m.get("co_processo") or
+            fontes.get("LEG_E3", {}).get("nu_processo") or
+            fontes.get("LEG_E5", {}).get("numero_processo") or ""
+        )
+
         registro = {
             "id_compra": id_c,
             "numero_controle_pncp": m.get("numeroControlePNCP") or "",
+            "numero_processo": limpar_texto(num_processo),
             "lei_14133": m.get("pertence14133", False) or (master_key == "PNCP"),
             "uasg": uasg_codigo,
             "sigla_campus": MAPA_SIGLAS.get(uasg_codigo, ""),

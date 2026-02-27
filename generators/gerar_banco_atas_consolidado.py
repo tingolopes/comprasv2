@@ -96,7 +96,8 @@ def build():
                         "valor_total_ata": a.get("valorTotal"),
                         "objeto": limpar(a.get("objeto")),
                         "modalidade": a.get("nomeModalidadeCompra"),
-                        "link_pncp": a.get("linkAtaPNCP"),
+                        "linkAtaPNCP": a.get("linkAtaPNCP"),
+                        "linkCompraPNCP": a.get("linkCompraPNCP"),
                         "numero_controle_pncp": a.get("numeroControlePncpAta")
                     })
     salvar_bases(pd.DataFrame(atas_header).drop_duplicates(),
@@ -116,6 +117,7 @@ def build():
                         "numero_item": i.get("numeroItem"),
                         "material_cod": i.get("codigoItem"),
                         "material_servico": i.get("tipoItem"),
+                        "codigo_pdm": i.get("codigoPdm"),
                         "fornecedor_cnpj": i.get("niFornecedor"),
                         "fornecedor_nome": limpar(i.get("nomeRazaoSocialFornecedor")),
                         "valor_unitario": i.get("valorUnitario"),
