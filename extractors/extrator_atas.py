@@ -29,7 +29,8 @@ def verificar_sucesso(caminho):
             data = json.load(f)
             status = data.get("metadata", {}).get("status")
             return (status == "SUCESSO"), data
-    except:
+    except Exception as exc:
+        print(f"⚠️ Erro ao validar cache {caminho}: {exc}")
         return False, None
 
 

@@ -54,7 +54,8 @@ def consolidar_naturezas():
                         "status_natureza": "Ativo" if nat.get("statusNaturezaDespesa") is True else "Inativo"
                     }
                     lista_final.append(registro)
-        except:
+        except Exception as exc:
+            print(f"⚠️ Erro ao processar {nome_arq}: {exc}")
             continue
 
     if not lista_final:

@@ -40,7 +40,8 @@ def verificar_sucesso(caminho, forcar_atualizacao=False):
                 if (datetime.now() - data_extracao).days >= DIAS_VALIDADE_SALDO:
                     return False, None
             return True, data
-    except:
+    except Exception as exc:
+        print(f"⚠️ Erro ao validar cache {caminho}: {exc}")
         return False, None
 
 

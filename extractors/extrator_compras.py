@@ -53,7 +53,8 @@ def verificar_sucesso_anterior(caminho):
             data = json.load(f)
             status = data.get("metadata", {}).get("status")
             return (status == "SUCESSO"), data
-    except:
+    except Exception as exc:
+        print(f"⚠️ Cache inválido em {caminho}: {exc}")
         return False, None
 
 
@@ -98,8 +99,8 @@ def consultar_api_robusto(url, params):
                 dados = response.json()
                 if isinstance(dados, dict) and "resultado" in dados:
                     return dados, "SUCESSO"
-        except:
-            pass
+        except Exception as exc:
+            print(f"⚠️ Tentativa {tentativa} falhou para {url}: {exc}")
         time.sleep(atraso)
         atraso *= 2  # Backoff: 2s -> 4s
     return None, "FALHA"
