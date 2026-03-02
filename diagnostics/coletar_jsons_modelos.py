@@ -12,7 +12,8 @@ def carregar_json_seguro(caminho):
     try:
         with open(caminho, 'r', encoding='utf-8') as f:
             return json.load(f)
-    except:
+    except Exception as exc:
+        print(f"⚠️ Erro ao carregar {caminho}: {exc}")
         return None
 
 

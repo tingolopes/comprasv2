@@ -54,8 +54,8 @@ def extrair_da_url(url):
         match = re.search(r"numeroAta=([^&]+)", url)
         if match:
             return unquote(match.group(1))
-    except:
-        pass
+    except Exception as exc:
+        print(f"⚠️ Não foi possível extrair número da ata da URL: {exc}")
     return None
 
 

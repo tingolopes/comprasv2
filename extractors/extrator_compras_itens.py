@@ -30,7 +30,8 @@ def carregar_json_seguro(caminho):
         with open(caminho, 'r', encoding='utf-8') as f:
             dados = json.load(f)
             return dados if dados is not None else {}
-    except:
+    except Exception as exc:
+        print(f"⚠️ Erro ao carregar JSON {caminho}: {exc}")
         return {}
 
 
@@ -86,8 +87,8 @@ def processar_uma_tarefa(t):
                     time.sleep(15 * (tentativa + 1))  # Espera progressiva
                 else:
                     status = f"ERRO_{response.status_code}"
-            except:
-                pass
+            except Exception as exc:
+                print(f"⚠️ Tentativa {tentativa + 1} falhou para {url_full}: {exc}")
             time.sleep(2)
 
         salvar_json(nome_arq, url_full, params, dados, status)
