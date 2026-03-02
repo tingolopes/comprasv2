@@ -25,6 +25,6 @@ jobs:
         run: |
           git config --global user.name 'Michell-Bot'
           git config --global user.email 'tingolopes@gmail.com'
-          git add *.csv
+          git add data/*.csv
           git commit -m "Reprocessamento manual: $(date +'%Y-%m-%d %H:%M')" || exit 0
           git push
