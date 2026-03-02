@@ -54,6 +54,29 @@ def salvar_json(caminho, url_base, params, conteudo, status="SUCESSO"):
         json.dump(envelope, f, ensure_ascii=False, indent=4)
 
 
+def extrair_paginacao_e_resultados(dados):
+    """Normaliza leitura de paginação para resposta da API e envelope em disco."""
+    if not isinstance(dados, dict):
+        return 0, False
+
+    # Quando vem da API, os campos costumam estar na raiz.
+    paginas_restantes = dados.get("paginasRestantes")
+    resultados = dados.get("resultado")
+
+    # Quando vem do cache, os campos ficam em dados["respostas"].
+    if paginas_restantes is None or resultados is None:
+        respostas = dados.get("respostas", {})
+        if isinstance(respostas, dict):
+            if paginas_restantes is None:
+                paginas_restantes = respostas.get("paginasRestantes")
+            if resultados is None:
+                resultados = respostas.get("resultado")
+
+    paginas_restantes = int(paginas_restantes or 0)
+    possui_resultados = bool(resultados)
+    return paginas_restantes, possui_resultados
+
+
 def processar_uma_tarefa(t):
     pagina = 1
     while True:
@@ -61,8 +84,13 @@ def processar_uma_tarefa(t):
         sucesso, dados_cache = verificar_sucesso(nome_arq)
 
         if sucesso:
+            paginas_restantes, possui_resultados = extrair_paginacao_e_resultados(
+                dados_cache)
+
             # Se não for paginável ou já terminou as páginas
-            if not t['paginavel'] or dados_cache.get("respostas", {}).get("paginasRestantes", 0) == 0:
+            # Proteção: se a API sinalizar mais páginas, mas sem resultados,
+            # interrompe para evitar loop em páginas vazias.
+            if not t['paginavel'] or paginas_restantes == 0 or not possui_resultados:
                 return f"⏭️ SKIP | {t['id']}"
             pagina += 1
             continue
@@ -94,10 +122,10 @@ def processar_uma_tarefa(t):
         salvar_json(nome_arq, url_full, params, dados, status)
 
         if status == "SUCESSO" and t['paginavel']:
-            # Verifica se precisa de mais páginas
-            pag_rest = dados.get('respostas', {}).get(
-                'paginasRestantes', 0) if dados else 0
-            if pag_rest > 0:
+            # Verifica se precisa de mais páginas.
+            pag_rest, possui_resultados = extrair_paginacao_e_resultados(dados)
+            # Proteção: paginação inconsistente com payload vazio.
+            if pag_rest > 0 and possui_resultados:
                 pagina += 1
                 continue
 
