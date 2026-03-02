@@ -31,7 +31,8 @@ def extrair_pdms_unicos():
                         pdm = item.get("codigoPdm")
                         if pdm and str(pdm).lower() != 'none':
                             pdms.add(int(pdm))
-            except:
+            except Exception as exc:
+                print(f"⚠️ Erro ao ler {arquivo}: {exc}")
                 continue
     return sorted(list(pdms))
 
@@ -67,8 +68,8 @@ def consultar_natureza_pdm(pdm):
                 print(
                     f"[{datetime.now().strftime('%H:%M:%S')}] ✅ PDM {pdm} | Sucesso")
                 return True
-        except:
-            pass
+        except Exception as exc:
+            print(f"⚠️ Tentativa {tentativa} falhou para PDM {pdm}: {exc}")
 
         time.sleep(atraso)
         atraso *= 3  # Backoff: 4s -> 12s -> 36s
