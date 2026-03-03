@@ -20,15 +20,21 @@ MAPA_CODIGOS = {
 }
 
 UASGS = [
-    {"sigla": "RT", "codigo": "158132"}, {"sigla": "AQ", "codigo": "158448"},
-    {"sigla": "CG", "codigo": "158449"}, {"sigla": "CB", "codigo": "158450"},
-    {"sigla": "CX", "codigo": "158451"}, {"sigla": "DR", "codigo": "155848"},
-    {"sigla": "JD", "codigo": "155850"}, {"sigla": "NA", "codigo": "158452"},
-    {"sigla": "NV", "codigo": "155849"}, {"sigla": "PP", "codigo": "158453"},
-    {"sigla": "TL", "codigo": "158454"}
+    {"sigla": "RT", "codigo": "158132", "nome": "IFMS REITORIA"},
+    {"sigla": "AQ", "codigo": "158448", "nome": "IFMS CAMPUS AQUIDAUANA"},
+    {"sigla": "CG", "codigo": "158449", "nome": "IFMS CAMPUS CAMPO GRANDE"},
+    {"sigla": "CB", "codigo": "158450", "nome": "IFMS CAMPUS CORUMBA"},
+    {"sigla": "CX", "codigo": "158451", "nome": "IFMS CAMPUS COXIM"},
+    {"sigla": "DR", "codigo": "155848", "nome": "IFMS CAMPUS DOURADOS"},
+    {"sigla": "JD", "codigo": "155850", "nome": "IFMS CAMPUS JARDIM"},
+    {"sigla": "NA", "codigo": "158452", "nome": "IFMS CAMPUS NOVA ANDRADINA"},
+    {"sigla": "NV", "codigo": "155849", "nome": "IFMS CAMPUS NAVIRAÍ"},
+    {"sigla": "PP", "codigo": "158453", "nome": "IFMS CAMPUS PONTA PORÃ"},
+    {"sigla": "TL", "codigo": "158454", "nome": "IFMS CAMPUS TRÊS LAGOAS"}
 ]
 
 MAPA_SIGLAS = {u["codigo"]: u["sigla"] for u in UASGS}
+MAPA_NOMES = {u["codigo"]: u["nome"] for u in UASGS}
 
 
 # ==============================================================================
@@ -182,7 +188,7 @@ def gerar_banco_compras():
             "lei_14133": m.get("pertence14133", False) or (master_key == "PNCP"),
             "uasg": uasg_codigo,
             "sigla_campus": MAPA_SIGLAS.get(uasg_codigo, ""),
-            "unidade_nome": m.get("no_ausg") or m.get("unidadeOrgaoNomeUnidade") or "",
+            "unidade_nome": MAPA_NOMES.get(uasg_codigo, ""),
             "modalidade": modalidade_final,
             "objeto": limpar_texto(
                 m.get("objetoCompra") or m.get("tx_objeto") or m.get("objeto") or
