@@ -6,6 +6,7 @@ import sys
 from datetime import datetime
 from urllib.parse import urlencode
 from concurrent.futures import ThreadPoolExecutor  # Para o Nível Superior
+from logging_utils import log_event, log_section
 
 # --- CONFIGURAÇÕES MANTIDAS ---
 UASGS = [
@@ -54,7 +55,7 @@ def verificar_sucesso_anterior(caminho):
             status = data.get("metadata", {}).get("status")
             return (status == "SUCESSO"), data
     except Exception as exc:
-        print(f"⚠️ Cache inválido em {caminho}: {exc}")
+        log_event("WARN", "COMPRAS", f"Cache inválido em {caminho}: {exc}")
         return False, None
 
 
@@ -100,7 +101,7 @@ def consultar_api_robusto(url, params):
                 if isinstance(dados, dict) and "resultado" in dados:
                     return dados, "SUCESSO"
         except Exception as exc:
-            print(f"⚠️ Tentativa {tentativa} falhou para {url}: {exc}")
+            log_event("WARN", "COMPRAS", f"Tentativa {tentativa} falhou para {url}: {exc}")
         time.sleep(atraso)
         atraso *= 2  # Backoff: 2s -> 4s
     return None, "FALHA"
@@ -113,14 +114,12 @@ def processar_tarefa_legado(unidade, ano, enc, cfg):
     while True:
         arquivo = f"{cfg['pasta']}/{enc['label']}_{unidade['sigla']}_{ano}_p{pagina}.json"
         ja_existe, dados_cache = verificar_sucesso_anterior(arquivo)
-        tstamp = datetime.now().strftime('%H:%M:%S')
 
         if ja_existe:
             respostas = dados_cache.get("respostas", {})
             if not respostas.get("resultado", []):
                 break
-            print(
-                f"[{tstamp}] ⏭️ SKIP | {unidade['sigla']} | {enc['label'].upper():<15} | {ano}")
+            log_event("INFO", "COMPRAS", "SKIP", uasg=unidade['sigla'], modalidade=enc['label'].upper(), ano=ano)
             if respostas.get('paginasRestantes', 0) > 0:
                 pagina += 1
                 continue
@@ -141,16 +140,14 @@ def processar_tarefa_legado(unidade, ano, enc, cfg):
             arquivo, f"{cfg['base_url']}{enc['path']}", params, dados, status)
 
         if status == "SUCESSO":
-            print(
-                f"[{tstamp}] ✅ DONE | {unidade['sigla']} | {enc['label'].upper():<15} | {ano}")
+            log_event("INFO", "COMPRAS", "DONE", uasg=unidade['sigla'], modalidade=enc['label'].upper(), ano=ano)
             if dados.get('paginasRestantes', 0) > 0:
                 pagina += 1
                 continue
             else:
                 break
         else:
-            print(
-                f"[{tstamp}] ❌ FAIL | {unidade['sigla']} | {enc['label'].upper():<15} | {ano}")
+            log_event("ERROR", "COMPRAS", "FAIL", uasg=unidade['sigla'], modalidade=enc['label'].upper(), ano=ano)
             return False
     return True
 
@@ -160,13 +157,11 @@ def processar_tarefa_14133(unidade, ano, cod_mod, nome_mod, cfg):
     while True:
         arquivo = f"{cfg['pasta']}/pncp_{unidade['sigla']}_{nome_mod}_{ano}_p{pagina}.json"
         ja_existe, dados_cache = verificar_sucesso_anterior(arquivo)
-        tstamp = datetime.now().strftime('%H:%M:%S')
 
         if ja_existe:
             respostas = dados_cache.get("respostas", {})
             if not respostas.get("resultado", []) or not deve_reverificar_pncp(dados_cache):
-                print(
-                    f"[{tstamp}] ⏭️ SKIP | {unidade['sigla']} | PNCP-{nome_mod.upper():<10} | {ano}")
+                log_event("INFO", "COMPRAS", "SKIP", uasg=unidade['sigla'], modalidade=f"PNCP-{nome_mod.upper()}", ano=ano)
                 if respostas.get('paginasRestantes', 0) > 0 and respostas.get("resultado", []):
                     pagina += 1
                     continue
@@ -182,16 +177,14 @@ def processar_tarefa_14133(unidade, ano, cod_mod, nome_mod, cfg):
             arquivo, f"{cfg['base_url']}{cfg['path']}", params, dados, status)
 
         if status == "SUCESSO":
-            print(
-                f"[{tstamp}] ✅ DONE | {unidade['sigla']} | PNCP-{nome_mod.upper():<10} | {ano}")
+            log_event("INFO", "COMPRAS", "DONE", uasg=unidade['sigla'], modalidade=f"PNCP-{nome_mod.upper()}", ano=ano)
             if dados.get('paginasRestantes', 0) > 0:
                 pagina += 1
                 continue
             else:
                 break
         else:
-            print(
-                f"[{tstamp}] ❌ FAIL | {unidade['sigla']} | PNCP-{nome_mod.upper():<10} | {ano}")
+            log_event("ERROR", "COMPRAS", "FAIL", uasg=unidade['sigla'], modalidade=f"PNCP-{nome_mod.upper()}", ano=ano)
             return False
     return True
 
@@ -199,7 +192,7 @@ def processar_tarefa_14133(unidade, ano, cod_mod, nome_mod, cfg):
 
 
 def executar_extracao_completa():
-    print(f"🚀 INICIANDO EXTRAÇÃO DE COMPRAS (MULTI-THREADING)... \n")
+    log_section("EXTRAÇÃO DE COMPRAS INICIADA")
     falhas_totais = 0
 
     # MOTOR 1: LEGADO

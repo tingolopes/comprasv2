@@ -2,19 +2,18 @@ import subprocess
 import sys
 import argparse
 from datetime import datetime
+from logging_utils import log_banner, log_event, log_section
 
 
 def executar_script(nome_script):
-    tstamp = datetime.now().strftime('%H:%M:%S')
-    print(f"\n{'='*60}")
-    print(f"[{tstamp}] 🚀 EXECUTANDO: {nome_script}")
-    print(f"{'='*60}")
+    log_banner(f"EXECUTANDO: {nome_script}")
 
     try:
         resultado = subprocess.run([sys.executable, nome_script], check=False)
+        log_event("INFO", "SCRIPT", f"Finalizado: {nome_script}", return_code=resultado.returncode)
         return resultado.returncode == 0
     except Exception as e:
-        print(f"❌ Erro ao chamar {nome_script}: {e}")
+        log_event("ERROR", "SCRIPT", f"Erro ao chamar {nome_script}: {e}")
         return False
 
 
@@ -47,17 +46,17 @@ def main():
 
     # Lógica de Orquestração baseada no parâmetro
     if args.acao in ["tudo", "extracao"]:
-        print("\n🛰️  FASE: EXTRAÇÃO INICIADA")
+        log_section("FASE: EXTRAÇÃO INICIADA")
         for s in extracao:
             executar_script(s)
 
     if args.acao in ["tudo", "banco"]:
-        print("\n🏗️  FASE: GERAÇÃO DE BANCOS INICIADA")
+        log_section("FASE: GERAÇÃO DE BANCOS INICIADA")
         for s in bancos:
             executar_script(s)
 
     duracao = datetime.now() - inicio_total
-    print(f"\n✨ PROCESSO '{args.acao.upper()}' CONCLUÍDO EM: {duracao}")
+    log_event("INFO", "EXECUTOR", f"Processo '{args.acao.upper()}' concluído", duracao=duracao)
 
 
 if __name__ == "__main__":

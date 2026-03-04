@@ -6,6 +6,7 @@ import sys
 from datetime import datetime
 from urllib.parse import urlencode
 from concurrent.futures import ThreadPoolExecutor, wait, FIRST_COMPLETED
+from logging_utils import log_event, log_section
 
 # --- CONFIGURAÇÃO ---
 UASGS = [
@@ -100,8 +101,8 @@ def executar_parallel():
     concluidas = 0
     falhas_restantes = 0
 
-    print(f"🚀 INICIANDO EXTRAÇÃO DE ATAS (TURBO {MAX_WORKERS} THREADS)")
-    print(f"📊 CONSULTAS INICIAIS: {total_tarefas}\n")
+    log_section("EXTRAÇÃO DE ATAS INICIADA")
+    log_event("INFO", "ATAS", "Consultas iniciais", total=total_tarefas, workers=MAX_WORKERS)
 
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
         futures = {executor.submit(processar_tarefa, t)
@@ -121,9 +122,13 @@ def executar_parallel():
 
                 # Log padronizado com percentual
                 percentual = (concluidas / total_tarefas) * 100
-                timestamp = datetime.now().strftime('%H:%M:%S')
-                print(
-                    f"[{timestamp}] {resultado} | {concluidas}/{total_tarefas} ({percentual:.1f}%)")
+                log_event(
+                    "INFO",
+                    "ATAS",
+                    resultado,
+                    progresso=f"{concluidas}/{total_tarefas}",
+                    percentual=f"{percentual:.1f}%"
+                )
 
                 # Se houver mais páginas, adiciona à fila e aumenta o total_tarefas
                 if pag_rest > 0:
@@ -133,14 +138,13 @@ def executar_parallel():
                         processar_tarefa, nova_tarefa)] = nova_tarefa
                     total_tarefas += 1
 
-    print(
-        f"\n✅ Processo de Atas concluído em {datetime.now().strftime('%d/%m/%Y %H:%M:%S')}")
+    log_event("INFO", "ATAS", "Processo de atas concluído", em=datetime.now().strftime('%d/%m/%Y %H:%M:%S'))
 
     if falhas_restantes > 0:
-        print(f"⚠️  Ciclo finalizado com {falhas_restantes} falhas pendentes.")
+        log_event("WARN", "ATAS", "Ciclo finalizado com falhas", falhas=falhas_restantes)
         sys.exit(1)
     else:
-        print("🎉 TUDO CONCLUÍDO COM SUCESSO!")
+        log_event("INFO", "ATAS", "Tudo concluído com sucesso")
         sys.exit(0)
 
 

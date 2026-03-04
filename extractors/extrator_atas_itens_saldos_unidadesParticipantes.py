@@ -6,6 +6,7 @@ import sys
 from datetime import datetime
 from urllib.parse import urlencode, quote
 from concurrent.futures import ThreadPoolExecutor, as_completed, wait, FIRST_COMPLETED
+from logging_utils import log_event, log_section
 
 # --- CONFIGURAÇÃO ---
 PASTAS = {
@@ -41,7 +42,7 @@ def verificar_sucesso(caminho, forcar_atualizacao=False):
                     return False, None
             return True, data
     except Exception as exc:
-        print(f"⚠️ Erro ao validar cache {caminho}: {exc}")
+        log_event("WARN", "ATAS_ITENS", f"Erro ao validar cache {caminho}: {exc}")
         return False, None
 
 
@@ -180,8 +181,8 @@ if __name__ == "__main__":
     concluidas = 0
     falhas_contador = 0
 
-    print(
-        f"🚀 INICIANDO EXTRAÇÃO BLINDADA | WORKERS: {MAX_WORKERS} | TOTAL TAREFAS: {total}\n")
+    log_section("EXTRAÇÃO BLINDADA INICIADA")
+    log_event("INFO", "ATAS_ITENS", "Execução iniciada", workers=MAX_WORKERS, total_tarefas=total)
 
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
         futures = {executor.submit(processar_uma_tarefa, t): t for t in fila}
@@ -205,14 +206,9 @@ if __name__ == "__main__":
 
                 # Exibe o progresso e o contador de erros atual
                 perc = (concluidas/total)*100
-                print(
-                    f"[{datetime.now().strftime('%H:%M:%S')}] {res} | Progresso: {concluidas}/{total} ({perc:.1f}%) | Erros: {falhas_contador}")
+                log_event("INFO", "ATAS_ITENS", res, progresso=f"{concluidas}/{total}", percentual=f"{perc:.1f}%", erros=falhas_contador)
 
-    print("\n" + "="*50)
-    print(f"🏁 PROCESSO FINALIZADO!")
-    print(f"   - Total Processado: {concluidas}")
-    print(f"   - Sucessos/Skips: {concluidas - falhas_contador}")
-    print(f"   - Falhas Totais: {falhas_contador}")
-    print("="*50)
+    log_section("PROCESSO FINALIZADO")
+    log_event("INFO", "ATAS_ITENS", "Resumo", total_processado=concluidas, sucessos_skips=concluidas - falhas_contador, falhas_totais=falhas_contador)
 
     sys.exit(1 if falhas_contador > 0 else 0)

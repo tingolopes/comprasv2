@@ -6,6 +6,7 @@ import sys
 from datetime import datetime
 from urllib.parse import urlencode
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from logging_utils import log_event, log_section
 
 # --- CONFIGURAÇÃO PADRONIZADA ---
 PASTAS = {
@@ -31,7 +32,7 @@ def carregar_json_seguro(caminho):
             dados = json.load(f)
             return dados if dados is not None else {}
     except Exception as exc:
-        print(f"⚠️ Erro ao carregar JSON {caminho}: {exc}")
+        log_event("WARN", "ITENS", f"Erro ao carregar JSON {caminho}: {exc}")
         return {}
 
 
@@ -116,7 +117,7 @@ def processar_uma_tarefa(t):
                 else:
                     status = f"ERRO_{response.status_code}"
             except Exception as exc:
-                print(f"⚠️ Tentativa {tentativa + 1} falhou para {url_full}: {exc}")
+                log_event("WARN", "ITENS", f"Tentativa {tentativa + 1} falhou para {url_full}: {exc}")
             time.sleep(2)
 
         salvar_json(nome_arq, url_full, params, dados, status)
@@ -134,7 +135,7 @@ def processar_uma_tarefa(t):
 
 def montar_fila():
     tarefas = []
-    print("🔍 Mapeando arquivos para montar a fila de itens...")
+    log_event("INFO", "ITENS", "Mapeando arquivos para montar a fila")
 
     # Processamento Legado
     if os.path.exists(PASTAS["C_LEGADO"]):
@@ -183,8 +184,8 @@ if __name__ == "__main__":
     concluidas = 0
     erros_count = 0
 
-    print(
-        f"\n🚀 INICIANDO TURBO BLINDADO | WORKERS: {MAX_WORKERS} | TOTAL: {total}\n")
+    log_section("TURBO BLINDADO INICIADO")
+    log_event("INFO", "ITENS", "Execução iniciada", workers=MAX_WORKERS, total=total)
 
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
         try:
@@ -198,13 +199,11 @@ if __name__ == "__main__":
                     erros_count += 1
 
                 perc = (concluidas / total) * 100
-                ts = datetime.now().strftime('%H:%M:%S')
-                print(
-                    f"[{ts}] {res} | Progresso: {concluidas}/{total} ({perc:.1f}%) | Falhas: {erros_count}")
+                log_event("INFO", "ITENS", res, progresso=f"{concluidas}/{total}", percentual=f"{perc:.1f}%", falhas=erros_count)
 
         except KeyboardInterrupt:
-            print("\n🛑 INTERRUPÇÃO! Parando...")
+            log_event("WARN", "ITENS", "Interrupção manual")
             executor.shutdown(wait=False, cancel_futures=True)
             sys.exit(0)
 
-    print(f"\n✅ FIM DO FLUXO. Total de falhas registradas: {erros_count}")
+    log_event("INFO", "ITENS", "Fim do fluxo", falhas=erros_count)
