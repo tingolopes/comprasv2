@@ -21,17 +21,18 @@ os.makedirs(PASTA_ATAS, exist_ok=True)
 
 
 def verificar_sucesso(caminho):
-    """Verifica se o arquivo já existe e se o status foi SUCESSO."""
-    if not os.path.exists(caminho):
-        return False, None
-    try:
-        with open(caminho, 'r', encoding='utf-8') as f:
-            data = json.load(f)
-            status = data.get("metadata", {}).get("status")
-            return (status == "SUCESSO"), data
-    except Exception as exc:
-        print(f"⚠️ Erro ao validar cache {caminho}: {exc}")
-        return False, None
+    """Dá skip apenas se o arquivo foi atualizado hoje."""
+    if os.path.exists(caminho):
+        mtime = os.path.getmtime(caminho)
+        data_arquivo = datetime.fromtimestamp(mtime).date()
+        if data_arquivo == datetime.now().date():
+            try:
+                with open(caminho, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+                    return True, data
+            except:
+                pass
+    return False, None
 
 
 def salvar_dados(caminho, url_base, params, conteudo, status="SUCESSO"):
