@@ -280,6 +280,10 @@ def gerar_banco_itens():
                          e4.get("descricaoItem") or
                          e6.get("noServico") or e6.get("noMaterial") or "")
 
+        desc_detalhada = (pncp.get("descricaodetalhada") or
+                          e4.get("descricaoDetalhadaItem") or
+                          e2.get("descricaoItem") or "")
+
         qtd = (e6.get("qtMaterialAlt") or e4.get("quantidadeItem") or
                pncp.get("quantidade") or e2.get("quantidade") or 0)
 
@@ -308,6 +312,7 @@ def gerar_banco_itens():
             "situacao": situacao,
             "material_servico": material_servico,
             "descricao": limpar_texto(desc_resumida),
+            "descricao_detalhada": limpar_texto(desc_detalhada),
             "quantidade": qtd,
             "unidade": (pncp.get("unidadeMedida") or e6.get("noUnidadeMedida") or
                         e4.get("unidadeFornecimento") or e2.get("unidade") or ""),
