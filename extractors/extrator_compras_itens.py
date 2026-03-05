@@ -41,10 +41,28 @@ def verificar_sucesso(caminho):
     return status, dados
 
 
-def salvar_json(caminho, url_base, params, conteudo, status="SUCESSO"):
+def salvar_dados(caminho, url_base, params, conteudo, status="SUCESSO"):
+    """
+    Salva os dados com trava de segurança: 
+    Não sobrescreve um cache de SUCESSO anterior se a tentativa atual falhou.
+    """
+    # 1. Trava de Segurança: Se a API falhou agora, mas já temos um arquivo bom de antes
+    if status != "SUCESSO" and os.path.exists(caminho):
+        # Verificamos se o arquivo existente era um SUCESSO
+        try:
+            with open(caminho, 'r', encoding='utf-8') as f:
+                cache_antigo = json.load(f)
+                if cache_antigo.get("metadata", {}).get("status") == "SUCESSO":
+                    # REGRA DE OURO: Mantém o arquivo antigo para não perder os dados
+                    return
+        except:
+            pass  # Se o arquivo antigo estiver corrompido, permite sobrescrever
+
+    # 2. Lógica de salvamento normal
+    url_consultada = f"{url_base}?{urlencode(params)}"
     envelope = {
         "metadata": {
-            "url_consultada": f"{url_base}?{urlencode(params)}",
+            "url_consultada": url_consultada,
             "data_extracao": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
             "status": status
         },
@@ -116,10 +134,11 @@ def processar_uma_tarefa(t):
                 else:
                     status = f"ERRO_{response.status_code}"
             except Exception as exc:
-                print(f"⚠️ Tentativa {tentativa + 1} falhou para {url_full}: {exc}")
+                print(
+                    f"⚠️ Tentativa {tentativa + 1} falhou para {url_full}: {exc}")
             time.sleep(2)
 
-        salvar_json(nome_arq, url_full, params, dados, status)
+        salvar_dados(nome_arq, url_full, params, dados, status)
 
         if status == "SUCESSO" and t['paginavel']:
             # Verifica se precisa de mais páginas.

@@ -93,6 +93,17 @@ def extrair_modalidade_dos_itens():
     return mapa_modalidades
 
 
+def formatar_processo_ifms(num_processo):
+    # Remove pontos, barras e traços para limpar antes de formatar
+    limpo = "".join(filter(str.isdigit, str(num_processo)))
+
+    if limpo.startswith("23347") and len(limpo) == 17:
+        # Formato: 23347 . 000000 / 0000 - 00
+        return f"{limpo[:5]}.{limpo[5:11]}.{limpo[11:15]}-{limpo[15:]}"
+
+    return num_processo  # Retorna original se não for o padrão IFMS
+
+
 def gerar_banco_compras():
     """Gera o arquivo banco_compras.csv unificando todas as fontes de compras."""
     print("\n" + "=" * 60)
@@ -184,7 +195,7 @@ def gerar_banco_compras():
         registro = {
             "id_compra": id_c,
             "numero_controle_pncp": m.get("numeroControlePNCP") or "",
-            "numero_processo": limpar_texto(num_processo),
+            "numero_processo": formatar_processo_ifms(num_processo),
             "lei_14133": m.get("pertence14133", False) or (master_key == "PNCP"),
             "uasg": uasg_codigo,
             "sigla_campus": MAPA_SIGLAS.get(uasg_codigo, ""),
@@ -282,15 +293,18 @@ def gerar_banco_itens():
 
         desc_detalhada = (pncp.get("descricaodetalhada") or
                           e4.get("descricaoDetalhadaItem") or
-                          e2.get("descricaoItem") or "")
+                          e2.get("descricaoItem") or desc_resumida or "")
 
         qtd = (e6.get("qtMaterialAlt") or e4.get("quantidadeItem") or
                pncp.get("quantidade") or e2.get("quantidade") or 0)
 
-        num_item = (pncp.get("numeroItemPncp") or
-                    e2.get("numeroItemLicitacao") or
-                    (e4.get("tbVwItensPregaoId") or {}).get("coItem") or
-                    e6.get("nuItemMaterial") or "")
+        # num_item = (pncp.get("numeroItemPncp") or
+        #             e2.get("numeroItemLicitacao") or
+        #             (e4.get("tbVwItensPregaoId") or {}).get("coItem") or
+        #             e6.get("nuItemMaterial") or "")
+
+        # numero do item vem dos ultimos 5 digitos do id_item, para garantir unicidade e evitar conflitos entre fontes
+        num_item = str(id_item)[-5:]
 
         situacao = (pncp.get("situacaoCompraItemNome") or
                     e4.get("situacaoItem") or
@@ -298,19 +312,19 @@ def gerar_banco_itens():
                                       b.get("fornecedorVencedor") or b.get("nomeVencedorPf"))
                      else "Pendente/Outro"))
 
-        material_servico = (
+        tipo_de_item = (
             pncp.get("materialOuServicoNome") or
             e6.get("inMaterialServico") or
             ("material" if e2.get("codigoItemMaterial") is not None else "") or
-            ("servico" if e2.get("codigoItemServico") is not None else "") or ""
-        ).replace("Material", "material").replace("Serviço", "servico")
+            ("servico" if e2.get("codigoItemServico") is not None else "") or "Grupo"
+        ).replace("material", "Material").replace("servico", "Serviço")
 
         reg = {
             "id_compra": b.get("idCompra"),
             "id_item": id_item,
             "num_item": num_item,
-            "situacao": situacao,
-            "material_servico": material_servico,
+            "situacao": situacao.capitalize(),
+            "tipo_de_item": tipo_de_item,
             "descricao": limpar_texto(desc_resumida),
             "descricao_detalhada": limpar_texto(desc_detalhada),
             "quantidade": qtd,

@@ -51,23 +51,43 @@ def consultar_natureza_pdm(pdm):
 
     for tentativa in range(1, 4):
         try:
-            # Timeout estendido para 30s como padronizamos
-            response = requests.get(BASE_URL, params=params, timeout=30)
-            if response.status_code == 200:
-                conteudo = response.json()
-                envelope = {
-                    "metadata": {
-                        "url_consultada": f"{BASE_URL}?pagina=1&codigoPdm={pdm}",
-                        "data_extracao": tstamp,
-                        "status": "SUCESSO"
-                    },
-                    "respostas": {"resultado": conteudo.get("resultado", [])}
-                }
-                with open(arquivo_destino, 'w', encoding='utf-8') as f:
-                    json.dump(envelope, f, ensure_ascii=False, indent=4)
-                print(
-                    f"[{datetime.now().strftime('%H:%M:%S')}] ✅ PDM {pdm} | Sucesso")
-                return True
+            response = requests.get(
+                BASE_URL, params={"pagina": 1, "codigoPdm": pdm}, timeout=30)
+
+            # --- TRAVA DE SEGURANÇA (NÍVEL SUPERIOR) ---
+            if response.status_code != 200:
+                if os.path.exists(arquivo_destino):
+                    # Se falhou mas temos cache, verificamos se o cache é válido
+                    try:
+                        with open(arquivo_destino, 'r', encoding='utf-8') as f:
+                            cache_antigo = json.load(f)
+                            if cache_antigo.get("metadata", {}).get("status") == "SUCESSO":
+                                print(
+                                    f"[{datetime.now().strftime('%H:%M:%S')}] ⚠️ PDM {pdm} falhou (API). Preservando cache antigo.")
+                                return True  # Retorna True para não contar como falha crítica
+                    except:
+                        pass
+
+                # Se não tem cache ou o cache está ruim, apenas continua para o retry
+                raise Exception(f"Status Code {response.status_code}")
+
+            # Se chegou aqui, a resposta é 200 OK
+            conteudo = response.json()
+            envelope = {
+                "metadata": {
+                    "url_consultada": f"{BASE_URL}?pagina=1&codigoPdm={pdm}",
+                    "data_extracao": tstamp,
+                    "status": "SUCESSO"
+                },
+                "respostas": {"resultado": conteudo.get("resultado", [])}
+            }
+
+            with open(arquivo_destino, 'w', encoding='utf-8') as f:
+                json.dump(envelope, f, ensure_ascii=False, indent=4)
+
+            print(f"[{datetime.now().strftime('%H:%M:%S')}] ✅ PDM {pdm} | Sucesso")
+            return True
+
         except Exception as exc:
             print(f"⚠️ Tentativa {tentativa} falhou para PDM {pdm}: {exc}")
 

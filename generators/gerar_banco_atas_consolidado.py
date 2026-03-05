@@ -116,7 +116,7 @@ def build():
                         "numero_ata": i.get("numeroAtaRegistroPreco"),
                         "numero_item": i.get("numeroItem"),
                         "material_cod": i.get("codigoItem"),
-                        "material_servico": i.get("tipoItem"),
+                        "tipo_de_item": i.get("tipoItem"),
                         "codigo_pdm": i.get("codigoPdm"),
                         "fornecedor_cnpj": i.get("niFornecedor"),
                         "fornecedor_nome": limpar(i.get("nomeRazaoSocialFornecedor")),

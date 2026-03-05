@@ -45,11 +45,28 @@ def verificar_sucesso(caminho, forcar_atualizacao=False):
         return False, None
 
 
-def salvar_json(caminho, url_base, params, conteudo, status="SUCESSO"):
-    url_completa = f"{url_base}?{urlencode(params)}"
+def salvar_dados(caminho, url_base, params, conteudo, status="SUCESSO"):
+    """
+    Salva os dados com trava de segurança: 
+    Não sobrescreve um cache de SUCESSO anterior se a tentativa atual falhou.
+    """
+    # 1. Trava de Segurança: Se a API falhou agora, mas já temos um arquivo bom de antes
+    if status != "SUCESSO" and os.path.exists(caminho):
+        # Verificamos se o arquivo existente era um SUCESSO
+        try:
+            with open(caminho, 'r', encoding='utf-8') as f:
+                cache_antigo = json.load(f)
+                if cache_antigo.get("metadata", {}).get("status") == "SUCESSO":
+                    # REGRA DE OURO: Mantém o arquivo antigo para não perder os dados
+                    return
+        except:
+            pass  # Se o arquivo antigo estiver corrompido, permite sobrescrever
+
+    # 2. Lógica de salvamento normal
+    url_consultada = f"{url_base}?{urlencode(params)}"
     envelope = {
         "metadata": {
-            "url_consultada": url_completa,
+            "url_consultada": url_consultada,
             "data_extracao": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
             "status": status
         },
@@ -97,7 +114,7 @@ def processar_uma_tarefa(t):
 
             if response.status_code == 200:
                 dados = response.json()
-                salvar_json(arquivo, url_full, params, dados, "SUCESSO")
+                salvar_dados(arquivo, url_full, params, dados, "SUCESSO")
                 # RETORNA O TIPO_LOG PARA O CONSOLE
                 return f"{tipo_log} | {t['label']} | ID: {t['id_referencia']}", dados.get('paginasRestantes', 0)
 
@@ -107,15 +124,15 @@ def processar_uma_tarefa(t):
                 continue  # Tenta novamente
 
             else:
-                salvar_json(arquivo, url_full, params, None,
-                            f"FALHA: {response.status_code}")
+                salvar_dados(arquivo, url_full, params, None,
+                             f"FALHA: {response.status_code}")
                 return f"❌ ERRO {response.status_code} | {t['id_referencia']}", 0
 
         except Exception as e:
             if tentativa < 2:
                 time.sleep(5)
                 continue
-            salvar_json(arquivo, url_full, params, None, f"FALHA: {str(e)}")
+            salvar_dados(arquivo, url_full, params, None, f"FALHA: {str(e)}")
             return f"💥 FALHA | {t['id_referencia']} | {str(e)}", 0
 
     return f"❌ LIMITE TENTATIVAS | {t['id_referencia']}", 0

@@ -75,6 +75,23 @@ def deve_reverificar_pncp(dados_cache, dias_validade=7):
 
 
 def salvar_dados(caminho, url_base, params, conteudo, status="SUCESSO"):
+    """
+    Salva os dados com trava de segurança: 
+    Não sobrescreve um cache de SUCESSO anterior se a tentativa atual falhou.
+    """
+    # 1. Trava de Segurança: Se a API falhou agora, mas já temos um arquivo bom de antes
+    if status != "SUCESSO" and os.path.exists(caminho):
+        # Verificamos se o arquivo existente era um SUCESSO
+        try:
+            with open(caminho, 'r', encoding='utf-8') as f:
+                cache_antigo = json.load(f)
+                if cache_antigo.get("metadata", {}).get("status") == "SUCESSO":
+                    # REGRA DE OURO: Mantém o arquivo antigo para não perder os dados
+                    return
+        except:
+            pass  # Se o arquivo antigo estiver corrompido, permite sobrescrever
+
+    # 2. Lógica de salvamento normal
     url_consultada = f"{url_base}?{urlencode(params)}"
     envelope = {
         "metadata": {
