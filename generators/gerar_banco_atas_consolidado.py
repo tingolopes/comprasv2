@@ -111,6 +111,7 @@ def build():
                 res = json.load(f).get("respostas", {})
                 for i in res.get("resultado", []) if isinstance(res, dict) else []:
                     itens.append({
+                        "id_compra": i.get("idCompra"),
                         "id_licitacao_pncp": i.get("numeroControlePncpCompra"),
                         "id_ata_pncp": i.get("numeroControlePncpAta"),
                         "numero_ata": i.get("numeroAtaRegistroPreco"),
