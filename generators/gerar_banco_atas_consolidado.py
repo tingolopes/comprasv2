@@ -49,6 +49,32 @@ def limpar(t):
     return str(t).replace('\n', ' ').replace('\r', ' ').replace(';', ',').strip()
 
 
+def carregar_mapa_atas(pasta_atas):
+    """
+    Cria um mapa: numeroControlePncpAta -> idCompra
+    Lê os arquivos da pasta de cabeçalho das Atas (ARP).
+    """
+    mapa = {}
+    if not pasta_atas or not os.path.exists(pasta_atas):
+        return mapa
+
+    for arq in [f for f in os.listdir(pasta_atas) if f.endswith(".json")]:
+        try:
+            with open(os.path.join(pasta_atas, arq), 'r', encoding='utf-8') as f:
+                res = json.load(f).get("respostas", {})
+                # A estrutura pode variar, tentamos pegar o resultado
+                lista = res.get("resultado", []) if isinstance(
+                    res, dict) else []
+                for ata in lista:
+                    chave = ata.get("numeroControlePncpAta")
+                    id_compra = ata.get("idCompra")
+                    if chave and id_compra:
+                        mapa[chave] = id_compra
+        except:
+            continue
+    return mapa
+
+
 def extrair_da_url(url):
     try:
         match = re.search(r"numeroAta=([^&]+)", url)
@@ -76,6 +102,10 @@ def salvar_bases(df, nome_base):
 
 
 def build():
+    # --- 1. CARREGA MAPA DE ATAS PARA CURA DE IDS ---
+    mapa_atas = carregar_mapa_atas(PASTAS["ATAS"])
+    print(f"ℹ️ Mapa de Atas carregado com {len(mapa_atas)} chaves de ID.")
+
     print("🚀 Iniciando Consolidação Robusta (Restaurando Colunas)...")
 
     # --- 1. BASE DE ATAS ---
@@ -87,6 +117,8 @@ def build():
                 for a in res.get("resultado", []) if isinstance(res, dict) else []:
                     atas_header.append({
                         "id_compra": a.get("idCompra"),
+                        "numero_controle_pncp": a.get("numeroControlePncpCompra"),
+                        "numero_controle_pncp_ata": a.get("numeroControlePncpAta"),
                         "numero_ata": a.get("numeroAtaRegistroPreco"),
                         "codigo_uasg": a.get("codigoUnidadeGerenciadora"),
                         "nome_uasg": a.get("nomeUnidadeGerenciadora"),
@@ -97,8 +129,7 @@ def build():
                         "objeto": limpar(a.get("objeto")),
                         "modalidade": a.get("nomeModalidadeCompra"),
                         "linkAtaPNCP": a.get("linkAtaPNCP"),
-                        "linkCompraPNCP": a.get("linkCompraPNCP"),
-                        "numero_controle_pncp": a.get("numeroControlePncpAta")
+                        "linkCompraPNCP": a.get("linkCompraPNCP")
                     })
     salvar_bases(pd.DataFrame(atas_header).drop_duplicates(),
                  "data/banco_atas")
@@ -110,8 +141,15 @@ def build():
             with open(os.path.join(PASTAS["ITENS"], arq), 'r', encoding='utf-8') as f:
                 res = json.load(f).get("respostas", {})
                 for i in res.get("resultado", []) if isinstance(res, dict) else []:
+
+                    id_compra = i.get("idCompra")
+                    num_controle_ata = i.get("numeroControlePncpAta")
+
+                    if not id_compra and num_controle_ata and num_controle_ata in mapa_atas:
+                        id_compra = mapa_atas[num_controle_ata]
+
                     itens.append({
-                        "id_compra": i.get("idCompra"),
+                        "id_compra": id_compra,
                         "id_licitacao_pncp": i.get("numeroControlePncpCompra"),
                         "id_ata_pncp": i.get("numeroControlePncpAta"),
                         "numero_ata": i.get("numeroAtaRegistroPreco"),
