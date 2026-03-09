@@ -35,17 +35,14 @@ def main():
     extracao = [
         # Atas
         "extractors/extrator_atas.py",
-        "extractors/extrator_atas_itens_saldos_unidadesParticipantes.py"
-
+        "extractors/extrator_atas_itens_saldos_unidadesParticipantes.py",
         # Compras
         "extractors/extrator_compras.py",
         "extractors/extrator_compras_itens.py",
-
         # Natureza de Despesa
         "extractors/extrator_natureza_despesa.py",
-
         # Contratos
-        "extractors/extrator_contratos.py",
+        "extractors/extrator_contratos.py"
     ]
 
     bancos = [

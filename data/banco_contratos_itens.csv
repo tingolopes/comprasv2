@@ -16,7 +16,7 @@
 10345;523330;Material;Álcool anidro combustível;;17492;2,39;41.805,88;00003
 10345;523328;Material;Gasolina comum;;29270;3,30;96.591,00;00002
 10345;523326;Material;Óleo diesel;;228039;2,85;649.911,15;00001
-10436;345558;Serviço;Manutenção / higienização de reservatório de água potável;;460;48,00;22.080,00;00024
+10436;345558;Serviço;Manutenção , higienização de reservatório de água potável;;460;48,00;22.080,00;00024
 10436;345556;Serviço;Desinsetização / desratização / dedetização;;53000;0,03;1.590,00;00023
 10436;345554;Serviço;Desinsetização / desratização / dedetização;;10730;0,07;751,10;00022
 107889;685056;Serviço;Locação transformador energia;Locação transformador energia;0;4.500,00;0,00;00003
@@ -27,23 +27,23 @@
 110076;872691;Serviço;Outsourcing de impressão - locação páginas impressas a4  sempapel;Outsourcing de impressão - locação páginas impressas a4  sempapel;80;228,40;54.816,96;00003
 110076;872690;Serviço;Outsourcing de impressão - locação páginas impressas a4  sempapel;Outsourcing de impressão - locação páginas impressas a4  sempapel;60;171,30;30.834,54;00002
 110076;872693;Serviço;Outsourcing de impressão - locação páginas impressas a4  sempapel;Outsourcing de impressão - locação páginas impressas a4  sempapel;36;571,01;61.669,08;00001
-112143;707018;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento;4;540,53;25.945,20;00001
-112178;707157;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento mercado regulado;4;170,22;8.170,75;00001
-113680;717181;Serviço;Serviço de almoxarifado  virtual de material de consumo administrativo - gerenciamento de meios logísticos;Serviço de almoxarifado  virtual de material de consumo administrativo - gerenciamento de meios logísticos;400;302,49;120.996,04;00001
-113995;719019;Serviço;Serviço de almoxarifado  virtual de material de consumo administrativo - gerenciamento de meios logísticos;Serviço de almoxarifado  virtual de material de consumo administrativo - gerenciamento de meios logísticos;741;321,31;238.094,12;00003
-115316;1199723;Serviço;Serviço de almoxarifado  virtual de material de consumo administrativo - gerenciamento de meios logísticos;Serviço de almoxarifado  virtual de material de consumo administrativo - gerenciamento de meios logísticos;1;302,49;315.497,07;00003
+112143;707018;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento;4;540,53;25.945,20;00001
+112178;707157;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento mercado regulado;4;170,22;8.170,75;00001
+113680;717181;Serviço;Serviço de almoxarifado  virtual de material de consumo e gerenciamento de meios logísticos;Serviço de almoxarifado  virtual de material de consumo administrativo - gerenciamento de meios logísticos;400;302,49;120.996,04;00001
+113995;719019;Serviço;Serviço de almoxarifado  virtual de material de consumo e gerenciamento de meios logísticos;Serviço de almoxarifado  virtual de material de consumo administrativo - gerenciamento de meios logísticos;741;321,31;238.094,12;00003
+115316;1199723;Serviço;Serviço de almoxarifado  virtual de material de consumo e gerenciamento de meios logísticos;Serviço de almoxarifado  virtual de material de consumo administrativo - gerenciamento de meios logísticos;1;302,49;315.497,07;00003
 119715;818680;Serviço;Agropecuária - serviços auxiliares;Agropecuária - serviços auxiliares;1;78.354,24;78.354,24;00005
 119715;818679;Serviço;Prestação de serviços de motorista;Prestação de serviços de motorista;1;85.591,56;85.591,56;00004
 119715;818678;Serviço;Prestação de serviços de motorista;Prestação de serviços de motorista;12;2.182,44;26.189,28;00003
 119715;818677;Serviço;Prestação de serviços de motorista;Prestação de serviços de motorista;12;1.091,16;13.093,92;00002
 119715;818676;Serviço;Prestação de serviços de motorista;Prestação de serviços de motorista;1;84.107,88;84.107,88;00001
 119883;1244256;Serviço;Inspeção e avaliação de manutenção - elevador / escada rolante;Inspeção e avaliação de manutenção - elevador / escada rolante;14.4;600,00;8.640,00;00001
-119920;750298;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento;1;133.403,76;133.403,76;00001
-119923;750301;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento;1;93.396,24;93.396,24;00001
+119920;750298;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento;1;133.403,76;133.403,76;00001
+119923;750301;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento;1;93.396,24;93.396,24;00001
 120576;753598;Serviço;Instalação de sistema eletrônico integrado  de  segurança  -(pessoal / patrimonial);Instalação de sistema eletrônico integrado  de  segurança  -(pessoal , patrimonial);1;9.360,00;9.360,00;00001
 124020;773977;Serviço;Locação de imóvel;Locacao de imovel;1;41.817,23;41.817,23;00002
 124020;773976;Serviço;Locação de imóvel;Locacao de imovel;1;398.234,97;398.234,97;00001
-124926;779304;Serviço;Serviço de almoxarifado  virtual de material de consumo administrativo - gerenciamento de meios logísticos;Serviço de almoxarifado  virtual de material de consumo administrativo - gerenciamento de meios logísticos;1;302,49;120.996,04;00003
+124926;779304;Serviço;Serviço de almoxarifado  virtual de material de consumo e gerenciamento de meios logísticos;Serviço de almoxarifado  virtual de material de consumo administrativo - gerenciamento de meios logísticos;1;302,49;120.996,04;00003
 125761;783747;Serviço;Refeições industriais - preparo / distribuição;Refeições industriais - preparo / distribuição;3040;14,80;44.992,00;00004
 125761;783745;Serviço;Refeições industriais - preparo / distribuição;Refeições industriais - preparo / distribuição;3040;4,50;13.680,00;00003
 125761;783746;Serviço;Refeições industriais - preparo / distribuição;Refeições industriais - preparo / distribuição;3040;14,80;44.992,00;00002
@@ -60,10 +60,10 @@
 127116;791566;Material;Pão;Pão;24;14,75;354,00;00010
 127408;792855;Material;Condimento;Condimento;24;6,00;144,00;00006
 127408;792853;Material;Fruta;Fruta;24;6,82;163,68;00001
-127864;796272;Serviço;Serviço de almoxarifado  virtual de material de consumo administrativo - gerenciamento de meios logísticos;Serviço de almoxarifado  virtual de material de consumo administrativo - gerenciamento de meios logísticos;1;316,73;126.691,68;00003
+127864;796272;Serviço;Serviço de almoxarifado  virtual de material de consumo e gerenciamento de meios logísticos;Serviço de almoxarifado  virtual de material de consumo administrativo - gerenciamento de meios logísticos;1;316,73;126.691,68;00003
 127956;800358;Serviço;Serviço engenharia;Serviço engenharia;1;217.059,57;217.059,57;00001
 128221;799183;Serviço;Manutenção / reforma predial;Manutenção , reforma predial;1;31.000,00;31.000,00;00001
-129005;810452;Serviço;Serviço de almoxarifado  virtual de material de consumo administrativo - gerenciamento de meios logísticos;Serviço de almoxarifado  virtual de material de consumo administrativo - gerenciamento de meios logísticos;4423;319,99;1.415.302,85;00003
+129005;810452;Serviço;Serviço de almoxarifado  virtual de material de consumo e gerenciamento de meios logísticos;Serviço de almoxarifado  virtual de material de consumo administrativo - gerenciamento de meios logísticos;4423;319,99;1.415.302,85;00003
 129632;806521;Material;Verdura in natura;Verdura in natura;198;3,95;782,10;00015
 129632;806520;Material;Condimento in natura;Condimento in natura;198;3,95;782,10;00014
 129632;806519;Material;Verdura in natura;Verdura in natura;198;7,20;1.425,60;00013
@@ -79,8 +79,8 @@
 129632;806509;Material;Fruta in natura;Fruta in natura;198;4,50;891,00;00003
 129632;806508;Material;Fruta in natura;Fruta in natura;49500;0,01;262,35;00002
 129632;806507;Material;000227811 - descrição não informada pelo serviço.;Fruta in natura, tipo:abacaxi, espécie:caiano;198;8,99;1.780,02;00001
-131925;828982;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento;1;720,00;720,00;00002
-131925;828981;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento;1;11.280,00;11.280,00;00001
+131925;828982;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento;1;720,00;720,00;00002
+131925;828981;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento;1;11.280,00;11.280,00;00001
 131999;829736;Serviço;Serviço de vigilância armada;Serviço de vigilância armada;2;152.280,48;304.560,96;00002
 131999;829735;Serviço;Serviço de vigilância armada;Serviço de vigilância armada;1;131.542,44;131.542,44;00001
 132086;829939;Serviço;Manutenção / reforma predial;Manutenção , reforma predial;1;522.300,46;522.300,46;00001
@@ -94,7 +94,7 @@
 132571;832668;Serviço;Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);5;498,15;2.490,75;00127
 132571;832667;Serviço;Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);18;442,80;7.970,40;00126
 132571;832666;Serviço;Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);1;498,26;498,26;00125
-132571;832665;Serviço;Comercialização / recondicionamento de peça e componente;Comercialização / recondicionamento de peça e componente;1;11.070,06;11.070,06;00124
+132571;832665;Serviço;Comercialização , recondicionamento de peça e componente;Comercialização / recondicionamento de peça e componente;1;11.070,06;11.070,06;00124
 132571;832664;Serviço;Ar condicionado - manutenção de aparelhos de parede;Ar condicionado - manutenção de aparelhos de parede;1;844,28;844,28;00123
 132571;832663;Serviço;Ar condicionado - manutenção de aparelhos de parede;Ar condicionado - manutenção de aparelhos de parede;1;442,85;442,85;00122
 132571;832662;Serviço;Ar condicionado - manutenção de aparelhos de parede;Ar condicionado - manutenção de aparelhos de parede;5;387,45;1.937,25;00121
@@ -121,7 +121,7 @@
 132571;832641;Serviço;Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);27;498,15;13.450,05;00044
 132571;832640;Serviço;Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);8;679,70;5.437,60;00043
 132571;832639;Serviço;Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);6;442,80;2.656,80;00042
-132571;832638;Serviço;Comercialização / recondicionamento de peça e componente;Comercialização / recondicionamento de peça e componente;1;25.461,13;25.461,13;00041
+132571;832638;Serviço;Comercialização , recondicionamento de peça e componente;Comercialização / recondicionamento de peça e componente;1;25.461,13;25.461,13;00041
 132571;832637;Serviço;Ar condicionado - manutenção de aparelhos de parede;Ar condicionado - manutenção de aparelhos de parede;20;330,99;6.619,80;00040
 132571;832636;Serviço;Ar condicionado - manutenção de aparelhos de parede;Ar condicionado - manutenção de aparelhos de parede;3;332,10;996,30;00039
 132571;832635;Serviço;Ar condicionado - manutenção de aparelhos de parede;Ar condicionado - manutenção de aparelhos de parede;25;276,75;6.918,75;00038
@@ -147,7 +147,7 @@
 132571;832615;Serviço;Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);8;531,36;4.250,88;00018
 132571;832614;Serviço;Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);27;498,15;13.450,05;00017
 132571;832613;Serviço;Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);7;442,80;3.099,60;00016
-132571;832612;Serviço;Comercialização / recondicionamento de peça e componente;Comercialização / recondicionamento de peça e componente;1;16.605,09;16.605,09;00015
+132571;832612;Serviço;Comercialização , recondicionamento de peça e componente;Comercialização / recondicionamento de peça e componente;1;16.605,09;16.605,09;00015
 132571;832611;Serviço;Ar condicionado - manutenção de aparelhos de parede;Ar condicionado - manutenção de aparelhos de parede;1;332,58;332,58;00014
 132571;832610;Serviço;Ar condicionado - manutenção de aparelhos de parede;Ar condicionado - manutenção de aparelhos de parede;29;276,75;8.025,75;00013
 132571;832609;Serviço;Ar condicionado - manutenção de aparelhos de parede;Ar condicionado - manutenção de aparelhos de parede;12;276,75;3.321,00;00012
@@ -217,7 +217,7 @@
 139666;2699496;Serviço;Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);5;495,12;2.475,60;00176
 139666;2699495;Serviço;Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);5;464,18;2.320,88;00175
 139666;2699494;Serviço;Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);5;412,60;2.063,00;00174
-139666;2699493;Serviço;Comercialização / recondicionamento de peça e componente;Comercialização / recondicionamento de peça e componente;1;25.787,50;25.787,50;00173
+139666;2699493;Serviço;Comercialização , recondicionamento de peça e componente;Comercialização / recondicionamento de peça e componente;1;25.787,50;25.787,50;00173
 139666;2699492;Serviço;Ar condicionado - manutenção de aparelhos de parede;Ar condicionado - manutenção de aparelhos de parede;12;412,60;4.951,20;00172
 139666;2699491;Serviço;Ar condicionado - manutenção de aparelhos de parede;Ar condicionado - manutenção de aparelhos de parede;11;361,03;3.971,28;00171
 139666;2699490;Serviço;Ar condicionado - manutenção de aparelhos de parede;Ar condicionado - manutenção de aparelhos de parede;27;361,03;9.747,68;00170
@@ -241,7 +241,7 @@
 139666;2699472;Serviço;Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);3;812,83;2.438,48;00152
 139666;2699471;Serviço;Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);2;735,46;1.470,92;00151
 139666;2699470;Serviço;Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);2;598,27;1.196,54;00150
-139666;2699469;Serviço;Comercialização / recondicionamento de peça e componente;Comercialização / recondicionamento de peça e componente;1;15.472,50;15.472,50;00149
+139666;2699469;Serviço;Comercialização , recondicionamento de peça e componente;Comercialização / recondicionamento de peça e componente;1;15.472,50;15.472,50;00149
 139666;2699468;Serviço;Ar condicionado - manutenção de aparelhos de parede;Ar condicionado - manutenção de aparelhos de parede;1;549,79;549,79;00148
 139666;2699467;Serviço;Ar condicionado - manutenção de aparelhos de parede;Ar condicionado - manutenção de aparelhos de parede;14;257,88;3.610,25;00147
 139666;2699466;Serviço;Ar condicionado - manutenção de aparelhos de parede;Ar condicionado - manutenção de aparelhos de parede;7;257,88;1.805,13;00146
@@ -256,13 +256,13 @@
 139666;2699457;Serviço;Manutenção de geladeiras e bebedouros;Manutenção de geladeiras e bebedouros;1;361,03;361,03;00137
 139666;2699456;Serviço;Manutenção de geladeiras e bebedouros;Manutenção de geladeiras e bebedouros;1;361,03;361,03;00136
 139666;2699455;Serviço;Manutenção de geladeiras e bebedouros;Manutenção de geladeiras e bebedouros;6;206,30;1.237,80;00135
-139666;2699454;Serviço;Comercialização / recondicionamento de peça e componente;Comercialização / recondicionamento de peça e componente;1;10.315,00;10.315,00;00098
+139666;2699454;Serviço;Comercialização , recondicionamento de peça e componente;Comercialização / recondicionamento de peça e componente;1;10.315,00;10.315,00;00098
 139666;2699453;Serviço;Elaboração / análise projeto - engenharia;Elaboração / análise projeto - engenharia;1;1.030,47;1.030,47;00087
 139666;2699452;Serviço;Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);3;670,48;2.011,43;00086
 139666;2699451;Serviço;Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);3;515,75;1.547,25;00085
 139666;2699450;Serviço;Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);3;464,18;1.392,53;00084
 139666;2699449;Serviço;Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);3;411,57;1.234,71;00083
-139666;2699448;Serviço;Comercialização / recondicionamento de peça e componente;Comercialização / recondicionamento de peça e componente;1;19.187,36;19.187,36;00082
+139666;2699448;Serviço;Comercialização , recondicionamento de peça e componente;Comercialização / recondicionamento de peça e componente;1;19.187,36;19.187,36;00082
 139666;2699447;Serviço;Ar condicionado - manutenção de aparelhos de parede;Ar condicionado - manutenção de aparelhos de parede;5;308,42;1.542,09;00081
 139666;2699446;Serviço;Ar condicionado - manutenção de aparelhos de parede;Ar condicionado - manutenção de aparelhos de parede;70;257,88;18.051,60;00080
 139666;2699445;Serviço;Ar condicionado - manutenção de aparelhos de parede;Ar condicionado - manutenção de aparelhos de parede;30;257,88;7.736,40;00079
@@ -280,7 +280,7 @@
 140347;878235;Serviço;Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);4;657,00;2.628,00;00067
 140347;878234;Serviço;Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);4;682,20;2.728,80;00066
 140347;878233;Serviço;Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);4;582,00;2.328,00;00065
-140347;878232;Serviço;Comercialização / recondicionamento de peça e componente;Comercialização / recondicionamento de peça e componente;1;15.000,00;15.000,00;00064
+140347;878232;Serviço;Comercialização , recondicionamento de peça e componente;Comercialização / recondicionamento de peça e componente;1;15.000,00;15.000,00;00064
 140347;878231;Serviço;Ar condicionado - manutenção de aparelhos de parede;Ar condicionado - manutenção de aparelhos de parede;25;742,80;18.570,00;00063
 140347;878230;Serviço;Ar condicionado - manutenção de aparelhos de parede;Ar condicionado - manutenção de aparelhos de parede;2;626,00;1.252,00;00062
 140347;878229;Serviço;Ar condicionado - manutenção de aparelhos de parede;Ar condicionado - manutenção de aparelhos de parede;12;357,14;4.285,68;00061
@@ -307,8 +307,8 @@
 144989;904378;Serviço;Prestaçao de serviços de agenciamento de viagens;Prestaçao de serviços de agenciamento de viagens;6;1,14;6,84;00001
 145506;907107;Serviço;Fornecimento de água e coleta de esgoto sanitário;Fornecimento de agua e coleta de esgoto sanitario;12;6.481,37;77.776,44;00001
 145522;907413;Serviço;Seguro / garantia;Seguro / garantia;9744;0,56;5.456,64;00001
-14606;534234;Serviço;Publicação legal / editais;;1;5.000,00;5.000,00;00001
-147490;919731;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento;12;35.000,00;420.000,00;00001
+14606;534234;Serviço;Publicações promocionais / editais;;1;5.000,00;5.000,00;00001
+147490;919731;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento;12;35.000,00;420.000,00;00001
 148393;923119;Serviço;Refeições industriais - preparo / distribuição;Refeições industriais - preparo / distribuição;6200;17,83;110.546,00;00004
 148393;923118;Serviço;Refeições industriais - preparo / distribuição;Refeições industriais - preparo / distribuição;6500;6,03;39.195,00;00003
 148393;923117;Serviço;Refeições industriais - preparo / distribuição;Refeições industriais - preparo / distribuição;8000;17,83;142.640,00;00002
@@ -328,8 +328,8 @@
 151777;940343;Serviço;Manutenção / reforma predial;Manutenção / reforma predial;12;685,67;8.228,04;00001
 152269;1063299;Serviço;Serviço especializado de limpeza;Serviço especializado de limpeza;12;49.967,58;599.611,00;00001
 155962;957634;Serviço;Monitoramento circuito fechado tv;Monitoramento circuito fechado tv;1;36.000,00;36.000,00;00001
-156065;957863;Serviço;Publicação legal / editais;Publicações promocionais / editais;12;2.317,50;27.810,00;00001
-156214;958874;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento;12;20.483,92;245.807,00;00001
+156065;957863;Serviço;Publicações promocionais / editais;Publicações promocionais / editais;12;2.317,50;27.810,00;00001
+156214;958874;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento;12;20.483,92;245.807,00;00001
 156820;1179442;Serviço;Fornecimento de água e coleta de esgoto sanitário;Fornecimento de água e coleta de esgoto sanitário;3;6.000,00;18.000,00;00001
 156980;961976;Material;Manteiga;Manteiga;57;10,85;618,45;00014
 156980;961975;Material;Biscoito;Biscoito;616;6,25;3.850,00;00005
@@ -357,7 +357,7 @@
 158521;967817;Serviço;Prestação de serviços de portaria / recepção;Prestação de serviços de portaria , recepção;0;42.381,00;0,00;00010
 158521;967816;Serviço;Prestação de serviços de cozinheiro;Prestação de serviços de cozinheiro;0;48.377,40;0,00;00006
 158521;967815;Serviço;Prestação de serviços de cozinheiro;Prestação de serviços de cozinheiro;0;41.940,12;0,00;00005
-158780;1230501;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento mercado regulado;1;10.500,00;10.500,00;00001
+158780;1230501;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento mercado regulado;1;10.500,00;10.500,00;00001
 160015;974032;Serviço;Concessão uso - área / imóvel público;Concessão uso - área , imóvel público;12;500,00;6.000,00;00001
 160016;974033;Serviço;Concessão uso - área / imóvel público;Concessão uso - área , imóvel público;12;500,00;6.000,00;00002
 160257;974851;Serviço;Prestação de serviços de portaria / recepção;Prestação de serviços de portaria / recepção;1;49.588,56;49.588,56;00047
@@ -421,27 +421,27 @@
 163107;1003568;Serviço;Serviço educacional -básico / fundamental / médio / superior;Serviço educacional -básico / fundamental / médio / superior;96;2.205,02;211.681,92;00008
 163107;1003567;Serviço;Serviço educacional -básico / fundamental / médio / superior;Serviço educacional -básico / fundamental / médio / superior;144;3.853,94;554.967,36;00007
 163343;989212;Serviço;Prestação de serviços de portaria / recepção;Prestação de serviços de portaria / recepção;3;49.383,60;148.150,80;00004
-163844;991509;Serviço;Manutenção / higienização de reservatório de água potável;Manutenção , higienização de reservatório de água potável;2;650,00;1.300,00;00039
-163844;991508;Serviço;Manutenção / higienização de reservatório de água potável;Manutenção , higienização de reservatório de água potável;6;190,00;1.140,00;00038
+163844;991509;Serviço;Manutenção , higienização de reservatório de água potável;Manutenção , higienização de reservatório de água potável;2;650,00;1.300,00;00039
+163844;991508;Serviço;Manutenção , higienização de reservatório de água potável;Manutenção , higienização de reservatório de água potável;6;190,00;1.140,00;00038
 163844;991507;Serviço;Desinsetização / desratização / dedetização;Desinsetização , desratização , dedetização;3512;2,70;9.482,40;00037
 163844;991506;Serviço;Desinsetização / desratização / dedetização;Desinsetização , desratização , dedetização;3200;0,35;1.120,00;00036
 163844;991505;Serviço;Desinsetização / desratização / dedetização;Desinsetização , desratização , dedetização;5000;0,31;1.550,00;00035
 163844;991504;Serviço;Desinsetização / desratização / dedetização;Desinsetização , desratização , dedetização;6340;0,35;2.219,00;00034
-163844;991503;Serviço;Manutenção / higienização de reservatório de água potável;Manutenção , higienização de reservatório de água potável;2;500,00;1.000,00;00019
-163844;991502;Serviço;Manutenção / higienização de reservatório de água potável;Manutenção , higienização de reservatório de água potável;2;600,00;1.200,00;00018
-163844;991501;Serviço;Manutenção / higienização de reservatório de água potável;Manutenção , higienização de reservatório de água potável;16;80,00;1.280,00;00017
-163844;991500;Serviço;Manutenção / higienização de reservatório de água potável;Manutenção , higienização de reservatório de água potável;18;120,00;2.160,00;00016
+163844;991503;Serviço;Manutenção , higienização de reservatório de água potável;Manutenção , higienização de reservatório de água potável;2;500,00;1.000,00;00019
+163844;991502;Serviço;Manutenção , higienização de reservatório de água potável;Manutenção , higienização de reservatório de água potável;2;600,00;1.200,00;00018
+163844;991501;Serviço;Manutenção , higienização de reservatório de água potável;Manutenção , higienização de reservatório de água potável;16;80,00;1.280,00;00017
+163844;991500;Serviço;Manutenção , higienização de reservatório de água potável;Manutenção , higienização de reservatório de água potável;18;120,00;2.160,00;00016
 163844;991499;Serviço;Desinsetização / desratização / dedetização;Desinsetização , desratização , dedetização;6910;0,20;1.382,00;00015
 163844;991498;Serviço;Desinsetização / desratização / dedetização;Desinsetização , desratização , dedetização;13819;0,20;2.763,80;00014
-163844;991497;Serviço;Manutenção / higienização de reservatório de água potável;Manutenção , higienização de reservatório de água potável;4;380,00;1.520,00;00013
-163844;991496;Serviço;Manutenção / higienização de reservatório de água potável;Manutenção , higienização de reservatório de água potável;2;500,00;1.000,00;00012
+163844;991497;Serviço;Manutenção , higienização de reservatório de água potável;Manutenção , higienização de reservatório de água potável;4;380,00;1.520,00;00013
+163844;991496;Serviço;Manutenção , higienização de reservatório de água potável;Manutenção , higienização de reservatório de água potável;2;500,00;1.000,00;00012
 163844;991495;Serviço;Desinsetização / desratização / dedetização;Desinsetização , desratização , dedetização;1098;0,75;823,50;00011
 163844;991494;Serviço;Desinsetização / desratização / dedetização;Desinsetização , desratização , dedetização;3698;0,20;739,60;00010
-163844;991493;Serviço;Manutenção / higienização de reservatório de água potável;Manutenção , higienização de reservatório de água potável;2;350,00;700,00;00009
-163844;991492;Serviço;Manutenção / higienização de reservatório de água potável;Manutenção , higienização de reservatório de água potável;4;500,00;2.000,00;00008
-163844;991491;Serviço;Manutenção / higienização de reservatório de água potável;Manutenção , higienização de reservatório de água potável;24;120,00;2.880,00;00007
+163844;991493;Serviço;Manutenção , higienização de reservatório de água potável;Manutenção , higienização de reservatório de água potável;2;350,00;700,00;00009
+163844;991492;Serviço;Manutenção , higienização de reservatório de água potável;Manutenção , higienização de reservatório de água potável;4;500,00;2.000,00;00008
+163844;991491;Serviço;Manutenção , higienização de reservatório de água potável;Manutenção , higienização de reservatório de água potável;24;120,00;2.880,00;00007
 163844;991490;Serviço;Desinsetização / desratização / dedetização;Desinsetização , desratização , dedetização;37707;0,14;5.278,98;00006
-163844;991489;Serviço;Manutenção / higienização de reservatório de água potável;Manutenção , higienização de reservatório de água potável;32;180,00;5.760,00;00005
+163844;991489;Serviço;Manutenção , higienização de reservatório de água potável;Manutenção , higienização de reservatório de água potável;32;180,00;5.760,00;00005
 163844;991488;Serviço;Desinsetização / desratização / dedetização;Desinsetização , desratização , dedetização;6000;9,00;54.000,00;00004
 163844;991487;Serviço;Desinsetização / desratização / dedetização;Desinsetização , desratização , dedetização;24000;0,50;12.000,00;00003
 163844;991486;Serviço;Desinsetização / desratização / dedetização;Desinsetização , desratização , dedetização;121000;0,09;10.890,00;00002
@@ -500,7 +500,7 @@
 174778;1066290;Serviço;Coleta / tratamento - esgoto sanitário;Coleta , tratamento - esgoto sanitário;12;8.926,92;107.123,04;00003
 174778;1066289;Serviço;Coleta / tratamento - esgoto sanitário;Coleta , tratamento - esgoto sanitário;12;17.364,87;208.378,44;00002
 174778;1066288;Serviço;Coleta / tratamento - esgoto sanitário;Coleta , tratamento - esgoto sanitário;12;4.839,36;58.072,32;00001
-174935;1037324;Serviço;Instalação/manutenção/operação - elétrica;Contratação de empresa especializada para adequação da subestação abrigada demedição e proteção em média tensão 13,8 kv do campus nova andradina.;1;106.999,98;106.999,98;00001
+174935;1037324;Serviço;Instalação,manutenção,operação - elétrica;Contratação de empresa especializada para adequação da subestação abrigada demedição e proteção em média tensão 13,8 kv do campus nova andradina.;1;106.999,98;106.999,98;00001
 178154;1189880;Serviço;Perícia, laudo e avaliação;Perícia, laudo e avaliação;1;20.000,00;20.000,00;00005
 178154;1189879;Serviço;Perícia, laudo e avaliação;Perícia, laudo e avaliação;1;14.000,00;14.000,00;00004
 178154;1189878;Serviço;Perícia, laudo e avaliação;Perícia, laudo e avaliação;1;18.000,00;18.000,00;00003
@@ -524,14 +524,14 @@
 181745;1070034;Serviço;Obras civis públicas ( construção );Obras civis públicas- construção de módulos em estrutura metálica com telhamento em aço/alumínio que servirão como passarelas cobertas entre os blocos e outras edificações do campus naviraí do ifms, com área aproximada de 327,08 m2, com elaboração do projeto executivo, conforme condições, quantidades e exigências estabelecidas neste edital e seus anexos.;1;206.342,23;206.342,23;00001
 182139;1071689;Serviço;Obras civis públicas ( construção );Obras civis públicas- contratação de empresa especializada para execução de projeto executivo e obra de engenharia em estrutura e cobertura metálica das passarelas de interligação entre blocos do campus jardim com área de aproximadamente 287,68m² e elaboração do projeto executivo, do instituto federal de mato grosso do sul - campus jardim, conforme condições, quantidades e exigências estabelecidas neste instrumento e seus anexos.;1;183.782,46;183.782,46;00001
 182154;1071736;Serviço;Obras civis públicas ( construção );Obras civis públicas- construção de módulos em estrutura metálica com telhamento em aço/alumínio que servirão como passarelas cobertas entre blocos com elaboração do projeto executivo, para o  ifms, campus ponta porã/ms. as duas coberturas somam 240m² de área cobertas a serem construídas, conforme condições, quantidades e exigências estabelecidas neste edital e seus anexos.;1;158.489,01;158.489,01;00001
-182540;1090426;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento;1;65.000,00;65.000,00;00001
-183416;1079760;Serviço;Fornecimento de refeições , lanches , salgados , doces;Contratação de refeições prontas, tipo merenda fria, por meio de empresa espec ializada em serviços de alimentação e nutrição para operacionalização e desenv olvimento de todas as atividades envolvidas na produção, transporte e distribu ição de refeições, assegurando uma alimentação nutricionalmente balanceada e e m adequadas condições higiênico-sanitárias e socioambientais, incluindo o forn ecimento de todos os insumos e mão de obra necessários à realização destas ati vidades, para o ifms, campus campo grande;212200;9,98;2.117.756,00;00001
+182540;1090426;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento;1;65.000,00;65.000,00;00001
+183416;1079760;Serviço;Fornecimento de refeições / lanches / salgados / doces;Contratação de refeições prontas, tipo merenda fria, por meio de empresa espec ializada em serviços de alimentação e nutrição para operacionalização e desenv olvimento de todas as atividades envolvidas na produção, transporte e distribu ição de refeições, assegurando uma alimentação nutricionalmente balanceada e e m adequadas condições higiênico-sanitárias e socioambientais, incluindo o forn ecimento de todos os insumos e mão de obra necessários à realização destas ati vidades, para o ifms, campus campo grande;212200;9,98;2.117.756,00;00001
 183939;1083155;Serviço;Pesquisa e desenvolvimento tecnológico;Pesquisa e desenvolvimento tecnológico;1;1.514.038,80;1.514.038,80;00001
 183990;1083307;Serviço;Cessão temporária de direitos sobre programas de computador locação de software;Cessão temporária de direitos sobre programas de computador locação de softwar e adobe creative cloud for enterprise all apps education named license   79 su bscrição r$ r$ 398.933,41vip enterprise educacional   36  meses;27;5.049,79;136.344,33;00002
 183990;1083306;Serviço;Cessão temporária de direitos sobre programas de computador locação de software;Cessão temporária de direitos sobre programas de computador locação de softwar e adobe creative cloud for enterprise all apps hed shared device education lic ense lab and classroom - 36 meses;161;3.621,23;583.018,03;00001
 184010;1083382;Material;Trator;Trator, potência 80 hp, tipo combustível diesel, quantidade marchas ré 3 un, quantidade marchas frente mínimo 6 un, tipo motor turbo alimentado, tipo uso agrícola;3;374.913,50;1.124.740,50;00067
-184019;1083399;Serviço;Fornecimento de refeições , lanches , salgados , doces;Contratação de refeições prontas, tipo merenda fria, por meio de empresa espec ializada em serviços de alimentação e nutrição para operacionalização e desenv olvimento de todas as atividades envolvidas na produção, transporte e distribu ição de refeições, assegurando uma alimentação nutricionalmente balanceada e e m adequadas condições higiênico-sanitárias e socioambientais, incluindo o forn ecimento de todos os insumos e mão de obra necessários à realização destas ati vidades, para o ifms, campus três lagoas.;124600;9,33;1.162.518,00;00008
-185451;1090466;Serviço;Energia elétrica - fornecimento mercado regulado;Fornecimento de energia elétrica para o ifms - campus jardim.;1;65.000,00;65.000,00;00001
+184019;1083399;Serviço;Fornecimento de refeições / lanches / salgados / doces;Contratação de refeições prontas, tipo merenda fria, por meio de empresa espec ializada em serviços de alimentação e nutrição para operacionalização e desenv olvimento de todas as atividades envolvidas na produção, transporte e distribu ição de refeições, assegurando uma alimentação nutricionalmente balanceada e e m adequadas condições higiênico-sanitárias e socioambientais, incluindo o forn ecimento de todos os insumos e mão de obra necessários à realização destas ati vidades, para o ifms, campus três lagoas.;124600;9,33;1.162.518,00;00008
+185451;1090466;Serviço;Energia elétrica - fornecimento;Fornecimento de energia elétrica para o ifms - campus jardim.;1;65.000,00;65.000,00;00001
 185707;1091645;Serviço;Fornecimento de água e coleta de esgoto sanitário;Fornecimento de água e coleta de esgoto sanitário para atender o prédio da reitoria definitiva, na rua ceará, 972 - santa fé em campo grande - ms.;1;12.364,00;12.364,00;00001
 186461;1095533;Serviço;Obras civis públicas ( construção );Obras civis públicas- contratação de empresa especializada para elaboração doprojeto executivo e construção de módulos em estrutura metálica com telhamento em aço/alumínio que servirão como passarelas cobertas entre os blocos e outras edificações do campus dourados do ifms, com área de aproximadamente 372,20m²,  conforme condições, quantidades e exigências estabelecidas neste  instrumento e seus anexos.;1;219.333,52;219.333,52;00001
 186876;1097950;Serviço;Licenciamento de direitos  permanentes de uso de outros softwares / programas de computador;Licenciamento de direitos  permanentes de uso de outros softwares / programas de computador coreldraw graphics suite licença perpétua;10;592,00;5.920,00;00003
@@ -585,14 +585,14 @@
 189260;1108620;Serviço;Prestação de serviços de motorista;Prestação de serviços de motorista categoria d - reitoria;4;65.883,96;263.535,84;00001
 189314;2423054;Serviço;Prestação de serviços de cozinheiro;Prestação de serviços de cozinheiro;1;4.570,35;4.570,35;00042
 189314;2423053;Serviço;Prestação de serviços de cozinheiro;Prestação de serviços de cozinheiro;1;3.939,58;3.939,58;00041
-189318;1108865;Serviço;Fornecimento de refeições , lanches , salgados , doces;Contratação de refeições prontas, tipo merenda fria, por meio de empresa espec ializada em serviços de alimentação e nutrição para operacionalização e desenv olvimento de todas as atividades envolvidas na produção, transporte e distribu ição de refeições, assegurando uma alimentação nutricionalmente balanceada e e m adequadas condições higiênico-sanitárias e socioambientais, incluindo o forn ecimento de todos os insumos e mão de obra necessários à realização destas ati vidades, para o ifms, campus dourados.;121000;9,84;1.190.640,00;00003
-189331;1108890;Serviço;Fornecimento de refeições , lanches , salgados , doces;Contratação de refeições prontas, tipo merenda fria, por meio de empresa espec ializada em serviços de alimentação e nutrição para operacionalização e desenv olvimento de todas as atividades envolvidas na produção, transporte e distribu ição de refeições, assegurando uma alimentação nutricionalmente balanceada e e m adequadas condições higiênico-sanitárias e socioambientais, incluindo o forn ecimento de todos os insumos e mão de obra necessários à realização destas ati vidades, para o ifms, campus nova andradina.;100000;9,95;995.000,00;00006
+189318;1108865;Serviço;Fornecimento de refeições / lanches / salgados / doces;Contratação de refeições prontas, tipo merenda fria, por meio de empresa espec ializada em serviços de alimentação e nutrição para operacionalização e desenv olvimento de todas as atividades envolvidas na produção, transporte e distribu ição de refeições, assegurando uma alimentação nutricionalmente balanceada e e m adequadas condições higiênico-sanitárias e socioambientais, incluindo o forn ecimento de todos os insumos e mão de obra necessários à realização destas ati vidades, para o ifms, campus dourados.;121000;9,84;1.190.640,00;00003
+189331;1108890;Serviço;Fornecimento de refeições / lanches / salgados / doces;Contratação de refeições prontas, tipo merenda fria, por meio de empresa espec ializada em serviços de alimentação e nutrição para operacionalização e desenv olvimento de todas as atividades envolvidas na produção, transporte e distribu ição de refeições, assegurando uma alimentação nutricionalmente balanceada e e m adequadas condições higiênico-sanitárias e socioambientais, incluindo o forn ecimento de todos os insumos e mão de obra necessários à realização destas ati vidades, para o ifms, campus nova andradina.;100000;9,95;995.000,00;00006
 189640;1113156;Serviço;Prestação de serviço de  vigilância e segurança - orgânica -12h noturnas - 2ª a domingo;Prestação de serviço de  vigilância e segurança - orgânica -12h noturnas - 2ª a domingo;1;157.541,76;157.541,76;00002
 189640;1113155;Serviço;Prestação de serviço de  vigilância e segurança - eletrônica12 horas diurnas - 2ª a domingo;Prestação de serviço de  vigilância e segurança - eletrônica12 horas diurnas - 2ª a domingo;1;138.371,76;138.371,76;00001
 189936;1111504;Serviço;Fornecimento de água canalizada;Fornecimento de água canalizada;1;250.000,00;250.000,00;00001
 191044;1117338;Serviço;Desinsetização / desratização / dedetização;Remoção ecológica de abelhas (sob demanda) incluindo produtos e equipamentos c omprovadamente eficazes e adequados para atuação nos locais, sendo esses locai s definidos onde os insetos estão instalados (colméia,vespeiro, etc). obs.: re moção sob demanda da administração ifms campus aquidauana, de acordo com colmé ia/vespeiro detectado em área do campus (interna e/ou externa). acionamento de ste item será realizado apenas em casos extremos onde existam riscos iminentes  aos usuários (estudantes, servidores) que gerem suspensão das atividades do c ampus.;5;1.200,00;6.000,00;00026
-191044;1117337;Serviço;Manutenção / higienização de reservatório de água potável;Prestação de serviço de limpeza de 2 (duas) cisterna/reservatórios de água (se ndo um algibre  de 39 m³ e um reservatório de reuso de água com capacidade de 39m³) e 01 (um) reservatório de água de 25m³ , incluindo o fornecimento de tod o o material e equipamento necessário para a execução do serviço nas dependênc ias do  ifms campus aquidauana com periodicidade semestral, totalizando duas l impezas anuais. cada unidade deste item corresponde a limpeza dos 3 reservatór ios acima descritos.;2;2.200,00;4.400,00;00025
-191044;1117336;Serviço;Manutenção / higienização de reservatório de água potável;Prestação de serviço de limpeza de caixa d  água com capacidade de 2.500 l, in cluindo o fornecimento de todo o material e equipamento necessário para a exec ução do serviço nas dependências do ifms campus aquidauana com periodicidade s emestral, totalizando até 02 limpezas anuais.;18;120,00;2.160,00;00024
+191044;1117337;Serviço;Manutenção , higienização de reservatório de água potável;Prestação de serviço de limpeza de 2 (duas) cisterna/reservatórios de água (se ndo um algibre  de 39 m³ e um reservatório de reuso de água com capacidade de 39m³) e 01 (um) reservatório de água de 25m³ , incluindo o fornecimento de tod o o material e equipamento necessário para a execução do serviço nas dependênc ias do  ifms campus aquidauana com periodicidade semestral, totalizando duas l impezas anuais. cada unidade deste item corresponde a limpeza dos 3 reservatór ios acima descritos.;2;2.200,00;4.400,00;00025
+191044;1117336;Serviço;Manutenção , higienização de reservatório de água potável;Prestação de serviço de limpeza de caixa d  água com capacidade de 2.500 l, in cluindo o fornecimento de todo o material e equipamento necessário para a exec ução do serviço nas dependências do ifms campus aquidauana com periodicidade s emestral, totalizando até 02 limpezas anuais.;18;120,00;2.160,00;00024
 191044;1117335;Serviço;Desinsetização / desratização / dedetização;Prestação de serviço de controle e desalojamento de pombos e morcegos engloban do a retirada de ninhos e detritos fecais, limpeza desinsetização e higienizaç ão dos locais para retirada de fungos, bactérias e ectoparasitas, fechamento d os locais com telas para evitar o retorno dos animais nas áreas internas do if ms campus aquidauana com o fornecimento da mão de obra, materiais e os  equipa mentos que se fizerem necessário, totalizando até 02 aplicações (areas de desa lojamento de pombos e morcegos ser definidas pela administração) (3.130 m² cad a aplicação).;6260;7,00;43.820,00;00023
 191044;1117334;Serviço;Desinsetização / desratização / dedetização;Prestação de serviço de desratização nas áreas internas/ externas do ifms camp us aquidauana com o fornecimento da mão de obra, materiais e os equipamentos q ue se fizerem necessários com periodicidade semestral, totalizando até 02 apli cações anuais. (9.100 m² cada aplicação).;18200;0,15;2.730,00;00022
 191044;1117333;Serviço;Desinsetização / desratização / dedetização;Prestação de serviços de controle sanitário o integrado de pragas urbanas engl obando desinsetização / desinfestação / descupinização de  (formigas, baratas,  escorpiões, larvas de mosquitos, incluindo aedes aegypti, marimbondos, pulgas , cupins, piolhos, percevejos, carrapatos, aracnídeos, quilópodes e/ou diplópo des), nas áreas internas (incluindo salas modulares)  do ifms campus aquidauan a  com fornecimento de todos os insumos, materiais e ferramentas necessárias c om periodicidade semestral, até 02 aplicações anuais. (7585 m² cada aplicação) .;15170;0,19;2.882,30;00021
@@ -678,35 +678,35 @@
 192460;1124576;Serviço;Operador máquina e equipamentos de uso geral;Prestação de serviços de tratorista para ifms naviraí;12;4.822,92;57.875,04;00023
 192460;1124575;Serviço;Operador máquina e equipamentos de uso geral;Prestação de serviços de tratorista para ifms nova andradina;12;6.138,51;73.662,12;00009
 192460;1124574;Serviço;Almoxarife / controle de estoque;Prestação de serviços de almoxarife para ifms reitoria em campo grande;12;3.405,69;40.868,28;00001
-192467;1124628;Serviço;Manutenção / higienização de reservatório de água potável;Prestação de serviço de limpeza de caixa d  água com capacidade de 2.000 l, in cluindo o fornecimento de todo o material e equipamento necessário para a exec ução do serviço nas dependências do ifms campus ponta porã com periodicidade s emestral, totalizando até 02 limpezas anuais.;20;108,44;2.168,80;00072
-192467;1124627;Serviço;Manutenção / higienização de reservatório de água potável;Prestação de serviço de cisterna com capacidade de 36.080 l, incluindo o forne cimento de todo o material e equipamento necessário para a execução do serviço  nas dependências do ifms campus ponta porã com periodicidade semestral, total izando até 02 limpezas anuais.;2;813,30;1.626,60;00071
-192467;1124626;Serviço;Manutenção / higienização de reservatório de água potável;Prestação de serviço de limpeza de caixa d  água com capacidade de 24.440 l, i ncluindo o fornecimento de todo o material e equipamento necessário para a exe cução do serviço nas dependências do ifms campus ponta porã com periodicidade semestral, totalizando até 02 limpezas anuais.;4;813,30;3.253,20;00070
-192467;1124625;Serviço;Manutenção / higienização de reservatório de água potável;Prestação de serviço de limpeza de caixa d  água com capacidade de 3.000 l, in cluindo o fornecimento de todo o material e equipamento necessário para a exec ução do serviço nas dependências do ifms campus ponta porã com periodicidade s emestral, totalizando até 02 limpezas anuais.;2;86,75;173,50;00069
-192467;1124624;Serviço;Manutenção / higienização de reservatório de água potável;Prestação de serviço de limpeza de caixa d  água com capacidade de 2.500 l, in cluindo o fornecimento de todo o material e equipamento necessário para a exec ução do serviço nas dependências do ifms campus ponta porã com periodicidade s emestral, totalizando até 02 limpezas anuais.;44;65,06;2.862,82;00068
+192467;1124628;Serviço;Manutenção , higienização de reservatório de água potável;Prestação de serviço de limpeza de caixa d  água com capacidade de 2.000 l, in cluindo o fornecimento de todo o material e equipamento necessário para a exec ução do serviço nas dependências do ifms campus ponta porã com periodicidade s emestral, totalizando até 02 limpezas anuais.;20;108,44;2.168,80;00072
+192467;1124627;Serviço;Manutenção , higienização de reservatório de água potável;Prestação de serviço de cisterna com capacidade de 36.080 l, incluindo o forne cimento de todo o material e equipamento necessário para a execução do serviço  nas dependências do ifms campus ponta porã com periodicidade semestral, total izando até 02 limpezas anuais.;2;813,30;1.626,60;00071
+192467;1124626;Serviço;Manutenção , higienização de reservatório de água potável;Prestação de serviço de limpeza de caixa d  água com capacidade de 24.440 l, i ncluindo o fornecimento de todo o material e equipamento necessário para a exe cução do serviço nas dependências do ifms campus ponta porã com periodicidade semestral, totalizando até 02 limpezas anuais.;4;813,30;3.253,20;00070
+192467;1124625;Serviço;Manutenção , higienização de reservatório de água potável;Prestação de serviço de limpeza de caixa d  água com capacidade de 3.000 l, in cluindo o fornecimento de todo o material e equipamento necessário para a exec ução do serviço nas dependências do ifms campus ponta porã com periodicidade s emestral, totalizando até 02 limpezas anuais.;2;86,75;173,50;00069
+192467;1124624;Serviço;Manutenção , higienização de reservatório de água potável;Prestação de serviço de limpeza de caixa d  água com capacidade de 2.500 l, in cluindo o fornecimento de todo o material e equipamento necessário para a exec ução do serviço nas dependências do ifms campus ponta porã com periodicidade s emestral, totalizando até 02 limpezas anuais.;44;65,06;2.862,82;00068
 192467;1124623;Serviço;Desinsetização / desratização / dedetização;Prestação de serviço de controle e desalojamento de pombos englobando a retira da de ninhos e detritos fecais, limpeza desinsetização e higienização dos loca is para retirada de fungos, bactérias e ectoparasitas, fechamento dos locais c om telas para evitar o retorno dos animais nas áreas internas do ifms campus p onta porã com o fornecimento da mão de obra, materiais e os equipamentos que s e fizerem necessário. (áreas de desalojamento de pombos serão definidas pela a dministração) (a critério da administração, poderá ser solicitado até 2 serviç os de no mínimo  de 2.130 m² cada).;4260;8,68;36.956,35;00067
 192467;1124622;Serviço;Desinsetização / desratização / dedetização;Prestação de serviço de desratização nas áreas internas/ externas do ifms camp us ponta porã com o fornecimento da mão de obra, materiais e os equipamentos q ue se fizerem necessários com periodicidade semestral, totalizando até 02 apli cações anuais (1.488,5 m² cada aplicação).;2977;0,22;645,65;00066
 192467;1124621;Serviço;Desinsetização / desratização / dedetização;Prestação de serviços de controle sanitário integrado de pragas urbanas englob ando a dedetização, desinsetização, e descupinização nas áreas externas do ifm s campus ponta porã com fornecimento de todos os insumos, materiais e ferramen tas necessárias com periodicidade semestral, totalizando até 02 aplicações anu ais. (áreas externas de aplicação a serem definidas pela administração) (11.59 7 m² cada aplicação).;23194;0,16;3.772,74;00065
 192467;1124620;Serviço;Desinsetização / desratização / dedetização;Prestação de serviços de controle sanitário integrado de pragas urbanas englob ando a dedetização, desinsetização, e descupinização nas áreas internas do ifm s campus ponta porã com fornecimento de todos os insumos, materiais e ferramen tas necessárias com periodicidade semestral, totalizando até 02 aplicações anu ais (7.487 m² cada aplicação).;14974;0,16;2.435,67;00064
-192467;1124619;Serviço;Manutenção / higienização de reservatório de água potável;Prestação de serviço de cisterna com capacidade de 128.000 l, incluindo o forn ecimento de todo o material e equipamento necessário para a execução do serviç o nas dependências do ifms campus nova andradina com periodicidade semestral, totalizando até 02 limpezas anuais.;2;1.030,18;2.060,36;00063
-192467;1124618;Serviço;Manutenção / higienização de reservatório de água potável;Prestação de serviço de limpeza de caixa d  água com capacidade de 63.000 l, i ncluindo o fornecimento de todo o material e equipamento necessário para a exe cução do serviço nas dependências do ifms campus nova andradina com periodicid ade semestral, totalizando até 02 limpezas anuais.;2;650,64;1.301,28;00062
-192467;1124617;Serviço;Manutenção / higienização de reservatório de água potável;Prestação de serviço de limpeza de caixa d  água com capacidade de 10.000 l, i ncluindo o fornecimento de todo o material e equipamento necessário para a exe cução do serviço nas dependências do ifms campus nova andradina com periodicid ade semestral, totalizando até 02 limpezas anuais.;8;162,66;1.301,28;00061
-192467;1124616;Serviço;Manutenção / higienização de reservatório de água potável;Prestação de serviço de limpeza de caixa d  água com capacidade de 3.000 l, in cluindo o fornecimento de todo o material e equipamento necessário para a exec ução do serviço nas dependências do ifms campus nova andradina com periodicida de semestral, totalizando até 02 limpezas anuais.;16;65,06;1.041,02;00060
-192467;1124615;Serviço;Manutenção / higienização de reservatório de água potável;Prestação de serviço de limpeza de caixa d  água com capacidade de 1000 l, inc luindo o fornecimento de todo o material e equipamento necessário para a execu ção do serviço nas dependências do ifms campus nova andradina com periodicidad e semestral, totalizando até 02 limpezas anuais.;50;54,22;2.711,00;00059
-192467;1124614;Serviço;Manutenção / higienização de reservatório de água potável;Prestação de serviço de limpeza de caixa d  água com capacidade de 600 l, incl uindo o fornecimento de todo o material e equipamento necessário para a execuç ão do serviço nas dependências do ifms campus nova andradina com periodicidade  semestral, totalizando até 02 limpezas anuais.;24;66,15;1.587,56;00058
-192467;1124613;Serviço;Manutenção / higienização de reservatório de água potável;Prestação de serviço de limpeza de caixa d  água com capacidade de 500 l, incl uindo o fornecimento de todo o material e equipamento necessário para a execuç ão do serviço nas dependências do ifms campus nova andradina com periodicidade  semestral, totalizando até 02 limpezas anuais.;32;86,75;2.776,06;00057
+192467;1124619;Serviço;Manutenção , higienização de reservatório de água potável;Prestação de serviço de cisterna com capacidade de 128.000 l, incluindo o forn ecimento de todo o material e equipamento necessário para a execução do serviç o nas dependências do ifms campus nova andradina com periodicidade semestral, totalizando até 02 limpezas anuais.;2;1.030,18;2.060,36;00063
+192467;1124618;Serviço;Manutenção , higienização de reservatório de água potável;Prestação de serviço de limpeza de caixa d  água com capacidade de 63.000 l, i ncluindo o fornecimento de todo o material e equipamento necessário para a exe cução do serviço nas dependências do ifms campus nova andradina com periodicid ade semestral, totalizando até 02 limpezas anuais.;2;650,64;1.301,28;00062
+192467;1124617;Serviço;Manutenção , higienização de reservatório de água potável;Prestação de serviço de limpeza de caixa d  água com capacidade de 10.000 l, i ncluindo o fornecimento de todo o material e equipamento necessário para a exe cução do serviço nas dependências do ifms campus nova andradina com periodicid ade semestral, totalizando até 02 limpezas anuais.;8;162,66;1.301,28;00061
+192467;1124616;Serviço;Manutenção , higienização de reservatório de água potável;Prestação de serviço de limpeza de caixa d  água com capacidade de 3.000 l, in cluindo o fornecimento de todo o material e equipamento necessário para a exec ução do serviço nas dependências do ifms campus nova andradina com periodicida de semestral, totalizando até 02 limpezas anuais.;16;65,06;1.041,02;00060
+192467;1124615;Serviço;Manutenção , higienização de reservatório de água potável;Prestação de serviço de limpeza de caixa d  água com capacidade de 1000 l, inc luindo o fornecimento de todo o material e equipamento necessário para a execu ção do serviço nas dependências do ifms campus nova andradina com periodicidad e semestral, totalizando até 02 limpezas anuais.;50;54,22;2.711,00;00059
+192467;1124614;Serviço;Manutenção , higienização de reservatório de água potável;Prestação de serviço de limpeza de caixa d  água com capacidade de 600 l, incl uindo o fornecimento de todo o material e equipamento necessário para a execuç ão do serviço nas dependências do ifms campus nova andradina com periodicidade  semestral, totalizando até 02 limpezas anuais.;24;66,15;1.587,56;00058
+192467;1124613;Serviço;Manutenção , higienização de reservatório de água potável;Prestação de serviço de limpeza de caixa d  água com capacidade de 500 l, incl uindo o fornecimento de todo o material e equipamento necessário para a execuç ão do serviço nas dependências do ifms campus nova andradina com periodicidade  semestral, totalizando até 02 limpezas anuais.;32;86,75;2.776,06;00057
 192467;1124612;Serviço;Desinsetização / desratização / dedetização;Prestação de serviço de controle e desalojamento de pombos e morcegos engloban do a retirada de ninhos e detritos fecais, limpeza desinsetização e higienizaç ão dos locais para retirada de fungos, bactérias e ectoparasitas, fechamento d os locais com telas para evitar o retorno dos animais nas áreas internas do if ms campus nova andradina a com o fornecimento da mão de obra, materiais e os e quipamentos que se fizerem necessário. (áreas de desalojamento de pombos serão  definidas pela administração) (a critério da administração, poderá ser solici tado até 3 serviços de no mínimo  de 600,3 m² cada).;1801;8,68;15.624,04;00056
 192467;1124611;Serviço;Desinsetização / desratização / dedetização;Prestação de serviço de desratização nas áreas internas/ externas do ifms camp us nova andradina  com o fornecimento da mão de obra, materiais e os equipamen tos que se fizerem necessários com periodicidade semestral, totalizando até 02  aplicações anuais (226 m² cada aplicação).;452;0,22;98,03;00055
 192467;1124610;Serviço;Desinsetização / desratização / dedetização;Prestação de serviços de controle sanitário integrado de pragas urbanas englob ando a dedetização, desinsetização, e descupinização nas áreas externas do ifm s campus nova andradina com fornecimento de todos os insumos, materiais e ferr amentas necessárias com periodicidade semestral, totalizando até 02 aplicações  anuais. (áreas externas de aplicação a serem definidas pela administração) (1 .144 m² cada aplicação).;2288;0,22;496,22;00054
 192467;1124609;Serviço;Desinsetização / desratização / dedetização;Prestação de serviços de controle sanitário integrado de pragas urbanas englob ando a dedetização, desinsetização, e descupinização nas áreas internas do ifm s campus nova andradina com fornecimento de todos os insumos, materiais e ferr amentas necessárias com periodicidade semestral, totalizando até 02 aplicações  anuais (4789,5 m² por aplicação).;9579;0,22;2.077,49;00053
-192467;1124608;Serviço;Manutenção / higienização de reservatório de água potável;Prestação de serviço de cisterna com capacidade de 36.080 l, incluindo o forne cimento de todo o material e equipamento necessário para a execução do serviço  nas dependências do ifms campus naviraí com periodicidade semestral, totaliza ndo até 02 limpezas anuais.;2;813,30;1.626,60;00052
-192467;1124607;Serviço;Manutenção / higienização de reservatório de água potável;Prestação de serviço de limpeza de caixa d  água com capacidade de 24.440 l, i ncluindo o fornecimento de todo o material e equipamento necessário para a exe cução do serviço nas dependências do ifms campus naviraí com periodicidade sem estral, totalizando até 02 limpezas anuais.;2;487,98;975,96;00051
+192467;1124608;Serviço;Manutenção , higienização de reservatório de água potável;Prestação de serviço de cisterna com capacidade de 36.080 l, incluindo o forne cimento de todo o material e equipamento necessário para a execução do serviço  nas dependências do ifms campus naviraí com periodicidade semestral, totaliza ndo até 02 limpezas anuais.;2;813,30;1.626,60;00052
+192467;1124607;Serviço;Manutenção , higienização de reservatório de água potável;Prestação de serviço de limpeza de caixa d  água com capacidade de 24.440 l, i ncluindo o fornecimento de todo o material e equipamento necessário para a exe cução do serviço nas dependências do ifms campus naviraí com periodicidade sem estral, totalizando até 02 limpezas anuais.;2;487,98;975,96;00051
 192467;1124606;Serviço;Desinsetização / desratização / dedetização;Prestação de serviço de controle e desalojamento de pombos englobando a retira da de ninhos e detritos fecais, limpeza desinsetização e higienização dos loca is para retirada de fungos, bactérias e ectoparasitas, fechamento dos locais c om telas para evitar o retorno dos animais nas áreas internas do ifms campus n aviraí com o fornecimento da mão de obra, materiais e os equipamentos que se f izerem necessário. (áreas de desalojamento de pombos ser definidas pela admini stração) (a critério da administração, poderá ser solicitado até 3 serviços de  no mínimo  de 320,6 m² cada).;962;8,68;8.345,54;00050
 192467;1124605;Serviço;Desinsetização / desratização / dedetização;Prestação de serviço de desratização nas áreas internas/ externas do ifms camp us naviraí com o fornecimento da mão de obra, materiais e os equipamentos que se fizerem necessários com periodicidade semestral, totalizando até 02 aplicaç ões anuais (600 m² cada aplicação).;1200;0,22;260,26;00049
 192467;1124604;Serviço;Desinsetização / desratização / dedetização;Prestação de serviços de controle sanitário integrado de pragas urbanas englob ando a dedetização, desinsetização, e descupinização nas áreas externas do ifm s campus naviraí com fornecimento de todos os insumos, materiais e ferramentas  necessárias com periodicidade semestral, totalizando até 02 aplicações anuais . (áreas externas de aplicação a serem definidas pela administração) (3.050 m²  cada aplicação).;6100;0,33;1.984,45;00048
 192467;1124603;Serviço;Desinsetização / desratização / dedetização;Prestação de serviços de controle sanitário integrado de pragas urbanas englob ando a dedetização, desinsetização, e descupinização nas áreas internas do ifm s campus naviraí com fornecimento de todos os insumos, materiais e ferramentas  necessárias com periodicidade semestral, totalizando até  02 aplicações anuai s (2.100 m² cada aplicação).;4200;0,33;1.366,34;00047
-192467;1124602;Serviço;Manutenção / higienização de reservatório de água potável;Prestação de serviço de limpeza de caixa d  água com capacidade de 10.000 l, i ncluindo o fornecimento de todo o material e equipamento necessário para a exe cução do serviço nas dependências do ifms campus dourados com periodicidade se mestral, totalizando até 02 limpezas anuais.;12;195,19;2.342,30;00046
-192467;1124601;Serviço;Manutenção / higienização de reservatório de água potável;Prestação de serviço de limpeza de caixa d  água com capacidade de 2.000 l, in cluindo o fornecimento de todo o material e equipamento necessário para a exec ução do serviço nas dependências do ifms campus dourados com periodicidade sem estral, totalizando até 02 limpezas anuais.;2;130,13;260,26;00045
-192467;1124600;Serviço;Manutenção / higienização de reservatório de água potável;Prestação de serviço de limpeza de caixa d  água com capacidade de 500 l, incl uindo o fornecimento de todo o material e equipamento necessário para a execuç ão do serviço nas dependências do ifms campus dourados com periodicidade semes tral, totalizando até 02 limpezas anuais.;2;66,15;132,30;00044
+192467;1124602;Serviço;Manutenção , higienização de reservatório de água potável;Prestação de serviço de limpeza de caixa d  água com capacidade de 10.000 l, i ncluindo o fornecimento de todo o material e equipamento necessário para a exe cução do serviço nas dependências do ifms campus dourados com periodicidade se mestral, totalizando até 02 limpezas anuais.;12;195,19;2.342,30;00046
+192467;1124601;Serviço;Manutenção , higienização de reservatório de água potável;Prestação de serviço de limpeza de caixa d  água com capacidade de 2.000 l, in cluindo o fornecimento de todo o material e equipamento necessário para a exec ução do serviço nas dependências do ifms campus dourados com periodicidade sem estral, totalizando até 02 limpezas anuais.;2;130,13;260,26;00045
+192467;1124600;Serviço;Manutenção , higienização de reservatório de água potável;Prestação de serviço de limpeza de caixa d  água com capacidade de 500 l, incl uindo o fornecimento de todo o material e equipamento necessário para a execuç ão do serviço nas dependências do ifms campus dourados com periodicidade semes tral, totalizando até 02 limpezas anuais.;2;66,15;132,30;00044
 192467;1124599;Serviço;Desinsetização / desratização / dedetização;Prestação de serviço de controle e desalojamento de pombos englobando a retira da de ninhos e detritos fecais, limpeza desinsetização e higienização dos loca is para retirada de fungos, bactérias e ectoparasitas, fechamento dos locais c om telas para evitar o retorno dos animais nas áreas internas do ifms campus d ourados com o fornecimento da mão de obra, materiais e os equipamentos que se fizerem necessário. (áreas de desalojamento de pombos ser definidas pela admin istração) (a critério da administração, poderá ser solicitado até 2 serviços d e no mínimo  de 125 m² cada).;250;10,84;2.711,00;00043
 192467;1124598;Serviço;Desinsetização / desratização / dedetização;Prestação de serviço de desratização nas áreas internas/ externas do ifms camp us dourados com o fornecimento da mão de obra, materiais e os equipamentos que  se fizerem necessários com periodicidade semestral, totalizando até 02 aplica ções anuais (4.116 m² cada aplicação).;8232;0,22;1.785,36;00042
 192467;1124597;Serviço;Desinsetização / desratização / dedetização;Prestação de serviços de controle sanitário integrado de pragas urbanas englob ando a dedetização, desinsetização e descupinização nas áreas externas do ifms  campus dourados com fornecimento de todos os insumos, materiais e ferramentas  necessárias com periodicidade semestral, totalizando até 02 aplicações anuais . (áreas externas de aplicação a serem definidas pela administração) (14.775 m ² cada aplicação).;29550;0,11;3.204,40;00041
@@ -727,7 +727,7 @@
 19735;361135;Serviço;Prestação de serviço de  vigilância e segurança - orgânica -12h noturnas - 2ª a domingo;;12;11.574,12;138.889,44;00002
 19735;361132;Serviço;Prestação de serviço de  vigilância e segurança - orgânica eeletrônica (integrada) - 12 horas diurnas - 2ª a domingo;;12;10.134,84;121.618,08;00001
 198178;1152618;Serviço;Agropecuária - serviços auxiliares;Prestação de serviços de caseiro para ifms nova andradina;12;3.998,63;47.983,56;00008
-199358;1157243;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento mercado regulado;12;8.583,33;103.000,00;00001
+199358;1157243;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento mercado regulado;12;8.583,33;103.000,00;00001
 199366;1637957;Serviço;Prestação de serviços de portaria / recepção;Prestação de serviços de portaria / recepção;1;4.385,82;4.385,82;00071
 202011;1168118;Serviço;Prestação de serviços de portaria / recepção;Porteiro;2;49.922,00;99.844,00;00014
 202015;1168131;Serviço;Manutenção / reforma predial;Oficial de manutenção;1;77.275,32;77.275,32;00054
@@ -833,9 +833,9 @@
 202019;1168141;Serviço;Ar condicionado - manutenção sistema central;Manutenção preventiva. serviço de manutenção preventiva nos aparelhos de ar co ndicionado 48.000 btu´s (evaporadora), composto de módulos e sistema interliga do de controle tipo vrf    marca toshiba, conforme projeto básico que deve obr igatoriamente constar no pmoc.;21;265,28;5.570,88;00002
 202019;1168140;Serviço;Ar condicionado - manutenção sistema central;Manutenção preventiva. serviço de manutenção preventiva nos aparelhos de ar co ndicionado 56.000 btu´s (evaporadora), composto de módulos e sistema interliga do de controle tipo vrf   marca toshiba, conforme projeto básico que deve obri gatoriamente constar no pmoc.;16;265,28;4.244,48;00001
 204632;1179781;Serviço;Refeições industriais - preparo / distribuição;Contratação de refeições prontas, tipo merenda fria, por meio de empresa especializada em serviços de alimentação e nutrição para operacionalização e desenvolvimento de todas as atividades envolvidas na produção, transporte e distribuição de refeições, e demais regras conforme o termo de referência, incluindo o fornecimento de todos os insumos e mão de obra necessários à realização destas atividades, para o ifms, campus ponta porã. catmat 3697;116000;9,58;1.111.280,00;00001
-20509;500441;Serviço;Manutenção / higienização de reservatório de água potável;;141;17,40;7.360,20;00002
+20509;500441;Serviço;Manutenção , higienização de reservatório de água potável;;141;17,40;7.360,20;00002
 20509;500438;Serviço;Desinsetização / desratização / dedetização;;32570;0,05;4.885,50;00001
-20510;500439;Serviço;Manutenção / higienização de reservatório de água potável;;141;20,00;2.820,00;00012
+20510;500439;Serviço;Manutenção , higienização de reservatório de água potável;;141;20,00;2.820,00;00012
 20510;500436;Serviço;Desinsetização / desratização / dedetização;;32570;0,20;6.514,00;00011
 205876;1185241;Serviço;Concessão uso - área / imóvel público;Concessão uso - área / imóvel público;1;207,00;6.210,00;00001
 206208;1186251;Serviço;Prestação de serviço de jardinagem - outros serviços - outraprodutividade;Jardineiro;2;6.470,81;155.299,32;00061
@@ -1046,7 +1046,7 @@
 235728;1288262;Serviço;Elaboração / análise projeto - engenharia;Projeto elétrico (quantidade em m²);6125;9,51;58.244,46;00002
 235728;1288261;Serviço;Elaboração / análise projeto - engenharia;Projeto arquitetônico (quantidade em m²);6125;11,94;73.159,45;00001
 242123;1307644;Serviço;Plataforma como servico - paas;Mensalidades da assessoria fiscal, tributária e contábil.;12;2.522,50;30.270,00;00002
-242123;1307643;Serviço;Treinamento informática - sistema / software;Capacitação sobre a escrituração fiscal digital   efd reinf e dctfweb .;1;0,00;0,00;00001
+242123;1307643;Serviço;Treinamento informática - sistema , software;Capacitação sobre a escrituração fiscal digital   efd reinf e dctfweb .;1;0,00;0,00;00001
 242426;1308744;Serviço;Serviços de manutenção de  equipamentos de comunicação de dados e comutação telefônica;Serviço de remoção de rede existente.;40;40,00;1.600,00;00057
 242426;1308743;Serviço;Manutenção / reforma predial;Serviço de recomposição de alvenaria.;40;250,00;10.000,00;00056
 242426;1308742;Serviço;Elaboração / análise projeto - engenharia;Serviço de avaliação técnica complementar.;3;400,00;1.200,00;00055
@@ -1353,7 +1353,7 @@ necessários ao perfeito funcionamento da máquina.";36;850,00;30.600,00;00002
 29920;413928;Serviço;Manutenção de veículos leves - parte mecânica;;2937.81;0,93;2.732,16;00003
 29920;413923;Serviço;Manutenção de veículos leves - parte mecânica;;26445.53;0,93;24.594,34;00001
 29921;413012;Serviço;Manutenção de veículos leves - parte mecânica;;2688;0,93;2.499,84;00003
-29921;685107;Serviço;Administração , gerenciamento-manutenção veículo automotivo;Administração / gerenciamento-manutenção veículo automotivo;15;0,00;0,00;00002
+29921;685107;Serviço;Administração / gerenciamento-manutenção veículo automotivo;Administração / gerenciamento-manutenção veículo automotivo;15;0,00;0,00;00002
 29921;413002;Serviço;Manutenção de veículos leves - parte mecânica;;24187;0,93;22.493,91;00001
 29922;354751;Serviço;Manutenção de veículos leves - parte mecânica;;8250;0,94;7.738,50;00003
 29922;354744;Serviço;Manutenção de veículos leves - parte mecânica;;74250;0,94;69.646,50;00001
@@ -1450,7 +1450,7 @@ necessários ao perfeito funcionamento da máquina.";36;850,00;30.600,00;00002
 322665;1600451;Serviço;Almoxarife / controle de estoque;Almoxarife / controle de estoque - auxiliar de almoxarifado 44h;1;49.724,40;49.724,40;00037
 322760;1600731;Serviço;Gráfico - impressos / plastificação / acabamento;Gráfico - impressos / plastificação / acabamento;1;12.800,00;12.800,00;00001
 322761;1600732;Serviço;Serviços de gerenciamento  de redes de tecnologia da informação e comunicação (tic);Serviços de gerenciamento  de redes de tecnologia da informação e comunicação (tic);1;40.419,84;40.419,84;00001
-323053;1601420;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento mercado regulado;12;25.437,26;305.247,12;00001
+323053;1601420;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento mercado regulado;12;25.437,26;305.247,12;00001
 323103;1601602;Serviço;Prestação de serviços de portaria / recepção;Prestação de serviços de portaria / recepção;1;113.773,48;113.773,48;00041
 323103;1601601;Serviço;Manutenção / reforma predial;Manutenção / reforma predial;2;86.389,51;172.779,02;00040
 323103;1601600;Serviço;Prestação de serviço de jardinagem - outros serviços - outraprodutividade;Prestação de serviço de jardinagem - outros serviços - outraprodutividade;1;68.811,60;68.811,60;00039
@@ -1712,7 +1712,7 @@ necessários ao perfeito funcionamento da máquina.";36;850,00;30.600,00;00002
 362418;1826585;Material;Café;Café, apresentação torrado moído, tipo único, torrefação ponto de torra escura;2910;20,64;60.062,40;00002
 362431;1826605;Serviço;Administração / execução projeto educacional - convênio / estágio / universitário / monitor;"Contratação de fundação de apoio para realizar a gestão administrativa e financeira do projeto ""ifms presente"".";1;326.350,00;326.350,00;00001
 362445;1826640;Serviço;Administração / execução projeto educacional - convênio / estágio / universitário / monitor;Contratação da fundação cultural e de fomento à pesquisa, ensino, extensão e inovação - fadex - para realizar a gestão administrativa-financeira do projeto intitulado: olhos que inspiram;1;1.050.000,00;1.050.000,00;00001
-364294;1831369;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento mercado regulado;12;34.408,99;412.907,88;00001
+364294;1831369;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento mercado regulado;12;34.408,99;412.907,88;00001
 36476;297394;Serviço;Contratação de passagem aérea junto a companhia credenciada;;45000;1,00;45.000,00;00002
 36476;297380;Serviço;Contratação de passagem aérea junto a companhia credenciada;;2000;0,00;0,00;00001
 366177;1835690;Serviço;Instalação / manutenção / monitorização - sistema alarme /  segurança;Contratação de sistema eletrônico de segurança e monitoramento, para atendimento da segurança do prédio definitivo da reitoria do ifms.;1;1.688,12;20.257,38;00001
@@ -2067,7 +2067,7 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 430044;2179735;Material;Clorexidina digluconato;Clorexidina digluconato, composição associada ao cloreto de sódio,concentração 0,05% + 0,9%, forma farmacêutica solução aquosa;35;15,00;525,00;00004
 430044;2179734;Material;Bolsa térmica;Bolsa térmica, aplicação* p/ gelo, material* polímero flexível, modelo redonda, diâmetro* cerca 25 cm, componentes c/ tampa rosqueável;6;38,00;228,00;00002
 430044;2179726;Material;Bolsa térmica uso em saúde;Bolsa térmica, aplicação* p/ calor, material* borracha natural, modeloretangular, capacidade* cerca 2000 ml, componentes c/ tampa rosqueável;6;25,16;150,96;00001
-430157;2181192;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento mercado regulado;12;27.357,88;328.294,56;00001
+430157;2181192;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento mercado regulado;12;27.357,88;328.294,56;00001
 430235;2181968;Material;Bola basquetebol;Bola basquetebol, material microfibra matrizada, peso cheia 600 a 650 g, circunferência 75 a 78 cm, características adicionais carimbo da cbb, cor 300, modelo pró 7.4;25;200,00;5.000,00;00004
 430728;2183937;Serviço;Prestação de serviço de  vigilância e segurança - orgânica -12 horas diurnas - 2ª a domingo;Vigilância patrimonial, desarmada, diurno, em turnos de 12 (doze) x 36 (trinta  e seis) horas, de segunda-feira a domingo, inclusive feriados.(campus campo g rande);1.9999;137.500,00;274.986,25;00009
 430728;2183936;Serviço;Prestação de serviço de  vigilância e segurança - orgânica -12h noturnas - 2ª a domingo;Vigilância patrimonial, armada, noturno, em turnos de 12 (doze) x 36 (trinta e  seis) horas, de segunda-feira a domingo, inclusive feriados.(campus campo gra nde);2;137.500,00;275.000,00;00008
@@ -2085,7 +2085,7 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 431204;2187662;Material;Bucha;Bucha, aplicação torno automático, características adicionais diâmetro: 3,18 mm, material aço, comprimento 72,00 mm;1;6,90;6,90;00132
 431495;2190820;Material;Multiprocessador alimentos;Multiprocessador alimentos, material aço inox/alumínio, função pulsar (processar, moer, cortar, misturar, tritur a, potência 3.000 w, tensão 220 v, peso 28 kg, altura 840 mm, largura 390 mm, comprimento 460 mm;1;5.200,00;5.200,00;00026
 43163;476777;Serviço;Plataforma como servico - paas;;1;20.608,85;20.608,85;00001
-43166;483999;Serviço;Publicação livro / matéria - periódica / oficial;;1;5.000,00;5.000,00;00001
+43166;483999;Serviço;Publicação livro , matéria - periódica , oficial;;1;5.000,00;5.000,00;00001
 43232;511682;Serviço;Manutenção / reforma predial;;1;10.000,00;10.000,00;00010
 43232;511669;Serviço;Recolhimento de taxa / imposto / multa;;1;3.000,00;3.000,00;00009
 43232;511660;Serviço;Serviço engenharia;;1;3.455,50;3.455,50;00008
@@ -2120,7 +2120,7 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 438873;2209665;Serviço;Fornecimento de água e coleta de esgoto sanitário;Fornecimento de água e coleta de esgoto sanitário;1;350.000,00;350.000,00;00001
 438903;2233688;Serviço;Serviço de link via cabo;Serviço de link via cabo;60;827,02;49.621,20;00001
 439074;2210331;Material;Globo geografico;Globo geografico, aplicação ensino e aprendizagem, material plástico, diâmetro 30 cm, tipo geográfico, características adicionais alto relevo;2;197,95;395,90;00033
-43921;424877;Serviço;Publicação livro / matéria - periódica / oficial;;1;7.500,00;7.500,00;00001
+43921;424877;Serviço;Publicação livro , matéria - periódica , oficial;;1;7.500,00;7.500,00;00001
 439247;2246026;Material;Veículo pick-up;Veículo pick-up;2;245.834,00;491.668,00;00001
 439447;2213092;Material;Pá para desfibrilador;Apresentação*: par, compatibilidade: c/ compatibilidade específica, esterilidade: descartável, modelo: tipo eletrodo, adesiva, tamanho: adulto, tipo equipamento: externo automático - dea;3;550,00;1.650,00;00001
 439455;2213126;Material;Equipamento / acessórios desporto;Equipamento / acessórios desporto, material fibra de aço, tipo barra transversal, dimensões 4 m x 3 cm, uso salto em altura;1;433,79;433,79;00037
@@ -2227,7 +2227,7 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 443239;2235040;Material;Equipamento / acessórios desporto;Equipamento / acessórios desporto, material termoplástico, tipo nadadeira pé de pato, uso hidroterapia;5;170,99;854,95;00089
 443239;2235039;Material;Equipamento / acessórios desporto;Equipamento / acessórios desporto, material polímero, tipo nadadeira pé de pato, dimensões 42 x 25 cm, uso natação, características adicionais alça com fivelas ajustáveis e guia de liberação;5;170,00;850,00;00088
 443239;2235038;Material;Equipamento / acessórios desporto;Equipamento / acessórios desporto, material termoplástico, tipo nadadeira pé de pato, uso hidroterapia;5;170,98;854,90;00087
-44357;437193;Serviço;Publicação livro / matéria - periódica / oficial;;1;100.000,00;100.000,00;00001
+44357;437193;Serviço;Publicação livro , matéria - periódica , oficial;;1;100.000,00;100.000,00;00001
 443786;2241710;Material;Equipamento , acessórios desporto;Equipamento / acessórios desporto, material tubo de policarbonato, tipo bomba, uso bola, características adicionais haste de acrilato nitrílica butadieno estireno, t;4;24,82;99,28;00083
 443786;2241709;Material;Fita ginástica rítmica;Fita ginástica rítmica, material cetim, comprimento 6 m, largura 7 cm, cor azul;10;18,96;189,60;00043
 443786;2241708;Material;Bola esportiva;Bola esportiva, material borracha, peso cheia 300 g, características adicionais para ginástica ritmica infantil, circunferência 16 a 17 cm;10;45,89;458,90;00040
@@ -2438,7 +2438,7 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 448130;2259844;Material;Cadeado;Cadeado, material latão, material haste aço, altura 56,50 mm, largura 35 mm, características adicionais chave mestra em latão;10;22,80;228,00;00007
 448130;2259843;Material;Cadeado;Cadeado, material zamac, material haste aço temperado, cor dourado, altura 41 mm, largura 20 mm;10;11,20;112,00;00006
 448130;2259842;Material;Cadeado;Cadeado, material zamac, material haste aço temperado, cor dourado, altura 41 mm, largura 20 mm;20;6,20;124,00;00005
-448269;2260268;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento mercado regulado;12;29.545,17;354.542,04;00001
+448269;2260268;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento mercado regulado;12;29.545,17;354.542,04;00001
 449073;2262720;Material;Frasco - tipo almotolia;Frasco - tipo almotolia, material polietileno (plástico), tipo bico bico curvo , tipo tampa tampa em rosca, capacidade 500 ml;6;7,00;42,00;00135
 449073;2262719;Material;Funil laboratório;Funil laboratório, tipo uso analítico, material plástico, capacidade 125 ml, adicional liso, tipo haste haste longa;5;5,98;29,90;00071
 449901;2266808;Serviço;Fornecimento de água e coleta de esgoto sanitário;Fornecimento de água e coleta de esgoto sanitário;1;30.000,00;30.000,00;00002
@@ -2607,7 +2607,7 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 473005;2356821;Material;Barra magnética;Barra magnética, material revestida em ptfe, formato cilíndrico, características adicionais lisa, dimensões cerca de 5 x 50 mm;5;14,00;70,00;00060
 473236;2357474;Material;Peça equipamento laboratório;Peça equipamento laboratório, tipo ocular micrométrica, aplicação para microscópio óptico, adicional aumento 10x;10;220,00;2.200,00;00176
 473236;2357473;Material;Peça equipamento laboratório;Peça equipamento laboratório, tipo ocular micrométrica, aplicação para microscópio óptico, adicional aumento 10x;10;379,00;3.790,00;00175
-473280;2357698;Serviço;Energia elétrica - fornecimento mercado regulado;Fornecimento de energia elétrica para o ifms campus campo grande - rua taquari, 831.;12;42.000,00;504.000,00;00001
+473280;2357698;Serviço;Energia elétrica - fornecimento;Fornecimento de energia elétrica para o ifms campus campo grande - rua taquari, 831.;12;42.000,00;504.000,00;00001
 473414;2358040;Material;Cone;Cone, material pvc, altura 24 cm, aplicação atividade física, características adicionais cone de agilidade, demarcatório, laranja;10;9,99;99,90;00013
 473507;2358300;Material;Equipamento / acessórios desporto;Equipamento / acessórios desporto, material pvc, tipo cartão, uso árbitro, características adicionais 3 cartões: um vermelho, um amarelo e um azul;1;15,00;15,00;00032
 473507;2358299;Material;Caneleira;Caneleira, material plástico, tipo com tornozeleira, tamanho g, cor branca e preta, características adicionais regulável;5;11,00;55,00;00030
@@ -2758,7 +2758,7 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 486558;2409862;Material;Eletroduto rígido aço carbono;Eletroduto rígido aço carbono, tamanho 1 pol, normas técnicas nbr 5598;10;18,95;189,50;00066
 486964;2411226;Material;Bola futebol;Bola futebol, material poliuretano, peso cheia 397 a 425 g, características adicionais miolo de borracha, circunferência 52 a 71 cm, modelo futebol americano;2;108,50;217,00;00004
 486964;2411225;Material;Bola voleibol;Bola voleibol, material microfibra, peso cheia 260 a 280 g, circunferência 65 a 67 cm, tipo uso adulto(fivb), pressão 03- 04 lb, aplicação volei de quadra, cor branca;20;330,00;6.600,00;00001
-487118;2411653;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento mercado regulado;12;15.800,23;189.602,76;00001
+487118;2411653;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento mercado regulado;12;15.800,23;189.602,76;00001
 487688;2412961;Material;Bastão laboratório;Bastão laboratório, material vidro, dimensões cerca de 10 x 400 mm;10;3,69;36,90;00131
 487688;2412960;Material;Saco;"Saco, material polietileno alta densidade, capacidade 20 l, aplicação laboratorial, transmitância fosco transparente, características adicionais 1 p autoclave; resistente á temperatura de 121°c";30;17,52;525,60;00088
 487688;2412953;Material;Alfinete costura;Alfinete costura, material cabeça vidro, tratamento superficial corpo aço niquelado, tamanho 31 mm;10;19,99;199,90;00085
@@ -2770,12 +2770,12 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 487688;2412956;Material;Papel de tornassol;Papel de tornassol, potencial hidrogeniônico ph neutro;15;21,99;329,85;00029
 487688;2412955;Material;Papel de tornassol;Papel de tornassol, potencial hidrogeniônico ph ácido;15;21,99;329,85;00028
 487688;2412952;Material;Papel de tornassol;Papel de tornassol, potencial hidrogeniônico ph alcalino;2;22,00;44,00;00027
-487966;2413733;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento;1;204.000,00;204.000,00;00001
+487966;2413733;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento;1;204.000,00;204.000,00;00001
 488119;2414024;Material;Forno microondas;Forno microondas, capacidade 32 l, potência 900 w, voltagem 220 v, características adicionais alarme sonoro;1;718,00;718,00;00006
 488128;2414037;Material;Estufa laboratório;Estufa laboratório, material* gabinete aço inox, ajuste ajuste mecânico,botão controle temperatura, capacidade cerca de 80 l, temperatura até 250 °c, componentes c/ até 3 bandejas, adicional c/ vedação;2;1.996,95;3.993,90;00212
 488128;2414036;Material;Banho ultrassônico;Banho ultrassônico, ajuste ajuste digital, c/ painel de controle, volume até 15 l, temperatura até 80 °c, frequência* até 40 khz, componentes com tampa, adicional com cesto removível;1;3.999,99;3.999,99;00210
 488264;2414998;Material;Switch;Switch, quantidade portas 24 un, tipo portas 10/100/1000 base t, rj45.4, 4 ethernet mini-gbic, velocidade porta 1000 mbps, 1/10 gbps, alimentação 100 a 240 v, características adicionais com portas poe, alimentação elétrica com chaveame n, aplicação conectar servidores e equipamentos em rede, tipo switch gerenciável;5;3.186,96;15.934,80;00007
-488496;2420810;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento;1;19.800,00;19.800,00;00001
+488496;2420810;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento;1;19.800,00;19.800,00;00001
 488859;2420557;Material;Tetraborato de sódio;Tetraborato de sódio, peso molecular 381,37 g/mol, aspecto físico pó branco, cristalino, inodoro, fórmula química na2b4o7.10h2o (decahidratado), teor de pureza pureza mínima de 99,5%, característica adicional reagente p.a. acs iso, número de referência química cas 1303-96-4;1;21,09;21,09;00179
 488859;2420556;Material;Corante;Corante, tipo orceína sintética, aspecto físico pó;1;153,99;153,99;00168
 488859;2420555;Material;Rolha borracha;Rolha borracha, tipo maciça, tamanho 11;5;85,39;426,95;00128
@@ -2878,7 +2878,7 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 495093;2456010;Material;Bola handebol;Bola handebol, material poliuretano, peso cheia 425 a 475 g, características adicionais costurada em pvc, câmara butil, miolo removível, circunferência 58 a 60 cm, modelo masculino;15;105,00;1.575,00;00058
 495093;2456009;Material;Bola handebol;Bola handebol, material poliuretano, peso cheia 325 a 375 g, características adicionais costurada em pvc, câmara butil, miolo removível, circunferência 54 a 56 cm, modelo feminino;15;103,00;1.545,00;00057
 495093;2456008;Material;Arco de ginástica rítmica ( bambolê );Arco de ginástica rítmica ( bambolê ), material pvc, diâmetro 0,60 m, aplicação práticas esportivas, cor variada;50;5,00;250,00;00003
-495321;2458467;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento mercado regulado;1;60.000,00;60.000,00;00001
+495321;2458467;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento mercado regulado;1;60.000,00;60.000,00;00001
 495949;2461034;Material;Colchonete ginástica;Colchonete ginástica, material plástico emborrachado, comprimento 1 m, largura 0,60 m, espessura 0,50 m, cor verde;4;550,00;2.200,00;00080
 496526;2463177;Material;Nitrato de chumbo;Nitrato de chumbo, aspecto físico cristal branco, inodoro, peso molecular 331,21 g/mol, composição química pb(no3)2 (chumbo ii), grau de pureza pureza mínima de 99%, característica adicional reagente p.a. acs, número de referência química cas 10099-74-8;2;60,00;120,00;00062
 496526;2463185;Material;Nitrato de zinco;Nitrato de zinco, aspecto físico cristal incolor a esbranquiçado, leve odor nítric o, fórmula química zn(no3)2 (anidro), peso molecular 189,4 g/mol, grau de pureza pureza mínima de 99%, característica adicional reagente p.a., número de referência química cas 7779-88-6;1;67,45;67,45;00061
@@ -2972,7 +2972,7 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 508396;2554460;Material;Transistor;Transistor, referência bc 557, encapsulamento to-92, tensão trabalho 45 v,aplicação amplificador de alta freqüência, potência máxima 500 mw, correntesaída 100 ma;1;897,00;897,00;00015
 508396;2554459;Material;Resistor carbono;Resistor carbono, resistência nominal 100 ohms, tolerância +/- 5 per, potêncianominal 1/4 w, aplicação eletrônica;1;419,00;419,00;00013
 508935;2555843;Material;Microcomputador;Microcomputador, memória ram 32 gb, núcleos por processador 5 a 8, armazenamento hdd 2 tb., armazenamento ssd até 2 tb, monitor 21 a 29 pol, componentes adicionais com teclado e mouse, sistema operacional proprietário, garantia on site superior a 36 meses;4;7.509,31;30.037,24;00026
-509673;2557792;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento mercado regulado;1;173.133,48;173.133,48;00001
+509673;2557792;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento mercado regulado;1;173.133,48;173.133,48;00001
 509688;2557814;Material;Camisa uniforme;Camisa uniforme, material malha algodão fio 30.1, tipo manga curta, tipo colarinho gola olímpica com ribana, cor branca, tamanho p,m,g e xg, tipo uso unissex, características adicionais logotipo do orgão conforme modelo, tipo camisa costura dupla, aplicação fardamento escolar;2000;12,70;25.400,00;00001
 509833;2558502;Material;Projetor imagem;Projetor imagem, tipo imagem imagem microcomputador (multimídia), tipo foco auto foco, voltagem 110/220 v, características adicionais controle remoto;11;5.490,00;60.390,00;00005
 509867;2558835;Material;Tinta base água;Tinta base água, composição básica água e pva, aspecto físico líquido, aplicação interna e externa, tipo acabamento fosco, cor cinza chumbo, superfície aplicação piso;15;178,00;2.670,00;00246
@@ -2980,7 +2980,7 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 509867;2558833;Material;Tinta esmalte;Tinta esmalte, tipo acabamento brilhante, cor verde folha, aplicação metal e madeira, características adicionais diluição com água;5;388,00;1.940,00;00214
 509867;2558832;Material;Tinta esmalte;Tinta esmalte, tipo acabamento brilhante, cor verde folha, aplicação metal e madeira, características adicionais diluição com água;5;418,00;2.090,00;00213
 510167;2560093;Serviço;Licenciamento de direitos permanentes  de  uso  de  softwarepara estação de trabalho;Licenciamento de direitos permanentes  de  uso  de  softwarepara estação de trabalho;12;160,22;1.922,64;00004
-510167;2560092;Serviço;Treinamento informática - sistema / software;Treinamento informática - sistema / software;1;2.500,00;2.500,00;00003
+510167;2560092;Serviço;Treinamento informática - sistema , software;Treinamento informática - sistema / software;1;2.500,00;2.500,00;00003
 510253;2560701;Material;Conjunto lubrificação;Conjunto lubrificação, componentes antiembaçante, desengripante, graxa líquida e sil i;5;8,80;44,00;00191
 510253;2560700;Material;Óleo lubrificante;Óleo lubrificante, uso para engrenagens sem fim industrial, tipo sintético, classificação din 51517 (clp), viscosidade sa we 150;5;8,70;43,50;00049
 510300;2561318;Material;Barra aço;Barra aço, formato seção sextavado, bitola 3/8 pol, comprimento 6 m, características adicionais passo unc 16 e rosqueada, material aço carbono;5;3,53;17,65;00158
@@ -3088,8 +3088,8 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 522689;2598042;Material;Microcomputador;Microcomputador, memória ram 32 gb, núcleos por processador 5 a 8, armazenamento hdd 2 tb., armazenamento ssd até 2 tb, monitor 21 a 29 pol, componentes adicionais com teclado e mouse, sistema operacional proprietário, garantia on site superior a 36 meses;40;7.509,31;300.372,40;00026
 523118;2599441;Material;Carrinho transporte;Carrinho transporte, material tubo aço, tratamento superficial zincagem eletrolítica e antiferrugem, capacidade 200 l, altura 950 mm, largura 600 mm, quantidade rodas 2 fixas e 2 giratórias, material rodas borracha, tipo condomínio, comprimento 1.000 mm, profundidade 50 cm, cor cinza;1;890,00;890,00;00079
 524019;2602212;Serviço;Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);Instalação de aparelhos de ar condicionado split hi wall de 24.000 btus;12;456,00;5.472,00;00003
-524606;2603713;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento mercado regulado;1;140.136,92;140.136,92;00001
-524621;2603731;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento mercado regulado;1;92.216,62;92.216,62;00001
+524606;2603713;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento mercado regulado;1;140.136,92;140.136,92;00001
+524621;2603731;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento mercado regulado;1;92.216,62;92.216,62;00001
 525747;2606900;Material;Assento vaso sanitário;Assento vaso sanitário, material plástico, cor branca;30;20,35;610,50;00257
 525747;2606899;Material;Espude vaso sanitário;Espude vaso sanitário, material pvc, bitola 1 1/2 pol, características adicionais 3 parafusos sextavados;10;1,75;17,50;00064
 526360;2608307;Material;Mesa refeitório;Mesa refeitório, material tampo madeira plástica, revestimento tampo madeira plástica, espessura 30 mm, material estrutura madeira plástica com parafusos em aço inox, acabamento superficial estrutura madeira plástica maciça, comprimento 220 cm, largura 136 cm, características adicionais bancos interligados para 8 lugares (aprox.2,20 m d, cor ipê;30;2.000,00;60.000,00;00005
@@ -3233,7 +3233,7 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 559772;2699897;Material;Rolha borracha;Rolha borracha, tipo maciça, tamanho 7;1;28,00;28,00;00023
 560141;2701049;Material;Veículo pick-up;Veículo pick-up, tipo motor diesel, tipo direção hidráulica, potência motor 190 cv, capacidade passageiro 5, tipo tração 4x4, quantidade portas 4, cor preta, modelo cabine dupla, tipo cambio automático;1;245.834,00;245.834,00;00001
 560632;2707833;Serviço;Licenciamento de direitos permanentes  de  uso  de  softwarepara estação de trabalho;Licenciamento de direitos permanentes  de  uso  de  softwarepara estação de trabalho;12;160,22;1.922,64;00016
-560632;2707832;Serviço;Treinamento informática - sistema / software;Treinamento informática - sistema / software;1;2.500,00;2.500,00;00015
+560632;2707832;Serviço;Treinamento informática - sistema , software;Treinamento informática - sistema / software;1;2.500,00;2.500,00;00015
 560676;2702615;Material;Veículo pick-up;Veículo pick-up;1;245.834,00;245.834,00;00001
 561554;2705216;Material;Válvula reguladora cilindro gás;Válvula reguladora cilindro gás, tipo fechamento manual, componentes 2manômetros, características adicionais sem filtro, material ferro, tratamentosuperficial cromado, tipo rosca para ar comprimido;5;163,99;819,95;00015
 561582;2705303;Material;Ponta prova osciloscópio;Ponta prova osciloscópio, atenuação 1:1 e 10:1, frequência 60 mhz, modelo lf101e;1;2.397,00;2.397,00;00010
@@ -3374,8 +3374,8 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 57424;321051;Material;Arroz beneficiado;;536;15,84;8.490,24;00003
 57424;321045;Material;Açúcar;;536;3,35;1.795,60;00002
 57424;321033;Material;Achocolatado;;536;3,40;1.822,40;00001
-57426;518357;Serviço;Manutenção / higienização de reservatório de água potável;;6;399,22;2.395,32;00002
-57426;518353;Serviço;Manutenção / higienização de reservatório de água potável;;1;372,61;372,61;00001
+57426;518357;Serviço;Manutenção , higienização de reservatório de água potável;;6;399,22;2.395,32;00002
+57426;518353;Serviço;Manutenção , higienização de reservatório de água potável;;1;372,61;372,61;00001
 57478;518868;Serviço;Serviço especializado de limpeza;;6.417;19.972,44;128.163,12;00003
 57478;518854;Serviço;Serviço especializado de limpeza;;6.371;9.555,72;60.879,49;00002
 57478;518842;Serviço;Serviço especializado de limpeza;;6.2918;134.065,64;843.514,20;00001
@@ -3510,7 +3510,7 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 584861;2782065;Material;Banco;Banco, material madeira plastica, comprimento 1,50 m, altura 0,70 m, acabamento madeira plástica encapsulada., cor marrom, características adicionais estrutura da base em plástico reforçado. tratamen t, profundidade 55 cm;20;430,00;8.600,00;00001
 58494;518435;Serviço;Obras civis públicas ( construção );;1;1.628.765,78;1.628.765,78;00001
 585050;2782599;Serviço;Administração / execução projeto educacional - convênio / estágio / universitário / monitor;Administração / execução projeto educacional - convênio / estágio / universitário / monitor;1;0,01;0,01;00000
-585317;2783278;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento mercado regulado;12;20.416,66;244.999,92;00001
+585317;2783278;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento mercado regulado;12;20.416,66;244.999,92;00001
 585488;2783747;Material;Açúcar;Açúcar, tipo cristal, coloração branca;1020;7,99;8.149,80;00001
 585585;2783902;Material;Cordão arremate;Cordão arremate, material poliéster, cor verde, aplicação crachá, características adicionais jacaré com 10 mm de largura, acabamento chapa metálica;2000;1,40;2.800,00;00003
 585585;2783901;Material;Cordão arremate;Cordão arremate, material poliéster, cor verde, aplicação crachá, características adicionais jacaré com 10 mm de largura, acabamento chapa metálica;700;1,40;980,00;00002
@@ -3899,7 +3899,7 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 643724;2932856;Material;Carne de ave in natura;Carne de ave in natura;2000;21,85;43.700,00;00123
 643724;2932855;Material;Frios;Frios;300;36,18;10.854,00;00122
 646974;2943555;Serviço;Licenciamento de direitos permanentes  de  uso  de  softwarepara estação de trabalho;Licenciamento de direitos permanentes  de  uso  de  softwarepara estação de trabalho;12;160,22;1.922,64;00012
-646974;2943554;Serviço;Treinamento informática - sistema / software;Treinamento informática - sistema / software;1;2.500,00;2.500,00;00011
+646974;2943554;Serviço;Treinamento informática - sistema , software;Treinamento informática - sistema / software;1;2.500,00;2.500,00;00011
 647263;2945405;Serviço;Prestação de serviço de limpeza e conservação - esquadrias  externas - outras necessidades - outra produtividade;Prestação de serviço de limpeza e conservação - esquadrias  faces externas e i nternas - jardim;1140;1,00;1.140,00;00031
 647263;2945404;Serviço;Prestação de serviço de limpeza e conservação - áreas exter-nas - 12 horas diurnas - 2ª a 6ª feira - outra produtividade;Prestação de serviço de limpeza e conservação - áreas externas - área externa - varrição de passeios e arruamentos;1608;1,28;2.058,24;00030
 647263;2945403;Serviço;Prestação de serviço de limpeza e conservação -  áreas internas - outras necessidades - outra produtividade;Prestação de serviço de limpeza e conservação -  áreas internas - outras neces sidades - área interna - saguão, hall e salão - jardim;10164;6,50;66.066,00;00029
@@ -4012,7 +4012,7 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 656499;3027805;Material;Veículo pick-up;Veículo pick-up, tipo motor diesel, tipo direção hidráulica, potência motor 190 cv, capacidade passageiro 5, tipo tração 4x4, quantidade portas 4, cor preta, modelo cabine dupla, tipo cambio automático;1;245.834,00;245.834,00;00001
 657774;3031031;Serviço;Obras civis de edificação prediais;Contratação de empresa para obra de construção de  refeitório, destinado a oferta de merenda quente aos estudantes do campus coxim do ifms.;1;2.178.268,33;2.178.268,33;00001
 660346;3044745;Serviço;Licenciamento de direitos permanentes  de  uso  de  softwarepara estação de trabalho;Licenciamento de direitos permanentes  de  uso  de  softwarepara estação de trabalho;12;160,22;1.922,64;00012
-660346;3044744;Serviço;Treinamento informática - sistema / software;Treinamento informática - sistema / software;1;2.500,00;2.500,00;00011
+660346;3044744;Serviço;Treinamento informática - sistema , software;Treinamento informática - sistema / software;1;2.500,00;2.500,00;00011
 661307;3052593;Serviço;Pagamento inscrição eventos;Pagamento inscrição eventos;67;400,00;26.800,00;00001
 66166;342326;Serviço;Serviço de link via cabo;;1;19.620,64;19.620,64;00091
 66166;342323;Serviço;Serviço de link via cabo;;2;10,00;20,00;00089
@@ -4082,7 +4082,7 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 679134;3128418;Material;Diploma;Características adicionais: impressão de moldura em calcografia cilíndrica, ta, comprimento: 315, cor: azul, gramatura: 90, largura: 215, material: papel moeda, tipo impressão: numismático simplex;5000;5,10;25.500,00;00001
 682339;3135102;Serviço;Manutenção / reforma predial;Manutenção / reforma predial - oficial de manutenção predial 44h;1;87.125,16;87.125,16;00018
 682339;3135101;Serviço;Prestação de serviço de jardinagem - outros serviços - outraprodutividade;Prestação de serviço de jardinagem - jardineiro 44h;1;75.074,52;75.074,52;00017
-682623;3135667;Serviço;Administração , gerenciamento-manutenção veículo automotivo;Fornecimento de peças, componentes e acessórios necessários para o funcionamento dos equipamentos;10000;1,00;10.000,00;00003
+682623;3135667;Serviço;Administração / gerenciamento-manutenção veículo automotivo;Fornecimento de peças, componentes e acessórios necessários para o funcionamento dos equipamentos;10000;1,00;10.000,00;00003
 682623;3135668;Serviço;Instalação / manutenção - elevadores, escadas rolantes, mon-ta - cargas / plataforma / escadas;Serviço de manutenção corretiva e atendimento a chamados emergenciais de  plataformas elevatórias / elevadores, incluindo os serviços de troca de peças e componentes. (campus dourados);4;350,00;1.400,00;00002
 682623;3135669;Serviço;Instalação / manutenção - elevadores, escadas rolantes, mon-ta - cargas / plataforma / escadas;Serviço de manutenção preventiva semestral de  plataformas elevatórias / elevadores. (ifms campus dourados);4;350,00;1.400,00;00001
 682791;3136214;Material;Pão de queijo;Pão de queijo, basa da massa polvilho doce ou azedo e queijo, ingredientes adicionais com outros sabores, formato lanche/grande, apresentação cru congelado;1000;25,85;25.850,00;00121
@@ -4193,7 +4193,7 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 696457;3172061;Material;Balão inflável ar frio;Balão inflável ar frio, tipo fixo de chão, modelo rooftop, altura 5 m,diâmetro 3,85 m, características adicionais personalizado conforme modelo;6;2.640,00;15.840,00;00002
 696457;3172060;Material;Balão inflável ar frio;Balão inflável ar frio, tipo fixo de chão, modelo rooftop, altura 5 m,diâmetro 3,85 m, características adicionais personalizado conforme modelo;9;2.789,00;25.101,00;00001
 697077;3173309;Material;Jogo xadrez;Jogo xadrez, material madeira, formato quadrado, aplicação lazer e entretenimento, características adicionais tabuleiro tipo caixa acondicionamento peças;2;45,40;90,80;00053
-698023;3175594;Serviço;Administração , gerenciamento-manutenção veículo automotivo;Reserva de valor para fornecimento de peças, componentes e acessórios necessários para o funcionamento dos equipamentos.;10000;1,00;10.000,00;00009
+698023;3175594;Serviço;Administração / gerenciamento-manutenção veículo automotivo;Reserva de valor para fornecimento de peças, componentes e acessórios necessários para o funcionamento dos equipamentos.;10000;1,00;10.000,00;00009
 698023;3175595;Serviço;Instalação / manutenção - elevadores, escadas rolantes, mon-ta - cargas / plataforma / escadas;Serviço de manutenção corretiva e atendimento a chamados emergenciais de plataforma elevatória / elevador, incluindo os serviços de troca de peças e componentes. (ifms campus nova andradina);2;350,00;700,00;00008
 698023;3175596;Serviço;Instalação / manutenção - elevadores, escadas rolantes, mon-ta - cargas / plataforma / escadas;Serviço de manutenção preventiva semestral de plataforma elevatória / elevador. (ifms campus nova andradina);2;350,00;700,00;00007
 698181;3175967;Serviço;Acesso a internet - stfc (banda larga);Acesso a internet - stfc (banda larga) dourados;12;248,00;2.976,00;00014
@@ -4868,13 +4868,13 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 71643;394406;Serviço;Manutenção de subestações de energia elétrica até 69kv;;1;2.059,32;2.059,32;00003
 71643;394401;Serviço;Manutenção de subestações de energia elétrica até 69kv;;1;2.059,32;2.059,32;00002
 71643;394395;Serviço;Manutenção de subestações de energia elétrica até 69kv;;2;1.029,66;2.059,32;00001
-71644;379370;Serviço;Publicação livro / matéria - periódica / oficial;;1;25.000,00;25.000,00;00001
+71644;379370;Serviço;Publicação livro , matéria - periódica , oficial;;1;25.000,00;25.000,00;00001
 71773;335500;Material;Água mineral natural;;1000;0,48;480,00;00004
 71773;335494;Material;Água mineral natural;;600;1,25;750,00;00003
 71773;335488;Material;Água mineral natural;;40;12,00;480,00;00002
 71773;335484;Material;Botijão para gás;;40;60,00;2.400,00;00001
 71812;348662;Serviço;Perícia, laudo e avaliação;;1;50.761,45;50.761,45;00001
-71836;304617;Serviço;Energia elétrica - fornecimento mercado regulado;;1;240.000,00;240.000,00;00001
+71836;304617;Serviço;Energia elétrica - fornecimento;;1;240.000,00;240.000,00;00001
 71838;377782;Serviço;Fornecimento de água e coleta de esgoto sanitário;;1;17.715,36;17.715,36;00001
 71854;359003;Serviço;Ar respirável - teste hidrostático cilindro;;83;9,00;747,00;00010
 71854;358996;Serviço;Manutenção extintores / mangueiras - combate incêndio;;4;127,00;508,00;00009
@@ -4887,10 +4887,10 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 71854;358959;Serviço;Manutenção extintores / mangueiras - combate incêndio;;33;30,00;990,00;00002
 71854;358955;Serviço;Manutenção extintores / mangueiras - combate incêndio;;20;78,00;1.560,00;00001
 71855;359047;Serviço;Topografia de áreas;;1;15.000,00;15.000,00;00001
-71866;395404;Serviço;Manutenção / higienização de reservatório de água potável;;2;2.065,28;4.130,56;00002
+71866;395404;Serviço;Manutenção , higienização de reservatório de água potável;;2;2.065,28;4.130,56;00002
 71866;395392;Serviço;Desinsetização / desratização / dedetização;;3;7.331,73;21.995,19;00001
-71894;368537;Serviço;Energia elétrica - fornecimento mercado regulado;;12;50.000,00;600.000,00;00001
-71895;395992;Serviço;Energia elétrica - fornecimento mercado regulado;;12;250,00;3.000,00;00002
+71894;368537;Serviço;Energia elétrica - fornecimento;;12;50.000,00;600.000,00;00001
+71895;395992;Serviço;Energia elétrica - fornecimento;;12;250,00;3.000,00;00002
 719078;3234848;Serviço;Administração / execução projeto educacional - convênio / estágio / universitário / monitor;Administração / execução projeto educacional - convênio / estágio / universitário / monitor - administração / execução projeto educacional - convênio / estágio / universitário / monitor;1;261.864,20;261.864,20;00001
 71928;371869;Serviço;Edição , impressão - diário oficial , justiça;;12;1.011,90;12.142,80;00001
 71940;557059;Serviço;Fornecimento de água e coleta de esgoto sanitário;;1;62.479,98;62.479,98;00001
@@ -4899,8 +4899,8 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 71986;384613;Serviço;Emissão de certificado digital a3, sem token pessoa   física;;4;45,90;183,60;00003
 71986;384609;Serviço;Emissão de certificado digital a3, com token pessoa física;;4;70,90;283,60;00002
 71986;384603;Serviço;Emissão de certificado digital a3, sem token pessoa   física;;6;35,90;215,40;00001
-72001;384908;Serviço;Energia elétrica - fornecimento mercado regulado;;1;71.157,24;71.157,24;00001
-72002;396467;Serviço;Publicação legal / editais;;1;17.600,00;17.600,00;00001
+72001;384908;Serviço;Energia elétrica - fornecimento;;1;71.157,24;71.157,24;00001
+72002;396467;Serviço;Publicações promocionais / editais;;1;17.600,00;17.600,00;00001
 72020;366354;Serviço;Fornecimento de água canalizada;;12;2.605,85;31.270,20;00001
 720345;3237502;Serviço;Instalação / manutenção / monitorização - sistema alarme /  segurança;Prestação de serviço de instalação inicial do sistema de monitoramento de alar me, incluindo configuração e testes, além da prestação de serviços contínuos d e monitoramento remoto 24 horas, com acionamento de alarmes e comunicação imed iata em caso de ocorrências.;60;2.350,00;141.000,00;00007
 720770;3238557;Material;Gerador energia;Gerador energia, potência máxima 100 kva, tensão saída 220/127 v, tipo motordiesel, número de fases 3, aplicação fornecimento de energia;1;2.766,93;2.766,93;00006
@@ -4980,7 +4980,7 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 750790;3311358;Material;Condimento*;Condimento*;96;31,40;3.014,40;00001
 751128;3312268;Material;Parafusadeira;"Parafusadeira, tipo profissional, velocidade reversível, rotação mínima: 600 rpm, máxima: 1900 rpm, voltagem 9,6 v, características adicionais mandril de 1 2"", controle de torque, componentes com maleta, acessórios, bateria, carregador bivol t, tipo alimentação bateria";1;400,00;400,00;00078
 751128;3312267;Material;Furadeira;Furadeira, tipo parafusadeira, potência 560 w, tamanho mandril 13 mm, tensão alimentação 110/220 v, características adicionais 3 velocidades reversíveis, velocidade 2.800 rpm, capacidade perfuração concreto 13 mm, capacidade perfuração aço 10 mm, capacidade perfuração madeira 20 mm, acessórios fio alimentação, chave mandril, punho ergonômico;1;210,00;210,00;00077
-751322;3312707;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento mercado regulado - energia elétrica - fornecimento mercado regulado;2.94263;1.350,83;3.975,00;00001
+751322;3312707;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento mercado regulado - energia elétrica - fornecimento mercado regulado;2.94263;1.350,83;3.975,00;00001
 752615;3315517;Material;Tela;Tela, material polietileno alta densidade, largura 3 m, cor preta, aplicação sombreamento, características adicionais 50% de sombreamento, comprimento 50 m;8;398,90;3.191,20;00060
 752615;3315516;Material;Carrinho mão;Carrinho mão, material caçamba chapa aço, material chassi tudo aço com luva para proteção das mãos, material pés chapa aço repuxada, material travessa chapa aço, tipo travessa suporte dianteiro caçamba, material eixo aço, material arruela fixação aço, material braçadeira aço, quantidade roda 1, tipo roda pneu com câmara;6;129,90;779,40;00029
 756884;3326326;Serviço;Assessoria;Assessoria - assessoria;1;720.000,00;720.000,00;00001
@@ -4990,8 +4990,8 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 757511;3328099;Serviço;Prestação de serviços de motorista;Hora extra noturna (22h a 5h) -  50%+20%;264;37,01;9.770,64;00051
 757511;3328098;Serviço;Prestação de serviços de motorista;Hora extra diurna -50%;528;30,84;16.283,52;00050
 757511;3328097;Serviço;Prestação de serviços de motorista;Motorista categoria d;1;61.250,00;61.250,00;00049
-758104;3329307;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento mercado regulado;12;1.350,83;16.210,00;00001
-758619;3330512;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento;12;1.350,83;16.210,00;00001
+758104;3329307;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento mercado regulado;12;1.350,83;16.210,00;00001
+758619;3330512;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento;12;1.350,83;16.210,00;00001
 760489;3334743;Material;Anel vedação;Anel vedação, material borracha nitrílica, diâmetro interno 26 mm, espessura seção transversal 8 mm;10;8,70;87,00;00035
 761292;3337027;Serviço;Prestação de serviços bancários;Prestação de serviços bancários;1;0,00;0,00;00001
 761771;3338217;Material;Atrazina;Atrazina, concentração 50% p/v, apresentação suspensão concentrada, número de referência química cas 93616-39-8;600;20,00;12.000,00;00019
@@ -5158,7 +5158,7 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 808927;3455658;Material;Jogo chave;Jogo chave, material aço cromo vanádio, tipo allen, quantidade peças 25, componentes 1.3, 1.5, 2, 2.5, 3, 4, 4.5, 5, 5.5, 6, 7, 8, 10 m, características adicionais pontas abauladas;1;72,87;72,87;00030
 809514;3457004;Material;Colméia;Colméia, material madeira, tipo langstroth, componentes fundo, ninho, melgueiras, quadro com arame e tamp a, aplicação apicultura, características adicionais 2 melgueiras com 10 quadros de ninho tipo hoffman;10;329,50;3.295,00;00101
 809514;3457003;Material;Adubo químico;Adubo químico, aspecto físico granulado, composição básica 50% p2o5 + 11% n, características adicionais map- fosfato monoamônico;340;295,00;100.300,00;00009
-809741;3457719;Serviço;Fornecimento de refeições , lanches , salgados , doces;Fornecimento de refeições / lanches / salgados / doces;1;85,90;85,90;00001
+809741;3457719;Serviço;Fornecimento de refeições / lanches / salgados / doces;Fornecimento de refeições / lanches / salgados / doces;1;85,90;85,90;00001
 809916;3458187;Material;Carteira escolar;Carteira escolar, material estrutura tubo aço, material tampo plástico injetado, espessura tampo 18 mm, tamanho 76 x 60 x 45 cm, revestimento tampo laminado melamínico;2;760,00;1.520,00;00002
 809916;3458186;Material;Carteira escolar;Carteira escolar, material estrutura tubo aço, material tampo plástico injetado, espessura tampo 18 mm, tamanho 76 x 60 x 45 cm, revestimento tampo laminado melamínico;100;440,00;44.000,00;00001
 810297;3459683;Material;Porta guarda-chuvas;Porta guarda-chuvas, material aço inoxidável, altura 50 cm, diâmetro 21 cm, capacidade 10 un, cor prata;2;174,99;349,98;00042
@@ -5261,22 +5261,22 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 91170;603043;Serviço;Prestação de serviço de limpeza e conservação -  áreas internas - outras necessidades - outra produtividade;Prestação de serviço de limpeza e conservação -  áreas internas - outras necessidades - outra produtividade;1;17.436,38;209.236,56;00002
 91170;603042;Serviço;Prestação de serviço de limpeza e conservação - esquadrias  externas - outras necessidades - outra produtividade;Prestação de serviço de limpeza e conservação - esquadrias  externas - outras necessidades - outra produtividade;1;7.259,26;87.111,12;00001
 91332;600903;Serviço;Instalação / manutenção - elevadores, escadas rolantes, mon-ta - cargas / plataforma / escadas;Undefined;12;900,00;10.800,00;00001
-91810;603182;Serviço;Energia elétrica - fornecimento mercado regulado;;1;276.000,00;276.000,00;00001
+91810;603182;Serviço;Energia elétrica - fornecimento;;1;276.000,00;276.000,00;00001
 93401;611097;Serviço;Ar condicionado - manutenção de aparelhos de parede;Undefined;2;6.000,00;12.000,00;00002
 93401;611096;Serviço;Elaboração / análise projeto - engenharia;Undefined;1;1.500,00;1.500,00;00001
 94895;1008309;Material;Alimento industrializado consumo humano;Alimento industrializado consumo humano;0;0,00;0,00;00002
 94895;617464;Serviço;Locação de imóvel;Locação de imóvel;1;424,11;5.089,32;00001
 94973;617945;Material;Peças , acessórios equipamentos oficina manutenção;Peças , acessórios equipamentos oficina manutenção;1;43.109,03;43.109,03;00006
 94973;617944;Serviço;Manutenção de veículos leves e pesados;Manutenção de veículos leves e pesados;1;64.663,54;64.663,54;00005
-95106;618319;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento;1;3.698,20;3.698,20;00001
+95106;618319;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento;1;3.698,20;3.698,20;00001
 96439;623415;Serviço;Ar condicionado - manutenção de aparelhos de parede;Ar condicionado - manutenção de aparelhos de parede;4;620,11;2.480,44;00023
 96439;623414;Serviço;Peças e acessórios aparelho ar condicionado;Peças e acessórios aparelho ar condicionado;15000;1,00;15.000,00;00022
 96439;623413;Serviço;Manutenção de geladeiras e bebedouros;Manutenção de geladeiras e bebedouros;2;550,00;1.100,00;00019
 96439;623412;Serviço;Manutenção de geladeiras e bebedouros;Manutenção de geladeiras e bebedouros;1;380,00;380,00;00018
 96439;623411;Serviço;Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);Ar condicionado - instalação e montagem (parede , sistemas);6;190,00;1.140,00;00012
 96439;623410;Serviço;Ar condicionado - manutenção de aparelhos de parede;Ar condicionado - manutenção de aparelhos de parede;20;240,00;4.800,00;00011
-96439;623409;Serviço;Ar condicionado - manutenção de sistemas , limpeza;Ar condicionado - manutenção de sistemas / limpeza;28;135,00;3.780,00;00010
+96439;623409;Serviço;Ar condicionado - manutenção de sistemas / limpeza;Ar condicionado - manutenção de sistemas / limpeza;28;135,00;3.780,00;00010
 96439;623408;Serviço;Ar condicionado - manutenção de aparelhos de parede;Ar condicionado - manutenção de aparelhos de parede;13;230,00;2.990,00;00008
-96439;623407;Serviço;Ar condicionado - manutenção de sistemas , limpeza;Ar condicionado - manutenção de sistemas / limpeza;20;150,00;3.000,00;00007
+96439;623407;Serviço;Ar condicionado - manutenção de sistemas / limpeza;Ar condicionado - manutenção de sistemas / limpeza;20;150,00;3.000,00;00007
 96439;623406;Serviço;Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);Ar condicionado - instalação e montagem (parede , sistemas);2;155,00;310,00;00005
-96439;623405;Serviço;Ar condicionado - manutenção de sistemas , limpeza;Ar condicionado - manutenção de sistemas / limpeza;2;130,00;260,00;00004
+96439;623405;Serviço;Ar condicionado - manutenção de sistemas / limpeza;Ar condicionado - manutenção de sistemas / limpeza;2;130,00;260,00;00004
