@@ -1,7 +1,7 @@
 import requests
 import os
 import json
-from datetime import datetime
+from datetime import datetime, timedelta
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # --- CONFIGURAÇÃO ---
@@ -17,14 +17,64 @@ UNIDADES = [
 PASTA_DESTINO = "temp/contratos"
 os.makedirs(PASTA_DESTINO, exist_ok=True)
 
+# Regras de validade
+DIAS_VALIDADE = {
+    "contratos": 1,
+    "responsaveis": 1,
+    "itens": 99
+}
+
 # ======================================================
 # 🛠️ FUNÇÕES DE APOIO
 # ======================================================
 
 
+def caminho_arquivo(nome_arquivo):
+    return os.path.join(PASTA_DESTINO, nome_arquivo)
+
+
+def carregar_envelope(nome_arquivo):
+    caminho = caminho_arquivo(nome_arquivo)
+    if not os.path.exists(caminho):
+        return None
+    try:
+        with open(caminho, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except Exception:
+        return None
+
+
+def cache_valido(nome_arquivo, dias_validade):
+    """
+    Cache é válido quando:
+    - arquivo existe
+    - metadata.status == SUCESSO
+    - data_extracao está dentro da janela de validade
+    """
+    envelope = carregar_envelope(nome_arquivo)
+    if not envelope:
+        return False
+
+    metadata = envelope.get("metadata", {})
+    if metadata.get("status") != "SUCESSO":
+        return False
+
+    data_str = metadata.get("data_extracao")
+    if not data_str:
+        return False
+
+    try:
+        data_extracao = datetime.strptime(data_str, "%d/%m/%Y %H:%M:%S")
+    except Exception:
+        return False
+
+    limite = datetime.now() - timedelta(days=dias_validade)
+    return data_extracao >= limite
+
+
 def salvar_json_envelopado(nome_arquivo, url, dados, status="SUCESSO"):
     """Envelopa a resposta com metadados para garantir rastreabilidade."""
-    caminho = os.path.join(PASTA_DESTINO, nome_arquivo)
+    caminho = caminho_arquivo(nome_arquivo)
     if status != "SUCESSO" and os.path.exists(caminho):
         return
 
@@ -47,6 +97,14 @@ def salvar_json_envelopado(nome_arquivo, url, dados, status="SUCESSO"):
 def buscar_lista_contratos_por_ug(unidade):
     """Extrai a lista de contratos de uma UASG específica."""
     url = f"https://contratos.comprasnet.gov.br/api/contrato/ug/{unidade['codigo']}"
+    nome_arq = f"contratos_uasg_{unidade['codigo']}.json"
+
+    # CONTRATOS: validade diária
+    if cache_valido(nome_arq, DIAS_VALIDADE["contratos"]):
+        envelope = carregar_envelope(nome_arq) or {}
+        lista = envelope.get("respostas", {}).get("resultado", [])
+        return "SKIP", lista
+
     try:
         res = requests.get(url, timeout=30)
         if res.status_code == 200:
@@ -64,12 +122,13 @@ def buscar_lista_contratos_por_ug(unidade):
                 c['origem_sigla'] = unidade['sigla']
                 c['origem_uasg'] = unidade['codigo']
 
-            salvar_json_envelopado(
-                f"contratos_uasg_{unidade['codigo']}.json", url, lista, "SUCESSO")
-            return lista
-    except:
+            salvar_json_envelopado(nome_arq, url, lista, "SUCESSO")
+            return "SUCCESS", lista
+    except Exception:
         pass
-    return []
+
+    salvar_json_envelopado(nome_arq, url, None, "FALHA")
+    return "FAILURE", []
 
 
 def buscar_dados_filhos(args):
@@ -77,6 +136,13 @@ def buscar_dados_filhos(args):
     contrato_id, num_contrato, tipo = args
     url = f"https://contratos.comprasnet.gov.br/api/contrato/{contrato_id}/{tipo}"
     nome_arq = f"{tipo}_{contrato_id}.json"
+
+    # RESPONSÁVEIS: 1 dia | ITENS: 3 dias
+    dias_validade = DIAS_VALIDADE["responsaveis"] if tipo == "responsaveis" else DIAS_VALIDADE["itens"]
+
+    if cache_valido(nome_arq, dias_validade):
+        return "SKIP", 0
+
     try:
         res = requests.get(url, timeout=30)
         if res.status_code == 200:
@@ -87,8 +153,9 @@ def buscar_dados_filhos(args):
                 item['numero_contrato_origem'] = num_contrato
             salvar_json_envelopado(nome_arq, url, lista, "SUCESSO")
             return "SUCCESS", len(lista)
-    except:
+    except Exception:
         pass
+
     salvar_json_envelopado(nome_arq, url, None, "FALHA")
     return "FAILURE", 0
 
@@ -109,18 +176,29 @@ def executar_esteira_contratos():
         futures = [executor.submit(
             buscar_lista_contratos_por_ug, u) for u in UNIDADES]
         for i, future in enumerate(as_completed(futures), 1):
-            res = future.result()
+            status, res = future.result()
             contratos_todos.extend(res)
             timestamp = datetime.now().strftime("%H:%M:%S")
             print(
-                f"[{timestamp}] 📦 Lote UGs: {i}/{len(UNIDADES)} | Contratos descobertos: {len(contratos_todos)}")
+                f"[{timestamp}] 📦 Lote UGs: {i}/{len(UNIDADES)} | Status: {status:<7} | Contratos acumulados: {len(contratos_todos)}"
+            )
 
+    # evita duplicidade de contratos quando há mistura de cache + atualização
+    vistos = set()
+    contratos_unicos = []
+    for c in contratos_todos:
+        chave = c.get("id")
+        if chave and chave not in vistos:
+            vistos.add(chave)
+            contratos_unicos.append(c)
+
+    contratos_todos = contratos_unicos
     total_c = len(contratos_todos)
     if total_c == 0:
+        print("ℹ️ Nenhum contrato encontrado.")
         return
 
-    print(
-        f"\n🚀 INICIANDO | WORKERS: 15 | TOTAL CONTRATOS: {total_c}")
+    print(f"\n🚀 INICIANDO | WORKERS: 15 | TOTAL CONTRATOS: {total_c}")
 
     # --- FASE 2: RESPONSÁVEIS E FASE 3: ITENS ---
     for tipo in ["responsaveis", "itens"]:
@@ -128,24 +206,30 @@ def executar_esteira_contratos():
         tarefas = [(c['id'], c.get('numero_contrato', 'S/N'), tipo)
                    for c in contratos_todos]
 
-        sucesso, falha, contagem_entidades = 0, 0, 0
+        sucesso, falha, skip, contagem_entidades = 0, 0, 0, 0
         with ThreadPoolExecutor(max_workers=15) as executor:
             futures = [executor.submit(buscar_dados_filhos, t)
                        for t in tarefas]
             for i, future in enumerate(as_completed(futures), 1):
                 status, qtd = future.result()
                 contagem_entidades += qtd
+
                 if status == "SUCCESS":
                     sucesso += 1
-                else:
+                elif status == "FAILURE":
                     falha += 1
+                else:
+                    skip += 1
 
                 if i % 100 == 0 or i == total_c:
                     timestamp = datetime.now().strftime("%H:%M:%S")
                     percent = (i / total_c) * 100
                     entidade_label = "Responsáveis" if tipo == "responsaveis" else "Itens"
                     print(
-                        f"[{timestamp}] 📦 Lote: {i} | {entidade_label} extraídos: {contagem_entidades} | Falhas: {falha}")
+                        f"[{timestamp}] 📦 Lote: {i}/{total_c} ({percent:.1f}%) | "
+                        f"{entidade_label} extraídos: {contagem_entidades} | "
+                        f"Sucesso: {sucesso} | Skip: {skip} | Falhas: {falha}"
+                    )
 
         total_falhas_global += falha
         if tipo == "responsaveis":
@@ -154,7 +238,7 @@ def executar_esteira_contratos():
             total_itens_processados = contagem_entidades
 
     print(f"\n{'='*60}")
-    print(f"✅ FIM DO FLUXO.")
+    print("✅ FIM DO FLUXO.")
     print(f"📊 Total de Contratos: {total_c}")
     print(f"👥 Total de Responsáveis: {total_responsaveis_processados}")
     print(f"📦 Total de Itens: {total_itens_processados}")
