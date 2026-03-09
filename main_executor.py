@@ -1,3 +1,4 @@
+import os
 import subprocess
 import sys
 import argparse
@@ -67,6 +68,9 @@ def main():
 
     duracao = datetime.now() - inicio_total
     print(f"\n✨ PROCESSO '{args.acao.upper()}' CONCLUÍDO EM: {duracao}")
+
+    print("\n--- 🏁 Gerando Metadados ---")
+    os.system("python generators/gerar_metadados.py")
 
 
 if __name__ == "__main__":
