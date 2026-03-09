@@ -18,6 +18,7 @@ PASTAS = {
 MAX_WORKERS = 3
 BASE_URL = "https://dadosabertos.compras.gov.br"
 DIAS_VALIDADE_SALDO = 3
+LOG_INTERVALO_SKIP = 100
 
 for p in PASTAS.values():
     os.makedirs(p, exist_ok=True)
@@ -196,6 +197,8 @@ if __name__ == "__main__":
     total = len(fila)
     concluidas = 0
     falhas_contador = 0
+    skips_contador = 0
+    ultimo_log_skip = 0
 
     print(
         f"🚀 INICIANDO EXTRAÇÃO BLINDADA | WORKERS: {MAX_WORKERS} | TOTAL TAREFAS: {total}\n")
@@ -219,11 +222,28 @@ if __name__ == "__main__":
 
                 if "❌" in res or "💥" in res:
                     falhas_contador += 1
+                elif "⏭️ SKIP" in res:
+                    skips_contador += 1
 
                 # Exibe o progresso e o contador de erros atual
                 perc = (concluidas/total)*100
-                print(
-                    f"[{datetime.now().strftime('%H:%M:%S')}] {res} | Progresso: {concluidas}/{total} ({perc:.1f}%) | Erros: {falhas_contador}")
+
+                deve_logar = (
+                    "❌" in res
+                    or "💥" in res
+                    or "🆕 NEW" in res
+                    or "🔄 UPDATE" in res
+                    or concluidas == total
+                )
+
+                if "⏭️ SKIP" in res and not deve_logar:
+                    if (skips_contador - ultimo_log_skip) >= LOG_INTERVALO_SKIP:
+                        ultimo_log_skip = skips_contador
+                        print(
+                            f"[{datetime.now().strftime('%H:%M:%S')}] ⏭️ SKIPs acumulados: {skips_contador} | Progresso: {concluidas}/{total} ({perc:.1f}%) | Erros: {falhas_contador}")
+                else:
+                    print(
+                        f"[{datetime.now().strftime('%H:%M:%S')}] {res} | Progresso: {concluidas}/{total} ({perc:.1f}%) | Erros: {falhas_contador}")
 
     print("\n" + "="*50)
     print(f"🏁 PROCESSO FINALIZADO!")
