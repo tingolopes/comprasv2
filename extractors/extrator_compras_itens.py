@@ -17,6 +17,7 @@ PASTAS = {
 # Reduzido para 3 para manter o padrão de sucesso sem Erro 429
 MAX_WORKERS = 3
 BASE_URL = "https://dadosabertos.compras.gov.br"
+LOG_INTERVALO_SKIP = 100
 
 for p in ["I_LEGADO", "I_PNCP"]:
     os.makedirs(PASTAS[p], exist_ok=True)
@@ -201,6 +202,8 @@ if __name__ == "__main__":
     total = len(lista)
     concluidas = 0
     erros_count = 0
+    skips_count = 0
+    ultimo_log_skip = 0
 
     print(
         f"\n🚀 INICIANDO TURBO BLINDADO | WORKERS: {MAX_WORKERS} | TOTAL: {total}\n")
@@ -215,11 +218,26 @@ if __name__ == "__main__":
 
                 if "❌" in res or "FALHA" in res:
                     erros_count += 1
+                elif "⏭️ SKIP" in res:
+                    skips_count += 1
 
                 perc = (concluidas / total) * 100
                 ts = datetime.now().strftime('%H:%M:%S')
-                print(
-                    f"[{ts}] {res} | Progresso: {concluidas}/{total} ({perc:.1f}%) | Falhas: {erros_count}")
+
+                deve_logar = (
+                    "❌" in res
+                    or "✅ SUCESSO" in res
+                    or concluidas == total
+                )
+
+                if "⏭️ SKIP" in res and not deve_logar:
+                    if (skips_count - ultimo_log_skip) >= LOG_INTERVALO_SKIP:
+                        ultimo_log_skip = skips_count
+                        print(
+                            f"[{ts}] ⏭️ SKIPs acumulados: {skips_count} | Progresso: {concluidas}/{total} ({perc:.1f}%) | Falhas: {erros_count}")
+                else:
+                    print(
+                        f"[{ts}] {res} | Progresso: {concluidas}/{total} ({perc:.1f}%) | Falhas: {erros_count}")
 
         except KeyboardInterrupt:
             print("\n🛑 INTERRUPÇÃO! Parando...")

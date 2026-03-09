@@ -53,18 +53,27 @@ def main():
     ]
 
     # Lógica de Orquestração baseada no parâmetro
+    falhas = []
+
     if args.acao in ["tudo", "extracao"]:
         print("\n🛰️  FASE: EXTRAÇÃO INICIADA")
         for s in extracao:
-            executar_script(s)
+            if not executar_script(s):
+                falhas.append(s)
 
     if args.acao in ["tudo", "banco"]:
         print("\n🏗️  FASE: GERAÇÃO DE BANCOS INICIADA")
         for s in bancos:
-            executar_script(s)
+            if not executar_script(s):
+                falhas.append(s)
 
     duracao = datetime.now() - inicio_total
-    print(f"\n✨ PROCESSO '{args.acao.upper()}' CONCLUÍDO EM: {duracao}")
+    if falhas:
+        print(f"\n⚠️ PROCESSO '{args.acao.upper()}' CONCLUÍDO COM FALHAS EM: {duracao}")
+        for script in falhas:
+            print(f"   - ❌ {script}")
+    else:
+        print(f"\n✨ PROCESSO '{args.acao.upper()}' CONCLUÍDO EM: {duracao}")
 
     print("\n--- 🏁 Gerando Metadados ---")
     os.system("python generators/gerar_metadados.py")
