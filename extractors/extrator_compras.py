@@ -6,6 +6,7 @@ import sys
 from datetime import datetime
 from urllib.parse import urlencode
 from concurrent.futures import ThreadPoolExecutor  # Para o Nível Superior
+from threading import Lock
 
 # --- CONFIGURAÇÕES MANTIDAS ---
 UASGS = [
@@ -41,6 +42,10 @@ CONFIG_APIS = {
         "path": "/modulo-contratacoes/1_consultarContratacoes_PNCP_14133"
     }
 }
+
+LOG_INTERVALO_SKIP = 50
+LOG_STATE = {"skip": 0, "ultimo_skip_log": 0}
+LOG_LOCK = Lock()
 
 # --- FUNÇÕES DE APOIO MANTIDAS ---
 
@@ -122,6 +127,18 @@ def consultar_api_robusto(url, params):
         atraso *= 2  # Backoff: 2s -> 4s
     return None, "FALHA"
 
+
+def log_resultado(linha, tipo="normal"):
+    with LOG_LOCK:
+        if tipo == "skip":
+            LOG_STATE["skip"] += 1
+            if (LOG_STATE["skip"] - LOG_STATE["ultimo_skip_log"]) >= LOG_INTERVALO_SKIP:
+                LOG_STATE["ultimo_skip_log"] = LOG_STATE["skip"]
+                tstamp = datetime.now().strftime('%H:%M:%S')
+                print(f"[{tstamp}] ⏭️ SKIPs acumulados (compras): {LOG_STATE['skip']}")
+            return
+        print(linha)
+
 # --- PROCESSADORES PARA THREADS ---
 
 
@@ -136,8 +153,8 @@ def processar_tarefa_legado(unidade, ano, enc, cfg):
             respostas = dados_cache.get("respostas", {})
             if not respostas.get("resultado", []):
                 break
-            print(
-                f"[{tstamp}] ⏭️ SKIP | {unidade['sigla']} | {enc['label'].upper():<15} | {ano}")
+            log_resultado(
+                f"[{tstamp}] ⏭️ SKIP | {unidade['sigla']} | {enc['label'].upper():<15} | {ano}", tipo="skip")
             if respostas.get('paginasRestantes', 0) > 0:
                 pagina += 1
                 continue
@@ -158,7 +175,7 @@ def processar_tarefa_legado(unidade, ano, enc, cfg):
             arquivo, f"{cfg['base_url']}{enc['path']}", params, dados, status)
 
         if status == "SUCESSO":
-            print(
+            log_resultado(
                 f"[{tstamp}] ✅ DONE | {unidade['sigla']} | {enc['label'].upper():<15} | {ano}")
             if dados.get('paginasRestantes', 0) > 0:
                 pagina += 1
@@ -166,7 +183,7 @@ def processar_tarefa_legado(unidade, ano, enc, cfg):
             else:
                 break
         else:
-            print(
+            log_resultado(
                 f"[{tstamp}] ❌ FAIL | {unidade['sigla']} | {enc['label'].upper():<15} | {ano}")
             return False
     return True
@@ -182,8 +199,8 @@ def processar_tarefa_14133(unidade, ano, cod_mod, nome_mod, cfg):
         if ja_existe:
             respostas = dados_cache.get("respostas", {})
             if not respostas.get("resultado", []) or not deve_reverificar_pncp(dados_cache):
-                print(
-                    f"[{tstamp}] ⏭️ SKIP | {unidade['sigla']} | PNCP-{nome_mod.upper():<10} | {ano}")
+                log_resultado(
+                    f"[{tstamp}] ⏭️ SKIP | {unidade['sigla']} | PNCP-{nome_mod.upper():<10} | {ano}", tipo="skip")
                 if respostas.get('paginasRestantes', 0) > 0 and respostas.get("resultado", []):
                     pagina += 1
                     continue
@@ -199,7 +216,7 @@ def processar_tarefa_14133(unidade, ano, cod_mod, nome_mod, cfg):
             arquivo, f"{cfg['base_url']}{cfg['path']}", params, dados, status)
 
         if status == "SUCESSO":
-            print(
+            log_resultado(
                 f"[{tstamp}] ✅ DONE | {unidade['sigla']} | PNCP-{nome_mod.upper():<10} | {ano}")
             if dados.get('paginasRestantes', 0) > 0:
                 pagina += 1
@@ -207,7 +224,7 @@ def processar_tarefa_14133(unidade, ano, cod_mod, nome_mod, cfg):
             else:
                 break
         else:
-            print(
+            log_resultado(
                 f"[{tstamp}] ❌ FAIL | {unidade['sigla']} | PNCP-{nome_mod.upper():<10} | {ano}")
             return False
     return True
@@ -247,6 +264,9 @@ def executar_extracao_completa():
         for f in futuros:
             if not f.result():
                 falhas_totais += 1
+
+    if LOG_STATE["skip"]:
+        print(f"ℹ️ Total de SKIPs aproveitados em compras: {LOG_STATE['skip']}")
 
     if falhas_totais > 0:
         print(f"⚠️ Ciclo finalizado com {falhas_totais} falhas pendentes.")
