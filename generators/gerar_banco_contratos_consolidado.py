@@ -4,7 +4,7 @@ import pandas as pd
 
 # --- CONFIGURAÇÃO DE CAMINHOS ---
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-PASTA_TEMP = os.path.join(BASE_DIR, "temp", "contratos")
+PASTA_TEMP = os.path.join(BASE_DIR, "temp", "temp_contratos")
 PASTA_DATA = os.path.join(BASE_DIR, "data")
 
 os.makedirs(PASTA_DATA, exist_ok=True)

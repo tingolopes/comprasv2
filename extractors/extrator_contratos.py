@@ -14,7 +14,7 @@ UNIDADES = [
     {"sigla": "TL", "codigo": "158454"}
 ]
 
-PASTA_DESTINO = "temp/contratos"
+PASTA_DESTINO = "temp/temp_contratos"
 os.makedirs(PASTA_DESTINO, exist_ok=True)
 
 # Regras de validade

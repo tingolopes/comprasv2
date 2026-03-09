@@ -29,9 +29,9 @@
 110076;872693;Serviço;Outsourcing de impressão - locação páginas impressas a4  sempapel;Outsourcing de impressão - locação páginas impressas a4  sempapel;36;571,01;61.669,08;00001
 112143;707018;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento;4;540,53;25.945,20;00001
 112178;707157;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento mercado regulado;4;170,22;8.170,75;00001
-113680;717181;Serviço;Serviço de almoxarifado  virtual de material de consumo e gerenciamento de meios logísticos;Serviço de almoxarifado  virtual de material de consumo administrativo - gerenciamento de meios logísticos;400;302,49;120.996,04;00001
-113995;719019;Serviço;Serviço de almoxarifado  virtual de material de consumo e gerenciamento de meios logísticos;Serviço de almoxarifado  virtual de material de consumo administrativo - gerenciamento de meios logísticos;741;321,31;238.094,12;00003
-115316;1199723;Serviço;Serviço de almoxarifado  virtual de material de consumo e gerenciamento de meios logísticos;Serviço de almoxarifado  virtual de material de consumo administrativo - gerenciamento de meios logísticos;1;302,49;315.497,07;00003
+113680;717181;Serviço;Serviço de almoxarifado  virtual de material de consumo administrativo - gerenciamento de meios logísticos;Serviço de almoxarifado  virtual de material de consumo administrativo - gerenciamento de meios logísticos;400;302,49;120.996,04;00001
+113995;719019;Serviço;Serviço de almoxarifado  virtual de material de consumo administrativo - gerenciamento de meios logísticos;Serviço de almoxarifado  virtual de material de consumo administrativo - gerenciamento de meios logísticos;741;321,31;238.094,12;00003
+115316;1199723;Serviço;Serviço de almoxarifado  virtual de material de consumo administrativo - gerenciamento de meios logísticos;Serviço de almoxarifado  virtual de material de consumo administrativo - gerenciamento de meios logísticos;1;302,49;315.497,07;00003
 119715;818680;Serviço;Agropecuária - serviços auxiliares;Agropecuária - serviços auxiliares;1;78.354,24;78.354,24;00005
 119715;818679;Serviço;Prestação de serviços de motorista;Prestação de serviços de motorista;1;85.591,56;85.591,56;00004
 119715;818678;Serviço;Prestação de serviços de motorista;Prestação de serviços de motorista;12;2.182,44;26.189,28;00003
@@ -43,7 +43,7 @@
 120576;753598;Serviço;Instalação de sistema eletrônico integrado  de  segurança  -(pessoal / patrimonial);Instalação de sistema eletrônico integrado  de  segurança  -(pessoal , patrimonial);1;9.360,00;9.360,00;00001
 124020;773977;Serviço;Locação de imóvel;Locacao de imovel;1;41.817,23;41.817,23;00002
 124020;773976;Serviço;Locação de imóvel;Locacao de imovel;1;398.234,97;398.234,97;00001
-124926;779304;Serviço;Serviço de almoxarifado  virtual de material de consumo e gerenciamento de meios logísticos;Serviço de almoxarifado  virtual de material de consumo administrativo - gerenciamento de meios logísticos;1;302,49;120.996,04;00003
+124926;779304;Serviço;Serviço de almoxarifado  virtual de material de consumo administrativo - gerenciamento de meios logísticos;Serviço de almoxarifado  virtual de material de consumo administrativo - gerenciamento de meios logísticos;1;302,49;120.996,04;00003
 125761;783747;Serviço;Refeições industriais - preparo / distribuição;Refeições industriais - preparo / distribuição;3040;14,80;44.992,00;00004
 125761;783745;Serviço;Refeições industriais - preparo / distribuição;Refeições industriais - preparo / distribuição;3040;4,50;13.680,00;00003
 125761;783746;Serviço;Refeições industriais - preparo / distribuição;Refeições industriais - preparo / distribuição;3040;14,80;44.992,00;00002
@@ -60,10 +60,10 @@
 127116;791566;Material;Pão;Pão;24;14,75;354,00;00010
 127408;792855;Material;Condimento;Condimento;24;6,00;144,00;00006
 127408;792853;Material;Fruta;Fruta;24;6,82;163,68;00001
-127864;796272;Serviço;Serviço de almoxarifado  virtual de material de consumo e gerenciamento de meios logísticos;Serviço de almoxarifado  virtual de material de consumo administrativo - gerenciamento de meios logísticos;1;316,73;126.691,68;00003
+127864;796272;Serviço;Serviço de almoxarifado  virtual de material de consumo administrativo - gerenciamento de meios logísticos;Serviço de almoxarifado  virtual de material de consumo administrativo - gerenciamento de meios logísticos;1;316,73;126.691,68;00003
 127956;800358;Serviço;Serviço engenharia;Serviço engenharia;1;217.059,57;217.059,57;00001
 128221;799183;Serviço;Manutenção / reforma predial;Manutenção , reforma predial;1;31.000,00;31.000,00;00001
-129005;810452;Serviço;Serviço de almoxarifado  virtual de material de consumo e gerenciamento de meios logísticos;Serviço de almoxarifado  virtual de material de consumo administrativo - gerenciamento de meios logísticos;4423;319,99;1.415.302,85;00003
+129005;810452;Serviço;Serviço de almoxarifado  virtual de material de consumo administrativo - gerenciamento de meios logísticos;Serviço de almoxarifado  virtual de material de consumo administrativo - gerenciamento de meios logísticos;4423;319,99;1.415.302,85;00003
 129632;806521;Material;Verdura in natura;Verdura in natura;198;3,95;782,10;00015
 129632;806520;Material;Condimento in natura;Condimento in natura;198;3,95;782,10;00014
 129632;806519;Material;Verdura in natura;Verdura in natura;198;7,20;1.425,60;00013
@@ -1353,7 +1353,7 @@ necessários ao perfeito funcionamento da máquina.";36;850,00;30.600,00;00002
 29920;413928;Serviço;Manutenção de veículos leves - parte mecânica;;2937.81;0,93;2.732,16;00003
 29920;413923;Serviço;Manutenção de veículos leves - parte mecânica;;26445.53;0,93;24.594,34;00001
 29921;413012;Serviço;Manutenção de veículos leves - parte mecânica;;2688;0,93;2.499,84;00003
-29921;685107;Serviço;Administração / gerenciamento-manutenção veículo automotivo;Administração / gerenciamento-manutenção veículo automotivo;15;0,00;0,00;00002
+29921;685107;Serviço;Administração , gerenciamento-manutenção veículo automotivo;Administração / gerenciamento-manutenção veículo automotivo;15;0,00;0,00;00002
 29921;413002;Serviço;Manutenção de veículos leves - parte mecânica;;24187;0,93;22.493,91;00001
 29922;354751;Serviço;Manutenção de veículos leves - parte mecânica;;8250;0,94;7.738,50;00003
 29922;354744;Serviço;Manutenção de veículos leves - parte mecânica;;74250;0,94;69.646,50;00001
@@ -1404,7 +1404,7 @@ necessários ao perfeito funcionamento da máquina.";36;850,00;30.600,00;00002
 309915;2271284;Material;Fruta;Fruta;300;6,16;1.848,00;00306
 309915;2271283;Material;Fruta;Fruta;900;3,89;3.501,00;00305
 309915;2271282;Material;Legume in natura;Legume in natura;100;10,21;1.021,22;00304
-309915;2271281;Material;Gordura vegetal;Gordura vegetal;66;16,96;1.119,36;00303
+309915;2271281;Material;Gordura vegetal - margarina;Gordura vegetal;66;16,96;1.119,36;00303
 309915;2271280;Material;Fruta;Fruta;250;16,96;4.240,00;00302
 309915;2271279;Material;Legume in natura;Legume in natura;594;6,31;3.748,14;00301
 309915;2271278;Material;Fruta;Fruta;300;8,39;2.517,00;00300
@@ -1484,7 +1484,7 @@ necessários ao perfeito funcionamento da máquina.";36;850,00;30.600,00;00002
 325219;1608286;Material;Pão;Pão, base de farinha de trigo refinada, tipo de forma, tipo adicional de leite , apresentação fatiado, tipo embalagem embalagem individual;22400;0,94;21.056,00;00258
 325219;1608313;Material;Fruta;Fruta, tipo melão amarelo, apresentação natural;200;5,85;1.170,00;00255
 325219;1608312;Material;Fruta;Fruta, tipo melancia vermelha, apresentação natural;300;3,69;1.107,00;00254
-325219;1608285;Material;Gordura vegetal;Gordura vegetal, tipo margarina, subtipo cremosa, composição básica mínimo de 80% de gordura, sabor com sal;28;16,10;450,80;00252
+325219;1608285;Material;Gordura vegetal - margarina;Gordura vegetal, tipo margarina, subtipo cremosa, composição básica mínimo de 80% de gordura, sabor com sal;28;16,10;450,80;00252
 325219;1608311;Material;Fruta;Fruta, tipo abacaxi pérola, apresentação natural;200;9,57;1.914,00;00251
 325219;1608310;Material;Legume in natura;Legume in natura, tipo mandioca/ aipim;168;5,99;1.006,32;00250
 325219;1608309;Material;Fruta;Fruta, tipo mamão formosa, apresentação natural;300;7,96;2.388,00;00249
@@ -1518,7 +1518,7 @@ necessários ao perfeito funcionamento da máquina.";36;850,00;30.600,00;00002
 326097;1611164;Material;Verdura in natura;Verdura in natura;720;18,99;13.672,80;00177
 326097;1611163;Material;Legume in natura;Legume in natura;82;9,56;783,92;00176
 326097;1611162;Material;Mel abelha;Mel abelha;24;30,55;733,20;00174
-326097;1611161;Material;Gordura vegetal;Gordura vegetal;41;16,97;695,77;00173
+326097;1611161;Material;Gordura vegetal - margarina;Gordura vegetal;41;16,97;695,77;00173
 326097;1611160;Material;Fruta;Fruta;250;9,76;2.440,00;00172
 326097;1611159;Material;Fruta;Fruta;650;5,27;3.425,50;00171
 326097;1611158;Material;Doce não confeitado;Doce não confeitado;120;23,55;2.826,00;00170
@@ -1587,7 +1587,7 @@ necessários ao perfeito funcionamento da máquina.";36;850,00;30.600,00;00002
 327666;1738330;Material;Fruta;Fruta;928;8,95;8.305,60;00018
 327666;1738329;Material;Condimento;Condimento;232;18,34;4.254,88;00014
 327666;1738328;Material;Verdura in natura;Verdura in natura;406;18,00;7.308,00;00013
-327666;1738327;Material;Gordura vegetal;Gordura vegetal;58;16,05;930,90;00012
+327666;1738327;Material;Gordura vegetal - margarina;Gordura vegetal;58;16,05;930,90;00012
 327666;1738326;Material;Fruta;Fruta;928;9,15;8.491,20;00011
 327666;1738325;Material;Fruta;Fruta;928;4,50;4.176,00;00010
 327666;1738324;Material;Verdura in natura;Verdura in natura;609;13,90;8.465,10;00008
@@ -1639,7 +1639,7 @@ necessários ao perfeito funcionamento da máquina.";36;850,00;30.600,00;00002
 341560;1658021;Material;Fruta;Fruta, tipo melão amarelo, apresentação natural;168;6,18;1.038,24;00120
 341560;1658020;Material;Fruta;Fruta, tipo melancia vermelha, apresentação natural;600;3,80;2.280,00;00119
 341560;1658019;Material;Legume in natura;Legume in natura, tipo maxixe;100;10,15;1.015,00;00118
-341560;1658018;Material;Gordura vegetal;Gordura vegetal, tipo margarina, subtipo cremosa, composição básica mínimo de 80% de gordura, sabor com sal;82;16,90;1.385,80;00117
+341560;1658018;Material;Gordura vegetal - margarina;Gordura vegetal, tipo margarina, subtipo cremosa, composição básica mínimo de 80% de gordura, sabor com sal;82;16,90;1.385,80;00117
 341560;1658017;Material;Fruta;Fruta, tipo abacaxi pérola, apresentação natural;500;10,11;5.055,00;00116
 341560;1658016;Material;Legume in natura;Legume in natura, tipo mandioca/ aipim;129;6,33;816,57;00115
 341560;1658015;Material;Fruta;Fruta, tipo mamão formosa, apresentação natural;200;8,41;1.682,00;00114
@@ -1693,7 +1693,7 @@ necessários ao perfeito funcionamento da máquina.";36;850,00;30.600,00;00002
 343275;1664535;Serviço;Ar condicionado - manutenção sistema central;Serviço de manutenção corretiva, sob demanda, do sistema de climatização do ti po vrf - condensadora, btu s diversos, incluindo a central de controle complia nt management e, quando necessário, serviços de recarga de gás refrigerante co m teste eletrônico de vazamento (mão de obra).;53;252,30;13.371,90;00003
 343275;1664534;Serviço;Ar condicionado - manutenção sistema central;Serviço de manutenção preventiva , sob demanda, do sistema de climatização do (condensadora e evaporadora), composto por 02 evaporadoras piso teto marcas di versas, 17 evaporadoras high-wall marcas diversas marcas e 19 condensadoras di versas, btu s diversos, com fornecimento de mão-de-obra, componentes, acessóri os e materiais de insumos.;24;2.064,27;49.542,48;00002
 343275;1664533;Serviço;Ar condicionado - manutenção sistema central;Serviço de manutenção preventiva , sob demanda, do sistema de climatização do tipo vrf (condensadora e evaporadora), composto por 51 evaporadoras split cass ete quatro vias toshiba, 46 evaporadoras piso teto toshiba, 06 evaporadoras hi gh-wall toshiba e 34 condensadoras toshiba 1204ht5p e 1004ht5p, btu s diversos , com fornecimento de mão-de-obra, materiais e insumos necessários.;24;11.181,46;268.355,04;00001
-346024;1676113;Serviço;Administração / execução projeto educacional - convênio / estágio / universitário / monitor;Administração / execução projeto educacional - convênio / estágio / universitário / monitor;1;6.327.002,74;6.327.002,74;00001
+346024;1676113;Serviço;Administração , execução projeto educacional - convênio , estágio , universitário , monitor;Administração / execução projeto educacional - convênio / estágio / universitário / monitor;1;6.327.002,74;6.327.002,74;00001
 351153;1738371;Serviço;Locação sala / auditório;Locação de imóvel destinado à unidade urbana do ifms campus nova andradina.;60;10.296,10;617.766,00;00001
 355734;1804729;Serviço;Prestação de serviço de limpeza e conservação - esquadrias  externas - outras necessidades - outra produtividade;Prestação de serviço de limpeza e conservação - esquadrias - faces externa e i nterna - três lagoas;106;0,72;915,84;00052
 355734;1804728;Serviço;Prestação de serviço de limpeza e conservação - áreas exter-nas - 12 horas diurnas - 2ª a 6ª feira - outra produtividade;Prestação de serviço de limpeza e conservação - área externa - varrição de pas seios e arruamentos - três lagoas;690;0,72;5.961,60;00051
@@ -1701,17 +1701,17 @@ necessários ao perfeito funcionamento da máquina.";36;850,00;30.600,00;00002
 355734;1804726;Serviço;Prestação de serviço de limpeza e conservação -  áreas internas - outras necessidades - outra produtividade;Prestação de serviço de limpeza e conservação -  áreas internas - banheiros tr ês lagoas;486;21,38;124.688,16;00049
 355734;1804725;Serviço;Prestação de serviço de limpeza e conservação -  áreas internas - outras necessidades - outra produtividade;Prestação de serviço de limpeza e conservação -  áreas internas  laboratórios;726;14,25;124.146,00;00048
 355734;1804724;Serviço;Prestação de serviço de limpeza e conservação -  áreas internas - outras necessidades - outra produtividade;Prestação de serviço de limpeza e conservação -  áreas internas -pisos frios t rês lagoas;4234;5,35;271.822,80;00047
-357227;1809802;Serviço;Administração / execução projeto educacional - convênio / estágio / universitário / monitor;Administração / execução projeto educacional - convênio / estágio / universitário / monitor;1;0,00;0,00;00001
-357259;1809892;Serviço;Administração / execução projeto educacional - convênio / estágio / universitário / monitor;Administração / execução projeto educacional - convênio / estágio / universitário / monitor;1;0,00;0,00;00001
+357227;1809802;Serviço;Administração , execução projeto educacional - convênio , estágio , universitário , monitor;Administração / execução projeto educacional - convênio / estágio / universitário / monitor;1;0,00;0,00;00001
+357259;1809892;Serviço;Administração , execução projeto educacional - convênio , estágio , universitário , monitor;Administração / execução projeto educacional - convênio / estágio / universitário / monitor;1;0,00;0,00;00001
 357420;1810343;Serviço;Prestação de serviço de  vigilância e segurança - orgânica -12h noturnas - 2ª a domingo;Prestação de serviço de  vigilância e segurança - orgânica -12h noturnas - 2ª a domingo;2;153.664,00;307.328,00;00020
 357420;1810342;Serviço;Prestação de serviço de  vigilância e segurança - orgânica -12 horas diurnas - 2ª a domingo;Prestação de serviço de  vigilância e segurança - orgânica -12 horas diurnas - 2ª a domingo;1;131.657,60;131.657,60;00019
 359090;1816075;Serviço;Fornecimento de água e coleta de esgoto sanitário;Fornecimento de água e coleta de esgoto sanitário;12;8.937,40;107.248,80;00001
-359814;1818037;Serviço;Administração / execução projeto educacional - convênio / estágio / universitário / monitor;"Contratação de fundação de apoio para gerenciar o projeto intitulado “centro de referência de inclusão e inovação na educação- creie""";1;700.000,00;700.000,00;00001
+359814;1818037;Serviço;Administração , execução projeto educacional - convênio , estágio , universitário , monitor;"Contratação de fundação de apoio para gerenciar o projeto intitulado “centro de referência de inclusão e inovação na educação- creie""";1;700.000,00;700.000,00;00001
 362397;1826557;Material;Açúcar;Açúcar, tipo cristal, coloração branca;1020;8,42;8.588,40;00001
 362408;1826572;Material;Chá alimentação;Chá alimentação, tipo chá mate, uso alimentício;755;3,94;2.974,70;00003
 362418;1826585;Material;Café;Café, apresentação torrado moído, tipo único, torrefação ponto de torra escura;2910;20,64;60.062,40;00002
-362431;1826605;Serviço;Administração / execução projeto educacional - convênio / estágio / universitário / monitor;"Contratação de fundação de apoio para realizar a gestão administrativa e financeira do projeto ""ifms presente"".";1;326.350,00;326.350,00;00001
-362445;1826640;Serviço;Administração / execução projeto educacional - convênio / estágio / universitário / monitor;Contratação da fundação cultural e de fomento à pesquisa, ensino, extensão e inovação - fadex - para realizar a gestão administrativa-financeira do projeto intitulado: olhos que inspiram;1;1.050.000,00;1.050.000,00;00001
+362431;1826605;Serviço;Administração , execução projeto educacional - convênio , estágio , universitário , monitor;"Contratação de fundação de apoio para realizar a gestão administrativa e financeira do projeto ""ifms presente"".";1;326.350,00;326.350,00;00001
+362445;1826640;Serviço;Administração , execução projeto educacional - convênio , estágio , universitário , monitor;Contratação da fundação cultural e de fomento à pesquisa, ensino, extensão e inovação - fadex - para realizar a gestão administrativa-financeira do projeto intitulado: olhos que inspiram;1;1.050.000,00;1.050.000,00;00001
 364294;1831369;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento mercado regulado;12;34.408,99;412.907,88;00001
 36476;297394;Serviço;Contratação de passagem aérea junto a companhia credenciada;;45000;1,00;45.000,00;00002
 36476;297380;Serviço;Contratação de passagem aérea junto a companhia credenciada;;2000;0,00;0,00;00001
@@ -1749,7 +1749,7 @@ necessários ao perfeito funcionamento da máquina.";36;850,00;30.600,00;00002
 403522;1998723;Material;Fruta;Fruta, tipo banana nanica/ banana d'água, apresentação natural;2100;6,32;13.272,00;00028
 403522;1998722;Material;Fruta;Fruta, tipo abacaxi pérola, apresentação natural;810;4,06;3.288,60;00026
 404124;2002771;Material;Verdura processada;Tipo: espinafre, preparo: in natura, apresentação: congelado;1;136.140,80;136.140,80;00001
-404330;2003343;Serviço;Administração / execução projeto educacional - convênio / estágio / universitário / monitor;Administração , execução projeto educacional - convênio , estágio , universitário , monitor;1;0,00;0,00;00001
+404330;2003343;Serviço;Administração , execução projeto educacional - convênio , estágio , universitário , monitor;Administração , execução projeto educacional - convênio , estágio , universitário , monitor;1;0,00;0,00;00001
 405437;2007397;Serviço;Cessão temporária de direitos sobre programas de computador locação de software;Cessão temporária de direitos sobre programas de computador locação de software;1;54.950,00;54.950,00;00001
 407097;2014111;Material;Garrafa térmica;Garrafa térmica, material aço inoxidável, capacidade 6 e 6 l, formato dupla c/ 2 compartimentos separados, tipo botijão, características adicionais c/ torneiras, alças e pés em plástico;3;272,43;817,29;00106
 407097;2014119;Material;Barra magnética;Barra magnética, material revestida em ptfe, formato cilíndrico, características adicionais lisa, dimensões cerca de 15 x 100 mm;2;38,59;77,18;00102
@@ -2085,7 +2085,7 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 431204;2187662;Material;Bucha;Bucha, aplicação torno automático, características adicionais diâmetro: 3,18 mm, material aço, comprimento 72,00 mm;1;6,90;6,90;00132
 431495;2190820;Material;Multiprocessador alimentos;Multiprocessador alimentos, material aço inox/alumínio, função pulsar (processar, moer, cortar, misturar, tritur a, potência 3.000 w, tensão 220 v, peso 28 kg, altura 840 mm, largura 390 mm, comprimento 460 mm;1;5.200,00;5.200,00;00026
 43163;476777;Serviço;Plataforma como servico - paas;;1;20.608,85;20.608,85;00001
-43166;483999;Serviço;Publicação livro , matéria - periódica , oficial;;1;5.000,00;5.000,00;00001
+43166;483999;Serviço;Publicação livro / matéria - periódica / oficial;;1;5.000,00;5.000,00;00001
 43232;511682;Serviço;Manutenção / reforma predial;;1;10.000,00;10.000,00;00010
 43232;511669;Serviço;Recolhimento de taxa / imposto / multa;;1;3.000,00;3.000,00;00009
 43232;511660;Serviço;Serviço engenharia;;1;3.455,50;3.455,50;00008
@@ -2120,7 +2120,7 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 438873;2209665;Serviço;Fornecimento de água e coleta de esgoto sanitário;Fornecimento de água e coleta de esgoto sanitário;1;350.000,00;350.000,00;00001
 438903;2233688;Serviço;Serviço de link via cabo;Serviço de link via cabo;60;827,02;49.621,20;00001
 439074;2210331;Material;Globo geografico;Globo geografico, aplicação ensino e aprendizagem, material plástico, diâmetro 30 cm, tipo geográfico, características adicionais alto relevo;2;197,95;395,90;00033
-43921;424877;Serviço;Publicação livro , matéria - periódica , oficial;;1;7.500,00;7.500,00;00001
+43921;424877;Serviço;Publicação livro / matéria - periódica / oficial;;1;7.500,00;7.500,00;00001
 439247;2246026;Material;Veículo pick-up;Veículo pick-up;2;245.834,00;491.668,00;00001
 439447;2213092;Material;Pá para desfibrilador;Apresentação*: par, compatibilidade: c/ compatibilidade específica, esterilidade: descartável, modelo: tipo eletrodo, adesiva, tamanho: adulto, tipo equipamento: externo automático - dea;3;550,00;1.650,00;00001
 439455;2213126;Material;Equipamento / acessórios desporto;Equipamento / acessórios desporto, material fibra de aço, tipo barra transversal, dimensões 4 m x 3 cm, uso salto em altura;1;433,79;433,79;00037
@@ -2227,7 +2227,7 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 443239;2235040;Material;Equipamento / acessórios desporto;Equipamento / acessórios desporto, material termoplástico, tipo nadadeira pé de pato, uso hidroterapia;5;170,99;854,95;00089
 443239;2235039;Material;Equipamento / acessórios desporto;Equipamento / acessórios desporto, material polímero, tipo nadadeira pé de pato, dimensões 42 x 25 cm, uso natação, características adicionais alça com fivelas ajustáveis e guia de liberação;5;170,00;850,00;00088
 443239;2235038;Material;Equipamento / acessórios desporto;Equipamento / acessórios desporto, material termoplástico, tipo nadadeira pé de pato, uso hidroterapia;5;170,98;854,90;00087
-44357;437193;Serviço;Publicação livro , matéria - periódica , oficial;;1;100.000,00;100.000,00;00001
+44357;437193;Serviço;Publicação livro / matéria - periódica / oficial;;1;100.000,00;100.000,00;00001
 443786;2241710;Material;Equipamento , acessórios desporto;Equipamento / acessórios desporto, material tubo de policarbonato, tipo bomba, uso bola, características adicionais haste de acrilato nitrílica butadieno estireno, t;4;24,82;99,28;00083
 443786;2241709;Material;Fita ginástica rítmica;Fita ginástica rítmica, material cetim, comprimento 6 m, largura 7 cm, cor azul;10;18,96;189,60;00043
 443786;2241708;Material;Bola esportiva;Bola esportiva, material borracha, peso cheia 300 g, características adicionais para ginástica ritmica infantil, circunferência 16 a 17 cm;10;45,89;458,90;00040
@@ -2922,8 +2922,8 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 500958;2488552;Serviço;Pagamento inscrição eventos;Pagamento inscrição eventos;5;4.000,00;20.000,00;00001
 501416;2490497;Material;Refrigerador doméstico;Refrigerador doméstico, capacidade 441 l, voltagem 110 v, características adicionais frost free, cor branca, tipo vertical;2;3.989,50;7.979,00;00068
 501823;2496281;Material;Projetor imagem;Projetor imagem, tipo imagem imagem microcomputador (multimídia), tipo foco auto foco, voltagem 110/220 v, características adicionais controle remoto;8;5.490,00;43.920,00;00005
-502738;2502392;Serviço;Administração / execução projeto educacional - convênio / estágio / universitário / monitor;Contratar fundação de apoio para realizar a gestão administrativa e financeira de projeto;1;275.200,00;275.200,00;00001
-502749;2502860;Serviço;Administração / execução projeto educacional - convênio / estágio / universitário / monitor;"Contratação de fundação de apoio para gerenciar o projeto intitulado “mulheres mil, ciclo 3"".";1;320.000,00;320.000,00;00001
+502738;2502392;Serviço;Administração , execução projeto educacional - convênio , estágio , universitário , monitor;Contratar fundação de apoio para realizar a gestão administrativa e financeira de projeto;1;275.200,00;275.200,00;00001
+502749;2502860;Serviço;Administração , execução projeto educacional - convênio , estágio , universitário , monitor;"Contratação de fundação de apoio para gerenciar o projeto intitulado “mulheres mil, ciclo 3"".";1;320.000,00;320.000,00;00001
 504034;2510145;Material;Bebida láctea;Bebida láctea, sabor morango, apresentação saco polietileno, característica adicionais com polpa de frutas;100;4,50;450,00;00040
 504034;2510144;Material;Fruta;Fruta, tipo mamão formosa, apresentação natural;36;7,50;270,00;00034
 504034;2510143;Material;Fruta;Fruta, tipo maçã fuji, apresentação natural;11;7,03;77,33;00033
@@ -3247,7 +3247,7 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 561633;2705473;Material;Óleo vegetal;Matéria prima: soja, tipo: degomado;40;6,90;276,00;00045
 561633;2705472;Material;Carne bovina in natura;Apresentação: moida, estado de conservação: resfriado(a), tipo corte: músculo traseiro;220;29,90;6.578,00;00043
 561633;2705471;Material;Legume em conserva;Tipo: milho verde;60;3,90;234,00;00041
-561633;2705470;Material;Gordura vegetal;Composição básica: mínimo de 80% de gordura, sabor: com sal, subtipo: cremosa, tipo: margarina;0;0,00;0,00;00040
+561633;2705470;Material;Gordura vegetal - margarina;Composição básica: mínimo de 80% de gordura, sabor: com sal, subtipo: cremosa, tipo: margarina;0;0,00;0,00;00040
 561633;2705469;Material;Embutido;Estado de conservação: congelado(a), sabor: temperada, tamanho: grossa, tipo: linguiça de carne suína, tipo preparação: fresca;40;19,90;796,00;00036
 561633;2705468;Material;Leguminosa;Tipo: tipo 1, variedade: feijão preto;21;7,90;165,90;00030
 561633;2705485;Material;Farinha de trigo;Grupo: doméstico, ingrediente adicional: com fermento, fortificada com ferro e ácido fólico, tipo: tipo 1, especial;12;4,00;48,00;00029
@@ -3264,7 +3264,7 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 564674;2717343;Material;Massa corrida;Massa corrida, tempo secagem 4 h, composição básica emulsão acrílica estirenada, hidrocarbonetos alif á, solubilidade água;10;69,33;693,30;00231
 565001;2718237;Material;Chá alimentação;Chá alimentação;100;3,94;394,00;00003
 565318;2720138;Serviço;Promoção de eventos;Promoção de eventos;1;35.000,00;35.000,00;00001
-565359;2759331;Serviço;Administração / execução projeto educacional - convênio / estágio / universitário / monitor;Administração / execução projeto educacional - convênio / estágio / universitário / monitor;1;2.280.000,00;4.560.000,00;00001
+565359;2759331;Serviço;Administração , execução projeto educacional - convênio , estágio , universitário , monitor;Administração / execução projeto educacional - convênio / estágio / universitário / monitor;1;2.280.000,00;4.560.000,00;00001
 565567;2721508;Material;Prensa manual;Prensa manual, comprimento 50 cm, largura 40 cm, altura 100 cm, aplicação encadernação de livros;1;2.815,63;2.815,63;00068
 565910;2722702;Material;Plástico reprografia;Plástico reprografia, material plástico polaseal, comprimento 110 mm, largura 80 mm, espessura 0,07 mm, aplicação plastificação, transmitância transparente;30;14,89;446,70;00001
 566212;2724138;Material;Microfone;"Microfone, tipo sem fio uhf handheld, alimentação pilhas aa, característicasadicionais 1 receptor; 2 microfones de mão; sem fio, alcance 15 a 20 m,aplicação pequenos eventos e locais de pequeno porte, acessórios 1 cabo p10 xp10; 1 fonte, 1 manual, 1 case, sensibilidade +/- 80 db";1;300,00;300,00;00006
@@ -3295,7 +3295,7 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 568906;2737655;Material;Óleo vegetal;Óleo vegetal;300;6,90;2.070,00;00045
 568906;2737654;Material;Carne bovina in natura;Carne bovina in natura;385;29,90;11.511,50;00043
 568906;2737653;Material;Legume em conserva;Legume em conserva;720;3,90;2.808,00;00041
-568906;2737652;Material;Gordura vegetal;Gordura vegetal;30;5,00;150,00;00040
+568906;2737652;Material;Gordura vegetal - margarina;Gordura vegetal;30;5,00;150,00;00040
 568906;2737651;Material;Embutido;Embutido;80;33,00;2.640,00;00037
 568906;2737650;Material;Embutido;Embutido;288;19,90;5.731,20;00036
 568906;2737649;Material;Fermento;Fermento;72;9,90;712,80;00032
@@ -3497,7 +3497,7 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 582850;2776189;Material;Cordão arremate;Cordão arremate, material poliéster, cor verde, aplicação crachá, características adicionais jacaré com 10 mm de largura, acabamento chapa metálica;1500;1,40;2.100,00;00003
 582872;2776287;Material;Cordão arremate;Cordão arremate, material poliéster, cor verde, aplicação crachá, características adicionais jacaré com 10 mm de largura, acabamento chapa metálica;2250;1,40;3.150,00;00003
 582889;2776322;Material;Cordão arremate;Cordão arremate, material poliéster, cor verde, aplicação crachá, características adicionais jacaré com 10 mm de largura, acabamento chapa metálica;250;1,40;350,00;00002
-582998;2776593;Serviço;Administração / execução projeto educacional - convênio / estágio / universitário / monitor;Administração / execução projeto educacional - convênio / estágio / universitário / monitor;1;0,01;0,01;00001
+582998;2776593;Serviço;Administração , execução projeto educacional - convênio , estágio , universitário , monitor;Administração / execução projeto educacional - convênio / estágio / universitário / monitor;1;0,01;0,01;00001
 58362;483504;Serviço;Transporte rodoviário - containers;;8;100,00;800,00;00002
 58362;483498;Serviço;Locação conteiner (container);;40;400,00;16.000,00;00001
 584182;2780044;Material;Evaporador rotativo à vácuo;Evaporador rotativo à vácuo, ajuste ajuste digital, c/ painel de controle, capacidade até 5 l, rotação até 200 rpm, temperatura controle de temperatura até 150 °c, componentes balões 1000 ml, com condensador, característica adicional articulado;2;13.390,67;26.781,34;00170
@@ -3509,7 +3509,7 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 584861;2782066;Material;Lixeira;Lixeira, material madeira plástica, capacidade 94 litros l, tipo com tampas basculantes preta e cinza, cor marrom, características adicionais com suporte e pé de ferro para fixação , cor pret a, aplicação resíduos não recicláveis.;10;1.200,00;12.000,00;00003
 584861;2782065;Material;Banco;Banco, material madeira plastica, comprimento 1,50 m, altura 0,70 m, acabamento madeira plástica encapsulada., cor marrom, características adicionais estrutura da base em plástico reforçado. tratamen t, profundidade 55 cm;20;430,00;8.600,00;00001
 58494;518435;Serviço;Obras civis públicas ( construção );;1;1.628.765,78;1.628.765,78;00001
-585050;2782599;Serviço;Administração / execução projeto educacional - convênio / estágio / universitário / monitor;Administração / execução projeto educacional - convênio / estágio / universitário / monitor;1;0,01;0,01;00000
+585050;2782599;Serviço;Administração , execução projeto educacional - convênio , estágio , universitário , monitor;Administração / execução projeto educacional - convênio / estágio / universitário / monitor;1;0,01;0,01;00000
 585317;2783278;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento mercado regulado;12;20.416,66;244.999,92;00001
 585488;2783747;Material;Açúcar;Açúcar, tipo cristal, coloração branca;1020;7,99;8.149,80;00001
 585585;2783902;Material;Cordão arremate;Cordão arremate, material poliéster, cor verde, aplicação crachá, características adicionais jacaré com 10 mm de largura, acabamento chapa metálica;2000;1,40;2.800,00;00003
@@ -3717,7 +3717,7 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 620474;2871027;Material;Proteína texturizada soja;Proteína texturizada soja, apresentação flocos, aspecto físico desidratada;100;21,43;2.143,00;00366
 620474;2871014;Material;Proteína texturizada soja;Proteína texturizada soja, apresentação flocos, aspecto físico desidratada;100;19,28;1.928,00;00365
 620474;2871013;Material;Óleo vegetal;Óleo vegetal, matéria prima soja, tipo degomado;996;8,17;8.137,32;00364
-620474;2871012;Material;Gordura vegetal;Gordura vegetal - margarina, tipo margarina, subtipo cremosa, composição básica mínimo de 80% de gordura, sabor com sal;30;15,00;450,00;00363
+620474;2871012;Material;Gordura vegetal - margarina;Gordura vegetal - margarina, tipo margarina, subtipo cremosa, composição básica mínimo de 80% de gordura, sabor com sal;30;15,00;450,00;00363
 620474;2871011;Material;Legume em conserva;Legume em conserva, tipo milho verde;360;26,94;9.698,40;00362
 620474;2871010;Material;Macarrão;Macarrão, teor de umidade massa seca, base da massa de sêmola/semolina, ingredientes adicionais com ovos, apresentação espaguete;1260;7,13;8.983,80;00361
 620474;2871009;Material;Leite fluido;Leite fluido, origem de vaca, tipo a, teor gordura integral, processamento uht;200;7,27;1.454,00;00360
@@ -3925,7 +3925,7 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 649772;2967724;Material;Condimento;Condimento, tipo orégano, apresentação desidratado;418;46,05;19.248,90;00050
 649772;2967723;Material;Óleo vegetal;Óleo vegetal, matéria prima soja, tipo degomado;3161;7,10;22.443,10;00049
 649772;2967722;Material;Legume em conserva;Legume em conserva, tipo milho verde;2209;26,75;59.090,75;00048
-649772;2967721;Material;Gordura vegetal;Gordura vegetal - margarina, tipo margarina, subtipo cremosa, composição básica mínimo de 80% de gordura, sabor com sal;387;15,00;5.805,00;00047
+649772;2967721;Material;Gordura vegetal - margarina;Gordura vegetal - margarina, tipo margarina, subtipo cremosa, composição básica mínimo de 80% de gordura, sabor com sal;387;15,00;5.805,00;00047
 649772;2967720;Material;Macarrão;Macarrão, teor de umidade massa seca, base da massa de sêmola/semolina, ingredientes adicionais com ovos, apresentação espaguete;1578;4,00;6.312,00;00046
 649772;2967719;Material;Condimento;Condimento, tipo louro, apresentação folha;293;17,85;5.230,05;00045
 649772;2967718;Material;Leite fluido;Leite fluido, origem de vaca, tipo a, teor gordura integral, processamento uht;5523;5,70;31.481,10;00044
@@ -4082,7 +4082,7 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 679134;3128418;Material;Diploma;Características adicionais: impressão de moldura em calcografia cilíndrica, ta, comprimento: 315, cor: azul, gramatura: 90, largura: 215, material: papel moeda, tipo impressão: numismático simplex;5000;5,10;25.500,00;00001
 682339;3135102;Serviço;Manutenção / reforma predial;Manutenção / reforma predial - oficial de manutenção predial 44h;1;87.125,16;87.125,16;00018
 682339;3135101;Serviço;Prestação de serviço de jardinagem - outros serviços - outraprodutividade;Prestação de serviço de jardinagem - jardineiro 44h;1;75.074,52;75.074,52;00017
-682623;3135667;Serviço;Administração / gerenciamento-manutenção veículo automotivo;Fornecimento de peças, componentes e acessórios necessários para o funcionamento dos equipamentos;10000;1,00;10.000,00;00003
+682623;3135667;Serviço;Administração , gerenciamento-manutenção veículo automotivo;Fornecimento de peças, componentes e acessórios necessários para o funcionamento dos equipamentos;10000;1,00;10.000,00;00003
 682623;3135668;Serviço;Instalação / manutenção - elevadores, escadas rolantes, mon-ta - cargas / plataforma / escadas;Serviço de manutenção corretiva e atendimento a chamados emergenciais de  plataformas elevatórias / elevadores, incluindo os serviços de troca de peças e componentes. (campus dourados);4;350,00;1.400,00;00002
 682623;3135669;Serviço;Instalação / manutenção - elevadores, escadas rolantes, mon-ta - cargas / plataforma / escadas;Serviço de manutenção preventiva semestral de  plataformas elevatórias / elevadores. (ifms campus dourados);4;350,00;1.400,00;00001
 682791;3136214;Material;Pão de queijo;Pão de queijo, basa da massa polvilho doce ou azedo e queijo, ingredientes adicionais com outros sabores, formato lanche/grande, apresentação cru congelado;1000;25,85;25.850,00;00121
@@ -4091,7 +4091,7 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 682791;3136211;Material;Arroz beneficiado;Arroz beneficiado, tipo branco, subgrupo integral, classe longo fino, qualidade tipo 1;1300;34,25;44.525,00;00118
 682791;3136210;Material;Aromatizante artificial;Aromatizante artificial, apresentação líquido incolor, sabor baunilha;10;8,27;82,70;00117
 682791;3136209;Material;Pão;Pão, base de farinha de milho e de trigo refinada, tipo de forma, apresentação fatiado, tipo embalagem embalagem individual;350;15,70;5.495,00;00116
-682791;3136208;Material;Gordura vegetal;Gordura vegetal - margarina, tipo margarina, subtipo cremosa, composição básica mínimo de 80% de gordura, sabor com sal;50;14,35;717,50;00115
+682791;3136208;Material;Gordura vegetal - margarina;Gordura vegetal - margarina, tipo margarina, subtipo cremosa, composição básica mínimo de 80% de gordura, sabor com sal;50;14,35;717,50;00115
 682791;3136207;Material;Biscoito;Biscoito, apresentação quadrado, sabor cream cracker, classificação salgado, características adicionais sem recheio, aplicação alimentação humana;80;4,78;382,40;00114
 682791;3136206;Material;Farinha de milho;Farinha de milho, grão amarelo, tipo fubá, característica adicional não transgênico;150;6,89;1.033,50;00113
 682791;3136205;Material;Fermento;Fermento, tipo químico, apresentação pó;20;6,97;139,40;00112
@@ -4193,7 +4193,7 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 696457;3172061;Material;Balão inflável ar frio;Balão inflável ar frio, tipo fixo de chão, modelo rooftop, altura 5 m,diâmetro 3,85 m, características adicionais personalizado conforme modelo;6;2.640,00;15.840,00;00002
 696457;3172060;Material;Balão inflável ar frio;Balão inflável ar frio, tipo fixo de chão, modelo rooftop, altura 5 m,diâmetro 3,85 m, características adicionais personalizado conforme modelo;9;2.789,00;25.101,00;00001
 697077;3173309;Material;Jogo xadrez;Jogo xadrez, material madeira, formato quadrado, aplicação lazer e entretenimento, características adicionais tabuleiro tipo caixa acondicionamento peças;2;45,40;90,80;00053
-698023;3175594;Serviço;Administração / gerenciamento-manutenção veículo automotivo;Reserva de valor para fornecimento de peças, componentes e acessórios necessários para o funcionamento dos equipamentos.;10000;1,00;10.000,00;00009
+698023;3175594;Serviço;Administração , gerenciamento-manutenção veículo automotivo;Reserva de valor para fornecimento de peças, componentes e acessórios necessários para o funcionamento dos equipamentos.;10000;1,00;10.000,00;00009
 698023;3175595;Serviço;Instalação / manutenção - elevadores, escadas rolantes, mon-ta - cargas / plataforma / escadas;Serviço de manutenção corretiva e atendimento a chamados emergenciais de plataforma elevatória / elevador, incluindo os serviços de troca de peças e componentes. (ifms campus nova andradina);2;350,00;700,00;00008
 698023;3175596;Serviço;Instalação / manutenção - elevadores, escadas rolantes, mon-ta - cargas / plataforma / escadas;Serviço de manutenção preventiva semestral de plataforma elevatória / elevador. (ifms campus nova andradina);2;350,00;700,00;00007
 698181;3175967;Serviço;Acesso a internet - stfc (banda larga);Acesso a internet - stfc (banda larga) dourados;12;248,00;2.976,00;00014
@@ -4681,7 +4681,7 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 707552;3202036;Material;Filtro purificação água;Filtro purificação água, material polipropileno, vazão 1.200 l/h, características adicionais carvão ativado impregnado de prata coloidal, tamanho 9 pol;10;65,00;650,00;00020
 707553;3202037;Material;Impressora 3d;Impressora 3d, padrão fff/fdm, tipo gabinete fechado, material gabinete aço, conexão usb, área mínima de impressão 92 x 120 x 250, alimentação bivolt, características adicionais de resina, padrão filamentos pla, abs, hips;2;5.599,67;11.199,34;00259
 707554;3202039;Material;Protetor contra surto transitorio eletrico - raios , descarga atmosferica;Protetor contra surto transitorio eletrico - raios / descarga atmosferica, tensão nominal 175 v, corrente máxima surto 45 ka, tipo clamper;8;78,00;624,00;00071
-707554;3202038;Material;Protetor contra surto transitorio eletrico - raios / descarga atmosferica;Protetor contra surto transitorio eletrico - raios / descarga atmosferica, tensão nominal 275 v, fixação sobre trilho, instalação em quadros de disjuntores padrão din, características adicionais c/ led sinalizador de defeito, corrente máxima surto 45 ka;24;41,65;999,60;00070
+707554;3202038;Material;Protetor contra surto transitorio eletrico - raios , descarga atmosferica;Protetor contra surto transitorio eletrico - raios / descarga atmosferica, tensão nominal 275 v, fixação sobre trilho, instalação em quadros de disjuntores padrão din, características adicionais c/ led sinalizador de defeito, corrente máxima surto 45 ka;24;41,65;999,60;00070
 707555;3202045;Material;Luminária iluminação pública;Luminária iluminação pública, material alumínio estampado, modelo aberto, aplicação iluminação pública poste, tipo soquete e-27;100;18,00;1.800,00;00090
 707555;3202044;Material;Plafonier;Plafonier, material corpo pvc, formato redondo, cor branca, características adicionais simples soquete de porcelana, base e-27;30;3,80;114,00;00062
 707555;3202043;Material;Lâmpada led;Lâmpada led, tensão nominal bivolt v, potência nominal 14 w, tipo base e-27, tipo bulbo a60, temperatura de cor 6500 k;20;7,00;140,00;00040
@@ -4868,7 +4868,7 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 71643;394406;Serviço;Manutenção de subestações de energia elétrica até 69kv;;1;2.059,32;2.059,32;00003
 71643;394401;Serviço;Manutenção de subestações de energia elétrica até 69kv;;1;2.059,32;2.059,32;00002
 71643;394395;Serviço;Manutenção de subestações de energia elétrica até 69kv;;2;1.029,66;2.059,32;00001
-71644;379370;Serviço;Publicação livro , matéria - periódica , oficial;;1;25.000,00;25.000,00;00001
+71644;379370;Serviço;Publicação livro / matéria - periódica / oficial;;1;25.000,00;25.000,00;00001
 71773;335500;Material;Água mineral natural;;1000;0,48;480,00;00004
 71773;335494;Material;Água mineral natural;;600;1,25;750,00;00003
 71773;335488;Material;Água mineral natural;;40;12,00;480,00;00002
@@ -4891,7 +4891,7 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 71866;395392;Serviço;Desinsetização / desratização / dedetização;;3;7.331,73;21.995,19;00001
 71894;368537;Serviço;Energia elétrica - fornecimento;;12;50.000,00;600.000,00;00001
 71895;395992;Serviço;Energia elétrica - fornecimento;;12;250,00;3.000,00;00002
-719078;3234848;Serviço;Administração / execução projeto educacional - convênio / estágio / universitário / monitor;Administração / execução projeto educacional - convênio / estágio / universitário / monitor - administração / execução projeto educacional - convênio / estágio / universitário / monitor;1;261.864,20;261.864,20;00001
+719078;3234848;Serviço;Administração , execução projeto educacional - convênio , estágio , universitário , monitor;Administração / execução projeto educacional - convênio / estágio / universitário / monitor - administração / execução projeto educacional - convênio / estágio / universitário / monitor;1;261.864,20;261.864,20;00001
 71928;371869;Serviço;Edição , impressão - diário oficial , justiça;;12;1.011,90;12.142,80;00001
 71940;557059;Serviço;Fornecimento de água e coleta de esgoto sanitário;;1;62.479,98;62.479,98;00001
 71957;371864;Serviço;Fornecimento de água e coleta de esgoto sanitário;;1;98.059,02;98.059,02;00001
