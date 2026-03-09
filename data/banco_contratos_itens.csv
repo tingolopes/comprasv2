@@ -41,8 +41,8 @@
 119920;750298;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento;1;133.403,76;133.403,76;00001
 119923;750301;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento;1;93.396,24;93.396,24;00001
 120576;753598;Serviço;Instalação de sistema eletrônico integrado  de  segurança  -(pessoal / patrimonial);Instalação de sistema eletrônico integrado  de  segurança  -(pessoal , patrimonial);1;9.360,00;9.360,00;00001
-124020;773977;Serviço;Locacao de imovel;Locacao de imovel;1;41.817,23;41.817,23;00002
-124020;773976;Serviço;Locacao de imovel;Locacao de imovel;1;398.234,97;398.234,97;00001
+124020;773977;Serviço;Locação de imóvel;Locacao de imovel;1;41.817,23;41.817,23;00002
+124020;773976;Serviço;Locação de imóvel;Locacao de imovel;1;398.234,97;398.234,97;00001
 124926;779304;Serviço;Serviço de almoxarifado  virtual de material de consumo administrativo - gerenciamento de meios logísticos;Serviço de almoxarifado  virtual de material de consumo administrativo - gerenciamento de meios logísticos;1;302,49;120.996,04;00003
 125761;783747;Serviço;Refeições industriais - preparo / distribuição;Refeições industriais - preparo / distribuição;3040;14,80;44.992,00;00004
 125761;783745;Serviço;Refeições industriais - preparo / distribuição;Refeições industriais - preparo / distribuição;3040;4,50;13.680,00;00003
@@ -298,7 +298,7 @@
 140347;878217;Serviço;Manutenção de geladeiras e bebedouros;Manutenção de geladeiras e bebedouros;2;267,86;535,72;00049
 140347;878216;Serviço;Manutenção de geladeiras e bebedouros;Manutenção de geladeiras e bebedouros;4;267,86;1.071,44;00048
 144476;901675;Serviço;Serviço de vigilância armada;Serviço de vigilância armada;8;880,00;7.040,00;00001
-144649;902708;Serviço;Locacao de imovel;Locação de imóvel;1;177.823,08;177.823,08;00001
+144649;902708;Serviço;Locação de imóvel;Locação de imóvel;1;177.823,08;177.823,08;00001
 144989;904383;Serviço;Prestaçao de serviços de agenciamento de viagens;Prestaçao de serviços de agenciamento de viagens;5;250,15;1.250,75;00006
 144989;904382;Serviço;Prestaçao de serviços de agenciamento de viagens;Prestaçao de serviços de agenciamento de viagens;5;4.125,44;20.627,20;00005
 144989;904381;Serviço;Prestaçao de serviços de agenciamento de viagens;Prestaçao de serviços de agenciamento de viagens;6;931,18;5.587,08;00004
@@ -589,7 +589,7 @@
 189331;1108890;Serviço;Fornecimento de refeições , lanches , salgados , doces;Contratação de refeições prontas, tipo merenda fria, por meio de empresa espec ializada em serviços de alimentação e nutrição para operacionalização e desenv olvimento de todas as atividades envolvidas na produção, transporte e distribu ição de refeições, assegurando uma alimentação nutricionalmente balanceada e e m adequadas condições higiênico-sanitárias e socioambientais, incluindo o forn ecimento de todos os insumos e mão de obra necessários à realização destas ati vidades, para o ifms, campus nova andradina.;100000;9,95;995.000,00;00006
 189640;1113156;Serviço;Prestação de serviço de  vigilância e segurança - orgânica -12h noturnas - 2ª a domingo;Prestação de serviço de  vigilância e segurança - orgânica -12h noturnas - 2ª a domingo;1;157.541,76;157.541,76;00002
 189640;1113155;Serviço;Prestação de serviço de  vigilância e segurança - eletrônica12 horas diurnas - 2ª a domingo;Prestação de serviço de  vigilância e segurança - eletrônica12 horas diurnas - 2ª a domingo;1;138.371,76;138.371,76;00001
-189936;1111504;Serviço;Fornecimento de agua canalizada;Fornecimento de água canalizada;1;250.000,00;250.000,00;00001
+189936;1111504;Serviço;Fornecimento de água canalizada;Fornecimento de água canalizada;1;250.000,00;250.000,00;00001
 191044;1117338;Serviço;Desinsetização / desratização / dedetização;Remoção ecológica de abelhas (sob demanda) incluindo produtos e equipamentos c omprovadamente eficazes e adequados para atuação nos locais, sendo esses locai s definidos onde os insetos estão instalados (colméia,vespeiro, etc). obs.: re moção sob demanda da administração ifms campus aquidauana, de acordo com colmé ia/vespeiro detectado em área do campus (interna e/ou externa). acionamento de ste item será realizado apenas em casos extremos onde existam riscos iminentes  aos usuários (estudantes, servidores) que gerem suspensão das atividades do c ampus.;5;1.200,00;6.000,00;00026
 191044;1117337;Serviço;Manutenção / higienização de reservatório de água potável;Prestação de serviço de limpeza de 2 (duas) cisterna/reservatórios de água (se ndo um algibre  de 39 m³ e um reservatório de reuso de água com capacidade de 39m³) e 01 (um) reservatório de água de 25m³ , incluindo o fornecimento de tod o o material e equipamento necessário para a execução do serviço nas dependênc ias do  ifms campus aquidauana com periodicidade semestral, totalizando duas l impezas anuais. cada unidade deste item corresponde a limpeza dos 3 reservatór ios acima descritos.;2;2.200,00;4.400,00;00025
 191044;1117336;Serviço;Manutenção / higienização de reservatório de água potável;Prestação de serviço de limpeza de caixa d  água com capacidade de 2.500 l, in cluindo o fornecimento de todo o material e equipamento necessário para a exec ução do serviço nas dependências do ifms campus aquidauana com periodicidade s emestral, totalizando até 02 limpezas anuais.;18;120,00;2.160,00;00024
@@ -3263,7 +3263,7 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 564411;2716290;Material;Raquete  esportiva;Raquete  esportiva, material corpo madeira, revestimento corpo borracha,tamanho único, cor preta, aplicação tênis de mesa, características adicionais2 lados revestidos;4;202,94;811,76;00003
 564674;2717343;Material;Massa corrida;Massa corrida, tempo secagem 4 h, composição básica emulsão acrílica estirenada, hidrocarbonetos alif á, solubilidade água;10;69,33;693,30;00231
 565001;2718237;Material;Chá alimentação;Chá alimentação;100;3,94;394,00;00003
-565318;2720138;Serviço;Promoção de evento;Promoção de eventos;1;35.000,00;35.000,00;00001
+565318;2720138;Serviço;Promoção de eventos;Promoção de eventos;1;35.000,00;35.000,00;00001
 565359;2759331;Serviço;Administração / execução projeto educacional - convênio / estágio / universitário / monitor;Administração / execução projeto educacional - convênio / estágio / universitário / monitor;1;2.280.000,00;4.560.000,00;00001
 565567;2721508;Material;Prensa manual;Prensa manual, comprimento 50 cm, largura 40 cm, altura 100 cm, aplicação encadernação de livros;1;2.815,63;2.815,63;00068
 565910;2722702;Material;Plástico reprografia;Plástico reprografia, material plástico polaseal, comprimento 110 mm, largura 80 mm, espessura 0,07 mm, aplicação plastificação, transmitância transparente;30;14,89;446,70;00001
@@ -4901,7 +4901,7 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 71986;384603;Serviço;Emissão de certificado digital a3, sem token pessoa   física;;6;35,90;215,40;00001
 72001;384908;Serviço;Energia elétrica - fornecimento mercado regulado;;1;71.157,24;71.157,24;00001
 72002;396467;Serviço;Publicação legal / editais;;1;17.600,00;17.600,00;00001
-72020;366354;Serviço;Fornecimento de agua canalizada;;12;2.605,85;31.270,20;00001
+72020;366354;Serviço;Fornecimento de água canalizada;;12;2.605,85;31.270,20;00001
 720345;3237502;Serviço;Instalação / manutenção / monitorização - sistema alarme /  segurança;Prestação de serviço de instalação inicial do sistema de monitoramento de alar me, incluindo configuração e testes, além da prestação de serviços contínuos d e monitoramento remoto 24 horas, com acionamento de alarmes e comunicação imed iata em caso de ocorrências.;60;2.350,00;141.000,00;00007
 720770;3238557;Material;Gerador energia;Gerador energia, potência máxima 100 kva, tensão saída 220/127 v, tipo motordiesel, número de fases 3, aplicação fornecimento de energia;1;2.766,93;2.766,93;00006
 724134;3246628;Serviço;Serviço de link via cabo;Serviço de link via cabo;12;725,00;8.700,00;00022
@@ -5265,7 +5265,7 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 93401;611097;Serviço;Ar condicionado - manutenção de aparelhos de parede;Undefined;2;6.000,00;12.000,00;00002
 93401;611096;Serviço;Elaboração / análise projeto - engenharia;Undefined;1;1.500,00;1.500,00;00001
 94895;1008309;Material;Alimento industrializado consumo humano;Alimento industrializado consumo humano;0;0,00;0,00;00002
-94895;617464;Serviço;Locacao de imovel;Locação de imóvel;1;424,11;5.089,32;00001
+94895;617464;Serviço;Locação de imóvel;Locação de imóvel;1;424,11;5.089,32;00001
 94973;617945;Material;Peças , acessórios equipamentos oficina manutenção;Peças , acessórios equipamentos oficina manutenção;1;43.109,03;43.109,03;00006
 94973;617944;Serviço;Manutenção de veículos leves e pesados;Manutenção de veículos leves e pesados;1;64.663,54;64.663,54;00005
 95106;618319;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento;1;3.698,20;3.698,20;00001

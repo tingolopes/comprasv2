@@ -102,15 +102,20 @@ O orquestrador chama os scripts nesta sequência:
 
 ### Fase 1 — Extração
 1. `extractors/extrator_atas.py`
-2. `extractors/extrator_compras.py`
-3. `extractors/extrator_compras_itens.py`
-4. `extractors/extrator_natureza_despesa.py`
-5. `extractors/extrator_atas_itens_saldos_unidadesParticipantes.py`
+2. `extractors/extrator_atas_itens_saldos_unidadesParticipantes.py`
+3. `extractors/extrator_compras.py`
+4. `extractors/extrator_compras_itens.py`
+5. `extractors/extrator_natureza_despesa.py`
+6. `extractors/extrator_contratos.py`
 
 ### Fase 2 — Consolidação
 1. `generators/gerar_banco_atas_consolidado.py`
 2. `generators/gerar_banco_compras_consolidado.py`
 3. `generators/gerar_banco_naturezas.py`
+4. `generators/gerar_banco_contratos_consolidado.py`
+
+### Fase 3 — Dados de atualização
+1. `generators/gerar_metadados.py`
 
 ---
 

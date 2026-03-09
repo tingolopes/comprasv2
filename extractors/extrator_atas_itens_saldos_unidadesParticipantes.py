@@ -232,4 +232,9 @@ if __name__ == "__main__":
     print(f"   - Falhas Totais: {falhas_contador}")
     print("="*50)
 
-    sys.exit(1 if falhas_contador > 0 else 0)
+    if falhas_contador > 0:
+        print(f"⚠️ Ciclo finalizado com {falhas_contador} falhas pendentes.")
+        sys.exit(1)
+    else:
+        print("🎉 TUDO CONCLUÍDO COM SUCESSO!")
+        sys.exit(0)

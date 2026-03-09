@@ -248,7 +248,12 @@ def executar_extracao_completa():
             if not f.result():
                 falhas_totais += 1
 
-    sys.exit(1 if falhas_totais > 0 else 0)
+    if falhas_totais > 0:
+        print(f"⚠️ Ciclo finalizado com {falhas_totais} falhas pendentes.")
+        sys.exit(1)
+    else:
+        print("🎉 TUDO CONCLUÍDO COM SUCESSO!")
+        sys.exit(0)
 
 
 if __name__ == "__main__":
