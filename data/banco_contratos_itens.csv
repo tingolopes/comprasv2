@@ -7,7 +7,7 @@
 327666;1738330;Material;Fruta;Fruta;928;8,95;8.305,60;00018
 327666;1738329;Material;Condimento;Condimento;232;18,34;4.254,88;00014
 327666;1738328;Material;Verdura in natura;Verdura in natura;406;18,00;7.308,00;00013
-327666;1738327;Material;Gordura vegetal - margarina;Gordura vegetal;58;16,05;930,90;00012
+327666;1738327;Material;Gordura vegetal;Gordura vegetal;58;16,05;930,90;00012
 327666;1738326;Material;Fruta;Fruta;928;9,15;8.491,20;00011
 327666;1738325;Material;Fruta;Fruta;928;4,50;4.176,00;00010
 327666;1738324;Material;Verdura in natura;Verdura in natura;609;13,90;8.465,10;00008
@@ -46,10 +46,10 @@
 471443;2349421;Material;Rede esporte;Rede esporte, material fio seda, cor branca, aplicação basquete, características adicionais malha poliéster, nó duplo, alta resistência, modelo oficial;2;38,00;76,00;00019
 471443;2349420;Material;Equipamento / acessórios desporto;Equipamento / acessórios desporto, material espuma, tipo protetor, uso poste de volei, características adicionais fechamento com velcro;4;366,00;1.464,00;00015
 568228;2731849;Material;Impressora - cartão / crachá;Impressora - cartão / crachá, capacidade mínima de 125 cartões/hora colorido frente e vers o, capacidade memória 16 mb, resolução mínima 300 dpi, material cartão pvc e pvc composto, tamanho iso cr-80 e iso- 7810, interface windows xp 2000/2003/xp/7, mac e linux, voltagem 110/220 v, frequência 50/60 hz, características adicionais software p/criação de banco de dados e modelos pa d;1;8.300,00;8.300,00;00001
-161186;979247;Serviço;Manutenção / reforma predial;Manutenção / reforma predial;2;64.198,25;128.396,50;00045
+161186;979247;Serviço;Manutenção , reforma predial;Manutenção / reforma predial;2;64.198,25;128.396,50;00045
 161186;979246;Serviço;Prestação de serviços de portaria / recepção;Prestação de serviços de portaria / recepção;2;40.546,56;81.093,12;00039
 161186;979245;Serviço;Prestação de serviços de portaria / recepção;Prestação de serviços de portaria / recepção;1;42.270,81;42.270,81;00038
-161186;979244;Serviço;Manutenção / reforma predial;Manutenção / reforma predial;1;65.813,11;65.813,11;00003
+161186;979244;Serviço;Manutenção , reforma predial;Manutenção / reforma predial;1;65.813,11;65.813,11;00003
 465210;2325593;Material;Eletroduto;Eletroduto, material pvc, cor preta, comprimento 3 m, diâmetro nominal 2 pol;1;49,50;49,50;00092
 465210;2325601;Material;Fio;Fio, material nylon, bitola 1,6 mm, comprimento 100 m;1;270,00;270,00;00085
 465210;2325600;Material;Interruptor;"Interruptor, tipo modulado, quantidade seções 4 un, características adicionais espelho 4 x 4"", tipo acionamento tecla simples horizontal, acabamento com placa e parafuso, posição relativa sobrepor, tensão nominal 250 v, corrente nominal 10 a, material termoplástico auto-extinguível, formato retangular";5;7,15;35,75;00081
@@ -60,8 +60,8 @@
 465210;2325595;Material;Torneira;"Torneira, material corpo metal, tipo ""u"" invertido, para copo, diâmetro 1/2 pol, acabamento superficial inox, aplicação bebedouro elétrico";10;15,25;152,50;00040
 465210;2325594;Material;Anel vedação;Anel vedação, material borracha nitrílica, diâmetro interno 26 mm, espessura seção transversal 8 mm;15;8,70;130,50;00035
 465210;2325592;Material;Torneira;"Torneira, material corpo metal, tipo ""u"" invertido, para copo, diâmetro 1/2 pol, acabamento superficial inox, aplicação bebedouro elétrico";5;21,57;107,85;00013
-322665;1600452;Serviço;Manutenção / reforma predial;Manutenção / reforma predial - oficial de manutenção 44h;1;86.423,16;86.423,16;00038
-322665;1600451;Serviço;Almoxarife , controle de estoque;Almoxarife / controle de estoque - auxiliar de almoxarifado 44h;1;49.724,40;49.724,40;00037
+322665;1600452;Serviço;Manutenção , reforma predial;Manutenção / reforma predial - oficial de manutenção 44h;1;86.423,16;86.423,16;00038
+322665;1600451;Serviço;Almoxarife / controle de estoque;Almoxarife / controle de estoque - auxiliar de almoxarifado 44h;1;49.724,40;49.724,40;00037
 173910;1033855;Serviço;Cessão temporária de direitos sobre programas de computador locação de software;Cessão temporária de direitos sobre programas de computador locação de softwar e adobe creative cloud for enterprise all apps education named license   79 su bscrição r$ r$ 398.933,41vip enterprise educacional   36  meses;5;5.049,79;25.248,95;00002
 173910;1033854;Serviço;Cessão temporária de direitos sobre programas de computador locação de software;Cessão temporária de direitos sobre programas de computador locação de softwar e adobe creative cloud for enterprise all apps hed shared device education lic ense lab and classroom - 36 meses;4;4.945,36;19.781,46;00001
 473005;2356821;Material;Barra magnética;Barra magnética, material revestida em ptfe, formato cilíndrico, características adicionais lisa, dimensões cerca de 5 x 50 mm;5;14,00;70,00;00060
@@ -85,7 +85,7 @@
 482497;2391078;Material;Módulo de trabalho;Módulo de trabalho, material madeira mdp, características adicionais painel alto, tampo com furo para passagem de fiaç, revestimento laminado melamínico, cor bege, tipo individual, altura 1.200 mm, profundidade 600 mm;5;1.257,00;6.285,00;00018
 482497;2391077;Material;Armário escritório;Armário escritório, material madeira mdf, quantidade portas 1 un, revestimento laminado melamínico baixa pressão, largura 60 cm, altura 46 cm, características adicionais porta de giro e puxador de metal, profundidade 31 cm, tipo aéreo, espessura 25 mm;16;895,00;14.320,00;00017
 85612;570461;Serviço;Obras civis públicas ( construção );Undefined;1;14.854,83;14.854,83;00001
-91810;603182;Serviço;Energia elétrica - fornecimento;;1;276.000,00;276.000,00;00001
+91810;603182;Serviço;Energia elétrica - fornecimento mercado regulado;;1;276.000,00;276.000,00;00001
 439455;2213126;Material;Equipamento / acessórios desporto;Equipamento / acessórios desporto, material fibra de aço, tipo barra transversal, dimensões 4 m x 3 cm, uso salto em altura;1;433,79;433,79;00037
 439455;2213125;Material;Bola de tênis de mesa;Bola de tênis de mesa, material acetato de celuloide, peso 2,74 g, características adicionais aprovada pela federação internacional de tênis;50;3,40;170,00;00031
 439455;2213124;Material;Raquete  esportiva;Raquete  esportiva, material corpo madeira, revestimento corpo borracha, tamanho único, cor preta, aplicação tênis de mesa, características adicionais 2 lados revestidos;10;36,36;363,60;00017
@@ -95,7 +95,7 @@
 707552;3202036;Material;Filtro purificação água;Filtro purificação água, material polipropileno, vazão 1.200 l/h, características adicionais carvão ativado impregnado de prata coloidal, tamanho 9 pol;10;65,00;650,00;00020
 828387;3502751;Material;Camisa uniforme;Camisa uniforme;1400;12,80;17.920,00;00008
 734369;3270284;Serviço;Manutenção máquina agrícola;Manutenção e reparo de máquina agrícola motorizada;1;17.652,17;17.652,17;00001
-478415;2373473;Material;Pincel quadro branco / magnético;Pincel quadro branco / magnético, material plástico, material ponta feltro, tipo carga descartável, cor vermelha, características adicionais ponta de 2,5mm de diâmetro/tampa anti-asfixiante;150;12,15;1.822,50;00041
+478415;2373473;Material;Pincel quadro branco , magnético;Pincel quadro branco / magnético, material plástico, material ponta feltro, tipo carga descartável, cor vermelha, características adicionais ponta de 2,5mm de diâmetro/tampa anti-asfixiante;150;12,15;1.822,50;00041
 131999;829736;Serviço;Serviço de vigilância armada;Serviço de vigilância armada;2;152.280,48;304.560,96;00002
 131999;829735;Serviço;Serviço de vigilância armada;Serviço de vigilância armada;1;131.542,44;131.542,44;00001
 476603;2367079;Material;Modelo anatômico para fins didáticos;Modelo anatômico para fins didáticos, material resina plástica/pvc, finalidade demonstrar o pareamento de bases, tipo modelo anatômico de dna, aplicação para fins didáticos, características adicionais com 3 espirais de hélice dupla de ácido nucléico;1;360,00;360,00;00046
@@ -131,7 +131,7 @@
 258829;1370433;Material;Gasolina, uso:para automotivos, classificação:aditivada, índice de octanagem:iad 91 min;Gasolina, uso:para automotivos, classificação:aditivada, índice de octanagem:iad 91 min;10804;5,55;59.962,20;00004
 258829;1370432;Material;Gasolina;Gasolina;26029.9293;5,39;140.301,32;00003
 540287;2656562;Material;Colchonete ginástica;Colchonete ginástica, material plástico emborrachado, comprimento 1 m, largura 0,60 m, espessura 0,50 m, cor verde;4;550,00;2.200,00;00080
-44226;511667;Serviço;Manutenção / reforma predial;;1;5.405,50;64.866,00;00035
+44226;511667;Serviço;Manutenção , reforma predial;;1;5.405,50;64.866,00;00035
 44226;511658;Serviço;Prestação de serviço de jardinagem - outros serviços - outraprodutividade;;1;4.884,26;58.611,12;00034
 44226;511653;Serviço;Prestação de serviço de limpeza e conservação - outras      necessidades;;259;1,00;3.121,68;00033
 44226;511650;Serviço;Prestação de serviço de limpeza e conservação - outras      necessidades;;1477;2,17;38.435,16;00032
@@ -295,7 +295,7 @@
 466311;2329903;Material;Afiador faca manual/elétrico;"Afiador manual/elétrico, tipo com estrias, características adicionais com três guias de afiação, rebolo de 2"" por 48 mm, diâmetro afiação máximo: 3/8""; mínimo: 7/67"", voltagem 110 v, velocidade 65 rpm, aplicação facas, lâminas, brocas e tesouras";2;30,00;60,00;00098
 466311;2329902;Material;Amolador manual;Amolador manual, material aço inoxidável, material cabo polipropileno, comprimento lâmina 356 mm, comprimento cabo 131 mm, características adicionais estriada-imantada,cabo branco,ação antimicrobiana;2;24,29;48,58;00097
 466311;2329901;Material;Garrafa térmica;Garrafa térmica, material aço inoxidável, capacidade 1 l, características adicionais sistema serve a jato;10;62,44;624,40;00084
-72001;384908;Serviço;Energia elétrica - fornecimento;;1;71.157,24;71.157,24;00001
+72001;384908;Serviço;Energia elétrica - fornecimento mercado regulado;;1;71.157,24;71.157,24;00001
 501823;2496281;Material;Projetor imagem;Projetor imagem, tipo imagem imagem microcomputador (multimídia), tipo foco auto foco, voltagem 110/220 v, características adicionais controle remoto;8;5.490,00;43.920,00;00005
 438583;2208628;Material;Liquidificador industrial;Liquidificador industrial, material copo aço inoxidável, material base aço inox, capacidade 4 l, tensão nominal 220 v;3;747,00;2.241,00;00030
 322761;1600732;Serviço;Serviços de gerenciamento  de redes de tecnologia da informação e comunicação (tic);Serviços de gerenciamento  de redes de tecnologia da informação e comunicação (tic);1;40.419,84;40.419,84;00001
@@ -328,7 +328,7 @@
 568906;2737655;Material;Óleo vegetal;Óleo vegetal;300;6,90;2.070,00;00045
 568906;2737654;Material;Carne bovina in natura;Carne bovina in natura;385;29,90;11.511,50;00043
 568906;2737653;Material;Legume em conserva;Legume em conserva;720;3,90;2.808,00;00041
-568906;2737652;Material;Gordura vegetal - margarina;Gordura vegetal;30;5,00;150,00;00040
+568906;2737652;Material;Gordura vegetal;Gordura vegetal;30;5,00;150,00;00040
 568906;2737651;Material;Embutido;Embutido;80;33,00;2.640,00;00037
 568906;2737650;Material;Embutido;Embutido;288;19,90;5.731,20;00036
 568906;2737649;Material;Fermento;Fermento;72;9,90;712,80;00032
@@ -358,6 +358,8 @@
 702752;3188024;Material;Instrumento musical - percursão;Instrumento musical - percursão, tipo cajon acústico, material madeira, características adicionais assento acolchoado;1;471,80;471,80;00016
 444856;2272127;Serviço;Prestação de serviço de  vigilância e segurança - orgânica -12h noturnas - 2ª a domingo;Prestação de serviço de  vigilância e segurança - orgânica -12h noturnas - 2ª a domingo;1;161.410,59;161.410,59;00014
 444856;2272126;Serviço;Prestação de serviço de  vigilância e segurança - orgânica -12 horas diurnas - 2ª a domingo;Prestação de serviço de  vigilância e segurança - orgânica -12 horas diurnas - 2ª a domingo;1;141.496,66;141.496,66;00013
+831360;3510856;Material;Jogo xadrez;Jogo xadrez, material madeira, formato quadrado, aplicação lazer e entretenimento, características adicionais tabuleiro tipo caixa acondicionamento peças;20;45,40;908,00;00053
+831360;3510855;Material;Jogo / brinquedo pedagógico;Jogo / brinquedo pedagógico, tipo jogo de tabuleiro 5 em 1, material mdf, quantidade 99, caracteristicas adicionais dama, trilha, ludo, jogo da velha e chadrez, outros componentes peças plática;15;33,89;508,35;00047
 445800;2251976;Material;Papel color set;Papel color set, formato a4, cor variada, comprimento 29,7 cm, largura 21 cm, gramatura 120 g/m2, características adicionais colorido nas duas faces;10;11,92;119,20;00001
 484344;2396456;Material;Veículo pick-up;Veículo pick-up, tipo motor diesel, tipo direção hidráulica, potência motor 190 cv, capacidade passageiro 5, tipo tração 4x4, quantidade portas 4, cor preta, modelo cabine dupla, tipo cambio automático;2;245.834,00;491.668,00;00001
 414397;2055233;Material;Prancha natação;Prancha natação, material borracha eva, tamanho grande, espessura 30 mm, características adicionais flexível;20;32,09;641,80;00095
@@ -441,7 +443,7 @@
 782568;3386943;Material;Microcomputador;Microcomputador, memória ram 32 gb, núcleos por processador 5 a 8, armazenamento hdd 2 tb., armazenamento ssd até 2 tb, monitor 21 a 29 pol, componentes adicionais com teclado e mouse, sistema operacional proprietário, garantia on site superior a 36 meses;12;7.509,31;90.111,72;00026
 621695;2873798;Material;Cordão arremate;Cordão arremate, material poliéster, cor verde, aplicação crachá, características adicionais jacaré com 10 mm de largura, acabamento chapa metálica;3000;1,40;4.200,00;00003
 621695;2873797;Material;Cordão arremate;Cordão arremate, material poliéster, cor verde, aplicação crachá, características adicionais jacaré com 10 mm de largura, acabamento chapa metálica;90;1,40;126,00;00002
-126729;788886;Serviço;Manutenção / reforma predial;Manutenção / reforma predial;1;61.233,20;61.233,20;00001
+126729;788886;Serviço;Manutenção , reforma predial;Manutenção / reforma predial;1;61.233,20;61.233,20;00001
 452708;2276657;Material;Equipamento / acessórios desporto;Equipamento / acessórios desporto, material borracha, tipo disco, uso arremesso, características adicionais peso: 2kg, diâmetro 220 mm;5;78,00;390,00;00046
 452708;2276656;Material;Equipamento / acessórios desporto;"Equipamento / acessórios desporto, material metal/madeira, tipo disco, uso arremesso, características adicionais diâmetro central: cerca de 55 mm; peso: 1kg, diâmetro 180 mm";5;178,90;894,50;00044
 452708;2276655;Material;Equipamento / acessórios desporto;Equipamento / acessórios desporto, material fibra de aço, tipo barra transversal, dimensões 4 m x 3 cm, uso salto em altura;1;433,79;433,79;00037
@@ -539,7 +541,7 @@
 140347;878235;Serviço;Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);4;657,00;2.628,00;00067
 140347;878234;Serviço;Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);4;682,20;2.728,80;00066
 140347;878233;Serviço;Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);4;582,00;2.328,00;00065
-140347;878232;Serviço;Comercialização / recondicionamento de peça e componente;Comercialização / recondicionamento de peça e componente;1;15.000,00;15.000,00;00064
+140347;878232;Serviço;Comercialização , recondicionamento de peça e componente;Comercialização / recondicionamento de peça e componente;1;15.000,00;15.000,00;00064
 140347;878231;Serviço;Ar condicionado - manutenção de aparelhos de parede;Ar condicionado - manutenção de aparelhos de parede;25;742,80;18.570,00;00063
 140347;878230;Serviço;Ar condicionado - manutenção de aparelhos de parede;Ar condicionado - manutenção de aparelhos de parede;2;626,00;1.252,00;00062
 140347;878229;Serviço;Ar condicionado - manutenção de aparelhos de parede;Ar condicionado - manutenção de aparelhos de parede;12;357,14;4.285,68;00061
@@ -636,7 +638,7 @@
 430044;2179740;Material;Fita adesiva;Fita adesiva, material crepe, tipo monoface, largura 18 mm, comprimento 50 m,cor branca, aplicação multiuso;20;3,20;64,00;00013
 430044;2179739;Material;Fita hospitalar;Fita hospitalar, tipo microporosa, material dorso em não tecido, componentesadesivo acrílico, dimensões cerca de 50 mm, características adicionaishipoalergênico, cor com cor;20;4,49;89,80;00012
 430044;2179738;Material;Agulha hipodérmica;"Agulha hipodérmica, material aço inoxidável siliconizado, dimensão 18 g x 1 1/2"", tipo ponta bisel curto trifacetado, tipo conexão conector luer lock ouslip em plástico, tipo fixação protetor plástico, tipo uso estéril,descartável, embalagem individual";2;20,35;40,70;00009
-430044;2179737;Material;Algodão;Algodão uso médico, tipo hidrófilo, apresentação em mantas, material alvejado,purificado, isento de impurezas, características adicionais enrolado em papelapropriado, esterilidade não estéril, tipo embalagem embalagem individual;8;13,58;108,64;00007
+430044;2179737;Material;Algodão uso médico;Algodão uso médico, tipo hidrófilo, apresentação em mantas, material alvejado,purificado, isento de impurezas, características adicionais enrolado em papelapropriado, esterilidade não estéril, tipo embalagem embalagem individual;8;13,58;108,64;00007
 430044;2179736;Material;Lanceta;Lanceta, material lâmina aço inoxidável,ponta afiada,trifacetada, usodescartável, características adicionais estéril, embalagem individual, tipocom sistema retrátil;8;15,00;120,00;00006
 430044;2179735;Material;Clorexidina digluconato;Clorexidina digluconato, composição associada ao cloreto de sódio,concentração 0,05% + 0,9%, forma farmacêutica solução aquosa;35;15,00;525,00;00004
 430044;2179734;Material;Bolsa térmica;Bolsa térmica, aplicação* p/ gelo, material* polímero flexível, modelo redonda, diâmetro* cerca 25 cm, componentes c/ tampa rosqueável;6;38,00;228,00;00002
@@ -665,6 +667,7 @@
 622911;2877028;Material;Garrafa térmica;Garrafa térmica, material aço inoxidável, capacidade 1 l, características adicionais sistema serve a jato;6;65,97;395,82;00084
 707435;3201794;Material;Sanduicheira;Sanduicheira, material aço inoxidável, tensão 110/220 v, potência 860 w, cor branca, largura 430 mm, altura 200 mm, comprimento 450 mm, características adicionais aquecimento por resistências, revestida em teflon;4;180,00;720,00;00024
 707338;3201658;Material;Iluminador para filmagem;"Iluminador ring light. iluminador para filmagem com as seguintes característic as mínimas: diâmetro interno: 35 cm; diâmetro externo aproximadamente: 46 cm; tensão de saída: dc24v 4a; voltagem: 100 - 240v ac 50/60hz 4a; temperatura de cor: 3200k - 5500k variavel; ângulo regulável: sim; plug: padrão novo; potênci a: 55wpossui 448 leds; no meio do iluminador tem um pino com rosca 1/4"" onde e stá encaixado a mini ballhead. contendo: 01 iluminador circular 19 polegadas; 01 tripé de iluminação 2m; 01 mini ballhead; 01 suporte para fixar celular; 01  fonte bi-volt, com cabo de 4,1 metros de comprimento; 01 bag para transporte.   modelo de referência:iluminador led ring light rl-19 greika com tripé 2m ou superior. prazo de garantia: deverá ser entregue em perfeito estado de conserv ação, livre de defeitos, avarias ou imperfeições, a serem verificadas no momen to do recebimento definitivo do objeto.";1;800,00;800,00;00024
+831506;3511192;Material;Rotulador;Rotulador - largura fita: 3,5 a 12, caracteres: 15, funcionamento: eletrônico, fonte alimentação: pilha/adaptador, características adicionais: lcd, impressão térmica 2 linhas, teclado qwerty, resolução: 180;1;458,00;458,00;00003
 414391;2055208;Material;Refil tinta;Refil tinta, cor azul, aplicação pincel quadro branco;50;6,29;314,50;00103
 29448;398542;Serviço;Chaveiro;;30;85,00;2.550,00;00002
 29448;398538;Serviço;Chaveiro;;250;10,00;2.500,00;00001
@@ -791,11 +794,11 @@
 414379;2055184;Material;Bandeja metálica;Bandeja metálica, material alumínio, formato retangular, comprimento 60 cm, largura 40 cm, altura 7 cm;350;28,00;9.800,00;00079
 414379;2055183;Material;Lixeira;Lixeira, material plástico, capacidade 700 l, tipo container, cor azul, características adicionais com tampa e rodas;2;1.500,00;3.000,00;00042
 242426;1308744;Serviço;Serviços de manutenção de  equipamentos de comunicação de dados e comutação telefônica;Serviço de remoção de rede existente.;40;40,00;1.600,00;00057
-242426;1308743;Serviço;Manutenção / reforma predial;Serviço de recomposição de alvenaria.;40;250,00;10.000,00;00056
+242426;1308743;Serviço;Manutenção , reforma predial;Serviço de recomposição de alvenaria.;40;250,00;10.000,00;00056
 242426;1308742;Serviço;Elaboração / análise projeto - engenharia;Serviço de avaliação técnica complementar.;3;400,00;1.200,00;00055
 242426;1308741;Serviço;Elaboração / análise projeto - engenharia;Documentação. serviço de as built por prancha.;5;1.200,00;6.000,00;00054
-242426;1308740;Serviço;Manutenção / reforma predial;Construção de caixa de passagem em alvenaria, com dimensões padrão r1.;15;800,00;12.000,00;00053
-242426;1308739;Serviço;Manutenção / reforma predial;Construção de acesso por dutos de caixa externa ao rack de conectividade do pr édio.;25;250,00;6.250,00;00052
+242426;1308740;Serviço;Manutenção , reforma predial;Construção de caixa de passagem em alvenaria, com dimensões padrão r1.;15;800,00;12.000,00;00053
+242426;1308739;Serviço;Manutenção , reforma predial;Construção de acesso por dutos de caixa externa ao rack de conectividade do pr édio.;25;250,00;6.250,00;00052
 242426;1308738;Material;Eletroduto;Eletroduto, material metálico, tipo flexível sealtube, bitola 3/4 pol;190;60,00;11.400,00;00051
 242426;1308737;Material;Eletroduto;Eletroduto, material metálico, tipo flexível sealtube, diâmetro nominal 2 1/2 pol, revestimento polietileno;100;22,00;2.200,00;00050
 242426;1308736;Material;Eletroduto;Eletroduto, material metálico, tipo flexível sealtube, diâmetro nominal 1 pol, revestimento polietileno;100;15,00;1.500,00;00049
@@ -824,7 +827,7 @@
 242426;1308713;Material;Ponto de acesso;Ponto de acesso, características adicionais especificação de referência- ponto de acesso;380;700,00;266.000,00;00001
 29852;498365;Serviço;Prestação de serviço de jardinagem - canteiros ornamentais -outras necessidades - outra produtividade;;2;4.789,92;114.958,08;00007
 29852;498363;Serviço;Prestação de serviços de copeiragem;;1;3.990,28;47.883,36;00006
-29852;498360;Serviço;Manutenção / reforma predial;;1;5.739,74;68.876,88;00005
+29852;498360;Serviço;Manutenção , reforma predial;;1;5.739,74;68.876,88;00005
 787881;3400416;Serviço;Prestação serviço copa / cozinha;Serviços contínuos de chefe de cozinha - 1 posto, a serem executados com regim e de dedicação exclusiva de mão de obra, para atendimento da alimentação escol ar do ifms campus corumbá.;24;4.948,84;118.772,16;00006
 787881;3400415;Serviço;Serviços diversos de auxiliar de cozinha;Serviços contínuos de auxiliar de cozinha - 4 postos, a serem executados com r egime de dedicação exclusiva de mão de obra, para atendimento da alimentação e scolar do ifms campus corumbá.;18;14.960,00;269.280,00;00005
 787881;3400414;Serviço;Prestação de serviços de cozinheiro;Serviços contínuos de cozinheiro - 2 postos, a serem executados com regime de dedicação exclusiva de mão de obra, para atendimento da alimentação escolar do  ifms campus corumbá.;12;8.690,66;104.287,92;00004
@@ -902,7 +905,7 @@
 707465;3201879;Material;Interruptor;Interruptor, tipo paralelo, quantidade seções 3 un, características adicionais conjugado com espelho, cor cinza, aplicação instalações elétricas, posição relativa embutir, tensão nominal 250 v, corrente nominal 10 a;10;20,45;204,50;00119
 707465;3201878;Material;Interruptor;Interruptor, tipo modulado, quantidade seções 2 un, características adicionais sistema x, aplicação instalações elétricas, tipo acionamento tecla simples horizontal, acabamento com placa e parafuso, posição relativa sobrepor, tensão nominal 250 v, corrente nominal 10 a, material termoplástico auto-extinguível, formato retangular;10;29,44;294,40;00118
 707465;3201877;Material;Interruptor;Interruptor, tipo duplo, quantidade pólos 2 un, quantidade seções 2 un, quantidade alavancas 2 un, características adicionais conjugado com espelho, cor branca, tensão máxima permitida 250 v, aplicação instalações elétricas, tipo acionamento tecla dupla, referência pialplus, dimensões 4 x 2 pol, posição relativa embutir, tensão nominal 220 v, corrente nominal 10 a;10;19,65;196,50;00117
-112178;707157;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento mercado regulado;4;170,22;8.170,75;00001
+112178;707157;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento mercado regulado;4;170,22;8.170,75;00001
 443915;2242135;Material;Tubo laboratório;Tubo laboratório, tipo duran, material vidro, tipo fundo fundo redondo, dimensões cerca de 5 x 40 mm;100;0,45;45,00;00032
 443915;2242134;Material;Cabo de kolle;Cabo de kolle, material alumínio, comprimento cerca de 25 cm, características adicionais extremidade rosqueável, proteção térmica;15;22,00;330,00;00018
 443915;2242133;Material;Pipeta;Pipeta, tipo pasteur, graduação graduada, capacidade 3 ml, material plástico, escala escala 0,5 em 0,5 ml, tipo uso descartável;2;39,90;79,80;00014
@@ -931,7 +934,7 @@
 485091;2399269;Material;Bola voleibol;Bola voleibol, material microfibra, peso cheia 260 a 280 g, circunferência 65 a 67 cm, tipo uso adulto(fivb), pressão 03- 04 lb, aplicação volei de quadra, cor branca;6;330,00;1.980,00;00001
 317330;1583895;Serviço;Operador máquina - movimentação carga;Operador máquina e equipamentos de uso geral;12;5.669,94;68.039,28;00033
 317330;1583894;Serviço;Prestação de serviços de portaria / recepção;Prestação de serviços de portaria / recepção;24;9.233,40;221.601,60;00032
-317330;1583893;Serviço;Manutenção / reforma predial;Manutenção , reforma predial;24;6.858,77;164.610,48;00031
+317330;1583893;Serviço;Manutenção , reforma predial;Manutenção , reforma predial;24;6.858,77;164.610,48;00031
 258558;1367027;Serviço;Prestação de serviços de motorista;Prestação de serviços de motorista, diária no país, nova andradina.;96;319,99;30.719,04;00042
 258558;1367026;Serviço;Prestação de serviços de motorista;Prestação de serviços de motorista, hora extra finais de semana e feriados, ca mpus nova andradina.;48;42,29;2.029,92;00041
 258558;1367025;Serviço;Prestação de serviços de motorista;Prestação de serviços de motorista, hora extra noturna, campus nova andradina.;48;36,55;1.754,40;00040
@@ -950,7 +953,7 @@
 71986;384603;Serviço;Emissão de certificado digital a3, sem token pessoa   física;;6;35,90;215,40;00001
 322760;1600731;Serviço;Gráfico - impressos / plastificação / acabamento;Gráfico - impressos / plastificação / acabamento;1;12.800,00;12.800,00;00001
 521191;2588246;Material;Aparelho ar condicionado;Aparelho ar condicionado, capacidade refrigeração 12.000 btu/h, vazão ar 430 m3/h, tensão 220 v, modelo portátil, características adicionais 1 com controle remoto;1;2.042,59;2.042,59;00008
-132086;829939;Serviço;Manutenção / reforma predial;Manutenção , reforma predial;1;522.300,46;522.300,46;00001
+132086;829939;Serviço;Manutenção , reforma predial;Manutenção , reforma predial;1;522.300,46;522.300,46;00001
 189318;1108865;Serviço;Fornecimento de refeições , lanches , salgados , doces;Contratação de refeições prontas, tipo merenda fria, por meio de empresa espec ializada em serviços de alimentação e nutrição para operacionalização e desenv olvimento de todas as atividades envolvidas na produção, transporte e distribu ição de refeições, assegurando uma alimentação nutricionalmente balanceada e e m adequadas condições higiênico-sanitárias e socioambientais, incluindo o forn ecimento de todos os insumos e mão de obra necessários à realização destas ati vidades, para o ifms, campus dourados.;121000;9,84;1.190.640,00;00003
 560632;2707833;Serviço;Licenciamento de direitos permanentes  de  uso  de  softwarepara estação de trabalho;Licenciamento de direitos permanentes  de  uso  de  softwarepara estação de trabalho;12;160,22;1.922,64;00016
 560632;2707832;Serviço;Treinamento informática - sistema / software;Treinamento informática - sistema / software;1;2.500,00;2.500,00;00015
@@ -971,11 +974,11 @@
 192460;1124577;Serviço;Prestação de serviços de apoio administrativo;Prestação de serviços de apoio administrativo inspetor de moradia estudantil p ara ifms nova andradina;12;5.395,97;64.751,64;00025
 192460;1124576;Serviço;Operador máquina - movimentação carga;Prestação de serviços de tratorista para ifms naviraí;12;4.822,92;57.875,04;00023
 192460;1124575;Serviço;Operador máquina - movimentação carga;Prestação de serviços de tratorista para ifms nova andradina;12;6.138,51;73.662,12;00009
-192460;1124574;Serviço;Almoxarife , controle de estoque;Prestação de serviços de almoxarife para ifms reitoria em campo grande;12;3.405,69;40.868,28;00001
+192460;1124574;Serviço;Almoxarife / controle de estoque;Prestação de serviços de almoxarife para ifms reitoria em campo grande;12;3.405,69;40.868,28;00001
 635910;2912568;Material;Tripé;Tripé, material alumínio, altura máxima 1,38 m, peso 1,72 kg, capacidade 5 kg,tipo cabeça cabeça 141, peso cabeça 1 kg, capacidade cabeça 6 kg, aplicaçãocâmara pequeno ou médio formato;1;154,00;154,00;00008
 260522;1373846;Serviço;Serviços especializados  de disponibilização de cópias de segurança de dados (backup como serviço);Serviços especializados  de disponibilização de cópias de segurança de dados (backup como serviço);24;520,00;12.480,00;00001
 707485;3201935;Material;Mel abelha;Mel abelha, tipo 1ª qualidade, apresentação embalagem com 500 g, aplicação alimentação humana;6;34,00;204,00;00081
-147490;919731;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento;12;35.000,00;420.000,00;00001
+147490;919731;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento;12;35.000,00;420.000,00;00001
 581834;2772734;Material;Anel borracha;Anel borracha, material borracha, diâmetro nominal 50 mm, diâmetro externo 79 mm, peso 15 g, normas técnicas nbr 7.673, aplicação água;5;1,04;5,20;00036
 581834;2772733;Material;Plugue;Plugue, tipo macho, cor corpo preta, corrente nominal 32 a, tensão nominal 440 v, número pólos 3p + t, características adicionais saída lateral;5;0,60;3,00;00034
 581834;2772732;Material;Plugue;Plugue, tipo macho, cor corpo preta, corrente nominal 32 a, tensão nominal 440 v, número pólos 3p + t, características adicionais saída lateral;5;0,55;2,75;00033
@@ -1142,22 +1145,22 @@
 193505;1131022;Serviço;Operador máquina - movimentação carga;Prestação de serviço de tratorista para ifms ponta porã;0;5.229,00;0,00;00031
 193505;1131021;Serviço;Prestação de serviços de portaria / recepção;Prestação de serviços de recepção para ifms ponta porã;36;4.199,88;151.195,68;00030
 193505;1131020;Serviço;Prestação de serviços de portaria / recepção;Prestação de serviços de porteiro para ifms ponta porã;12;4.573,30;54.879,60;00029
-193505;1131019;Serviço;Manutenção / reforma predial;Prestação de serviço de oficial pleno para ifms ponta porã;12;7.333,17;87.998,04;00028
+193505;1131019;Serviço;Manutenção , reforma predial;Prestação de serviço de oficial pleno para ifms ponta porã;12;7.333,17;87.998,04;00028
 193505;1131018;Serviço;Prestação de serviços de copeiragem;Prestação de serviços de copeiragem para ifms ponta porã;12;4.272,45;51.269,40;00027
 193505;1131017;Serviço;Agropecuária - serviços auxiliares;Prestação de serviço de auxiliar de campo para ifms ponta porã;0;4.199,00;0,00;00026
 193505;1131016;Serviço;Agropecuária - serviços auxiliares;Prestação de serviços de auxiliar operacional de campo para ifms naviraí;24;5.195,71;124.697,04;00020
-193505;1131015;Serviço;Manutenção / reforma predial;Prestação de serviços de oficial de manutenção para ifms jardim;0;7.410,40;0,00;00019
+193505;1131015;Serviço;Manutenção , reforma predial;Prestação de serviços de oficial de manutenção para ifms jardim;0;7.410,40;0,00;00019
 193505;1131014;Serviço;Prestação de serviço de jardinagem - outros serviços - outraprodutividade;Prestação de serviço de jardinagem para ifms jardim;0;5.525,42;0,00;00018
-193505;1131013;Serviço;Manutenção / reforma predial;Prestação de serviços de oficial de manutenção para ifms coxim;12;6.905,57;82.866,84;00013
-193505;1131012;Serviço;Manutenção / reforma predial;Prestação de serviços de oficial de manutenção para ifms corumbá;12;5.941,25;71.295,00;00011
-193505;1131011;Serviço;Manutenção / reforma predial;Prestação de serviços de oficial pleno para ifms aquidauana;0;5.880,26;0,00;00004
+193505;1131013;Serviço;Manutenção , reforma predial;Prestação de serviços de oficial de manutenção para ifms coxim;12;6.905,57;82.866,84;00013
+193505;1131012;Serviço;Manutenção , reforma predial;Prestação de serviços de oficial de manutenção para ifms corumbá;12;5.941,25;71.295,00;00011
+193505;1131011;Serviço;Manutenção , reforma predial;Prestação de serviços de oficial pleno para ifms aquidauana;0;5.880,26;0,00;00004
 193505;1131010;Serviço;Prestação de serviço de jardinagem - outros serviços - outraprodutividade;Prestação de serviço de jardinagem - para ifms aquidauana;0;4.846,48;0,00;00003
 631879;2899471;Material;Equipamento / acessórios desporto;Equipamento / acessórios desporto, material tubo de policarbonato, tipo bomba, uso bola, características adicionais haste de acrilato nitrílica butadieno estireno, t;5;24,82;124,10;00083
 631879;2899470;Material;Raquete  esportiva;Raquete  esportiva, material corpo borracha, tamanho único, aplicação tênis de mesa, características adicionais 2 lados revestidos;8;90,99;727,92;00016
 473414;2358040;Material;Cone;Cone, material pvc, altura 24 cm, aplicação atividade física, características adicionais cone de agilidade, demarcatório, laranja;10;9,99;99,90;00013
 247412;1325478;Serviço;Pesquisa e desenvolvimento tecnológico;Pesquisa e desenvolvimento tecnológico;1;327.683,39;327.683,39;00001
-119920;750298;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento;1;133.403,76;133.403,76;00001
-156214;958874;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento;12;20.483,92;245.807,00;00001
+119920;750298;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento;1;133.403,76;133.403,76;00001
+156214;958874;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento;12;20.483,92;245.807,00;00001
 519999;2583438;Material;Palete;Palete, material polietileno alta densidade, comprimento 1.200 mm, largura 1.000 mm, altura 150 mm, cor preta, capacidade estática: 3.000 e dinâmica: 1.200 kg;5;130,00;650,00;00112
 519999;2583437;Material;Colher;Colher, material corpo silicone, material cabo plástico, aplicação refeição, características adicionais cabo longo, comprimento cerca 20 cm;1000;2,00;2.000,00;00076
 519999;2583436;Material;Garfo mesa;Garfo mesa, material corpo aço inoxidável, material cabo aço inoxidável, tipo mesa, características adicionais liso e polido, comprimento 19 cm;1000;2,00;2.000,00;00075
@@ -1191,7 +1194,7 @@
 707481;3201931;Material;Esquadro;Esquadro, material acrílico cristal, tipo simples, comprimento 32 cm,características adicionais angulo: 45º;20;24,99;499,80;00005
 707481;3201930;Material;Esquadro;Esquadro, material acrílico cristal, tipo simples, comprimento 32 cm,características adicionais angulo: 60º;30;24,99;749,70;00004
 323103;1601602;Serviço;Prestação de serviços de portaria / recepção;Prestação de serviços de portaria / recepção;1;113.773,48;113.773,48;00041
-323103;1601601;Serviço;Manutenção / reforma predial;Manutenção / reforma predial;2;86.389,51;172.779,02;00040
+323103;1601601;Serviço;Manutenção , reforma predial;Manutenção / reforma predial;2;86.389,51;172.779,02;00040
 323103;1601600;Serviço;Prestação de serviço de jardinagem - outros serviços - outraprodutividade;Prestação de serviço de jardinagem - outros serviços - outraprodutividade;1;68.811,60;68.811,60;00039
 172446;1027443;Serviço;Controle de abastecimento de veículos;Taxa de administração anual sobre controle de abastecimento de veículos;1;73,25;73,25;00007
 172446;1027442;Material;Solução;Solução, composição 32,50% uréia pura e água deionizada, tipo arla-32, apresentação líquido;1404;4,19;5.882,76;00006
@@ -1255,13 +1258,13 @@
 90822;599183;Serviço;Concessão uso - área / imóvel público;Undefined;1;348,34;4.180,08;00001
 590178;2795047;Material;Microfone;Microfone, tipo de lapela, alimentação bateria aa, resposta freqüência 50 a20.000 hz, tipo receptor sintetizador pll controlado por cristal com anten a,características adicionais uhf, sem fio, sintetizado montável em câmera, com,alimentação receptor 3 vdc, acessórios miniplugs de 3,5, relação sinal/ ruido60 db;1;3.321,00;3.321,00;00016
 120576;753598;Serviço;Instalação de sistema eletrônico integrado  de  segurança  -(pessoal / patrimonial);Instalação de sistema eletrônico integrado  de  segurança  -(pessoal , patrimonial);1;9.360,00;9.360,00;00001
-585317;2783278;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento mercado regulado;12;20.416,66;244.999,92;00001
+585317;2783278;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento mercado regulado;12;20.416,66;244.999,92;00001
 707385;3201726;Material;Lente para camara fotografica;Lente 24mm p/ câmera fotográfica. características: lente ef-s 24mm f/2.8 stm, dimensões :68.2mm x 22.8 mm, distância focal mais próxima :0.52 ft de espessur a. / 0.16 m, lente tipo: angulares, ângulo de visão diagonal: 59°10', tamanho do filtro :52mm, cor preta.   obs: tem que ser compatível com a câmera do item  2.  modelo de referência: lente canon ef-s 24mm f/2.8 stm. prazo de garantia:  o prazo de garantia contratual do produto, complementar à garantia legal, é d e, no mínimo, 12 (doze) meses, para ajuste ou correção de defeitos e imperfeiç ões verificados, contados a partir do recebimento definitivo do objeto.;1;1.125,57;1.125,57;00017
 707385;3201725;Material;Filtro lente objetiva;Filtro lente objetiva, material vidro, tipo foco fixo, formato circular, diâmetro 50 mm, aplicação lente para câmera fotográfica;1;1.043,09;1.043,09;00016
 707385;3201724;Material;Câmera fotográfica digital;Câmera fotográfica digital características técnicas: 24megapixels, sensor aps (22,3x14,9mm), processador digic 7, iso 100-25600, foco automático, lcd c/ tou ch screem articulado, 6.0 fps, vídeo full hd, entrada p/ microfone, bateria 11 0/220 volts (60hz). com lente 18-135mm, f. 3,5 - 5,6.    modelo de referência:  canon t7i - câmera dslr 24.2mp ou superior. prazo de garantia: o prazo de gar antia contratual do produto, complementar à garantia legal, é de, no mínimo, 1 2 (doze) meses, para ajuste ou correção de defeitos e imperfeições verificados , contados a partir do recebimento definitivo do objeto. (me)    (item destina do ao campus aquidauana, nova andradina e naviraí);1;4.500,00;4.500,00;00002
 804184;3443832;Serviço;Licenciamento de direitos permanentes  de  uso  de  softwarepara servidor;Licenciamento de direitos permanentes  de  uso  de  software para servidor. co reldraw graphics suite - educacional. licença perpétua.;7;692,43;4.847,01;00017
 804184;3443831;Serviço;Cessão temporária de direitos sobre programas de computador locação de software;Cessão temporária de direitos sobre programas de computador locação de softwar e. adobe creative cloud vip teams all apps - educacional named license. licenç a subscrição por 36 meses.;9;6.714,51;60.430,59;00006
-95106;618319;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento;1;3.698,20;3.698,20;00001
+95106;618319;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento;1;3.698,20;3.698,20;00001
 756884;3326326;Serviço;Assessoria;Assessoria - assessoria;1;720.000,00;720.000,00;00001
 724887;3248128;Material;Tampo mobiliário;Tampo mobiliário material: aço, cor: cinza claro, comprimento: 480mm, largura: 30mm, espessura: 2,5mm, características adicionais: com suporte para fixação painel divisório.;2;439,90;879,80;00001
 531781;2623186;Material;Microcomputador;Microcomputador, memória ram 32 gb, núcleos por processador 5 a 8, armazenamento hdd 2 tb., armazenamento ssd até 2 tb, monitor 21 a 29 pol, componentes adicionais com teclado e mouse, sistema operacional proprietário, garantia on site superior a 36 meses;4;7.509,31;30.037,24;00026
@@ -1287,7 +1290,7 @@
 66168;1679924;Serviço;Serviço de link via cabo;Serviço de link via cabo;1;34.372,79;34.372,79;00105
 66168;1679923;Serviço;Serviço de link via cabo;Serviço de link via cabo;1;0,01;0,01;00104
 793393;3414896;Serviço;Redação / revisão de texto;Redação / revisão de texto - redação / revisão de texto;3000;3,57;10.710,00;03000
-77092;324201;Serviço;Manutenção / reforma predial;;1;51.289,80;51.289,80;00024
+77092;324201;Serviço;Manutenção , reforma predial;;1;51.289,80;51.289,80;00024
 77092;324195;Serviço;Prestação de serviço de jardinagem - outros serviços - outraprodutividade;;1;47.039,16;47.039,16;00023
 622917;2877046;Material;Refrigerador duplex;Refrigerador duplex;1;4.788,00;4.788,00;00040
 622917;2877045;Material;Freezer;Freezer;1;3.213,00;3.213,00;00039
@@ -1306,7 +1309,7 @@
 707555;3202041;Material;Refletor;Refletor, material corpo alumínio blindado, tipo lâmpada led cob (chip on board), potência lâmpada 50 w, tensão alimentação bivolt v, grau proteção ip65 (tabela ingress protection), ângulo de abertura da lente 120°, temperatura de cor 6000/4000 k;10;28,90;289,00;00010
 707555;3202040;Material;Refletor;Refletor, quantidade lâmpadas 1 un, formato retangular, aplicação iluminação cênica, tipo lâmpada led, potência lâmpada 300 w, tensão alimentação bivolt, fluxo luminoso 20.000 lm;10;115,00;1.150,00;00001
 408400;2024947;Material;Panela pressão;Panela pressão, material alumínio polido, capacidade 20 l, características adicionais tampa com sistema de fechamento externo;4;419,00;1.676,00;00065
-418721;2073323;Serviço;Licenciamento de direitos  permanentes de uso de outros softwares , programas de computador;Licenciamento de direitos  permanentes de uso de outros softwares / programasde computador;1;3.174,00;3.174,00;00001
+418721;2073323;Serviço;Licenciamento de direitos  permanentes de uso de outros softwares / programas de computador;Licenciamento de direitos  permanentes de uso de outros softwares / programasde computador;1;3.174,00;3.174,00;00001
 534550;2631841;Material;Agitador magnético;Agitador magnético, material gabinete metálico, anticorrosivo, ajuste ajuste digital, capacidade até 20 l, rotação até 2000 rpm, temperatura controle temperatura até 300 °c;2;1.189,90;2.379,80;00038
 707379;3201714;Material;Iluminador para filmagem;"Iluminador ring light. iluminador para filmagem com as seguintes característic as mínimas: diâmetro interno: 35 cm; diâmetro externo aproximadamente: 46 cm; tensão de saída: dc24v 4a; voltagem: 100 - 240v ac 50/60hz 4a; temperatura de cor: 3200k - 5500k variavel; ângulo regulável: sim; plug: padrão novo; potênci a: 55wpossui 448 leds; no meio do iluminador tem um pino com rosca 1/4"" onde e stá encaixado a mini ballhead. contendo: 01 iluminador circular 19 polegadas; 01 tripé de iluminação 2m; 01 mini ballhead; 01 suporte para fixar celular; 01  fonte bi-volt, com cabo de 4,1 metros de comprimento; 01 bag para transporte.   modelo de referência:iluminador led ring light rl-19 greika com tripé 2m ou superior. prazo de garantia: deverá ser entregue em perfeito estado de conserv ação, livre de defeitos, avarias ou imperfeições, a serem verificadas no momen to do recebimento definitivo do objeto.";4;800,00;3.200,00;00024
 477259;2369124;Material;Adipômetro;Adipômetro, operação digital, material plástico, resolução resolução 0,1 mm, faixa de operação até 60 mm, pressão cerca de 10 g/mm², tolerância tolerância até 0,5 mm;1;720,35;720,35;00075
@@ -1338,7 +1341,7 @@
 581522;2771693;Material;Fita veda rosca;Fita veda rosca, material ptfe, comprimento 10 m, largura 20 mm, espessura 0,7 mm;5;4,25;21,25;00012
 581522;2771683;Material;Conexão tubo condução;Conexão tubo condução, tipo joelho 90°, material fibra de vidro, diâmetro nominal 600 mm, normas técnicas nbr 15536-1, tipo fixação soldável;10;1,70;17,00;00001
 91170;603041;Serviço;Prestação serviço supervisor de pessoal;Prestação serviço supervisor de pessoal;1;2.859,65;34.315,80;00004
-91170;603044;Serviço;Manutenção / reforma predial;Manutenção , reforma predial;1;3.716,98;44.603,76;00003
+91170;603044;Serviço;Manutenção , reforma predial;Manutenção , reforma predial;1;3.716,98;44.603,76;00003
 91170;603043;Serviço;Prestação de serviço de limpeza e conservação -  áreas internas - outras necessidades - outra produtividade;Prestação de serviço de limpeza e conservação -  áreas internas - outras necessidades - outra produtividade;1;17.436,38;209.236,56;00002
 91170;603042;Serviço;Prestação de serviço de limpeza e conservação - esquadrias  externas - outras necessidades - outra produtividade;Prestação de serviço de limpeza e conservação - esquadrias  externas - outras necessidades - outra produtividade;1;7.259,26;87.111,12;00001
 690976;3158609;Material;Lavadora ultrassônica;Lavadora ultrassônica, modelo horizontal, de bancada, material gabinete etampa em polímero, ajuste painel digital, capacidade cerca de 2 l, temperaturatemperatura até 65 °c, adicional 1 c/ cesto p/ instrumental, característicaabastecimento e escoamento manual;2;985,00;1.970,00;00005
@@ -1493,6 +1496,15 @@
 707455;3201864;Material;Régua elétrica;"Régua elétrica, material chapa aço sae 1010, acabamento superficial pintura epóxi, quantidade tomadas saída 12 (2p+t), comprimento cabo 2,5 m, tensão alimentação 110/220 v, aplicação rack padrão 19""";2;136,98;273,96;00013
 707455;3201863;Material;Bucha parafuso;Bucha parafuso, material náilon, comprimento 3 cm, espessura 6 mm;5;22,90;114,50;00012
 707455;3201862;Material;Parafuso auto-atarraxante;Parafuso auto-atarraxante, material aço carbono, tratamento superficial bicromatizado, tipo cabeça chata, tipo fenda phillips, diâmetro corpo 4 mm, comprimento 35 mm, características adicionais fixer/rosca auto cortante tipo chipboard, aplicação carpintaria;1;43,65;43,65;00011
+831150;3510454;Material;Ferro de soldar;Ferro de soldar;10;59,00;590,00;00309
+831150;3510458;Material;Resistor carbono;Resistor carbono;140;0,09;12,60;00221
+831150;3510457;Material;Resistor carbono;Resistor carbono;240;0,09;21,60;00220
+831150;3510456;Material;Resistor carbono;Resistor carbono;140;0,09;12,60;00219
+831150;3510455;Material;Resistor carbono;Resistor carbono;140;0,09;12,60;00218
+831150;3510453;Material;Fluxo solda;Fluxo solda;16;17,00;272,00;00217
+831150;3510452;Material;Esponja limpeza;Esponja limpeza;26;18,00;468,00;00216
+831150;3510451;Material;Fluxo solda;Fluxo solda;12;26,00;312,00;00205
+831150;3510450;Material;Solda estanho;Solda estanho;30;164,00;4.920,00;00204
 707466;3201887;Material;Multímetro;Multímetro, tensão ac 600/1000 v, corrente dc 200/60/600/1000 a, corrente ac 60/600/1000 a, resistência 600/6k/60k/600k/6m/60 mohm, características adicionais display lcd 3.3/4 dígitos, 6000 contagens, tensão dc 600/1000 v, tipo digital, sensibilidade 20 mohms, ac/dc, capacidade 1000 v, funcionamento 2 baterias 1,5v (aaa), dimensões 190 x 70 x 30 mm;1;195,00;195,00;00088
 707466;3201886;Material;Silicone adesivo;Selante adesivo, material à base de borracha de silicone, aspecto físico pastoso, cor incolor, aplicação selante para vedação de áreas úmidas como boxes d e;5;15,79;78,95;00048
 707466;3201885;Material;Plugue prolongador;Plugue prolongador, tipo fêmea, modelo para pino cilíndrico, cor preta, formato contato universal, número pólos 2p + t, tensão nominal 250 v, corrente nominal 10 a;10;3,94;39,40;00037
@@ -1618,8 +1630,8 @@
 707446;3201820;Material;Registro esfera;Registro esfera, material pvc rígido, tipo vs, bitola 20 mm, aplicação instalação hidráulica, tipo fixação soldável;3;3,48;10,44;00055
 707446;3201819;Material;Registro esfera;Registro esfera, material pvc rígido, tipo soldável para água, bitola 25 mm, características adicionais com anel de vedação em borracha, aplicação instalação hidráulica;3;4,00;12,00;00054
 707577;3202085;Serviço;Treinamento qualificação profissional;Contratação da empresa prestadora do serviço seminário nacional de bibliotecas universitárias (xxii -  snbu) para participação do servidor bibliotecário docampus coxim - ifms.;1;900,00;900,00;00001
-509673;2557792;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento mercado regulado;1;173.133,48;173.133,48;00001
-14606;534234;Serviço;Publicação legal / editais;;1;5.000,00;5.000,00;00001
+509673;2557792;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento mercado regulado;1;173.133,48;173.133,48;00001
+14606;534234;Serviço;Publicações promocionais / editais;;1;5.000,00;5.000,00;00001
 695744;3170448;Material;Cabo áudio e vídeo;Cabo áudio e vídeo, material condutor cobre ofhc, aplicação instrumento musical, características adicionais plug níquel zincado, bitola 0,20mm, tipo cabo mono, blindado, comprimento 7 m, conectores p10-p10;4;49,30;197,20;00021
 225977;1261423;Material;Camiseta;Camiseta;2000;16,80;33.600,00;00010
 225977;1261422;Material;Camiseta;Camiseta;480;16,80;8.064,00;00009
@@ -1690,7 +1702,7 @@
 584850;2782038;Material;Lixeira;Lixeira, material madeira plástica, capacidade 94 litros l, tipo com tampas basculantes preta e cinza, cor marrom, características adicionais com suporte e pé de ferro para fixação , cor pret a, aplicação resíduos não recicláveis.;10;1.200,00;12.000,00;00003
 584850;2782037;Material;Estrutura telhado pre fabricado - madeira;Estrutura telhado pre fabricado - madeira, tipo pergolado, material estrutura madeira plástificada, comprimento 3 m, largura 2,10 m, altura 2,50 m, quantidade de pilar 4 un, dimensões pilar 9 x 9 cm, quantidade longarinas 6 un , dimensões longarinas 9 x 9 cm;10;2.900,00;29.000,00;00002
 584850;2782036;Material;Banco;Banco, material madeira plastica, comprimento 1,50 m, altura 0,70 m, acabamento madeira plástica encapsulada., cor marrom, características adicionais estrutura da base em plástico reforçado. tratamen t, profundidade 55 cm;56;430,00;24.080,00;00001
-758619;3330512;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento;12;1.350,83;16.210,00;00001
+758619;3330512;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento;12;1.350,83;16.210,00;00001
 10343;523210;Material;Álcool anidro combustível;;17492;2,39;41.805,88;00003
 10343;523207;Material;Gasolina comum;;29270;3,30;96.591,00;00002
 10343;523203;Material;Óleo diesel;;228039;2,85;649.911,15;00001
@@ -1729,7 +1741,7 @@
 826022;3497071;Serviço;Instalação/ manutenção de vidro temperado/  laminado/cristalacrílico /em porta / janela / box;Instalação/ manutenção de vidro temperado/  laminado/cristal / acrílico /em porta / janela / box - instalação/ manutenção de vidro temperado/  laminado/cristal / acrílico /em porta / janela / box;2;500,00;1.000,00;00010
 826022;3497079;Serviço;Instalação / manutenção - porta / cancela / portão;Instalação / manutenção - porta / cancela / portão - instalação / manutenção - porta / cancela / portão;3;1.000,00;3.000,00;00009
 826022;3497078;Serviço;Instalação / remoção de divisória / painel / persiana / janela / porta / esquadria em geral;Instalação / remoção de divisória / painel / persiana / janela / porta / esquadria em geral - instalação / remoção de divisória / painel / persiana / janela / porta / esquadria em geral;35;135,00;4.725,00;00008
-826022;3497077;Serviço;Instalação / manutenção - piso geral;Instalação / manutenção / remoção - piso em geral (exceto madeirados) - instalação / manutenção / remoção - piso em geral (exceto madeirados);35;180,00;6.300,00;00007
+826022;3497077;Serviço;Instalação / manutenção / remoção - piso em geral (exceto madeirados);Instalação / manutenção / remoção - piso em geral (exceto madeirados) - instalação / manutenção / remoção - piso em geral (exceto madeirados);35;180,00;6.300,00;00007
 826022;3497076;Serviço;Instalação e montagem - galpões / estruturas metálicas;Instalação e montagem - galpões / estruturas metálicas - instalação e montagem - galpões / estruturas metálicas;1;8.500,00;8.500,00;00006
 826022;3497075;Serviço;Instalação/ manutenção de vidro temperado/  laminado/cristalacrílico /em porta / janela / box;Instalação/ manutenção de vidro temperado/  laminado/cristal / acrílico /em porta / janela / box - instalação/ manutenção de vidro temperado/  laminado/cristal / acrílico /em porta / janela / box;1;1.600,00;1.600,00;00005
 826022;3497074;Serviço;Instalação/ manutenção de vidro temperado/  laminado/cristalacrílico /em porta / janela / box;Instalação/ manutenção de vidro temperado/  laminado/cristal / acrílico /em porta / janela / box - instalação/ manutenção de vidro temperado/  laminado/cristal / acrílico /em porta / janela / box;2;1.800,00;3.600,00;00004
@@ -1802,7 +1814,7 @@
 776797;3373528;Material;Adaptador;Adaptador, conexão p2/p10 estereo, aplicação adaptador estereo;4;8,00;32,00;00054
 776797;3373527;Material;Adaptador;Adaptador, tipo mono, conexão p10 fêmea x rca macho, aplicação uso em audio;4;11,00;44,00;00053
 776797;3373524;Material;Adaptador;Adaptador, tipo mono, conexão p2 fêmea para p10 macho, aplicação equipamentos eletrônicos;4;5,50;22,00;00052
-488496;2420810;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento;1;19.800,00;19.800,00;00001
+488496;2420810;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento;1;19.800,00;19.800,00;00001
 72020;366354;Serviço;Fornecimento de água canalizada;;12;2.605,85;31.270,20;00001
 707580;3202128;Serviço;Elaboração / análise projeto - engenharia;Orçamento e memorial quantidade m2.;0;0,00;0,00;00104
 707580;3202127;Serviço;Elaboração / análise projeto - engenharia;Projeto de detalhamento quantidade m2.;0;0,00;0,00;00102
@@ -1858,7 +1870,7 @@
 522201;2595278;Serviço;Serviço educacional -básico / fundamental / médio / superior;Serviço educacional -básico / fundamental / médio / superior - assistente em educação inclusiva 30h - campus coxim;2;69.872,88;139.745,76;00014
 433586;2198979;Material;Monitor computador;Monitor computador, tamanho tela 23 a 30 pol, tipo de tela led, formato tela widescreen, qualidade de imagem full hd, interatividade da tela sem interatividade, ajuste com inclinação do display, alimentação bivolt, garantia on site 12 meses;7;3.574,00;25.018,00;00034
 446616;2254320;Material;Liquidificador industrial;Liquidificador industrial, material copo aço inoxidável, material base alumínio, largura 250 mm, altura 575 mm, peso 3,0 kg, capacidade 2 l, potência motor 1/3 cv, tensão nominal 110/220 v, aplicação industrial;1;665,21;665,21;00174
-471308;2348980;Serviço;Licenciamento de direitos  permanentes de uso de outros softwares , programas de computador;Licenciamento de direitos  permanentes de uso de outros softwares / programasde computador;1;3.174,00;3.174,00;00001
+471308;2348980;Serviço;Licenciamento de direitos  permanentes de uso de outros softwares / programas de computador;Licenciamento de direitos  permanentes de uso de outros softwares / programasde computador;1;3.174,00;3.174,00;00001
 489191;2421562;Material;Equipamento / acessórios desporto;Equipamento / acessórios desporto, material aço/vidro, tipo tabela móvel, uso basquete, características adicionais hidráulica;2;23.950,55;47.901,10;00059
 560141;2701049;Material;Veículo pick-up;Veículo pick-up, tipo motor diesel, tipo direção hidráulica, potência motor 190 cv, capacidade passageiro 5, tipo tração 4x4, quantidade portas 4, cor preta, modelo cabine dupla, tipo cambio automático;1;245.834,00;245.834,00;00001
 522210;2595291;Serviço;Serviço educacional -básico / fundamental / médio / superior;Serviço educacional -básico / fundamental / médio / superior - diárias - campus nova andradina;7;381,54;2.670,76;00028
@@ -1868,7 +1880,7 @@
 522210;2595292;Serviço;Serviço educacional -básico / fundamental / médio / superior;Serviço educacional -básico / fundamental / médio / superior -   tradutor-intérprete de libras 30h - campus nova andradina;1;67.775,88;67.775,88;00024
 72486;405110;Serviço;Fornecimento passagem rodoviária - menor taxa de serviço;;14250;1,00;14.250,00;00004
 72486;405101;Serviço;Fornecimento passagem rodoviária - menor taxa de serviço;;150;11,50;1.725,00;00003
-71836;304617;Serviço;Energia elétrica - fornecimento;;1;240.000,00;240.000,00;00001
+71836;304617;Serviço;Energia elétrica - fornecimento mercado regulado;;1;240.000,00;240.000,00;00001
 479340;2378971;Material;Liquidificador industrial;Liquidificador industrial, material copo aço inoxidável, material base aço inox, capacidade 4 l, tensão nominal 220 v;2;747,00;1.494,00;00030
 369035;1842897;Serviço;Prestação de serviço de limpeza e conservação - esquadrias  externas - outras necessidades - outra produtividade;Prestação de serviço de limpeza e conservação - esquadrias  externas  e intern as nova andradina;3021.53191;0,93;2.810,02;00046
 369035;1842896;Serviço;Prestação de serviço de limpeza e conservação - áreas exter-nas - 12 horas diurnas - 2ª a 6ª feira - outra produtividade;Prestação de serviço de limpeza e conservação - área externa - pisos pavimenta dos adjacentes  nova andradina;2152.49282;2,09;4.498,71;00045
@@ -1909,7 +1921,7 @@
 774470;3368292;Serviço;Instalação / manutenção / reparo - porta sanfonada /  persiana ( horizontal / vertical );Instalação / manutenção / reparo - porta sanfonada /  persiana ( horizontal / vertical ) - instalação / manutenção / reparo - porta sanfonada /  persiana ( horizontal / vertical );1229;5,50;6.759,50;00001
 401686;1992505;Serviço;Fornecimento de água e coleta de esgoto sanitário;Fornecimento de água e coleta de esgoto sanitário;12;5.324,05;63.888,60;00002
 43708;420939;Serviço;Roçada / limpeza de área - mecanizada / manual;;205718;0,23;47.315,14;00001
-495321;2458467;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento mercado regulado;1;60.000,00;60.000,00;00001
+495321;2458467;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento mercado regulado;1;60.000,00;60.000,00;00001
 732884;3267178;Material;Microcomputador;Microcomputador, memória ram 32 gb, núcleos por processador 5 a 8, armazenamento hdd 2 tb., armazenamento ssd até 2 tb, monitor 21 a 29 pol, componentes adicionais com teclado e mouse, sistema operacional proprietário, garantia on site superior a 36 meses;33;7.509,31;247.807,23;00026
 766705;3350002;Serviço;Assessoria;Assessoria - assessoria;1;1.237.500,00;1.237.500,00;00001
 304606;1601650;Serviço;Prestação serviço copa / cozinha;Prestação serviço copa / cozinha;1;4.967,87;59.614,49;00034
@@ -1927,7 +1939,7 @@
 132571;832668;Serviço;Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);5;498,15;2.490,75;00127
 132571;832667;Serviço;Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);18;442,80;7.970,40;00126
 132571;832666;Serviço;Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);1;498,26;498,26;00125
-132571;832665;Serviço;Comercialização / recondicionamento de peça e componente;Comercialização / recondicionamento de peça e componente;1;11.070,06;11.070,06;00124
+132571;832665;Serviço;Comercialização , recondicionamento de peça e componente;Comercialização / recondicionamento de peça e componente;1;11.070,06;11.070,06;00124
 132571;832664;Serviço;Ar condicionado - manutenção de aparelhos de parede;Ar condicionado - manutenção de aparelhos de parede;1;844,28;844,28;00123
 132571;832663;Serviço;Ar condicionado - manutenção de aparelhos de parede;Ar condicionado - manutenção de aparelhos de parede;1;442,85;442,85;00122
 132571;832662;Serviço;Ar condicionado - manutenção de aparelhos de parede;Ar condicionado - manutenção de aparelhos de parede;5;387,45;1.937,25;00121
@@ -1954,7 +1966,7 @@
 132571;832641;Serviço;Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);27;498,15;13.450,05;00044
 132571;832640;Serviço;Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);8;679,70;5.437,60;00043
 132571;832639;Serviço;Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);6;442,80;2.656,80;00042
-132571;832638;Serviço;Comercialização / recondicionamento de peça e componente;Comercialização / recondicionamento de peça e componente;1;25.461,13;25.461,13;00041
+132571;832638;Serviço;Comercialização , recondicionamento de peça e componente;Comercialização / recondicionamento de peça e componente;1;25.461,13;25.461,13;00041
 132571;832637;Serviço;Ar condicionado - manutenção de aparelhos de parede;Ar condicionado - manutenção de aparelhos de parede;20;330,99;6.619,80;00040
 132571;832636;Serviço;Ar condicionado - manutenção de aparelhos de parede;Ar condicionado - manutenção de aparelhos de parede;3;332,10;996,30;00039
 132571;832635;Serviço;Ar condicionado - manutenção de aparelhos de parede;Ar condicionado - manutenção de aparelhos de parede;25;276,75;6.918,75;00038
@@ -1980,7 +1992,7 @@
 132571;832615;Serviço;Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);8;531,36;4.250,88;00018
 132571;832614;Serviço;Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);27;498,15;13.450,05;00017
 132571;832613;Serviço;Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);7;442,80;3.099,60;00016
-132571;832612;Serviço;Comercialização / recondicionamento de peça e componente;Comercialização / recondicionamento de peça e componente;1;16.605,09;16.605,09;00015
+132571;832612;Serviço;Comercialização , recondicionamento de peça e componente;Comercialização / recondicionamento de peça e componente;1;16.605,09;16.605,09;00015
 132571;832611;Serviço;Ar condicionado - manutenção de aparelhos de parede;Ar condicionado - manutenção de aparelhos de parede;1;332,58;332,58;00014
 132571;832610;Serviço;Ar condicionado - manutenção de aparelhos de parede;Ar condicionado - manutenção de aparelhos de parede;29;276,75;8.025,75;00013
 132571;832609;Serviço;Ar condicionado - manutenção de aparelhos de parede;Ar condicionado - manutenção de aparelhos de parede;12;276,75;3.321,00;00012
@@ -2069,7 +2081,7 @@
 526360;2608306;Material;Estrutura telhado pre fabricado - madeira;Estrutura telhado pre fabricado - madeira, tipo pergolado, material estrutura madeira plástificada, comprimento 3 m, largura 2,10 m, altura 2,50 m, quantidade de pilar 4 un, dimensões pilar 9 x 9 cm, quantidade longarinas 6 un , dimensões longarinas 9 x 9 cm;10;2.900,00;29.000,00;00002
 526360;2608305;Material;Banco;Banco, material madeira plastica, comprimento 1,50 m, altura 0,70 m, acabamento madeira plástica encapsulada., cor marrom, características adicionais estrutura da base em plástico reforçado. tratamen t, profundidade 55 cm;80;430,00;34.400,00;00001
 534662;2632175;Material;Conjunto broca;Conjunto broca, material aço carbono, aplicação concreto, componentes 7 peças de 3, 4, 5, 6, 8, 9 e 10mm, tipo cilíndrica, características adicionais ponta de vídea;2;15,06;30,12;00102
-323053;1601420;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento mercado regulado;12;25.437,26;305.247,12;00001
+323053;1601420;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento mercado regulado;12;25.437,26;305.247,12;00001
 493729;2450931;Material;Luva segurança;Luva segurança, material raspa de couro, tamanho variado, aplicação soldador,características adicionais costurado com fio kevlar, forrada até o punho;40;24,71;988,40;00013
 493729;2450930;Material;Broca;Broca, material aço rápido, diâmetro 3 mm, tipo haste reta, comprimento 61 mm,normas técnicas din 338;1;2.499,87;2.499,87;00003
 493729;2450929;Material;Lâmina serra;Lâmina serra, material aço carbono, referência fb 1/2 x 24rw, largura 1/2 pol,aplicação serra de fita, quantidade dentes 24 dentes por polegada,características adicionais dentes tipo rw, extra duros e temperados, espessura0,025 pol;1;1.149,10;1.149,10;00002
@@ -2080,7 +2092,7 @@
 782466;3386735;Material;Bolsa;Bolsa, material cordura, tipo 4 bolsos com alças para mãos e ombro, comprimento 50 cm, largura 25 cm, altura 35 cm, características adicionais divisórias tipo colmeia/pochete fixada com velcro, aplicação guarda de material de primeiros-socorros;2;120,00;240,00;00002
 782466;3386734;Material;Bola voleibol;Bola voleibol, material microfibra, peso cheia 260 a 280 g, circunferência 65 a 67 cm, tipo uso adulto(fivb), pressão 03- 04 lb, aplicação volei de quadra, cor branca;40;330,00;13.200,00;00001
 707586;3202139;Serviço;Treinamento qualificação profissional;Treinamento qualificação profissional;1;2.990,00;2.990,00;00001
-524621;2603731;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento mercado regulado;1;92.216,62;92.216,62;00001
+524621;2603731;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento mercado regulado;1;92.216,62;92.216,62;00001
 565567;2721508;Material;Prensa manual;Prensa manual, comprimento 50 cm, largura 40 cm, altura 100 cm, aplicação encadernação de livros;1;2.815,63;2.815,63;00068
 522689;2598042;Material;Microcomputador;Microcomputador, memória ram 32 gb, núcleos por processador 5 a 8, armazenamento hdd 2 tb., armazenamento ssd até 2 tb, monitor 21 a 29 pol, componentes adicionais com teclado e mouse, sistema operacional proprietário, garantia on site superior a 36 meses;40;7.509,31;300.372,40;00026
 679134;3128418;Material;Diploma;Características adicionais: impressão de moldura em calcografia cilíndrica, ta, comprimento: 315, cor: azul, gramatura: 90, largura: 215, material: papel moeda, tipo impressão: numismático simplex;5000;5,10;25.500,00;00001
@@ -2091,7 +2103,7 @@
 29637;500635;Serviço;Fornecimento passagem rodoviária - menor taxa de serviço;;50;11,50;575,00;00007
 506115;2540997;Material;Serra tico-tico manual;Serra tico-tico manual, tipo industrial, tipo empunhadeira alça, rotação 2.800 rpm, tensão 220 v, aplicação oficina, características adicionais velocidade variável e ação pendular., potência 720 w, capacidade corte madeira 135 mm, capacidade corte aço 10 mm;3;552,42;1.657,26;00083
 506115;2540996;Material;Nível de precisão;Nível de precisão, tipo laser, projeção 2 linhas, tipo de nivelamento automático, raio de alcance 15 m, angulação 0 a 90 gra;2;593,66;1.187,32;00052
-169790;1063394;Serviço;Manutenção / reforma predial;Manutenção / reforma predial;1;68.674,51;68.674,51;00002
+169790;1063394;Serviço;Manutenção , reforma predial;Manutenção / reforma predial;1;68.674,51;68.674,51;00002
 169790;1063393;Serviço;Prestação de serviço de jardinagem - outros serviços - outraprodutividade;Prestação de serviço de jardinagem - outros serviços - outraprodutividade;1;61.508,21;61.508,21;00001
 464554;2323742;Material;Refrigerador alimentos;Refrigerador alimentos, tensão alimentação 220 v, características adicionais revestimento externo aço inoxidável escovado, quantidade portas 4 un, cor branca, capacidade 810 l;1;6.976,00;6.976,00;00041
 707692;3202360;Material;Café;Café, apresentação torrado moído, tipo único, torrefação ponto de torra escura;2910;12,90;37.539,00;00002
@@ -2292,7 +2304,7 @@ necessários, no bloco f do ifms campus campo grande";72;794,44;57.199,68;00001
 414399;2055236;Material;Bola voleibol;Bola voleibol, material microfibra, peso cheia 260 a 280 g, circunferência 65 a 67 cm, características adicionais colorida, tipo uso adulto(fivb), pressão 03- 04 lb, aplicação volei de praia;10;149,00;1.490,00;00007
 414399;2055235;Material;Bola basquetebol;Bola basquetebol, material microfibra matrizada, peso cheia 600 a 650 g, circunferência 75 a 78 cm, características adicionais carimbo da cbb, cor 300, modelo pró 7.4;10;200,00;2.000,00;00004
 314143;1573884;Serviço;Operador máquina - movimentação carga;Operador máquina - movimentação carga;1;73.020,84;73.020,84;00030
-314143;1573883;Serviço;Manutenção / reforma predial;Manutenção / reforma predial;1;88.132,20;88.132,20;00029
+314143;1573883;Serviço;Manutenção , reforma predial;Manutenção / reforma predial;1;88.132,20;88.132,20;00029
 314143;1573882;Serviço;Prestação de serviço de jardinagem - outros serviços - outraprodutividade;Prestação de serviço de jardinagem - outros serviços - outraprodutividade;1;70.914,72;70.914,72;00028
 314143;1573881;Serviço;Prestação de serviços de apoio administrativo;Prestação de serviços de apoio administrativo;1;70.024,56;70.024,56;00027
 314143;1573880;Serviço;Agropecuária - serviços auxiliares;Agropecuária - serviços auxiliares;1;59.133,48;59.133,48;00026
@@ -2300,7 +2312,7 @@ necessários, no bloco f do ifms campus campo grande";72;794,44;57.199,68;00001
 797505;3426463;Material;Impressora térmica;Impressora térmica - resolução: 203, velocidade impressão: 250, tipo conexão: interface serial rs-232c,paralela,usb 2.0,ethernet, características adicionais: densidade 8 pontos, compatibilidade: windows 95/98, me, nt, 2000, xp, linux;1;1.600,00;1.600,00;00002
 707383;3201722;Material;Sofá;Sofá, material estrutura madeira, material estofamento espuma alta densidade, revestimento tecido alta resistência, quantidade módulos 1 un, cor preta, características adicionais com braços e pés antiderrapantes removíveis, quantidade assentos 1 un;4;2.600,00;10.400,00;00041
 707383;3201721;Material;Sofá;Sofá, material estrutura madeira, material estofamento espuma poliuretano, revestimento couro sintético, cor preta, quantidade assentos 3 un, largura 2,01 m, profundidade 72 cm, altura 75 cm;2;3.583,00;7.166,00;00037
-227860;1262671;Serviço;Monitoramento circuito fechado tv;Contratação de sistema eletrônico de segurança e monitoramento;12;1.650,00;19.800,00;00001
+227860;1262671;Serviço;Monitoramento de imagens de cameras e circuito fechado tv;Contratação de sistema eletrônico de segurança e monitoramento;12;1.650,00;19.800,00;00001
 485403;2402672;Material;Tambor;Tambor, material aço, volume 50 l, tipo tampa fixa, aplicação transporte de produtos perigosos, características adicionais revestimento interno em verniz epóxi;10;194,30;1.943,00;00207
 485403;2402671;Material;Tambor;Tambor, material plástico, volume 200 l, tipo tampa removível, tipo fechamento tampa encaixe, aplicação armazenamento rejeitos sólidos, cor cinza;5;316,50;1.582,50;00206
 485403;2402670;Material;Arruela;"Arruela, material aço inoxidavel aisi-304, diâmetro interno 16 mm, tipo pressão, características adicionais forma ""b""";1;45,04;45,04;00201
@@ -2309,11 +2321,11 @@ necessários, no bloco f do ifms campus campo grande";72;794,44;57.199,68;00001
 485403;2402667;Material;Porca;Porca, material aço inoxidável aisi 304, tipo borboleta, características adicionais rosca m-16;200;4,03;806,00;00166
 485403;2402666;Material;Abraçadeira;Abraçadeira, material náilon, tipo com ranhuras, autotravante, comprimento total 1.200 mm, largura 9 mm, cor branca;20;4,02;80,40;00151
 707525;3201981;Material;Raquete  esportiva;Raquete  esportiva, material corpo madeira, revestimento corpo borracha,tamanho único, cor preta, aplicação tênis de mesa, características adicionais2 lados revestidos;10;202,94;2.029,40;00003
-430157;2181192;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento mercado regulado;12;27.357,88;328.294,56;00001
-199358;1157243;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento mercado regulado;12;8.583,33;103.000,00;00001
+430157;2181192;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento mercado regulado;12;27.357,88;328.294,56;00001
+199358;1157243;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento mercado regulado;12;8.583,33;103.000,00;00001
 801558;3436512;Material;Ribbon;Ribbon - material: resina, largura: 110, comprimento: 450, cor: preta, aplicação: impressora zebra, s300, características adicionais: etiquetas plásticas;5;134,00;670,00;00004
 801558;3436511;Material;Etiqueta adesiva;Etiqueta adesiva - material: poliéster, largura: 50, comprimento: 21, formato: retangular, aplicação: tombamento, tipo: transparente, características adicionais: auto-adesiva, c/ adesivo acrílico permanente, apresentação: 1 carreira;10;253,00;2.530,00;00003
-524606;2603713;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento mercado regulado;1;140.136,92;140.136,92;00001
+524606;2603713;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento mercado regulado;1;140.136,92;140.136,92;00001
 804525;3444607;Material;Bandeira;Bandeira institucional, material cetim, comprimento 128 cm, largura 90 cm, cor de acordo projeto, desenho de acordo projeto, características adicionais bordada;8;79,00;632,00;00022
 804525;3444606;Material;Bandeira;Bandeira institucional, material náilon pára-quedas, comprimento 192 cm, largura 135 cm, características adicionais 3 panos,com costuras reforçadas,bordadas em ambas, representação nacional do brasil;8;109,00;872,00;00021
 189640;1113156;Serviço;Prestação de serviço de  vigilância e segurança - orgânica -12h noturnas - 2ª a domingo;Prestação de serviço de  vigilância e segurança - orgânica -12h noturnas - 2ª a domingo;1;157.541,76;157.541,76;00002
@@ -2336,10 +2348,10 @@ necessários, no bloco f do ifms campus campo grande";72;794,44;57.199,68;00001
 607879;2840589;Material;Verdura in natura;Verdura in natura, tipo alface crespa;23;66,17;1.521,84;00046
 607879;2840588;Material;Legume in natura;Legume in natura, tipo abóbora moranga;25;7,05;176,25;00045
 607879;2840587;Material;Legume in natura;Legume in natura, tipo abóbora paulista;17;5,94;100,93;00044
-171989;1024457;Serviço;Licenciamento de direitos  permanentes de uso de outros softwares , programas de computador;Licenciamento de direitos  permanentes de uso de outros softwares / programas de computador coreldraw graphics suite licença perpétua;12;592,00;7.104,00;00003
+171989;1024457;Serviço;Licenciamento de direitos  permanentes de uso de outros softwares / programas de computador;Licenciamento de direitos  permanentes de uso de outros softwares / programas de computador coreldraw graphics suite licença perpétua;12;592,00;7.104,00;00003
 603618;2830049;Material;Fruta;Fruta, tipo banana nanica/ banana d'água, apresentação natural;333;9,00;2.997,00;00033
 245500;1319584;Serviço;Elaboração / análise projeto - engenharia;"Projeto e autorização para supressão vegetal (67 ha): (i. levantamento e quantificação da área para autorização ambiental; ii. inventário florestal e levantamentos pertinentes à autorização; iii. elaboração dos mapas pertinentes; iv.elaboração dos arquivos shape file; v. art; vi. projeto técnico ambiental; vii. termo de compromisso para espécies protegidas; viii. plano de manejo de solo e água e afins; ix. autorização para sapeca das leiras e aproveitamento inicial da madeira; x. impressão e formalização dos pedidos;) atualização do car/ms: (i. readequação do car/ms, seguindo as diretrizes das resoluções 642/2017, 651/2017, 679/2019, 687/2019 e 689/2020, todas do imasul; ii. elaboração dos mapas e quantificações; iii. elaboração dos arquivos shape file; iv. art; v. impressão do mapa, car e sicar;";1;18.600,00;18.600,00;00001
-71894;368537;Serviço;Energia elétrica - fornecimento;;12;50.000,00;600.000,00;00001
+71894;368537;Serviço;Energia elétrica - fornecimento mercado regulado;;12;50.000,00;600.000,00;00001
 125761;783747;Serviço;Refeições industriais - preparo / distribuição;Refeições industriais - preparo / distribuição;3040;14,80;44.992,00;00004
 125761;783745;Serviço;Refeições industriais - preparo / distribuição;Refeições industriais - preparo / distribuição;3040;4,50;13.680,00;00003
 125761;783746;Serviço;Refeições industriais - preparo / distribuição;Refeições industriais - preparo / distribuição;3040;14,80;44.992,00;00002
@@ -2379,7 +2391,7 @@ necessários, no bloco f do ifms campus campo grande";72;794,44;57.199,68;00001
 486346;2408821;Material;Cloreto de lítio;Cloreto de lítio, composição química licl, aspecto físico pó branco, inodoro, peso molecular 42,39 g/mol, teor de pureza pureza mínima de 99%, característica adicional reagente p.a, número de referência química cas 7447- 41-8;1;215,61;215,61;00006
 486346;2408820;Material;Nitrato de prata;Nitrato de prata, aspecto físico cristal incolor, transparente, inodoro, fórmula química agno3, peso molecular 169,87 g/mol, teor de pureza pureza mínima de 99,5%, característica adicional reagente p.a., número de referência química cas 7761-88-8;1;359,99;359,99;00003
 451874;2274633;Material;Raquete  esportiva;Raquete  esportiva, material corpo borracha, tamanho único, aplicação tênis de mesa, características adicionais 2 lados revestidos;10;90,99;909,90;00016
-44225;511791;Serviço;Manutenção / reforma predial;;1;6.330,55;75.966,60;00014
+44225;511791;Serviço;Manutenção , reforma predial;;1;6.330,55;75.966,60;00014
 44225;511783;Serviço;Prestação de serviço de jardinagem - outros serviços - outraprodutividade;;2;5.668,11;136.034,64;00013
 44225;511776;Serviço;Prestação de serviços de copeiragem;;0;4.489,21;0,00;00012
 44225;511772;Serviço;Agropecuária - serviços auxiliares;;1;4.303,14;51.637,68;00011
@@ -2463,7 +2475,7 @@ necessários, no bloco f do ifms campus campo grande";72;794,44;57.199,68;00001
 704639;3192768;Serviço;Serviços de manutenção de  equipamentos de comunicação de dados e comutação telefônica;Serviços de manutenção de  equipamentos de comunicação de dados e comutação telefônica - reparos na placamãe, substituição de transceivers, revisão geral e testes de funcionamento do equipamento;1;990,00;990,00;00003
 704639;3192767;Serviço;Serviços de manutenção de  equipamentos de comunicação de dados e comutação telefônica;Serviços de manutenção de  equipamentos de comunicação de dados e comutação telefônica - reparos na placamãe, substituição de transceivers, revisão geral e testes de funcionamento do equipamento.;1;1.480,00;1.480,00;00002
 704639;3192766;Serviço;Serviços de manutenção de  equipamentos de comunicação de dados e comutação telefônica;Serviços de manutenção de  equipamentos de comunicação de dados e comutação telefônica - reparos na placamãe, substituição de transceivers, revisão geral e testes de funcionamento do equipamento.;1;1.480,00;1.480,00;00001
-44224;433861;Serviço;Manutenção / reforma predial;;1;5.968,68;71.624,16;00030
+44224;433861;Serviço;Manutenção , reforma predial;;1;5.968,68;71.624,16;00030
 44224;433854;Serviço;Prestação de serviço de jardinagem - outros serviços - outraprodutividade;;1;5.230,61;62.767,32;00029
 44224;433849;Serviço;Prestação de serviços de copeiragem;;0;3.872,68;0,00;00028
 44224;433839;Serviço;Prestação de serviço de limpeza e conservação - outras      necessidades;;163;31,81;62.220,36;00027
@@ -2641,7 +2653,7 @@ necessários, no bloco f do ifms campus campo grande";72;794,44;57.199,68;00001
 325219;1608286;Material;Pão;Pão, base de farinha de trigo refinada, tipo de forma, tipo adicional de leite , apresentação fatiado, tipo embalagem embalagem individual;22400;0,94;21.056,00;00258
 325219;1608313;Material;Fruta;Fruta, tipo melão amarelo, apresentação natural;200;5,85;1.170,00;00255
 325219;1608312;Material;Fruta;Fruta, tipo melancia vermelha, apresentação natural;300;3,69;1.107,00;00254
-325219;1608285;Material;Gordura vegetal - margarina;Gordura vegetal, tipo margarina, subtipo cremosa, composição básica mínimo de 80% de gordura, sabor com sal;28;16,10;450,80;00252
+325219;1608285;Material;Gordura vegetal;Gordura vegetal, tipo margarina, subtipo cremosa, composição básica mínimo de 80% de gordura, sabor com sal;28;16,10;450,80;00252
 325219;1608311;Material;Fruta;Fruta, tipo abacaxi pérola, apresentação natural;200;9,57;1.914,00;00251
 325219;1608310;Material;Legume in natura;Legume in natura, tipo mandioca/ aipim;168;5,99;1.006,32;00250
 325219;1608309;Material;Fruta;Fruta, tipo mamão formosa, apresentação natural;300;7,96;2.388,00;00249
@@ -2674,11 +2686,11 @@ necessários, no bloco f do ifms campus campo grande";72;794,44;57.199,68;00001
 811947;3464152;Material;Substrato agrícola;Substrato agrícola, características adicionais n 160, p 388, k 240, ca 1250, mg 242, s 480, b 4,, material casca de pinus, vermiculita turfa, tipo florestal semeadura;20;65,40;1.308,00;00011
 428350;2145126;Material;Bola futsal;Bola futsal, material poliuretano, peso cheia 410 a 440 g, circunferência 61 a 64 cm, características adicionais sem costura, válvula removível e lubrificada , cor branca, tipo oficial;40;135,00;5.400,00;00006
 707490;3201944;Serviço;Treinamento qualificação profissional;Treinamento qualificação profissional;1;4.290,00;4.290,00;00001
-133252;836449;Serviço;Manutenção / reforma predial;Manutenção , reforma predial;1;400.100,25;400.100,25;00009
-133252;836448;Serviço;Manutenção / reforma predial;Manutenção , reforma predial;1;250.125,61;250.125,61;00008
-133252;836447;Serviço;Manutenção / reforma predial;Manutenção , reforma predial;1;350.100,49;350.100,49;00007
-133252;836446;Serviço;Manutenção / reforma predial;Manutenção , reforma predial;1;125.125,61;125.125,61;00006
-133252;836445;Serviço;Manutenção / reforma predial;Manutenção , reforma predial;1;300.100,49;300.100,49;00004
+133252;836449;Serviço;Manutenção , reforma predial;Manutenção , reforma predial;1;400.100,25;400.100,25;00009
+133252;836448;Serviço;Manutenção , reforma predial;Manutenção , reforma predial;1;250.125,61;250.125,61;00008
+133252;836447;Serviço;Manutenção , reforma predial;Manutenção , reforma predial;1;350.100,49;350.100,49;00007
+133252;836446;Serviço;Manutenção , reforma predial;Manutenção , reforma predial;1;125.125,61;125.125,61;00006
+133252;836445;Serviço;Manutenção , reforma predial;Manutenção , reforma predial;1;300.100,49;300.100,49;00004
 414363;2055144;Material;Modelo anatômico para fins didáticos;Modelo anatômico para fins didáticos, material resina plástica/pvc, tamanho 35 x 9 x 18 cm, finalidade estudo da anatomia humana, tipo sistema urinário humano, aplicação treinamento, outros componentes base plástica;1;600,00;600,00;00163
 414363;2055143;Material;Lâmina laboratório;Lâmina laboratório, material vidro, aplicação preparada, dimensões cerca de 75 x 25 mm, tipo* conjunto c/ até 100 peças, adicional para zoologia;5;1.100,00;5.500,00;00125
 414363;2055142;Material;Lâmina laboratório;Lâmina laboratório, material vidro, aplicação preparada, dimensões cerca de 75 x 25 mm, adicional para patologia;5;1.000,00;5.000,00;00120
@@ -2730,7 +2742,7 @@ necessários, no bloco f do ifms campus campo grande";72;794,44;57.199,68;00001
 182139;1071689;Serviço;Obras civis públicas ( construção );Obras civis públicas- contratação de empresa especializada para execução de projeto executivo e obra de engenharia em estrutura e cobertura metálica das passarelas de interligação entre blocos do campus jardim com área de aproximadamente 287,68m² e elaboração do projeto executivo, do instituto federal de mato grosso do sul - campus jardim, conforme condições, quantidades e exigências estabelecidas neste instrumento e seus anexos.;1;183.782,46;183.782,46;00001
 675397;3118754;Material;Fita impressora;Fita impressora material: resina, cor: preta, largura: 60mm, comprimento: 92m, tipo impressora: fargo, características adicionais: impressão por termotransferência de resina premium, padrão impressora: 4250, referência: 81734, rendimento: 1.000 impressões;1;230,00;230,00;00002
 675397;3118755;Material;Ribbon;Ribbon material: fita, largura: 60mm, cor: colorido, aplicação: impressora de cartão pvc iita plus;2;350,00;700,00;00001
-43232;511682;Serviço;Manutenção / reforma predial;;1;10.000,00;10.000,00;00010
+43232;511682;Serviço;Manutenção , reforma predial;;1;10.000,00;10.000,00;00010
 43232;511669;Serviço;Recolhimento de taxa / imposto / multa;;1;3.000,00;3.000,00;00009
 43232;511660;Serviço;Serviço engenharia;;1;3.455,50;3.455,50;00008
 43232;511654;Serviço;Serviço engenharia;;1;1.314,89;1.314,89;00007
@@ -2753,14 +2765,14 @@ necessários, no bloco f do ifms campus campo grande";72;794,44;57.199,68;00001
 484671;2397593;Material;Capacho;Material: vinil vulcanizado, altura: 1;10;597,00;5.970,00;00002
 614690;2855980;Material;Modelo anatômico para fins didáticos;Modelo anatômico para fins didáticos, material plástico emborrachado, tamanho 60x42x40 cm, finalidade estudo da anatomia humana, tipo modelo pélvico do aparelho reprodutor feminino, aplicação para fins didáticos;4;369,99;1.479,96;00159
 614690;2855979;Material;Lâmina laboratório;Lâmina laboratório, material vidro, aplicação preparada, dimensões cerca de 75 x 25 mm, adicional para histologia;1;819,99;819,99;00121
-202015;1168131;Serviço;Manutenção / reforma predial;Oficial de manutenção;1;77.275,32;77.275,32;00054
+202015;1168131;Serviço;Manutenção , reforma predial;Oficial de manutenção;1;77.275,32;77.275,32;00054
 202015;1168130;Serviço;Prestação de serviço de jardinagem - outros serviços - outraprodutividade;Jardineiro;2;67.989,72;135.979,44;00053
 447567;2257470;Material;Bola basquetebol;Bola basquetebol, material microfibra matrizada, peso cheia 600 a 650 g, circunferência 75 a 78 cm, características adicionais carimbo da cbb, cor 300, modelo pró 7.4;6;200,00;1.200,00;00004
-473280;2357698;Serviço;Energia elétrica - fornecimento;Fornecimento de energia elétrica para o ifms campus campo grande - rua taquari, 831.;12;42.000,00;504.000,00;00001
+473280;2357698;Serviço;Energia elétrica - fornecimento mercado regulado;Fornecimento de energia elétrica para o ifms campus campo grande - rua taquari, 831.;12;42.000,00;504.000,00;00001
 580560;2769206;Material;Cordão arremate;Cordão arremate, material poliéster, cor verde, aplicação crachá, características adicionais jacaré com 10 mm de largura, acabamento chapa metálica;4000;1,40;5.600,00;00003
 580560;2769205;Material;Cordão arremate;Cordão arremate, material poliéster, cor verde, aplicação crachá, características adicionais jacaré com 10 mm de largura, acabamento chapa metálica;300;1,40;420,00;00002
 488264;2414998;Material;Switch;Switch, quantidade portas 24 un, tipo portas 10/100/1000 base t, rj45.4, 4 ethernet mini-gbic, velocidade porta 1000 mbps, 1/10 gbps, alimentação 100 a 240 v, características adicionais com portas poe, alimentação elétrica com chaveame n, aplicação conectar servidores e equipamentos em rede, tipo switch gerenciável;5;3.186,96;15.934,80;00007
-707493;3201948;Material;Acessórios para estudo,treinamento;Acessórios para estudo/treinamento, tipo conjunto educacional montagem robôs;1;7.999,00;7.999,00;00061
+707493;3201948;Material;Acessórios para estudo/treinamento;Acessórios para estudo/treinamento, tipo conjunto educacional montagem robôs;1;7.999,00;7.999,00;00061
 173787;1033470;Material;Gás refino de petróleo;Gás refino de petróleo, tipo gás liquefeito de petróleo- glp, uso doméstico;4;410,00;1.640,00;00014
 173787;1033469;Material;Gás refino de petróleo;Gás refino de petróleo, tipo gás liquefeito de petróleo- glp, uso doméstico;15;118,00;1.770,00;00013
 413928;2053687;Material;Conjunto ferramentas;Conjunto ferramentas, tipo kit gabarito furação, componentes furadeira manual, fresas (16, 20 e 22)mm, chave f, componentes adicionais anel limitador, guia de fresas (frontal e lateral ), aplicação furação de fechaduras de portas;1;279,70;279,70;00009
@@ -2788,9 +2800,9 @@ necessários, no bloco f do ifms campus campo grande";72;794,44;57.199,68;00001
 484998;2398886;Material;Bola handebol;Bola handebol, material poliuretano, peso cheia 325 a 375 g, características adicionais costurada em pvc, câmara butil, miolo removível, circunferência 54 a 56 cm, modelo feminino;6;103,00;618,00;00057
 484998;2398885;Material;Arco de ginástica rítmica ( bambolê );Arco de ginástica rítmica ( bambolê ), material pvc, diâmetro 0,60 m, aplicação práticas esportivas, cor variada;45;5,00;225,00;00003
 541845;2661744;Material;Impressora - cartão / crachá;Impressora - cartão / crachá, capacidade mínima de 125 cartões/hora colorido frente e vers o, capacidade memória 16 mb, resolução mínima 300 dpi, material cartão pvc e pvc composto, tamanho iso cr-80 e iso- 7810, interface windows xp 2000/2003/xp/7, mac e linux, voltagem 110/220 v, frequência 50/60 hz, características adicionais software p/criação de banco de dados e modelos pa d;1;8.300,00;8.300,00;00001
-414392;2055210;Material;Pincel quadro branco / magnético;Pincel quadro branco / magnético, material plástico, material ponta feltro, tipo carga descartável, cor vermelha, características adicionais ponta de 2,5mm de diâmetro/tampa anti-asfixiante;150;11,95;1.792,50;00005
-414392;2055209;Material;Pincel quadro branco / magnético;Pincel quadro branco / magnético, material plástico, material ponta feltro, tipo carga descartável, cor vermelha, características adicionais ponta de 2,5mm de diâmetro/tampa anti-asfixiante;150;11,95;1.792,50;00004
-112143;707018;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento;4;540,53;25.945,20;00001
+414392;2055210;Material;Pincel quadro branco , magnético;Pincel quadro branco / magnético, material plástico, material ponta feltro, tipo carga descartável, cor vermelha, características adicionais ponta de 2,5mm de diâmetro/tampa anti-asfixiante;150;11,95;1.792,50;00005
+414392;2055209;Material;Pincel quadro branco , magnético;Pincel quadro branco / magnético, material plástico, material ponta feltro, tipo carga descartável, cor vermelha, características adicionais ponta de 2,5mm de diâmetro/tampa anti-asfixiante;150;11,95;1.792,50;00004
+112143;707018;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento;4;540,53;25.945,20;00001
 414369;2055156;Material;Ponteira laboratório;Ponteira laboratório, material polipropileno, capacidade até 200 mcl, acessórios com filtro hidrófobo, esterilidade* estéril, livre de dnase e rnase , tipo uso* descartável, adicional condutiva;3;7,58;22,74;00108
 414369;2055155;Material;Estante para microtubos;Estante para microtubos, material polipropileno, capacidade 100 tubos, componentes com tampa;10;23,89;238,90;00107
 433598;2199012;Material;Switch;Switch, quantidade portas 48 un, tipo portas 10/100/1000 base t, rj45.4, ethernet mini-gbic, velocidade porta 1000 mbps, 1/10 gbps, alimentação 100 a 240 v, características adicionais com portas poe, alimentação elétrica com chaveame n, aplicação conectar servidores e equipamentos em rede, tipo switch gerenciável;2;5.259,00;10.518,00;00008
@@ -2856,7 +2868,7 @@ necessários, no bloco f do ifms campus campo grande";72;794,44;57.199,68;00001
 309915;2271284;Material;Fruta;Fruta;300;6,16;1.848,00;00306
 309915;2271283;Material;Fruta;Fruta;900;3,89;3.501,00;00305
 309915;2271282;Material;Legume in natura;Legume in natura;100;10,21;1.021,22;00304
-309915;2271281;Material;Gordura vegetal - margarina;Gordura vegetal;66;16,96;1.119,36;00303
+309915;2271281;Material;Gordura vegetal;Gordura vegetal;66;16,96;1.119,36;00303
 309915;2271280;Material;Fruta;Fruta;250;16,96;4.240,00;00302
 309915;2271279;Material;Legume in natura;Legume in natura;594;6,31;3.748,14;00301
 309915;2271278;Material;Fruta;Fruta;300;8,39;2.517,00;00300
@@ -2937,7 +2949,7 @@ necessários, no bloco f do ifms campus campo grande";72;794,44;57.199,68;00001
 139666;2699496;Serviço;Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);5;495,12;2.475,60;00176
 139666;2699495;Serviço;Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);5;464,18;2.320,88;00175
 139666;2699494;Serviço;Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);5;412,60;2.063,00;00174
-139666;2699493;Serviço;Comercialização / recondicionamento de peça e componente;Comercialização / recondicionamento de peça e componente;1;25.787,50;25.787,50;00173
+139666;2699493;Serviço;Comercialização , recondicionamento de peça e componente;Comercialização / recondicionamento de peça e componente;1;25.787,50;25.787,50;00173
 139666;2699492;Serviço;Ar condicionado - manutenção de aparelhos de parede;Ar condicionado - manutenção de aparelhos de parede;12;412,60;4.951,20;00172
 139666;2699491;Serviço;Ar condicionado - manutenção de aparelhos de parede;Ar condicionado - manutenção de aparelhos de parede;11;361,03;3.971,28;00171
 139666;2699490;Serviço;Ar condicionado - manutenção de aparelhos de parede;Ar condicionado - manutenção de aparelhos de parede;27;361,03;9.747,68;00170
@@ -2961,7 +2973,7 @@ necessários, no bloco f do ifms campus campo grande";72;794,44;57.199,68;00001
 139666;2699472;Serviço;Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);3;812,83;2.438,48;00152
 139666;2699471;Serviço;Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);2;735,46;1.470,92;00151
 139666;2699470;Serviço;Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);2;598,27;1.196,54;00150
-139666;2699469;Serviço;Comercialização / recondicionamento de peça e componente;Comercialização / recondicionamento de peça e componente;1;15.472,50;15.472,50;00149
+139666;2699469;Serviço;Comercialização , recondicionamento de peça e componente;Comercialização / recondicionamento de peça e componente;1;15.472,50;15.472,50;00149
 139666;2699468;Serviço;Ar condicionado - manutenção de aparelhos de parede;Ar condicionado - manutenção de aparelhos de parede;1;549,79;549,79;00148
 139666;2699467;Serviço;Ar condicionado - manutenção de aparelhos de parede;Ar condicionado - manutenção de aparelhos de parede;14;257,88;3.610,25;00147
 139666;2699466;Serviço;Ar condicionado - manutenção de aparelhos de parede;Ar condicionado - manutenção de aparelhos de parede;7;257,88;1.805,13;00146
@@ -2976,13 +2988,13 @@ necessários, no bloco f do ifms campus campo grande";72;794,44;57.199,68;00001
 139666;2699457;Serviço;Manutenção de geladeiras e bebedouros;Manutenção de geladeiras e bebedouros;1;361,03;361,03;00137
 139666;2699456;Serviço;Manutenção de geladeiras e bebedouros;Manutenção de geladeiras e bebedouros;1;361,03;361,03;00136
 139666;2699455;Serviço;Manutenção de geladeiras e bebedouros;Manutenção de geladeiras e bebedouros;6;206,30;1.237,80;00135
-139666;2699454;Serviço;Comercialização / recondicionamento de peça e componente;Comercialização / recondicionamento de peça e componente;1;10.315,00;10.315,00;00098
+139666;2699454;Serviço;Comercialização , recondicionamento de peça e componente;Comercialização / recondicionamento de peça e componente;1;10.315,00;10.315,00;00098
 139666;2699453;Serviço;Elaboração / análise projeto - engenharia;Elaboração / análise projeto - engenharia;1;1.030,47;1.030,47;00087
 139666;2699452;Serviço;Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);3;670,48;2.011,43;00086
 139666;2699451;Serviço;Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);3;515,75;1.547,25;00085
 139666;2699450;Serviço;Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);3;464,18;1.392,53;00084
 139666;2699449;Serviço;Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);Ar condicionado - instalação/montagem/desmontagem/remoção - (parede / sistemas);3;411,57;1.234,71;00083
-139666;2699448;Serviço;Comercialização / recondicionamento de peça e componente;Comercialização / recondicionamento de peça e componente;1;19.187,36;19.187,36;00082
+139666;2699448;Serviço;Comercialização , recondicionamento de peça e componente;Comercialização / recondicionamento de peça e componente;1;19.187,36;19.187,36;00082
 139666;2699447;Serviço;Ar condicionado - manutenção de aparelhos de parede;Ar condicionado - manutenção de aparelhos de parede;5;308,42;1.542,09;00081
 139666;2699446;Serviço;Ar condicionado - manutenção de aparelhos de parede;Ar condicionado - manutenção de aparelhos de parede;70;257,88;18.051,60;00080
 139666;2699445;Serviço;Ar condicionado - manutenção de aparelhos de parede;Ar condicionado - manutenção de aparelhos de parede;30;257,88;7.736,40;00079
@@ -3015,7 +3027,7 @@ necessários, no bloco f do ifms campus campo grande";72;794,44;57.199,68;00001
 457703;2299502;Material;Coletor material pérfuro-cortante;Coletor material pérfuro-cortante, material papelão, capacidade total 13 l, acessórios alças rígidas e tampa, componentes adicionais para resíduos quimioterápicos, tipo uso descartável;1;10,99;10,99;00094
 707359;3201691;Material;Livro;Maior percentual de desconto sobre o catálogo das editoras para aquisição de a cervo bibliográfico impresso nacional ou estrangeiro disponível no mercado int erno, constituído de livros científicos e paradidáticos, publicações oficiais,  normas técnicas ou outras obras gerais e de referência abrangendo a área e su báreas de conhecimento - ciências humanas (1. filosofia, 2. sociologia, 3. ant ropologia, 4. arqueologia, 5. história, 6. geografia, 7. psicologia, 8. educaç ão, 9. ciência política, 10. teologia);7;62,30;436,10;00010
 707359;3201690;Material;Livro;Cota reservada para me e epp referente ao item 1. maior percentual de desconto  sobre o catálogo das editoras para aquisição de acervo bibliográfico impresso  nacional ou estrangeiro disponível no mercado interno, constituído de livros científicos e paradidáticos, publicações oficiais, normas técnicas ou outras o bras gerais e de referência abrangendo a área e subáreas do conhecimento - ciê ncias exatas e da terra. (1. matemática, 2. probabilidade e estatística, 3. ci ência da computação, 4. astronomia, 5. física. 6. química, 7. geociências, 8. oceanografia.);361;62,00;22.382,00;00002
-186876;1097950;Serviço;Licenciamento de direitos  permanentes de uso de outros softwares , programas de computador;Licenciamento de direitos  permanentes de uso de outros softwares / programas de computador coreldraw graphics suite licença perpétua;10;592,00;5.920,00;00003
+186876;1097950;Serviço;Licenciamento de direitos  permanentes de uso de outros softwares / programas de computador;Licenciamento de direitos  permanentes de uso de outros softwares / programas de computador coreldraw graphics suite licença perpétua;10;592,00;5.920,00;00003
 29916;354656;Serviço;Manutenção de veículos leves - parte mecânica;;2700;0,94;2.532,60;00003
 29916;354651;Serviço;Manutenção de veículos leves - parte mecânica;;24300;0,94;22.793,40;00001
 639389;2921480;Material;Fita impressora;Fita impressora;1;230,00;230,00;00002
@@ -3045,7 +3057,7 @@ necessários, no bloco f do ifms campus campo grande";72;794,44;57.199,68;00001
 715432;3226108;Material;Verdura in natura;Verdura in natura - tipo: alface crespa;655;6,08;3.982,40;00008
 715432;3226107;Material;Legume in natura;Legume in natura - tipo: abobrinha italiana;201.6;7,56;1.524,10;00005
 715432;3226106;Material;Legume in natura;Legume in natura - tipo: abóbora paulista;201.6;4,76;959,62;00004
-609937;2846009;Serviço;Licenciamento de direitos  permanentes de uso de outros softwares , programas de computador;Licenciamento de direitos  permanentes de uso de outros softwares / programasde computador;1;3.174,00;3.174,00;00001
+609937;2846009;Serviço;Licenciamento de direitos  permanentes de uso de outros softwares / programas de computador;Licenciamento de direitos  permanentes de uso de outros softwares / programasde computador;1;3.174,00;3.174,00;00001
 412212;2042274;Serviço;Licenciamento de direitos permanentes  de  uso  de  softwarepara estação de trabalho;Licenciamento de direitos permanentes  de  uso  de  softwarepara estação de trabalho;12;166,74;2.000,88;00006
 89041;584561;Serviço;Obras civis públicas ( construção );Undefined;1;5.653.882,82;5.653.882,82;00001
 144649;902708;Serviço;Locação de imóvel;Locação de imóvel;1;177.823,08;177.823,08;00001
@@ -3108,7 +3120,7 @@ necessários, no bloco f do ifms campus campo grande";72;794,44;57.199,68;00001
 684007;3140742;Material;Verdura in natura;Verdura in natura tipo: alface americana, apresentação: orgânica;290;5,75;1.667,50;00001
 621698;2873822;Material;Fita impressora;Fita impressora material: resina, cor: preta, largura: 60mm, comprimento: 92m, tipo impressora: fargo, características adicionais: impressão por termotransferência de resina premium, padrão impressora: 4250, referência: 81734, rendimento: 1.000 impressões;1;230,00;230,00;00002
 621698;2873823;Material;Ribbon;Ribbon material: fita, largura: 60mm, cor: colorido, aplicação: impressora de cartão pvc iita plus;3;350,00;1.050,00;00001
-351153;1738371;Serviço;Locação sala / auditório;Locação de imóvel destinado à unidade urbana do ifms campus nova andradina.;60;10.296,10;617.766,00;00001
+351153;1738371;Serviço;Locação sala , auditório;Locação de imóvel destinado à unidade urbana do ifms campus nova andradina.;60;10.296,10;617.766,00;00001
 707478;3201926;Material;Eletroduto;Eletroduto, material aço galvanizado, tratamento superficial galvanizado eletrolítico e zincado a fogo, comprimento 3 m, acessórios luva e protetor de rosca, padrão médio, diâmetro nominal 3/4 pol, diâmetro externo min. 25,20 máx. 25,60 mm, espessura parede 1,06 mm, referência fabricante 86755935 (elecon);10;26,29;262,90;00017
 707478;3201925;Material;Eletrocalha;"Eletrocalha, material aço carbono galvanizado, chapa 22, tratamento superficial galvanização eletrolítica, comprimento 3.000 mm, altura 50 mm, largura 100 mm, características adicionais sem virola, perfurada, formato ""u""";6;47,98;287,88;00016
 825511;3495917;Material;Aparelho telefônico;Aparelho telefônico - tipo: voip, funções básicas: 1 conta sip, 2 portas ethernet de 10/100 mbps, pro, características adicionais: display gráfico, alimentação: bivolt, compatibilidade: central telefônica digitro;8;339,91;2.719,28;00007
@@ -3147,8 +3159,8 @@ necessários, no bloco f do ifms campus campo grande";72;794,44;57.199,68;00001
 707501;3201956;Material;Unidade disco;Unidade disco, tipo disco ssd, capacidade 400 gb, tamanho 2,5 pol, padrão sas, aplicação servidor de rede;4;1.651,00;6.604,00;00058
 707513;3201969;Serviço;Treinamento qualificação profissional;Treinamento qualificação profissional;12;2.966,50;35.598,00;00001
 707331;3201648;Material;Minigravador áudio;"Minigravador áudio. mini gravador de áudio com as aseguintes especificações mí nimas: memória incorporada mínima de 4 gb; permite a ligação a pc; microfone i ncorporado: mono; formato de gravação: mp3; formato de reprodução: mp3; com di gital pitch control (controle de velocidade), corte de ruído, gravação operada  por voz, monitor de gravação; tomada para auscultadores, entrada para microfo ne, porta usb; alimentação à bateria/pilhas: aaa;  modelo de referência: grava dor sony icd-px 240 ou equivalente. prazo de garantia: deverá ser entregue em perfeito estado de conservação, livre de defeitos, avarias ou imperfeições, a serem verificadas no momento do recebimento definitivo do objeto.";1;425,00;425,00;00014
-445637;2251526;Material;Pincel quadro branco / magnético;Pincel quadro branco / magnético, material plástico, material ponta feltro, tipo carga descartável, cor vermelha, características adicionais ponta de 2,5mm de diâmetro/tampa anti-asfixiante;150;11,95;1.792,50;00005
-445637;2251525;Material;Pincel quadro branco / magnético;Pincel quadro branco / magnético, material plástico, material ponta feltro, tipo carga descartável, cor vermelha, características adicionais ponta de 2,5mm de diâmetro/tampa anti-asfixiante;150;11,95;1.792,50;00004
+445637;2251526;Material;Pincel quadro branco , magnético;Pincel quadro branco / magnético, material plástico, material ponta feltro, tipo carga descartável, cor vermelha, características adicionais ponta de 2,5mm de diâmetro/tampa anti-asfixiante;150;11,95;1.792,50;00005
+445637;2251525;Material;Pincel quadro branco , magnético;Pincel quadro branco / magnético, material plástico, material ponta feltro, tipo carga descartável, cor vermelha, características adicionais ponta de 2,5mm de diâmetro/tampa anti-asfixiante;150;11,95;1.792,50;00004
 651546;2990180;Serviço;Manutenção de prensa;Manutenção de prensa;1;4.010,00;4.010,00;00001
 534673;2632193;Material;Limpa-tipos;Limpa-tipos, material líquido, aplicação carimbo metal;2;12,21;24,42;00189
 534673;2632192;Material;Parafuso com bucha e porca;Parafuso com bucha e porca, material latão, referência bucha nº 10, tipo porca castelo;10;1,80;18,00;00127
@@ -3176,7 +3188,7 @@ necessários, no bloco f do ifms campus campo grande";72;794,44;57.199,68;00001
 414371;2055161;Material;Erlenmeyer;Erlenmeyer, material vidro, graduação graduado, volume 250 ml, tipo boca boca larga, adicional com orla;6;9,82;58,92;00056
 414371;2055160;Material;Bastão laboratório;Bastão laboratório, material vidro, dimensões cerca de 10 x 300 mm;15;2,99;44,85;00046
 414371;2055159;Material;Bureta;Bureta, material vidro, graduação graduada, volume 10 ml, escala graduação máxima 0,1 em 0,1 ml, numerada, acessórios com torneira de vidro;12;30,89;370,68;00034
-28639;396334;Serviço;Manutenção / reforma predial;;1043;1.283,50;1.338.690,50;00013
+28639;396334;Serviço;Manutenção , reforma predial;;1043;1.283,50;1.338.690,50;00013
 44098;430496;Serviço;Serviço especializado de limpeza;;40;120,00;4.800,00;00007
 44098;430489;Serviço;Serviço especializado de limpeza;;6;130,00;780,00;00006
 44098;430485;Serviço;Serviço especializado de limpeza;;38;130,00;4.940,00;00005
@@ -3322,7 +3334,7 @@ necessários, no bloco f do ifms campus campo grande";72;794,44;57.199,68;00001
 682791;3136211;Material;Arroz beneficiado;Arroz beneficiado, tipo branco, subgrupo integral, classe longo fino, qualidade tipo 1;1300;34,25;44.525,00;00118
 682791;3136210;Material;Aromatizante artificial;Aromatizante artificial, apresentação líquido incolor, sabor baunilha;10;8,27;82,70;00117
 682791;3136209;Material;Pão;Pão, base de farinha de milho e de trigo refinada, tipo de forma, apresentação fatiado, tipo embalagem embalagem individual;350;15,70;5.495,00;00116
-682791;3136208;Material;Gordura vegetal - margarina;Gordura vegetal - margarina, tipo margarina, subtipo cremosa, composição básica mínimo de 80% de gordura, sabor com sal;50;14,35;717,50;00115
+682791;3136208;Material;Gordura vegetal;Gordura vegetal - margarina, tipo margarina, subtipo cremosa, composição básica mínimo de 80% de gordura, sabor com sal;50;14,35;717,50;00115
 682791;3136207;Material;Biscoito;Biscoito, apresentação quadrado, sabor cream cracker, classificação salgado, características adicionais sem recheio, aplicação alimentação humana;80;4,78;382,40;00114
 682791;3136206;Material;Farinha de milho;Farinha de milho, grão amarelo, tipo fubá, característica adicional não transgênico;150;6,89;1.033,50;00113
 682791;3136205;Material;Fermento;Fermento, tipo químico, apresentação pó;20;6,97;139,40;00112
@@ -3416,7 +3428,7 @@ necessários, no bloco f do ifms campus campo grande";72;794,44;57.199,68;00001
 482449;2390942;Material;Carteira escolar;Carteira escolar, material estrutura tubo aço, material tampo plástico injetado, espessura tampo 18 mm, tamanho 76 x 60 x 45 cm, revestimento tampo laminado melamínico;3;760,00;2.280,00;00002
 189095;1107781;Serviço;Serviço especializado de limpeza;Serviço especializado de limpeza e conservação (com dedicação exclusiva de mão de obra) a ser prestado no campus ifms-corumbá;12;36.344,32;436.131,84;00003
 189095;1107780;Serviço;Serviço especializado de limpeza;Serviço especializado de limpeza e conservação (com dedicação exclusiva de mão de obra) a ser prestado no campus aquidauana do ifms.;12;46.919,91;563.038,91;00002
-751322;3312707;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento mercado regulado - energia elétrica - fornecimento mercado regulado;2.94263;1.350,83;3.975,00;00001
+751322;3312707;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento mercado regulado - energia elétrica - fornecimento mercado regulado;2.94263;1.350,83;3.975,00;00001
 605832;2835518;Serviço;Chip avulso;Chip avulso;2242;120,00;269.040,00;00002
 605832;2835519;Serviço;Chip avulso;Chip avulso;10656;120,00;1.278.720,00;00001
 632299;2900411;Material;Modelo anatômico para fins didáticos;Modelo anatômico para fins didáticos, material pvc/resina plástica/siliconada/ gelatinosa, tamanho 85 cm, tipo torso bissexual, aplicação treinamento, características adicionais orgãos internos removíveis;1;669,00;669,00;00024
@@ -3433,7 +3445,7 @@ necessários, no bloco f do ifms campus campo grande";72;794,44;57.199,68;00001
 509833;2558502;Material;Projetor imagem;Projetor imagem, tipo imagem imagem microcomputador (multimídia), tipo foco auto foco, voltagem 110/220 v, características adicionais controle remoto;11;5.490,00;60.390,00;00005
 535878;2705566;Serviço;Prestação de serviços de portaria / recepção;Prestação de serviços de portaria / recepção;2;47.366,66;94.733,32;00024
 535878;2705565;Serviço;Prestação de serviços de portaria / recepção;Prestação de serviços de portaria / recepção;1;103.949,86;103.949,86;00023
-535878;2705564;Serviço;Manutenção / reforma predial;Manutenção / reforma predial;1;73.029,48;73.029,48;00022
+535878;2705564;Serviço;Manutenção , reforma predial;Manutenção / reforma predial;1;73.029,48;73.029,48;00022
 535878;2705563;Serviço;Prestação de serviço de jardinagem - outros serviços - outraprodutividade;Prestação de serviço de jardinagem - outros serviços - outraprodutividade;1;67.702,37;67.702,37;00021
 357259;1809892;Serviço;Administração / execução projeto educacional - convênio / estágio / universitário / monitor;Administração / execução projeto educacional - convênio / estágio / universitário / monitor;1;0,00;0,00;00001
 71928;371869;Serviço;Edição / impressão - diário oficial / justiça;;12;1.011,90;12.142,80;00001
@@ -3456,7 +3468,7 @@ necessários, no bloco f do ifms campus campo grande";72;794,44;57.199,68;00001
 477997;2371853;Material;Rolo pintura predial;Rolo pintura predial, material lã de carneiro, comprimento 9 cm, características adicionais com cabo;20;4,40;88,00;00117
 477997;2371852;Material;Conjunto ferramentas;Conjunto ferramentas, componentes 25 peças: pontas, bits, suporte, aplicação parafusadeira, características adicionais estojo;4;85,75;343,00;00100
 440085;2216886;Material;Equipamento / acessórios desporto;"Equipamento / acessórios desporto, material aço/chumbo, tipo pêso, uso arremesso, características adicionais esférico, superfície: lisa; peso: 5kg, diâmetro 115 mm";2;207,46;414,92;00055
-156065;957863;Serviço;Publicação legal / editais;Publicações promocionais / editais;12;2.317,50;27.810,00;00001
+156065;957863;Serviço;Publicações promocionais / editais;Publicações promocionais / editais;12;2.317,50;27.810,00;00001
 485292;2401875;Material;Capacho;Material: vinil vulcanizado, altura: 1;10;245,00;2.450,00;00015
 485292;2401876;Material;Capacho;Material: vinil vulcanizado, altura: 1;8;597,00;4.776,00;00014
 461851;2313405;Material;Álcool etílico;Álcool etílico, tipo hidratado, teor alcoólico 70%_(70°gl), apresentação líquido;20;15,50;310,00;00036
@@ -3464,7 +3476,7 @@ necessários, no bloco f do ifms campus campo grande";72;794,44;57.199,68;00001
 461851;2313404;Material;Hidróxido de potássio;Hidróxido de potássio, aspecto físico escama ou lentilha branca, inodora, higroscópica, peso molecular 56,11 g/mol, fórmula química koh, grau de pureza teor mínimo de 85%, característica adicional reagente p.a., número de referência química cas 1310-58-3;2;44,28;88,56;00011
 461851;2313403;Material;Álcool metílico;Álcool metílico, aspecto físico líquido límpido, incolor, odor característico, fórmula química ch3oh, peso molecular 32,04 g/mol, grau de pureza pureza mínima de 99,8%, característica adicional reagente p.a., número de referência química cas 67-56-1;5;12,01;60,05;00004
 21691;331386;Serviço;Coleta / tratamento lixo - hospitalar;;1;143,59;1.723,08;00001
-364294;1831369;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento mercado regulado;12;34.408,99;412.907,88;00001
+364294;1831369;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento mercado regulado;12;34.408,99;412.907,88;00001
 687119;3148706;Material;Mesa tênis de mesa;Mesa tênis de mesa / futmesa material tampo: mdf, material estrutura: tubo de aço, tipo: dobrável, acabamento tampo: pintado, acabamento estrutura: pintura, espessura tampo: 25mm, cor: azul, características opcionais: com medidas oficiais padrão ittf (international ta, características adicionais: com rodízios, permite o uso como paredão para trei;2;1.478,99;2.957,98;00002
 804530;3444631;Material;Conector áudio-vídeo;Conector áudio-vídeo, tipo xlr fêmea x jack p10 stereo, montagem chassi, material termoplástico, características adicionais trava mecânica;10;16,03;160,30;00059
 804530;3444630;Material;Adaptador;Adaptador, tipo fêmea-fêmea, aplicação uso em audio, material metálico, conector xlr;10;7,55;75,50;00057
@@ -3517,6 +3529,7 @@ necessários, no bloco f do ifms campus campo grande";72;794,44;57.199,68;00001
 504034;2510142;Material;Fruta;Fruta, tipo laranja pera, apresentação natural;71;4,74;336,54;00032
 504034;2510141;Material;Fruta;Fruta, tipo banana nanica/ banana d'água, apresentação natural;60;6,32;379,20;00028
 504034;2510140;Material;Fruta;Fruta, tipo abacaxi pérola, apresentação natural;90;4,06;365,40;00026
+831945;3512328;Material;Paquímetro digital;Paquímetro digital, material aço inoxidável temperado alta resistência, resolução 0,01 mm, precisão +/- 0,05 mm, leitura 6 mm, características adicionais indicação carga insuficiente bateria;1;115,99;115,99;00060
 57426;518357;Serviço;Manutenção / higienização de reservatório de água potável;;6;399,22;2.395,32;00002
 57426;518353;Serviço;Manutenção / higienização de reservatório de água potável;;1;372,61;372,61;00001
 482474;2390989;Material;Claviculário;Claviculário, material chapa aço fosfatizada, largura 47 cm, capacidade 100 chaves, acabamento superficial pintura epóxi cor cinza, profundidade 9 cm, altura 52 cm, características adicionais fechadura tipo yali, identificação seqüêncial por;1;490,00;490,00;00004
@@ -3550,7 +3563,7 @@ necessários, no bloco f do ifms campus campo grande";72;794,44;57.199,68;00001
 415606;2058722;Material;Conjunto ferramentas;Conjunto ferramentas, componentes 25 peças: pontas, bits, suporte, aplicação parafusadeira, características adicionais estojo;2;87,19;174,38;00101
 415606;2058721;Material;Passa fio;"Passa fio, material aço, aplicação organizador de cabos horizontal, tipo fechado com tampa removível, características adicionais capacidades: cat.5e: 40; cat.6: 24; cat.6a: 12, largura padrão 19 pol, altura 1u; 80 mm, acabamento epoxi pó(alta resistência a riscos), cor preta";1;16,50;16,50;00019
 707533;3202007;Material;Refrigerador duplex;Refrigerador duplex, capacidade refrigeração 436 l, sistema degelo automático, cor branca, tensão alimentação 110/220 v, características adicionais prateleiras removíveis, gavetão, sistema multiflo w;2;3.847,07;7.694,14;00002
-128221;799183;Serviço;Manutenção / reforma predial;Manutenção , reforma predial;1;31.000,00;31.000,00;00001
+128221;799183;Serviço;Manutenção , reforma predial;Manutenção , reforma predial;1;31.000,00;31.000,00;00001
 707394;3201735;Material;Sofá;Sofá, material estrutura madeira, material estofamento espuma poliuretano, revestimento couro sintético, cor preta, quantidade assentos 3 un, largura 2,01 m, profundidade 72 cm, altura 75 cm;0;0,00;0,00;00040
 414341;2055110;Material;Pincel arte plástica;Pincel arte plástica, material cerdas orelha de boi, tipo cabo longo, tamanho 10, formato chato;10;1,40;14,00;00036
 414341;2055109;Material;Pincel arte plástica;Pincel arte plástica, material cerdas orelha de boi, tipo cabo longo, tamanho 6, formato chato;10;1,80;18,00;00035
@@ -3564,10 +3577,10 @@ necessários, no bloco f do ifms campus campo grande";72;794,44;57.199,68;00001
 119715;818677;Serviço;Prestação de serviços de motorista;Prestação de serviços de motorista;12;1.091,16;13.093,92;00002
 119715;818676;Serviço;Prestação de serviços de motorista;Prestação de serviços de motorista;1;84.107,88;84.107,88;00001
 603614;2830042;Material;Fruta;Fruta, tipo banana nanica/ banana d'água, apresentação natural;334;9,00;3.006,00;00031
-72002;396467;Serviço;Publicação legal / editais;;1;17.600,00;17.600,00;00001
+72002;396467;Serviço;Publicações promocionais / editais;;1;17.600,00;17.600,00;00001
 807721;3452504;Material;Fumigador;Fumigador, material aço laminado com espessura mínima de 0,6 mm, material do fole madeira com pano de lona encerada e tela de, material do pegador madeira, altura 340 mm, diâmetro mínimo de 15 mm, características adicionais formalha com capacidade de 6 litros, aplicação apicultura;1;199,60;199,60;00097
 707328;3201645;Material;Teleprompter;Teleprompter, material estrutura alumínio, tipo monitor lcd, tamanho monitor 19 pol, acabamento superficial pintura eletrostática, componentes cabo svga mínimo 15m, aplicação estudio, características adicionais software para exibição de textos;0;0,00;0,00;00027
-119923;750301;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento;1;93.396,24;93.396,24;00001
+119923;750301;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento;1;93.396,24;93.396,24;00001
 531780;2623185;Material;Microcomputador;Microcomputador, memória ram 32 gb, núcleos por processador 5 a 8, armazenamento hdd 2 tb., armazenamento ssd até 2 tb, monitor 21 a 29 pol, componentes adicionais com teclado e mouse, sistema operacional proprietário, garantia on site superior a 36 meses;36;7.509,31;270.335,16;00026
 707437;3201797;Material;Fogão gás;Fogão gás, material vidro, tipo fogão cooktop, quantidade bocas 2 un, características adicionais acendimento automático, voltagem 110/220 v;1;348,00;348,00;00030
 532707;2625969;Material;Tinta base água;Tinta base água, composição básica água e pva, aspecto físico líquido, aplicação interna e externa, tipo acabamento fosco, cor cinza chumbo, superfície aplicação piso;20;178,00;3.560,00;00246
@@ -3630,7 +3643,7 @@ necessários, no bloco f do ifms campus campo grande";72;794,44;57.199,68;00001
 707352;3201678;Material;Mesa plástica;Mesa plástica, material plástico, formato quadrado, cor branca, comprimento 70 cm, largura 70 cm, altura 72 cm;20;75,00;1.500,00;00014
 707538;3202014;Material;Panela;Panela, material aço inoxidável, capacidade 15,10 l, características adicionais fundo triplo/com alças e tampa, tipo caldeirão;1;889,00;889,00;00017
 520135;2585318;Serviço;Prestação de serviços de portaria / recepção;Prestação de serviços de portaria / recepção - porteiro 44h ( 2 posto);2;49.239,99;98.479,98;00003
-520135;2585317;Serviço;Manutenção / reforma predial;Manutenção / reforma predial- oficial de manutenção 44h;1;71.951,53;71.951,53;00002
+520135;2585317;Serviço;Manutenção , reforma predial;Manutenção / reforma predial- oficial de manutenção 44h;1;71.951,53;71.951,53;00002
 520135;2585316;Serviço;Prestação de serviço de jardinagem - outros serviços - outraprodutividade;Prestação de serviço de jardinagem 44h semanais;1;65.398,82;65.398,82;00001
 113995;719019;Serviço;Serviço de almoxarifado  virtual de material de consumo administrativo - gerenciamento de meios logísticos;Serviço de almoxarifado  virtual de material de consumo administrativo - gerenciamento de meios logísticos;741;321,31;238.094,12;00003
 425040;2115374;Material;Assento vaso sanitário;Assento vaso sanitário, material plástico, cor branca;50;20,35;1.017,50;00257
@@ -3706,7 +3719,7 @@ necessários, no bloco f do ifms campus campo grande";72;794,44;57.199,68;00001
 707343;3201666;Material;Filmadora portátil;"Câmera filmadora portátil. características: sensor de 4/3 ""para capturar até 4 096 x 2160 imagens dci 4k a taxas de até 60 qps em uma variedade de codecs, in cluindo cinemadng raw / raw 3: 1 / raw 4: 1, e várias opções prores 422. taxas  de câmera lenta de até 120 qps. acomoda as lentes originais e leves da câmera  pocket cinema e pode ser usada com lentes pl, c, ef e outras com o uso de ada ptadores disponíveis separadamente.  modelo de referência: blackmagic pocket 4 k ou equivalente. prazo de garantia: o prazo de garantia contratual do produto , complementar à garantia legal, é de, no mínimo, 12 (doze) meses, para ajuste  ou correção de defeitos e imperfeições verificados, contados a partir do rece bimento definitivo do objeto.";1;12.040,00;12.040,00;00004
 491269;2429879;Material;Cabo elétrico flexível;Cabo elétrico flexível, tensão isolamento 0,6/1 kv, têmpera condutor mole, material do condutor cobre, material isolamento composto termoplástico pvc s/ chumbo, bitola 6 mm;5;292,05;1.460,25;00096
 496972;2468475;Material;Armadilha animal;Armadilha animal, tipo luminosa, componentes cone de cobertura e captura,fotocélula, haletas,, material poliestireno, características adicionais 220 v,reator, lâmpada fluorescente;4;300,00;1.200,00;00003
-162879;987262;Serviço;Manutenção / reforma predial;Manutenção / reforma predial;2;5.115,53;40.924,24;00070
+162879;987262;Serviço;Manutenção , reforma predial;Manutenção / reforma predial;2;5.115,53;40.924,24;00070
 750024;3309751;Material;Plastificadora;Plastificadora, material estrutura aço, aplicação plastificação de documentos, características adicionais sistema de bobina, tensão alimentação 110/220 v, plastificação até 23 cm;1;580,00;580,00;00102
 750024;3309750;Material;Modelo anatômico para fins didáticos;Modelo anatômico para fins didáticos, material resina plástica/pvc, tamanho 23 x 19 x 15 cm, tipo crânio adulto, aplicação treinamento, características adicionais médio, cores diferentes por ossos, partes removív e;1;640,00;640,00;00038
 707567;3202071;Material;Microfone;Microfone, tipo de mesa, resposta freqüência 60 hz- 17 khz, características adicionais conector usb, plug and play, aplicação videoconferência, padrão omnidirecional, acessórios cabo de no mínimo 1,5m;1;120,00;120,00;00107
@@ -3745,7 +3758,7 @@ necessários, no bloco f do ifms campus campo grande";72;794,44;57.199,68;00001
 813766;3468728;Material;Equipamento , acessórios desporto;Equipamento / acessórios desporto, material algodão, tipo fita, uso fixação de antena de vôlei, características adicionais com velcro, tamanho oficial;4;42,23;168,92;00052
 813766;3468727;Material;Rede esporte;Rede esporte, material polietileno, aplicação futsal, características adicionais 3,10m comp.x2m alt.x1m prof. e fio grosso 8mm;4;183,70;734,80;00020
 813766;3468726;Material;Equipamento / acessórios desporto;Equipamento / acessórios desporto, material espuma, tipo protetor, uso poste de volei, características adicionais fechamento com velcro;2;386,39;772,78;00015
-487966;2413733;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento;1;204.000,00;204.000,00;00001
+487966;2413733;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento;1;204.000,00;204.000,00;00001
 43649;419465;Serviço;Prestação de serviço de  vigilância e segurança - orgânica -12h noturnas - 2ª a domingo;;12;11.926,71;143.120,52;00012
 43649;419459;Serviço;Prestação de serviço de  vigilância e segurança - orgânica -12 horas diurnas - 2ª a domingo;;12;10.467,78;125.613,36;00011
 730365;3260820;Material;Queijo;Queijo, origem de vaca, variedade muçarela, apresentação peça;403;55,97;22.555,91;00241
@@ -3843,7 +3856,7 @@ necessários, no bloco f do ifms campus campo grande";72;794,44;57.199,68;00001
 341560;1658021;Material;Fruta;Fruta, tipo melão amarelo, apresentação natural;168;6,18;1.038,24;00120
 341560;1658020;Material;Fruta;Fruta, tipo melancia vermelha, apresentação natural;600;3,80;2.280,00;00119
 341560;1658019;Material;Legume in natura;Legume in natura, tipo maxixe;100;10,15;1.015,00;00118
-341560;1658018;Material;Gordura vegetal - margarina;Gordura vegetal, tipo margarina, subtipo cremosa, composição básica mínimo de 80% de gordura, sabor com sal;82;16,90;1.385,80;00117
+341560;1658018;Material;Gordura vegetal;Gordura vegetal, tipo margarina, subtipo cremosa, composição básica mínimo de 80% de gordura, sabor com sal;82;16,90;1.385,80;00117
 341560;1658017;Material;Fruta;Fruta, tipo abacaxi pérola, apresentação natural;500;10,11;5.055,00;00116
 341560;1658016;Material;Legume in natura;Legume in natura, tipo mandioca/ aipim;129;6,33;816,57;00115
 341560;1658015;Material;Fruta;Fruta, tipo mamão formosa, apresentação natural;200;8,41;1.682,00;00114
@@ -3933,7 +3946,7 @@ necessários, no bloco f do ifms campus campo grande";72;794,44;57.199,68;00001
 715296;3225418;Material;Fruta;Fruta - tipo: abacate manteiga, apresentação: natural;60;7,47;448,20;00001
 181506;1067007;Serviço;Plataforma como servico - paas;Plataforma como servico - paas. contratação de 7.314 licenças para atender a comunidade acadêmica dos 10 campi do ifms.;7314;23,08;168.808,31;00001
 622921;2877051;Material;Carrinho transporte;"Carrinho transporte, material aramado metálico, tratamento superficial zincado , capacidade 90 l, altura 100,50 cm, largura 51,00 cm, quantidade rodas 2 fixas e 2 giratórias, material rodas borracha com núcleo polipropileno, tipo supermercado uma cesta, características adicionais rodas dianteira/trazeira 4 e 5""/bordas pvc/selant e, aplicação movimentação material";1;1.320,63;1.320,63;00013
-158780;1230501;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento mercado regulado;1;10.500,00;10.500,00;00001
+158780;1230501;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento mercado regulado;1;10.500,00;10.500,00;00001
 42742;341554;Serviço;Prestação de serviços de cozinheiro;;2;45.237,99;90.475,98;00002
 42742;341553;Serviço;Prestação de serviços de cozinheiro;;1;47.810,18;47.810,18;00001
 745029;3297489;Material;Instrumento musical - percursão;"Instrumento musical - percursão, tipo bateria, componentes 3 tons e 2 surdos set up: tons: 8""""/ 10""""/ 12"""" &, características adicionais com banco, com estante, 2 girafas, com pratos";1;8.980,62;8.980,62;00015
@@ -3954,11 +3967,11 @@ necessários, no bloco f do ifms campus campo grande";72;794,44;57.199,68;00001
 531017;2621042;Material;Bancada;Bancada, material aço inox 304 escovado, tipo liso, comprimento 140 cm, largura 70 cm, características adicionais tampo e prateleira em aço inox perfurado, sapatas, altura 82 cm, aplicação escritório;1;1.310,59;1.310,59;00006
 158521;967820;Serviço;Prestação de serviços de cozinheiro;Prestação de serviços de cozinheiro;1;5.056,29;60.675,48;00017
 158521;967819;Serviço;Prestação de serviços de cozinheiro;Prestação de serviços de cozinheiro;3;3.947,71;142.117,56;00016
-158521;967818;Serviço;Manutenção / reforma predial;Manutenção / reforma predial;2;6.922,73;166.145,52;00013
+158521;967818;Serviço;Manutenção , reforma predial;Manutenção / reforma predial;2;6.922,73;166.145,52;00013
 158521;967817;Serviço;Prestação de serviços de portaria / recepção;Prestação de serviços de portaria , recepção;0;42.381,00;0,00;00010
 158521;967816;Serviço;Prestação de serviços de cozinheiro;Prestação de serviços de cozinheiro;0;48.377,40;0,00;00006
 158521;967815;Serviço;Prestação de serviços de cozinheiro;Prestação de serviços de cozinheiro;0;41.940,12;0,00;00005
-185451;1090466;Serviço;Energia elétrica - fornecimento;Fornecimento de energia elétrica para o ifms - campus jardim.;1;65.000,00;65.000,00;00001
+185451;1090466;Serviço;Energia elétrica - fornecimento mercado regulado;Fornecimento de energia elétrica para o ifms - campus jardim.;1;65.000,00;65.000,00;00001
 430007;2178995;Serviço;Software como servico - saas;"Software como serviço (saas), consistente em suíte de plataforma de colaboração, associada aos serviços de colaboração e produtividade de email, ferramenta de videoconferência, pacote de software de escritório e
 armazenamento, denominado google workspace for education plus (gwfe).";3;322.956,62;968.869,86;00001
 465934;2328454;Material;Equipamento , acessórios desporto;Equipamento / acessórios desporto;3;162,00;486,00;00035
@@ -3985,11 +3998,11 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 444606;2245857;Material;Bucha;Bucha, aplicação torno automático, características adicionais diâmetro: 3,18 mm, material aço, comprimento 72,00 mm;5;14,90;74,50;00131
 444606;2245856;Material;Fita detecção magnética;Fita detecção magnética, tipo dupla face, modelo eletromagnético, comprimento 165 mm, largura 2,70 mm, tipo uso livro, revistas , periódicos, características adicionais versão desativável e reativável;5;104,18;520,90;00118
 444606;2245855;Material;Corda;"Corda, diâmetro 4 mm, tipo trançado (tipo ""a""), material 100% polipropileno";5;55,00;275,00;00017
-133054;834833;Serviço;Manutenção / reforma predial;Manutenção / reforma predial;1;312.632,81;312.632,81;00011
-133054;834832;Serviço;Manutenção / reforma predial;Manutenção / reforma predial;1;300.100,13;300.100,13;00010
-133054;834831;Serviço;Manutenção / reforma predial;Manutenção / reforma predial;1;300.106,25;300.106,25;00005
-133054;834830;Serviço;Manutenção / reforma predial;Manutenção / reforma predial;1.6890872056;320.101,88;540.679,99;00002
-133054;834829;Serviço;Manutenção / reforma predial;Manutenção / reforma predial;1;330.116,88;330.116,88;00001
+133054;834833;Serviço;Manutenção , reforma predial;Manutenção / reforma predial;1;312.632,81;312.632,81;00011
+133054;834832;Serviço;Manutenção , reforma predial;Manutenção / reforma predial;1;300.100,13;300.100,13;00010
+133054;834831;Serviço;Manutenção , reforma predial;Manutenção / reforma predial;1;300.106,25;300.106,25;00005
+133054;834830;Serviço;Manutenção , reforma predial;Manutenção / reforma predial;1.6890872056;320.101,88;540.679,99;00002
+133054;834829;Serviço;Manutenção , reforma predial;Manutenção / reforma predial;1;330.116,88;330.116,88;00001
 326097;1611168;Material;Legume in natura;Legume in natura;360;10,65;3.834,00;00182
 326097;1611167;Material;Legume in natura;Legume in natura;629;7,65;4.811,85;00181
 326097;1611166;Material;Fruta;Fruta;450;9,44;4.248,00;00180
@@ -3997,7 +4010,7 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 326097;1611164;Material;Verdura in natura;Verdura in natura;720;18,99;13.672,80;00177
 326097;1611163;Material;Legume in natura;Legume in natura;82;9,56;783,92;00176
 326097;1611162;Material;Mel abelha;Mel abelha;24;30,55;733,20;00174
-326097;1611161;Material;Gordura vegetal - margarina;Gordura vegetal;41;16,97;695,77;00173
+326097;1611161;Material;Gordura vegetal;Gordura vegetal;41;16,97;695,77;00173
 326097;1611160;Material;Fruta;Fruta;250;9,76;2.440,00;00172
 326097;1611159;Material;Fruta;Fruta;650;5,27;3.425,50;00171
 326097;1611158;Material;Doce não confeitado;Doce não confeitado;120;23,55;2.826,00;00170
@@ -4139,7 +4152,7 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 470981;2347742;Material;Indicador de ph;Indicador de ph, tipo tira de papel, escala 0 a 14;5;29,79;148,95;00186
 470981;2347741;Material;Swab;Swab, material haste plástica, tipo ponta ponta em rayon, apresentação* embalagem individual em tubo plástico, esterilidade estéril, tipo de uso descartável;50;14,97;748,50;00095
 205876;1185241;Serviço;Concessão uso - área / imóvel público;Concessão uso - área / imóvel público;1;207,00;6.210,00;00001
-151777;940343;Serviço;Manutenção / reforma predial;Manutenção / reforma predial;12;685,67;8.228,04;00001
+151777;940343;Serviço;Manutenção , reforma predial;Manutenção / reforma predial;12;685,67;8.228,04;00001
 418708;2329008;Serviço;Prestação de serviço de  vigilância e segurança - orgânica -12h noturnas - 2ª a domingo;Prestação de serviço de  vigilância e segurança - orgânica -12h noturnas - 2ª a domingo;2;158.878,02;317.756,04;00010
 782430;3386669;Material;Equipamento / acessórios desporto;Equipamento / acessórios desporto, material plástio versátil, tipo tabela, dimensões 100 x 140 cm, uso basquete, características adicionais peso do produto: 250k;2;4.260,00;8.520,00;00013
 477710;2370862;Material;Equipamento / acessórios - piscicultura;Equipamento / acessórios - piscicultura, tipo tanque berçário, material rede poliéster, dimensões 1,80 x 1,80 x 1,10, caracteristicas adicionais tela malha 12 mm, revestido de pvc;4;469,00;1.876,00;00022
@@ -4243,7 +4256,7 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 407097;2014112;Material;Garrafão;Garrafão, material espuma de polietileno e dupla camada de pead, capacidade 12 l, aplicação líquidos quentes e frios, características adicionais botijão térmico com tripé retrátil, tampa roscáve l;3;136,32;408,96;00085
 407097;2014110;Material;Garrafa térmica;Garrafa térmica, material aço inoxidável, capacidade 1 l, características adicionais sistema serve a jato;1;62,44;62,44;00084
 707395;3201736;Material;Placa acrílica;Placa acrílica, transmitância transparente, comprimento 21 cm, largura 10 cm, características adicionais prisma de mesa, dupla face, aplicação identificação;12;8,62;103,44;00008
-133253;836450;Serviço;Manutenção / reforma predial;Manutenção / reforma predial;1;350.109,01;350.109,01;00003
+133253;836450;Serviço;Manutenção , reforma predial;Manutenção / reforma predial;1;350.109,01;350.109,01;00003
 447476;2257125;Material;Peróxido de hidrogênio;Peróxido de hidrogênio, aspecto físico líquido incolor, instável, corrosivo, composição básica h202, peso molecular 34,01 g/mol, pureza mínima teor mínimo de 30%, característica adicional reagente p/hplc, número de referência química cas 7722-84-1;5;28,00;140,00;00152
 447476;2257124;Material;Biftalato de potássio;Biftalato de potássio, aspecto físico pó ou cristal branco ou incolor, inodoro , peso molecular 204,23 g/mol, fórmula química hooc-c6h4cook, grau de pureza pureza mínima de 99,5%, característica adicional reagente p.a., número de referência química cas 877-24-7;2;46,39;92,78;00141
 447476;2257126;Material;Dicromato de potássio;Dicromato de potássio, aspecto físico pó fino, cristalino, cor laranja, composição química k2cr2o7, peso molecular 294,18 g/mol, grau de pureza pureza mínima de 99%, característica adicional reagente p.a., número de referência química cas 7778-50-9;2;186,99;373,98;00140
@@ -4358,7 +4371,7 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 649772;2967724;Material;Condimento;Condimento, tipo orégano, apresentação desidratado;418;46,05;19.248,90;00050
 649772;2967723;Material;Óleo vegetal;Óleo vegetal, matéria prima soja, tipo degomado;3161;7,10;22.443,10;00049
 649772;2967722;Material;Legume em conserva;Legume em conserva, tipo milho verde;2209;26,75;59.090,75;00048
-649772;2967721;Material;Gordura vegetal - margarina;Gordura vegetal - margarina, tipo margarina, subtipo cremosa, composição básica mínimo de 80% de gordura, sabor com sal;387;15,00;5.805,00;00047
+649772;2967721;Material;Gordura vegetal;Gordura vegetal - margarina, tipo margarina, subtipo cremosa, composição básica mínimo de 80% de gordura, sabor com sal;387;15,00;5.805,00;00047
 649772;2967720;Material;Macarrão;Macarrão, teor de umidade massa seca, base da massa de sêmola/semolina, ingredientes adicionais com ovos, apresentação espaguete;1578;4,00;6.312,00;00046
 649772;2967719;Material;Condimento;Condimento, tipo louro, apresentação folha;293;17,85;5.230,05;00045
 649772;2967718;Material;Leite fluido;Leite fluido, origem de vaca, tipo a, teor gordura integral, processamento uht;5523;5,70;31.481,10;00044
@@ -4443,6 +4456,7 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 454825;2283761;Material;Saco;Saco, material polipropileno, aplicação acondicionamento em geral, largura 50 cm, espessura 4 mm, características adicionais 1 acondionamento de bolas esportivas, altura 1 80 cm;2;77,50;155,00;00021
 419213;2208681;Serviço;Prestação de serviço de  vigilância e segurança - orgânica -12h noturnas - 2ª a domingo;Prestação de serviço de  vigilância e segurança - orgânica -12h noturnas - 2ª a domingo;1;149.988,80;149.988,80;00018
 419213;2208680;Serviço;Prestação de serviço de  vigilância e segurança - orgânica -12 horas diurnas - 2ª a domingo;Prestação de serviço de  vigilância e segurança - orgânica -12 horas diurnas - 2ª a domingo;1;129.988,80;129.988,80;00017
+831465;3511077;Material;Alicate para climpar;Alicate para climpar - material: metal, características adicionais: conector rj -45, material cabo: plástico, tipo corte: reto;3;179,99;539,97;00009
 830813;3509581;Serviço;Prestação de serviços de motorista;Prestação de serviços de motorista;1;105.341,04;105.341,04;09087
 442930;2232499;Material;Bolsa térmica;Bolsa térmica, material* polímero, composição c/ gel atóxico, capacidade*cerca 500 ml, características adicionais* selada;8;17,00;136,00;00018
 442930;2232498;Material;Diclofenaco;Diclofenaco, composição sal dietilamônio, concentração 10 mg/g, formafarmacêutica aerosol tópico;50;12,95;647,50;00017
@@ -4516,6 +4530,27 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 257710;1364035;Serviço;Coleta / tratamento lixo - hospitalar;Coleta / tratamento lixo - hospitalar;1;8,38;201,12;00015
 257710;1364034;Serviço;Coleta / tratamento lixo - hospitalar;Coleta / tratamento lixo - hospitalar;1;13,47;161,64;00014
 257710;1364033;Serviço;Coleta / tratamento lixo - hospitalar;Coleta / tratamento lixo - hospitalar;1;145,37;1.744,44;00013
+830926;3510270;Material;Rebolo abrasivo, tipo:reto, diâmetro externo:50,80 mm, altura:12,70 mm, diâmetro furo:9,50 mm, material abrasivo:a - óxido alumínio cinza, tamanho grão:70, dureza:m, porosidade:6, aglutinante:v - aglutinante base meterial vitrificável, normas técnicas:abnt pb-26;Rebolo abrasivo, tipo:reto, diâmetro externo:50,80 mm, altura:12,70 mm, diâmetro furo:9,50 mm, material abrasivo:a - óxido alumínio cinza, tamanho grão:70, dureza:m, porosidade:6, aglutinante:v - aglutinante base meterial vitrificável, normas técnicas:abnt pb-26;6;157,76;946,56;00388
+830926;3510269;Material;Rebolo abrasivo, tipo:reto, diâmetro externo:50,80 mm, altura:12,70 mm, diâmetro furo:9,50 mm, material abrasivo:a - óxido alumínio cinza, tamanho grão:46, dureza:n, porosidade:6, aglutinante:v - aglutinante base meterial vitrificável, normas técnicas:abnt pb-26;Rebolo abrasivo, tipo:reto, diâmetro externo:50,80 mm, altura:12,70 mm, diâmetro furo:9,50 mm, material abrasivo:a - óxido alumínio cinza, tamanho grão:46, dureza:n, porosidade:6, aglutinante:v - aglutinante base meterial vitrificável, normas técnicas:abnt pb-26;6;100,00;600,00;00387
+830926;3510268;Material;Rebolo abrasivo;Rebolo abrasivo;6;182,00;1.092,00;00386
+830926;3510267;Material;Rebolo abrasivo;Rebolo abrasivo;6;150,00;900,00;00385
+830926;3510266;Material;Lixa;Lixa;61;100,00;6.100,00;00173
+830926;3510265;Material;Lixa;Lixa;50;53,68;2.684,00;00118
+830926;3510264;Material;Lixa;Lixa;50;53,68;2.684,00;00117
+830926;3510263;Material;Lixa;Lixa;50;53,68;2.684,00;00116
+830926;3510262;Material;Lixa;Lixa;50;53,68;2.684,00;00115
+830926;3510261;Material;Lixa;Lixa;50;18,20;910,00;00114
+830926;3510260;Material;Lixa;Lixa;50;18,20;910,00;00113
+830926;3510259;Material;Lixa;Lixa;50;18,20;910,00;00112
+830926;3510258;Material;Lixa;Lixa;50;18,20;910,00;00111
+830926;3510257;Material;Lixa;Lixa;40;18,20;728,00;00110
+830926;3510256;Material;Lixa;Lixa;50;18,20;910,00;00109
+830926;3510255;Material;Lixa;Lixa;40;18,20;728,00;00108
+830926;3510254;Material;Lixa;Lixa;10;21,00;210,00;00087
+830926;3510253;Material;Lixa;Lixa;10;21,00;210,00;00086
+830926;3510252;Material;Lixa;Lixa;10;21,00;210,00;00085
+830926;3510251;Material;Escova abrasiva;Escova abrasiva;51;28,24;1.440,24;00083
+830926;3510250;Material;Disco corte;Disco corte;137;21,32;2.920,84;00076
 181745;1070034;Serviço;Obras civis públicas ( construção );Obras civis públicas- construção de módulos em estrutura metálica com telhamento em aço/alumínio que servirão como passarelas cobertas entre os blocos e outras edificações do campus naviraí do ifms, com área aproximada de 327,08 m2, com elaboração do projeto executivo, conforme condições, quantidades e exigências estabelecidas neste edital e seus anexos.;1;206.342,23;206.342,23;00001
 804524;3444605;Material;Caixa acústica;Caixa acústica, potência 1.100 w, tamanho alto-falante 8 pol, resposta freqüência 70 hz- 16 khz, características adicionais dispersão nominal 40h x 120v, impedância entrada 8 ohm, sensibilidade 90 db, voltagem 110- 240 v, tipo amplificada;1;15.990,00;15.990,00;00030
 71773;335500;Material;Água mineral natural;;1000;0,48;480,00;00004
@@ -4537,7 +4572,7 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 561633;2705473;Material;Óleo vegetal;Matéria prima: soja, tipo: degomado;40;6,90;276,00;00045
 561633;2705472;Material;Carne bovina in natura;Apresentação: moida, estado de conservação: resfriado(a), tipo corte: músculo traseiro;220;29,90;6.578,00;00043
 561633;2705471;Material;Legume em conserva;Tipo: milho verde;60;3,90;234,00;00041
-561633;2705470;Material;Gordura vegetal - margarina;Composição básica: mínimo de 80% de gordura, sabor: com sal, subtipo: cremosa, tipo: margarina;0;0,00;0,00;00040
+561633;2705470;Material;Gordura vegetal;Composição básica: mínimo de 80% de gordura, sabor: com sal, subtipo: cremosa, tipo: margarina;0;0,00;0,00;00040
 561633;2705469;Material;Embutido;Estado de conservação: congelado(a), sabor: temperada, tamanho: grossa, tipo: linguiça de carne suína, tipo preparação: fresca;40;19,90;796,00;00036
 561633;2705468;Material;Leguminosa;Tipo: tipo 1, variedade: feijão preto;21;7,90;165,90;00030
 561633;2705485;Material;Farinha de trigo;Grupo: doméstico, ingrediente adicional: com fermento, fortificada com ferro e ácido fólico, tipo: tipo 1, especial;12;4,00;48,00;00029
@@ -4645,7 +4680,7 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 726533;3251680;Material;Relé tempo;Relé tempo, tipo construtivo eletrônico modular, tensão isolamento 12-240 v,tipo multifunções, tempo de operação 60 s, temperatura operação 20°c a 60°c;1;400,00;400,00;00007
 818388;3480885;Material;Rede esporte;Rede esporte, material polietileno, aplicação futsal, características adicionais 3,10m comp.x2m alt.x1m prof. e fio grosso 8mm;1;183,70;183,70;00020
 818388;3480884;Material;Rede esporte;Rede esporte, material fio seda, cor branca, aplicação basquete, características adicionais malha poliéster, nó duplo, alta resistência, modelo oficial;1;40,12;40,12;00019
-71895;395992;Serviço;Energia elétrica - fornecimento;;12;250,00;3.000,00;00002
+71895;395992;Serviço;Energia elétrica - fornecimento mercado regulado;;12;250,00;3.000,00;00002
 415281;2058012;Serviço;Serviço de licença pelo uso de software;Serviço de licença pelo uso de software;1;166,74;2.000,88;00010
 707536;3202011;Material;Máquina lavar roupa;Máquina lavar roupa, tipo automática, capacidade 12 kg, características adicionais lavadoura e secadora, voltagem 127/220 v;4;3.578,21;14.312,84;00011
 445798;2251974;Material;Papel para impressão bobinado;Papel para impressão bobinado, tipo offset, comprimento 10.900 m, largura 680 mm, gramatura 75 g/m2, cor branco;1;103,63;103,63;00050
@@ -4784,7 +4819,7 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 702552;3187730;Material;Instrumento musical - corda;Instrumento musical - corda;1;3.012,99;3.012,99;00005
 179107;1053697;Material;Queijo;Queijo, origem de vaca, variedade minas padrão, apresentação peça;50;32,90;1.645,00;00040
 179107;1053696;Material;Legume in natura;Legume in natura, tipo rabanete;100;7,65;765,00;00031
-448269;2260268;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento mercado regulado;12;29.545,17;354.542,04;00001
+448269;2260268;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento mercado regulado;12;29.545,17;354.542,04;00001
 707350;3201676;Material;Microfone;Microfone, tipo de mão, alimentação 110/220 v, resposta freqüência 50 hz a 15 khz, características adicionais padrão polar/ unidirecional(cardioide)/ conecto r, impedância 150 (3.000 ohms reais) ohms;2;974,87;1.949,74;00022
 71940;557059;Serviço;Fornecimento de água e coleta de esgoto sanitário;;1;62.479,98;62.479,98;00001
 588057;2789635;Material;Colher;Colher, material corpo silicone, material cabo plástico, aplicação refeição, características adicionais cabo longo, comprimento cerca 20 cm;1000;2,00;2.000,00;00076
@@ -4855,7 +4890,7 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 707487;3201937;Material;Microscópio;Microscópio, tipo de análise ótico, tipo trinocular, invertido, aumento ocular até 15x, componentes com suporte para placa de petri, outros componentes com filtros, adicional inclinação até 45°;1;24.680,00;24.680,00;00235
 707400;3201742;Material;Bandeja de aço;Bandeja de aço, material aço inoxidável, formato retangular, comprimento 400mm, largura 300 mm, aplicação servir refeições, características adicionais comalça;3;113,97;341,91;00014
 707400;3201741;Material;Açucareiro;Açucareiro, material aço inoxidável, capacidade 210 g, característicasadicionais com colher;3;71,96;215,88;00008
-155962;957634;Serviço;Monitoramento circuito fechado tv;Monitoramento circuito fechado tv;1;36.000,00;36.000,00;00001
+155962;957634;Serviço;Monitoramento de imagens de cameras e circuito fechado tv;Monitoramento circuito fechado tv;1;36.000,00;36.000,00;00001
 702645;3187858;Material;Microfone;Microfone, resposta freqüência 50hz a 15 khz, impedância 150 ohms, altura 16,2 cm, dimensão 16,2 x 51 cm, padrão cardióide, acessórios cabo e garra, sensibilidade-54,5 db, material corpo em aço, cor cinza, acabamento pintura em epóxi, referência fabricante shure sm 58 lc;4;573,90;2.295,60;00018
 702645;3187857;Material;Microfone;Microfone, tipo dinâmico, alimentação 3 v, resposta freqüência 50 a 15 khz, tipo receptor 2 antenas, características adicionais voltagem de operação 100 á 240 volts, impedância 600 ohms, alcance 250 m, alimentação externa receptor fonte de 9 v, alimentação receptor 9 vdc, frequência uhf, impedância saída 600 ohm, aplicação voz principal, altura 18,2 cm, dimensão 18,2 x 5,1 cm, padrão cardióide, acessórios garra e estojo, sensibilidade-54 db, material corpo em plástico, cor preta, acabamento pintura eletrostática, referência fabricante shure pgx 58, relação sinal/ ruido melhor que 88 db;2;459,90;919,80;00017
 628974;2891711;Material;Fita impressora;Fita impressora material: resina, cor: preta, largura: 60mm, comprimento: 92m, tipo impressora: fargo, características adicionais: impressão por termotransferência de resina premium, padrão impressora: 4250, referência: 81734, rendimento: 1.000 impressões;1;230,00;230,00;00002
@@ -4875,10 +4910,10 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 88680;583361;Serviço;Obras civis de edificação prediais;Undefined;1;774.008,04;774.008,04;00001
 417621;2066652;Material;Tambor;Tambor, material aço, volume 50 l, tipo tampa fixa, aplicação transporte de produtos perigosos, características adicionais revestimento interno em verniz epóxi;2;194,30;388,60;00207
 417621;2066650;Material;Tambor;Tambor, material plástico, volume 200 l, tipo tampa removível, tipo fechamento tampa encaixe, aplicação armazenamento rejeitos sólidos, cor cinza;2;316,50;633,00;00206
-682339;3135102;Serviço;Manutenção / reforma predial;Manutenção / reforma predial - oficial de manutenção predial 44h;1;87.125,16;87.125,16;00018
+682339;3135102;Serviço;Manutenção , reforma predial;Manutenção / reforma predial - oficial de manutenção predial 44h;1;87.125,16;87.125,16;00018
 682339;3135101;Serviço;Prestação de serviço de jardinagem - outros serviços - outraprodutividade;Prestação de serviço de jardinagem - jardineiro 44h;1;75.074,52;75.074,52;00017
 707345;3201669;Material;Aeronaves teleguiadas;Aeronaves teleguiadas, tipo aeronave remotamente pilotada (drone), quantidade motores 4 motores, tamanho diagonal 400 mm, peso máximo 1.200 g, velocidade ascensão vertical 8 m/s;1;6.750,00;6.750,00;00009
-507290;2550907;Serviço;Licenciamento de direitos  permanentes de uso de outros softwares , programas de computador;Licenciamento de direitos  permanentes de uso de outros softwares / programasde computador;1;3.174,00;3.174,00;00001
+507290;2550907;Serviço;Licenciamento de direitos  permanentes de uso de outros softwares / programas de computador;Licenciamento de direitos  permanentes de uso de outros softwares / programasde computador;1;3.174,00;3.174,00;00001
 707511;3201967;Material;Disco magnético;Disco magnético, memória 480 gb, modelo ssd, tempo nominal máximo acesso 2700/ 1600 ms, interface nvme pcie gen lanes 3,0 x 4 pistas;200;177,21;35.442,00;00068
 631861;2899437;Material;Dardo peças e acessórios;Dardo peças e acessórios, tipo dardo, material fibra de aço carbono, características adicionais peso: 600g, cabeça de aço ultra-fina, aplicação atletismo para lançamento;4;238,70;954,80;00042
 631861;2899436;Material;Equipamento / acessórios desporto;Equipamento / acessórios desporto, material pvc, tipo cartão, uso árbitro, características adicionais 3 cartões: um vermelho, um amarelo e um azul;2;15,00;30,00;00032
@@ -4905,7 +4940,7 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 620474;2871027;Material;Proteína texturizada soja;Proteína texturizada soja, apresentação flocos, aspecto físico desidratada;100;21,43;2.143,00;00366
 620474;2871014;Material;Proteína texturizada soja;Proteína texturizada soja, apresentação flocos, aspecto físico desidratada;100;19,28;1.928,00;00365
 620474;2871013;Material;Óleo vegetal;Óleo vegetal, matéria prima soja, tipo degomado;996;8,17;8.137,32;00364
-620474;2871012;Material;Gordura vegetal - margarina;Gordura vegetal - margarina, tipo margarina, subtipo cremosa, composição básica mínimo de 80% de gordura, sabor com sal;30;15,00;450,00;00363
+620474;2871012;Material;Gordura vegetal;Gordura vegetal - margarina, tipo margarina, subtipo cremosa, composição básica mínimo de 80% de gordura, sabor com sal;30;15,00;450,00;00363
 620474;2871011;Material;Legume em conserva;Legume em conserva, tipo milho verde;360;26,94;9.698,40;00362
 620474;2871010;Material;Macarrão;Macarrão, teor de umidade massa seca, base da massa de sêmola/semolina, ingredientes adicionais com ovos, apresentação espaguete;1260;7,13;8.983,80;00361
 620474;2871009;Material;Leite fluido;Leite fluido, origem de vaca, tipo a, teor gordura integral, processamento uht;200;7,27;1.454,00;00360
@@ -4975,6 +5010,8 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 549428;2680864;Material;Camisa uniforme;Camisa uniforme, material malha algodão fio 30.1, tipo manga curta, tipo colarinho gola olímpica com ribana, cor branca, tamanho p,m,g e xg, tipo uso unissex, características adicionais logotipo do orgão conforme modelo, tipo camisa costura dupla, aplicação fardamento escolar;2176;12,80;27.852,80;00004
 707459;3201870;Material;Disco magnético;Disco magnético, memória 480 gb, modelo ssd, tempo nominal máximo acesso 2700/ 1600 ms, interface nvme pcie gen lanes 3,0 x 4 pistas;30;398,71;11.961,30;00043
 414389;2055205;Material;Carteira escolar;Carteira escolar, material estrutura tubo aço, material tampo plástico injetado, espessura tampo 18 mm, tamanho 76 x 60 x 45 cm, revestimento tampo laminado melamínico;4;760,00;3.040,00;00002
+831435;3511006;Material;Conector;Conector - tipo: rj 45 fêmea, aplicação: cabo de rede, categoria: 6;50;10,97;548,50;00012
+831435;3511005;Material;Conector;Conector - tipo: macho, aplicação: cabo de rede, categoria: 6, padrão: rj45;10;29,98;299,80;00011
 208150;1196320;Serviço;Perícia, laudo e avaliação;Perícia, laudo e avaliação;6;1.365,65;8.193,89;00001
 71854;359003;Serviço;Ar respirável - teste hidrostático cilindro;;83;9,00;747,00;00010
 71854;358996;Serviço;Manutenção extintores / mangueiras - combate incêndio;;4;127,00;508,00;00009
@@ -4991,7 +5028,7 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 531917;2623616;Material;Lixeira;Lixeira, material madeira plástica, capacidade 94 litros l, tipo com tampas basculantes preta e cinza, cor marrom, características adicionais com suporte e pé de ferro para fixação , cor pret a, aplicação resíduos não recicláveis.;30;1.200,00;36.000,00;00003
 531917;2623615;Material;Estrutura telhado pre fabricado - madeira;Estrutura telhado pre fabricado - madeira, tipo pergolado, material estrutura madeira plástificada, comprimento 3 m, largura 2,10 m, altura 2,50 m, quantidade de pilar 4 un, dimensões pilar 9 x 9 cm, quantidade longarinas 6 un , dimensões longarinas 9 x 9 cm;10;2.900,00;29.000,00;00002
 531917;2623614;Material;Banco;Banco, material madeira plastica, comprimento 1,50 m, altura 0,70 m, acabamento madeira plástica encapsulada., cor marrom, características adicionais estrutura da base em plástico reforçado. tratamen t, profundidade 55 cm;50;430,00;21.500,00;00001
-758104;3329307;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento mercado regulado;12;1.350,83;16.210,00;00001
+758104;3329307;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento mercado regulado;12;1.350,83;16.210,00;00001
 57424;321185;Material;Peixe em conserva;;536;3,02;1.618,72;00020
 57424;321176;Material;Sal;;536;0,83;444,88;00019
 57424;321167;Material;Óleo vegetal comestível;;536;3,92;2.101,12;00018
@@ -5052,7 +5089,7 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 600586;2823118;Serviço;Obras civis de edificação prediais;Obras civis de edificação prediais;1;2.023.477,43;2.023.477,43;00001
 706194;3199152;Serviço;Acesso a internet - stfc (banda larga);Acesso a internet - stfc (banda larga);12;934,00;11.208,00;00008
 707590;3202147;Material;Béquer;Béquer, material polipropileno, graduação graduado, capacidade 300 ml, formato forma alta, adicional com orla e bico;3;290,00;870,00;00146
-182540;1090426;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento;1;65.000,00;65.000,00;00001
+182540;1090426;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento;1;65.000,00;65.000,00;00001
 447577;2257486;Material;Béquer;Béquer, material vidro, graduação graduado, capacidade 500 ml, formato forma baixa, adicional com orla e bico;50;8,33;416,50;00146
 447577;2257485;Material;Estante tubo ensaio;Estante tubo ensaio, material plástico, diâmetro tubo para tubos até 25 mm, capacidade* até 20 unidades;20;18,61;372,20;00109
 414354;2055130;Material;Termômetro;Termômetro, tipo digital, faixa medição temperatura- 50°c a 300 °c, aplicação alimentos, material plástico e aço inox, características adicionais tipo espeto digital, com leitor lcd a prova d'agu a, precisão 1 °c;10;40,00;400,00;00058
@@ -5118,8 +5155,8 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 652096;2991604;Material;Módulo eletrônico;Módulo eletrônico, modelo xbee tecnologia zigbee módulo, aplicação placa shield interface arduino, uso transmissão rádiofrequência, tipo módulo de rádiofrequência, potência nominal 2 mw, tensão operação 5 ~ 12 v, componentes antena externa;5;100,00;500,00;00291
 652096;2991603;Material;Acessórios para estudo/treinamento;Acessórios para estudo/treinamento, tipo kit rfid, apresentação módulo leitor rfid baseado no chip mfrc522, aplicação escrita e leitura sem contato de cartões para con t;5;37,00;185,00;00290
 652096;2991602;Material;Acessórios para estudo,treinamento;Acessórios para estudo/treinamento, tipo kit arduino mega 2560 r3, apresentação 5 arduino, cabo usb. microntrolador: atmega2560,, aplicação kit prototipagem, características adicionais tensão de operação: 5vcc, tensão de entrada: 5-12 v;7;95,00;665,00;00289
-652096;3025186;Material;Conjunto manutenção impressora , copiadora;Conjunto manutenção impressora / copiadora, tipo impressora 3d, tipo original, componentes filamento pla, características adicionais espessura: 1,75 mm;25;150,00;3.750,00;00279
-652096;3025185;Material;Conjunto manutenção impressora , copiadora;Conjunto manutenção impressora / copiadora, tipo impressora 3d, tipo original, componentes filamento pla, características adicionais espessura: 1,75 mm;5;180,00;900,00;00278
+652096;3025186;Material;Conjunto manutenção impressora;Conjunto manutenção impressora / copiadora, tipo impressora 3d, tipo original, componentes filamento pla, características adicionais espessura: 1,75 mm;25;150,00;3.750,00;00279
+652096;3025185;Material;Conjunto manutenção impressora;Conjunto manutenção impressora / copiadora, tipo impressora 3d, tipo original, componentes filamento pla, características adicionais espessura: 1,75 mm;5;180,00;900,00;00278
 652096;3025187;Material;Afiadora ferramentas;Afiadora ferramentas, tensão alimentação 220 v, rotação rebolo 3.000 rpm, características adicionais com carenagem e sistema de iluminacao, ajuste de angulação 00 a 180 gra, potência motor 1/3 hp, padrão afiação 4 a 25 mm;2;253,43;506,86;00277
 652096;3049200;Material;Placa eletrônica;Placa eletrônica, características adicionais processador proasic3 fpga starter kit, referência a3pe-proto-kit (actel);3;2.000,00;6.000,00;00256
 652096;3049202;Material;Circuito integrado;Circuito integrado, referência 2732(eprom), quantidade pinos 24, aplicação eletrônica;2;461,73;923,46;00250
@@ -5150,7 +5187,7 @@ armazenamento, denominado google workspace for education plus (gwfe).";3;322.956
 673180;3109902;Serviço;Gráfico - impressos / plastificação / acabamento;Gráfico - impressos / plastificação / acabamento;5400;0,08;432,00;00003
 673180;3109901;Serviço;Gráfico - impressos / plastificação / acabamento;Gráfico - impressos / plastificação / acabamento;59400;0,19;11.286,00;00002
 673180;3109900;Serviço;Gráfico - impressos / plastificação / acabamento;Gráfico - impressos / plastificação / acabamento;5400;0,22;1.188,00;00001
-487118;2411653;Serviço;Energia elétrica - fornecimento;Energia elétrica - fornecimento mercado regulado;12;15.800,23;189.602,76;00001
+487118;2411653;Serviço;Energia elétrica - fornecimento mercado regulado;Energia elétrica - fornecimento mercado regulado;12;15.800,23;189.602,76;00001
 804529;3444611;Material;Conjunto iluminacao;Conjunto iluminacao, tipo lâmpada led, potência lâmpada 500 w, características adicionais tripé de iluminação modelo girafa, tipo estúdio fotográfico;1;793,00;793,00;00046
 707414;3201759;Material;Leitora código barra;Leitora código barra, peso 150 g, tipo ccd 2 x 3000 pixels, tamanho bocaleitura 103 mm, varredura feixe de luz, conexão usb, tipo acionamento gatilho,velocidade leitura 300 varreduras por segundo (mínimo), resolução 0,125 mm(mínimo), potência 60 ma (mínimo), comprimento cabo 1.50 m, tipo conectoresmini dimm, características adicionais decodifica upc/ean, código 39, codabar,2 de inte r;3;180,00;540,00;00016
 337387;1647756;Material;Chocolate;Chocolate, tipo preto, apresentação pó, sabor tradicional;300;17,00;5.100,00;00172
